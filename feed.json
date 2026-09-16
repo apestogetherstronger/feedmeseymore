@@ -1,5 +1,5 @@
 {
-  "updated":"2026-09-16T18:40:00+03:00",
+  "updated":"2026-09-17T01:01:00+03:00",
   "unresolved":[
     {"label":"Sam Walker X post — need post text/media","trello":"https://trello.com/c/sPXTTbOU/16-sam-walker-x-post-pending-curation"},
     {"label":"YouTube LOOH2RyvPaU — need title/content","trello":"https://trello.com/c/6pZyxYCM/64-https-youtube-looh2ryvpausid6e5lqbmg7mhmb4"},
@@ -9,7 +9,6 @@
     {"label":"האמת מאחורי | המסע המופלא — identified, need transcript/content","trello":"https://trello.com/c/rzQuTf1M/85-%D7%94%D7%90%D7%9E%D7%AA-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%A1%D7%A2-%D7%94%D7%9E%D7%95%D7%A4%D7%9C%D7%90-ezway"}
   ],
   "items":[
-    {"title":"Harness Engineering: the skill that replaced prompt engineering in 2026","source":"https://trello.com/c/2ixDDwk0/90-harness-engineering-the-skill-that-replaced-prompt-engineering-in-2026","trello":"https://trello.com/c/2ixDDwk0/90-harness-engineering-the-skill-that-replaced-prompt-engineering-in-2026","platform":"X / copied article","channel":"@choopyplug1","duration":"~10–15 min","type":"READ","hook":"A practical seven-layer checklist for turning capable models into reliable systems: permissions, independent verification, memory, guardrails, observability, routing and feedback."},
     {"title":"GPT-4 predictable scaling: capability from more compute","source":"https://openai.com/index/gpt-4-research/#predictable-scaling","trello":"https://trello.com/c/VhUJWKgL/69-gpt-4-predictable-scaling-capability-from-more-compute","platform":"Web","channel":"OpenAI","duration":"~3–5 min","type":"READ","hook":"The useful old idea behind today's scaling debates: capability gains could be forecast from smaller training runs before the expensive final run."},
     {"title":"Andrew Ng: skills for using coding agents effectively","source":"https://x.com/AndrewYNg/status/2095890279865721217","trello":"https://trello.com/c/fFgLhg2p/15-andrew-ng-skills-for-using-coding-agents-effectively","platform":"X","channel":"Andrew Ng","duration":"~5 min","type":"READ","hook":"A compact framework for what humans still need to get good at when coding agents become more autonomous: planning, context, verification and knowing when to intervene."},
     {"title":"How to Prompt Claude 5: 7 Essential Rules from Anthropic","source":"https://youtu.be/HDmBwU5uvEE","trello":"https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic","platform":"YouTube","duration":"~5–8 min summary","type":"WATCH","hook":"Less step-by-step micromanagement, more delegation: give the whole job, context, guardrails and a crisp definition of done."},
