@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T07:55:00+03:00",
+  "updated": "2026-09-19T17:04:09+03:00",
   "unresolved": [
     {
       "label": "Sam Walker X post — need post text/media",
@@ -36,22 +36,63 @@
     {
       "label": "YouTube AmsFdBdv0P0 — needs curation",
       "trello": "https://trello.com/c/ICaSt1Wi/98-https-youtube-amsfdbdv0p0sikdrxftrv1oaf838m"
+    },
+    {
+      "label": "X @0xCodila post — awaiting manual curation",
+      "trello": "https://trello.com/c/FY4Cuixk/100-https-xcom-0xcodila-status-2100984487802708306"
+    },
+    {
+      "label": "X @sairahul1 post — awaiting manual curation",
+      "trello": "https://trello.com/c/RJgqcQ0I/101-https-xcom-sairahul1-status-2100882424343265527"
+    },
+    {
+      "label": "Chris Cornell / Soundgarden saved text — awaiting manual curation",
+      "trello": "https://trello.com/c/y5WaKCp0/102-%D7%90%D7%9D-%D7%9E%D7%A4%D7%A8%D7%A7%D7%99%D7%9D-%D7%90%D7%AA-%D7%90%D7%A8%D7%91%D7%A2%D7%AA-%D7%94%D7%A7%D7%93%D7%95%D7%A9%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A1%D7%99%D7%90%D7%98%D7%9C-%D7%9C%D7%A4%D7%A1%D7%99%D7%A4%D7%A1-%D7%A8%D7%92%D7%A9%D7%99-%D7%9E%D7%91%D7%99%D7%A0%D7%99%D7%9D-%D7%A9%D7%9B%D7%9C-%D7%9C%D7%94%D7%A7%D7%94-%D7%94%D7%97%D7%96%D7%99%D7%A7%D7%94-%D7%91%D7%AA%D7%93%D7%A8-%D7%99%D7%99%D7%97%D7%95%D7%93%D7%99-%D7%A9%D7%94%D7%A8%D7%9B%D7%99%D7%91-%D7%90%D7%AA-%D7%94%D7%AA%D7%95%D7%A4%D7%A2%D7%94-%D7%A0%D7%99%D7%A8%D7%95%D7%95%D7%90%D7%A0%D7%94-%D7%94%D7%96%D7%99%D7%A0%D7%94-%D7%90%D7%AA-%D7%94%D7%9E%D7%A8%D7%93-%D7%94%D7%90%D7%A0%D7%A8%D7%9B"
     }
   ],
   "items": [
+    {
+      "title": "Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind",
+      "source": "https://youtu.be/0vphxNt4wyk?si=evK19ZMAu8B3u9re",
+      "trello": "https://trello.com/c/6rWNeh2D/33-dont-ship-skills-without-evals-philipp-schmid-google-deepmind",
+      "platform": "YouTube",
+      "duration": "~22 min",
+      "type": "WATCH",
+      "hook": "Almost exactly the experiment you need for reusable agent skills: ablate the skill, isolate runs, measure it, and delete it when the base model catches up."
+    },
+    {
+      "title": "Spotify Claude Code token routing: ~90% reduction",
+      "source": "https://x.com/undefinedKi/status/2095942506433089832",
+      "trello": "https://trello.com/c/rK7ShKgZ/19-spotify-claude-code-token-routing-90-reduction",
+      "platform": "X",
+      "duration": "~2–3 min",
+      "type": "READ",
+      "hook": "A short cost-control idea for agent workflows: route bulky reads and repetitive work away from the expensive model. The claimed ~90% saving comes from a secondary digest, not a verified original post.",
+      "channel": "@undefinedki"
+    },
     {
       "title": "Noam Brown — Agent swarms and alignment",
       "source": "https://youtu.be/6AgOfiZOWiY",
       "trello": "https://trello.com/c/yqnkaNB8/99-noam-brown-agent-swarms-and-alignment",
       "platform": "YouTube",
-      "channel": "Dwarkesh Podcast",
       "duration": "1 hr 20 min",
       "type": "WATCH",
-      "hook": "A high-value deep dive on multi-agent coordination: context forking, agent-to-agent messaging and parallel cognitive work—plus why longer agent horizons make evaluation harder."
+      "hook": "A high-value deep dive on multi-agent coordination: context forking, agent-to-agent messaging and parallel cognitive work—plus why longer agent horizons make evaluation harder.",
+      "channel": "Dwarkesh Podcast"
+    },
+    {
+      "title": "The FIRST Ferrari Electric Car",
+      "source": "https://www.youtube.com/shorts/tOZAKMm7jxY",
+      "trello": "https://trello.com/c/P3iwLOPD/80-the-first-ferrari-electric-car",
+      "platform": "YouTube",
+      "duration": "<1 min",
+      "type": "WATCH",
+      "hook": "Ferrari's first EV is a quick design-and-technology curiosity: what changes when an identity built around combustion goes electric?",
+      "channel": "Cleo Abram"
     },
     {
       "title": "Vercel data-science agent: simpler tools doubled eval scores",
-      "source": "https://youtu.be/9dYcwOkpCE8",
+      "source": "https://youtu.be/9dYcwOkpCE8?si=ojYrhvo_CoMY5jfn",
       "trello": "https://trello.com/c/cH4VAt6P/93-vercel-data-science-agent-simpler-tools-doubled-eval-scores",
       "platform": "YouTube",
       "duration": "unknown",
@@ -59,127 +100,152 @@
       "hook": "A strong counterpoint to ever-growing agent harnesses: Vercel reportedly improved its data-science agent by stripping specialized tools back to bash plus file read/write. A perfect eval question for your own skills."
     },
     {
-      "title": "GPT-4 predictable scaling: capability from more compute",
-      "source": "https://openai.com/index/gpt-4-research/#predictable-scaling",
-      "trello": "https://trello.com/c/VhUJWKgL/69-gpt-4-predictable-scaling-capability-from-more-compute",
-      "platform": "Web",
-      "channel": "OpenAI",
-      "duration": "~3–5 min",
-      "type": "READ",
-      "hook": "The useful old idea behind today's scaling debates: capability gains could be forecast from smaller training runs before the expensive final run."
+      "title": "The paradox at the heart of AI and science | Terence Tao",
+      "source": "https://youtu.be/svl_1upFpQo?si=fmg9bEsF8HStYDKU",
+      "trello": "https://trello.com/c/VL3CjQvr/17-the-paradox-at-the-heart-of-ai-and-science-terence-tao",
+      "platform": "YouTube",
+      "duration": "30 min 12 sec",
+      "type": "WATCH",
+      "hook": "AI can get you to the answer faster while quietly stealing the wrong turns that build understanding. Tao's helicopter-vs-hike metaphor is worth sitting with."
+    },
+    {
+      "title": "How We Built an Agent-First CLI — Vercel",
+      "source": "https://youtu.be/IDy2SxjMOFM?si=8zERWRWoi92tP8_6",
+      "trello": "https://trello.com/c/lZoXtUcj/34-how-we-built-an-agent-first-cli-vercel",
+      "platform": "YouTube",
+      "duration": "~30–35 min",
+      "type": "WATCH",
+      "hook": "Design CLIs as predictable machine contracts: stable output, structured JSON, explicit errors and discoverable help instead of hoping agents can scrape human interfaces."
+    },
+    {
+      "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
+      "source": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
+      "trello": "https://trello.com/c/KDtayut0/86-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger",
+      "platform": "YouTube",
+      "duration": "1 hr 4 min",
+      "type": "WATCH",
+      "hook": "A broader industrial/space conversation, with one particularly interesting idea: rival AI labs adversarially testing each other's models before release.",
+      "channel": "All-In Podcast"
     },
     {
       "title": "Andrew Ng: skills for using coding agents effectively",
       "source": "https://x.com/AndrewYNg/status/2095890279865721217",
       "trello": "https://trello.com/c/fFgLhg2p/15-andrew-ng-skills-for-using-coding-agents-effectively",
       "platform": "X",
-      "channel": "Andrew Ng",
       "duration": "~5 min",
       "type": "READ",
-      "hook": "A compact framework for what humans still need to get good at when coding agents become more autonomous: planning, context, verification and knowing when to intervene."
-    },
-    {
-      "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
-      "source": "https://youtu.be/HDmBwU5uvEE",
-      "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
-      "platform": "YouTube",
-      "duration": "~5–8 min summary",
-      "type": "WATCH",
-      "hook": "Less step-by-step micromanagement, more delegation: give the whole job, context, guardrails and a crisp definition of done."
-    },
-    {
-      "title": "Don't Ship Skills Without Evals — Philipp Schmid",
-      "source": "https://youtu.be/0vphxNt4wyk",
-      "trello": "https://trello.com/c/6rWNeh2D/33-dont-ship-skills-without-evals-philipp-schmid-google-deepmind",
-      "platform": "YouTube",
-      "channel": "Philipp Schmid",
-      "duration": "~22 min",
-      "type": "WATCH",
-      "hook": "Almost exactly the experiment you need for reusable agent skills: ablate the skill, isolate runs, measure it, and delete it when the base model catches up."
-    },
-    {
-      "title": "How We Built an Agent-First CLI — Vercel",
-      "source": "https://youtu.be/IDy2SxjMOFM",
-      "trello": "https://trello.com/c/lZoXtUcj/34-how-we-built-an-agent-first-cli-vercel",
-      "platform": "YouTube",
-      "channel": "Vercel",
-      "duration": "~30–35 min",
-      "type": "WATCH",
-      "hook": "Design CLIs as predictable machine contracts: stable output, structured JSON, explicit errors and discoverable help instead of hoping agents can scrape human interfaces."
-    },
-    {
-      "title": "The paradox at the heart of AI and science | Terence Tao",
-      "source": "https://youtu.be/svl_1upFpQo",
-      "trello": "https://trello.com/c/VL3CjQvr/17-the-paradox-at-the-heart-of-ai-and-science-terence-tao",
-      "platform": "YouTube",
-      "channel": "Terence Tao",
-      "duration": "30 min",
-      "type": "WATCH",
-      "hook": "AI can get you to the answer faster while quietly stealing the wrong turns that build understanding. Tao's helicopter-vs-hike metaphor is worth sitting with."
-    },
-    {
-      "title": "How Will The Universe Die?",
-      "source": "https://www.youtube.com/shorts/mD9386aqzyI",
-      "trello": "https://trello.com/c/jzg99TEp/83-how-will-the-universe-die",
-      "platform": "YouTube",
-      "channel": "Cleo Abram",
-      "duration": "<1 min",
-      "type": "WATCH",
-      "hook": "A tiny science break on the competing ways cosmologists think the universe might end."
-    },
-    {
-      "title": "The FIRST Ferrari Electric Car",
-      "source": "https://www.youtube.com/shorts/tOZAKMm7jxY",
-      "trello": "https://trello.com/c/P3iwLOPD/80-the-first-ferrari-electric-car",
-      "platform": "YouTube",
-      "channel": "Cleo Abram",
-      "duration": "<1 min",
-      "type": "WATCH",
-      "hook": "Ferrari's first EV is a quick design-and-technology curiosity: what changes when an identity built around combustion goes electric?"
-    },
-    {
-      "title": "Stanford CS153 Frontier Systems | Scale, AGI, and the Future of Everything",
-      "source": "https://www.youtube.com/watch?v=F_7M4Hc-usM",
-      "trello": "https://trello.com/c/nyo34sjc/20-stanford-cs153-frontier-systems-scale-agi-and-the-future-of-everything",
-      "platform": "YouTube",
-      "channel": "Stanford Online",
-      "duration": "41 min",
-      "type": "WATCH",
-      "hook": "The most relevant part isn't AGI speculation: it's which thinking, writing, coding and verification muscles we should deliberately keep exercising when AI can do the task."
-    },
-    {
-      "title": "Why The Harness Matters More Than The Model | YC Paper Club",
-      "source": "https://youtu.be/n9xKblqyQ28",
-      "trello": "https://trello.com/c/MlFXbfKy/67-why-the-harness-matters-more-than-the-model-yc-paper-club",
-      "platform": "YouTube",
-      "channel": "Y Combinator",
-      "duration": "~60 min",
-      "type": "WATCH",
-      "hook": "The deep version of a theme you've been circling: reliable agents emerge from state, context, tools, memory and control loops—not just a smarter model."
+      "hook": "A compact framework for what humans still need to get good at when coding agents become more autonomous: planning, context, verification and knowing when to intervene.",
+      "channel": "Andrew Ng"
     },
     {
       "title": "MCP Just Got a Whole Lot Better — Neon",
       "source": "https://www.youtube.com/watch?v=BqRhBq-_kgE",
       "trello": "https://trello.com/c/PXztvUNv/76-mcp-just-got-a-whole-lot-better-neon",
       "platform": "YouTube",
-      "channel": "Neon",
-      "duration": "short technical video",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "A useful MCP design shift: stop preloading giant tool catalogs; make tools progressively discoverable and expose higher-level workflows."
     },
     {
-      "title": "Claude Code internals: CLAUDE.md, skills, hooks and subagents — Lydia Hallie",
-      "source": "https://www.youtube.com/watch?v=FGS75ep0yFc",
-      "trello": "https://trello.com/c/Djm3nAcU/44-claude-code-internals-claudemd-skills-hooks-and-subagents-lydia-hallie",
+      "title": "Why The Harness Matters More Than The Model | YC Paper Club",
+      "source": "https://youtu.be/n9xKblqyQ28?si=nfAIILyQGb1WiaNc",
+      "trello": "https://trello.com/c/MlFXbfKy/67-why-the-harness-matters-more-than-the-model-yc-paper-club",
       "platform": "YouTube",
-      "channel": "Lydia Hallie / Anthropic",
-      "duration": "~1 hour",
+      "duration": "~60 min",
       "type": "WATCH",
-      "hook": "A guided mental model of Claude Code internals, especially useful for your skills-vs-hooks and subagent-orchestration questions."
+      "hook": "The deep version of a theme you've been circling: reliable agents emerge from state, context, tools, memory and control loops—not just a smarter model.",
+      "channel": "Y Combinator"
+    },
+    {
+      "title": "Star Trek: The Original Series - Season One - re:View",
+      "source": "https://youtu.be/XZikWLfgyVg?si=guFYAAUjRaAgF_uD",
+      "trello": "https://trello.com/c/0fDCCES2/31-star-trek-the-original-series-season-one-review",
+      "platform": "YouTube",
+      "duration": "~1 hr 57 min",
+      "type": "WATCH",
+      "hook": "A long-form RedLetterMedia discussion of Star Trek's first season when entertainment is what you want. Title and approximate runtime are known; no detailed transcript-based curation is available."
+    },
+    {
+      "title": "GPT-4 predictable scaling: capability from more compute",
+      "source": "https://openai.com/index/gpt-4-research/#predictable-scaling",
+      "trello": "https://trello.com/c/VhUJWKgL/69-gpt-4-predictable-scaling-capability-from-more-compute",
+      "platform": "Web",
+      "duration": "~3–5 min",
+      "type": "READ",
+      "hook": "The useful old idea behind today's scaling debates: capability gains could be forecast from smaller training runs before the expensive final run.",
+      "channel": "OpenAI"
+    },
+    {
+      "title": "Stanford CS153 Frontier Systems | Scale, AGI, and the Future of Everything",
+      "source": "https://www.youtube.com/watch?v=F_7M4Hc-usM",
+      "trello": "https://trello.com/c/nyo34sjc/20-stanford-cs153-frontier-systems-scale-agi-and-the-future-of-everything",
+      "platform": "YouTube",
+      "duration": "41 min 10 sec",
+      "type": "WATCH",
+      "hook": "The most relevant part isn't AGI speculation: it's which thinking, writing, coding and verification muscles we should deliberately keep exercising when AI can do the task.",
+      "channel": "Stanford Online"
+    },
+    {
+      "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
+      "source": "https://www.youtube.com/watch?v=hdcsTeCFE0I",
+      "trello": "https://trello.com/c/wA0HcZ3l/87-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai",
+      "platform": "YouTube",
+      "duration": "~36 min",
+      "type": "WATCH",
+      "hook": "Microsoft's platform view of AI diffusion, interoperability, third-party safety testing and agent risks such as reward hacking.",
+      "channel": "All-In Podcast"
+    },
+    {
+      "title": "GPT-6 Astra: 20 Hours of Admin — Nate B Jones",
+      "source": "https://youtu.be/ix8SsXjBc7M?si=rGJvOwmUIdwGd7Js",
+      "trello": "https://trello.com/c/7FpnqKYr/65-gpt-6-astra-20-hours-of-admin-nate-b-jones",
+      "platform": "YouTube",
+      "duration": "~20–30 min (unverified)",
+      "type": "WATCH",
+      "hook": "A concrete manager-agent pattern: gather constraints and approval points once, then let parallel executors handle research, forms, dependencies and retries.",
+      "channel": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
+      "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
+      "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
+      "platform": "YouTube",
+      "duration": "unknown",
+      "type": "WATCH",
+      "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
+    },
+    {
+      "title": "Agent harness reliability patterns",
+      "source": "https://x.com/0xwhrrari/status/2093685107534000560",
+      "trello": "https://trello.com/c/MquqLVqE/13-agent-harness-reliability-patterns",
+      "platform": "X",
+      "duration": "~3–5 min",
+      "type": "READ",
+      "hook": "Before adding another prompt, check the control system: durable state, checkpoints, verification and recovery paths. A compact reliability checklist for autonomous platform tooling.",
+      "channel": "@0xwhrrari"
+    },
+    {
+      "title": "GPT-6 Astra Doesn't Need Your Instructions Anymore — Nate B Jones",
+      "source": "https://www.youtube.com/watch?v=1qGH6NwTj3o",
+      "trello": "https://trello.com/c/M3FsFkXf/59-gpt-6-astra-doesnt-need-your-instructions-anymore-nate-b-jones",
+      "platform": "YouTube",
+      "duration": "~27 min",
+      "type": "WATCH",
+      "hook": "What changes when an agent gets a standing area of responsibility instead of one task? Nate connects delegation and coordination to reliability—and to the practice junior staff still need.",
+      "channel": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "title": "David Friedberg: US economy, socialism and AI future",
+      "source": "https://youtu.be/OYg6BTjb90E?si=JEbhH9W_0crPE9QF",
+      "trello": "https://trello.com/c/GE6GhHJy/32-david-friedberg-us-economy-socialism-and-ai-future",
+      "platform": "YouTube",
+      "duration": "~2 hr 4 min",
+      "type": "WATCH",
+      "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
     },
     {
       "title": "Robots Just Had Their GPT-3 Moment",
-      "source": "https://youtube.com/watch?v=cqwKceUSZ5Q",
+      "source": "https://youtube.com/watch?v=cqwKceUSZ5Q&si=NY6Nxc2QPo-NnAQm",
       "trello": "https://trello.com/c/roOKjK2y/12-robots-just-had-their-gpt-3-moment",
       "platform": "YouTube",
       "duration": "15 min 41 sec",
@@ -187,74 +253,43 @@
       "hook": "The interesting robotics claim isn't one-shot magic: huge pretraining may let a robot use a video demonstration as an in-context task prompt."
     },
     {
-      "title": "GPT-6 Astra: 20 Hours of Admin — Nate B Jones",
-      "source": "https://youtu.be/ix8SsXjBc7M",
-      "trello": "https://trello.com/c/7FpnqKYr/65-gpt-6-astra-20-hours-of-admin-nate-b-jones",
+      "title": "Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.",
+      "source": "https://youtube.com/watch?v=55rDzRkUVdE&si=Zxf2chI0kb6bPkKh",
+      "trello": "https://trello.com/c/CVAvjPWn/11-everyones-testing-claude-fable-51-on-code-it-made-me-a-37-second-film",
       "platform": "YouTube",
-      "channel": "Nate B Jones",
-      "duration": "~20–30 min",
+      "duration": "~15–20 min (unverified)",
       "type": "WATCH",
-      "hook": "A concrete manager-agent pattern: gather constraints and approval points once, then let parallel executors handle research, forms, dependencies and retries."
-    },
-    {
-      "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
-      "source": "https://www.youtube.com/watch?v=hdcsTeCFE0I",
-      "trello": "https://trello.com/c/wA0HcZ3l/87-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai",
-      "platform": "YouTube",
-      "channel": "All-In Podcast",
-      "duration": "~36 min",
-      "type": "WATCH",
-      "hook": "Microsoft's platform view of AI diffusion, interoperability, third-party safety testing and agent risks such as reward hacking."
-    },
-    {
-      "title": "Elon Musk & Gwynne Shotwell on AI Risks, Starship and Terafab",
-      "source": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
-      "trello": "https://trello.com/c/KDtayut0/86-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger",
-      "platform": "YouTube",
-      "channel": "All-In Podcast",
-      "duration": "1 hr 4 min",
-      "type": "WATCH",
-      "hook": "A broader industrial/space conversation, with one particularly interesting idea: rival AI labs adversarially testing each other's models before release."
-    },
-    {
-      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
-      "source": "https://youtu.be/PUcooQRy0PU",
-      "trello": "https://trello.com/c/nafbJz9V/95-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
-      "platform": "YouTube",
-      "channel": "All-In Podcast",
-      "duration": "long-form",
-      "type": "WATCH",
-      "hook": "Current US policy context spanning AI/data-center power, immigration, deficits and foreign policy. Treat the political/economic assertions as Vance's positions rather than settled facts."
+      "hook": "The useful part of the flashy Blender demo is a spending rule: start on low effort, inspect the artifact, and use more reasoning only where judgment earns it. Demos still need verification."
     },
     {
       "title": "Jenkins Won DevOps, Yet Nobody Uses It Willingly",
-      "source": "https://youtu.be/LbxQqAuQ4Xk",
+      "source": "https://youtu.be/LbxQqAuQ4Xk?si=nHnJaBcXoECahVwU",
       "trello": "https://trello.com/c/qdmORlJc/70-jenkins-won-devops-yet-nobody-uses-it-willingly",
       "platform": "YouTube",
-      "channel": "DevOps & AI Toolkit",
       "duration": "unknown",
       "type": "WATCH",
-      "hook": "A platform-engineering look at why flexible tools become nearly impossible to replace once years of plugins, jobs and custom behavior accumulate around them."
+      "hook": "A platform-engineering look at why flexible tools become nearly impossible to replace once years of plugins, jobs and custom behavior accumulate around them.",
+      "channel": "DevOps & AI Toolkit"
     },
     {
-      "title": "Star Trek: The Original Series - Season One - re:View",
-      "source": "https://youtu.be/XZikWLfgyVg",
-      "trello": "https://trello.com/c/0fDCCES2/31-star-trek-the-original-series-season-one-review",
+      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
+      "source": "https://youtu.be/PUcooQRy0PU?si=ZzvfDRt1kEFzAv0U",
+      "trello": "https://trello.com/c/nafbJz9V/95-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
       "platform": "YouTube",
-      "channel": "RedLetterMedia",
-      "duration": "1 hr 57 min",
+      "duration": "unknown",
       "type": "WATCH",
-      "hook": "Not everything here needs to improve your career. A long-form Star Trek season-one discussion for when entertainment is exactly what you want."
+      "hook": "Current US policy context spanning AI/data-center power, immigration, deficits and foreign policy. Treat the political/economic assertions as Vance's positions rather than settled facts.",
+      "channel": "All-In Podcast"
     },
     {
       "title": "Azure agents framework",
       "source": "https://learn.microsoft.com/en-us/plans/r27t2t1ezjm86",
       "trello": "https://trello.com/c/ZtsJiELu/3-azure-agents-framework",
       "platform": "Web",
-      "channel": "Microsoft Learn",
       "duration": "9 hr 52 min",
       "type": "READ",
-      "hook": "A real course rather than a snack. Keep it for a deliberate learning block: Agent Framework, MCP, workflows, multi-agent orchestration and A2A are the high-value sections."
+      "hook": "A real course rather than a snack. Keep it for a deliberate learning block: Agent Framework, MCP, workflows, multi-agent orchestration and A2A are the high-value sections.",
+      "channel": "Microsoft Learn"
     }
   ]
 }
