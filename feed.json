@@ -1,53 +1,37 @@
 {
-  "updated": "2026-09-19T17:04:09+03:00",
+  "updated": "2026-09-19T16:25:38.215Z",
   "unresolved": [
     {
-      "label": "Sam Walker X post — need post text/media",
-      "trello": "https://trello.com/c/sPXTTbOU/16-sam-walker-x-post-pending-curation"
+      "label": "Jared Isaacman: A New Era for NASA and American Space Exploration — needs description/content",
+      "trello": "https://trello.com/c/00l9PF82/109-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-all-in-podcast"
     },
     {
-      "label": "YouTube f3o8sXr4Y_k — need title/content",
-      "trello": "https://trello.com/c/kRXkVsed/79-https-youtube-f3o8sxr4yksizcmmf9g76sxulux"
+      "label": "DeepSeek’s Insane New Architecture — needs description/content",
+      "trello": "https://trello.com/c/lNl3LDIw/108-deepseeks-insane-new-architecture-two-minute-papers"
     },
     {
-      "label": "YouTube O0HmSiMDei8 — need title/content",
-      "trello": "https://trello.com/c/0nkwyBRa/84-https-youtube-o0hmsimdei8sibzyvdw6fxqmthxkt"
+      "label": "The State of Startups in 2026 — needs description/content",
+      "trello": "https://trello.com/c/tBye1BXB/107-the-state-of-startups-in-2026-y-combinator"
     },
     {
-      "label": "האמת מאחורי | המסע המופלא — need transcript/content",
+      "label": "Have We Finally Found Dark Matter? — needs description/content",
+      "trello": "https://trello.com/c/3ACJOfDX/106-have-we-finally-found-dark-matter-startalk"
+    },
+    {
+      "label": "How are they Losing so Bad — needs video/transcript review",
+      "trello": "https://trello.com/c/KKfKcH3J/105-how-are-they-losing-so-bad-the-primetime"
+    },
+    {
+      "label": "האמת מאחורי | המסע המופלא — EZway — needs video/transcript review",
       "trello": "https://trello.com/c/rzQuTf1M/85-%D7%94%D7%90%D7%9E%D7%AA-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%A1%D7%A2-%D7%94%D7%9E%D7%95%D7%A4%D7%9C%D7%90-ezway"
     },
     {
-      "label": "YouTube PJrntzMA4iQ — needs curation",
-      "trello": "https://trello.com/c/ERjujwAd/92-https-youtube-pjrntzma4iqsi7afkkmgvpfh18lff"
+      "label": "Is Islam’s Judgment Day coming? — needs video/transcript review",
+      "trello": "https://trello.com/c/EVaads95/96-is-islams-judgment-day-coming"
     },
     {
-      "label": "YouTube h_hXk-1fP50 — needs curation",
-      "trello": "https://trello.com/c/PzpsXNJ6/94-https-youtube-hhxk-1fp50sie5pdsqtrajywcsqz"
-    },
-    {
-      "label": "YouTube FoPhsIOC768 — needs curation",
-      "trello": "https://trello.com/c/EVaads95/96-https-youtube-fophsioc768sinch-pkgcjvviwlqx"
-    },
-    {
-      "label": "YouTube GolXi97PZbQ — needs curation",
-      "trello": "https://trello.com/c/5wRbawRs/97-https-youtube-golxi97pzbqsi-rui66hymno9oa97"
-    },
-    {
-      "label": "YouTube AmsFdBdv0P0 — needs curation",
-      "trello": "https://trello.com/c/ICaSt1Wi/98-https-youtube-amsfdbdv0p0sikdrxftrv1oaf838m"
-    },
-    {
-      "label": "X @0xCodila post — awaiting manual curation",
-      "trello": "https://trello.com/c/FY4Cuixk/100-https-xcom-0xcodila-status-2100984487802708306"
-    },
-    {
-      "label": "X @sairahul1 post — awaiting manual curation",
-      "trello": "https://trello.com/c/RJgqcQ0I/101-https-xcom-sairahul1-status-2100882424343265527"
-    },
-    {
-      "label": "Chris Cornell / Soundgarden saved text — awaiting manual curation",
-      "trello": "https://trello.com/c/y5WaKCp0/102-%D7%90%D7%9D-%D7%9E%D7%A4%D7%A8%D7%A7%D7%99%D7%9D-%D7%90%D7%AA-%D7%90%D7%A8%D7%91%D7%A2%D7%AA-%D7%94%D7%A7%D7%93%D7%95%D7%A9%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A1%D7%99%D7%90%D7%98%D7%9C-%D7%9C%D7%A4%D7%A1%D7%99%D7%A4%D7%A1-%D7%A8%D7%92%D7%A9%D7%99-%D7%9E%D7%91%D7%99%D7%A0%D7%99%D7%9D-%D7%A9%D7%9B%D7%9C-%D7%9C%D7%94%D7%A7%D7%94-%D7%94%D7%97%D7%96%D7%99%D7%A7%D7%94-%D7%91%D7%AA%D7%93%D7%A8-%D7%99%D7%99%D7%97%D7%95%D7%93%D7%99-%D7%A9%D7%94%D7%A8%D7%9B%D7%99%D7%91-%D7%90%D7%AA-%D7%94%D7%AA%D7%95%D7%A4%D7%A2%D7%94-%D7%A0%D7%99%D7%A8%D7%95%D7%95%D7%90%D7%A0%D7%94-%D7%94%D7%96%D7%99%D7%A0%D7%94-%D7%90%D7%AA-%D7%94%D7%9E%D7%A8%D7%93-%D7%94%D7%90%D7%A0%D7%A8%D7%9B"
+      "label": "The Plan to Dismantle Saudi Arabia — needs video/transcript review",
+      "trello": "https://trello.com/c/ICaSt1Wi/98-the-plan-to-dismantle-saudi-arabia"
     }
   ],
   "items": [
@@ -61,14 +45,64 @@
       "hook": "Almost exactly the experiment you need for reusable agent skills: ablate the skill, isolate runs, measure it, and delete it when the base model catches up."
     },
     {
-      "title": "Spotify Claude Code token routing: ~90% reduction",
-      "source": "https://x.com/undefinedKi/status/2095942506433089832",
-      "trello": "https://trello.com/c/rK7ShKgZ/19-spotify-claude-code-token-routing-90-reduction",
+      "title": "Jev Engineering: Full 10-Step Roadmap to Set Up and Use a New Brain for AI (from scratch)",
+      "source": "https://x.com/0xCodila/status/2100984487802708306",
+      "trello": "https://trello.com/c/FY4Cuixk/100-jev-engineering-full-10-step-roadmap-to-set-up-and-use-a-new-brain-for-ai-from-scratch",
       "platform": "X",
-      "duration": "~2–3 min",
+      "channel": "codila (@0xCodila)",
+      "duration": "~15–20 min read (estimate)",
       "type": "READ",
-      "hook": "A short cost-control idea for agent workflows: route bulky reads and repetitive work away from the expensive model. The claimed ~90% saving comes from a secondary digest, not a verified original post.",
-      "channel": "@undefinedki"
+      "hook": "Stop spending a large-model call on every routing decision. This Jev walkthrough proposes a small decision layer with explicit choices, escalation and completion checks; benchmark the savings yourself."
+    },
+    {
+      "title": "כריס קורנל וסאונדגרדן — חלק א׳",
+      "source": "https://trello.com/c/y5WaKCp0",
+      "trello": "https://trello.com/c/y5WaKCp0/102-%D7%90%D7%9D-%D7%9E%D7%A4%D7%A8%D7%A7%D7%99%D7%9D-%D7%90%D7%AA-%D7%90%D7%A8%D7%91%D7%A2%D7%AA-%D7%94%D7%A7%D7%93%D7%95%D7%A9%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A1%D7%99%D7%90%D7%98%D7%9C-%D7%9C%D7%A4%D7%A1%D7%99%D7%A4%D7%A1-%D7%A8%D7%92%D7%A9%D7%99-%D7%9E%D7%91%D7%99%D7%A0%D7%99%D7%9D-%D7%A9%D7%9B%D7%9C-%D7%9C%D7%94%D7%A7%D7%94-%D7%94%D7%97%D7%96%D7%99%D7%A7%D7%94-%D7%91%D7%AA%D7%93%D7%A8-%D7%99%D7%99%D7%97%D7%95%D7%93%D7%99-%D7%A9%D7%94%D7%A8%D7%9B%D7%99%D7%91-%D7%90%D7%AA-%D7%94%D7%AA%D7%95%D7%A4%D7%A2%D7%94-%D7%A0%D7%99%D7%A8%D7%95%D7%95%D7%90%D7%A0%D7%94-%D7%94%D7%96%D7%99%D7%A0%D7%94-%D7%90%D7%AA-%D7%94%D7%9E%D7%A8%D7%93-%D7%94%D7%90%D7%A0%D7%A8%D7%9B",
+      "platform": "Saved text",
+      "channel": "Author not recorded",
+      "duration": "~6–8 min read (estimate)",
+      "type": "READ",
+      "hook": "A Hebrew introduction to Chris Cornell and early Soundgarden: the voice, unusual rhythms and route to Badmotorfinger. The complete saved text is in the Trello card."
+    },
+    {
+      "title": "Did Google just kickstart the intelligence explosion?",
+      "source": "https://www.youtube.com/watch?v=LoLYw--s-5w&list=PLH-u9ZhLrGqo&index=1&pp=iAQB",
+      "trello": "https://trello.com/c/shL36YBR/103-did-google-just-kickstart-the-intelligence-explosion-fireship",
+      "platform": "YouTube",
+      "channel": "Fireship",
+      "duration": "4 min 59 sec",
+      "type": "WATCH",
+      "hook": "Five minutes on the difference between an intelligence-explosion headline and a mechanism: learning better search strategies from earlier runs."
+    },
+    {
+      "title": "Where Andrew Ng’s Coding-Agent Map Goes Sideways — Nova / Sam Walker",
+      "source": "https://x.com/SamWalker100/status/2096053451826368646",
+      "trello": "https://trello.com/c/sPXTTbOU/16-where-andrew-ngs-coding-agent-map-goes-sideways-nova-sam-walker",
+      "platform": "X",
+      "channel": "Sam Walker (@SamWalker100); article credited to Nova",
+      "duration": "~10–12 min read (estimate)",
+      "type": "READ",
+      "hook": "An agent can remember a proposal perfectly and still mistake it for permission. This critique connects memory, authority, verification and reusable skills into one design problem."
+    },
+    {
+      "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
+      "source": "https://youtu.be/PJrntzMA4iQ?si=7AfKkMgvPfh18LfF",
+      "trello": "https://trello.com/c/ERjujwAd/92-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem",
+      "platform": "YouTube",
+      "channel": "All-In Podcast",
+      "duration": "18 min 10 sec",
+      "type": "WATCH",
+      "hook": "Can AI revenue support the infrastructure bill? Start at 5:07 for Gerstner's case, then 12:30 for the power, regulation and interest-rate risks."
+    },
+    {
+      "title": "We Are Witnessing Cancer's Downfall",
+      "source": "https://www.youtube.com/watch?v=7eQL0nwjZOs&list=PLH-u9ZhLrGqo&index=2&pp=iAQB0gcJCSQMAYcqIYzv",
+      "trello": "https://trello.com/c/ITMdesEA/104-we-are-witnessing-cancers-downfall-dr-brad-stanfield",
+      "platform": "YouTube",
+      "channel": "Dr Brad Stanfield",
+      "duration": "12 min 24 sec",
+      "type": "WATCH",
+      "hook": "RAS-targeted drugs, immunotherapy and personalized vaccines in 12 minutes. A useful research overview, with a headline that needs more evidence than the description provides."
     },
     {
       "title": "Noam Brown — Agent swarms and alignment",
@@ -81,14 +115,33 @@
       "channel": "Dwarkesh Podcast"
     },
     {
-      "title": "The FIRST Ferrari Electric Car",
-      "source": "https://www.youtube.com/shorts/tOZAKMm7jxY",
-      "trello": "https://trello.com/c/P3iwLOPD/80-the-first-ferrari-electric-car",
+      "title": "Spotify Claude Code token routing: ~90% reduction",
+      "source": "https://x.com/undefinedKi/status/2095942506433089832",
+      "trello": "https://trello.com/c/rK7ShKgZ/19-spotify-claude-code-token-routing-90-reduction",
+      "platform": "X",
+      "duration": "~2–3 min",
+      "type": "READ",
+      "hook": "A short cost-control idea for agent workflows: route bulky reads and repetitive work away from the expensive model. The claimed ~90% saving comes from a secondary digest, not a verified original post.",
+      "channel": "@undefinedki"
+    },
+    {
+      "title": "The paradox at the heart of AI and science | Terence Tao",
+      "source": "https://youtu.be/svl_1upFpQo?si=fmg9bEsF8HStYDKU",
+      "trello": "https://trello.com/c/VL3CjQvr/17-the-paradox-at-the-heart-of-ai-and-science-terence-tao",
       "platform": "YouTube",
-      "duration": "<1 min",
+      "duration": "30 min 12 sec",
       "type": "WATCH",
-      "hook": "Ferrari's first EV is a quick design-and-technology curiosity: what changes when an identity built around combustion goes electric?",
-      "channel": "Cleo Abram"
+      "hook": "AI can get you to the answer faster while quietly stealing the wrong turns that build understanding. Tao's helicopter-vs-hike metaphor is worth sitting with."
+    },
+    {
+      "title": "הפודקאסט של נדב פרי | נפתלי בנט: אם לא נפתור את הסוגיה החרדית זה גומר אותנו, זה קץ המדינה",
+      "source": "https://youtu.be/f3o8sXr4Y_k?si=ZCmMF9g7_6SXulUx",
+      "trello": "https://trello.com/c/kRXkVsed/79-%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%A0%D7%93%D7%91-%D7%A4%D7%A8%D7%99-%D7%A0%D7%A4%D7%AA%D7%9C%D7%99-%D7%91%D7%A0%D7%98-%D7%90%D7%9D-%D7%9C%D7%90-%D7%A0%D7%A4%D7%AA%D7%95%D7%A8-%D7%90%D7%AA-%D7%94%D7%A1%D7%95%D7%92%D7%99%D7%94-%D7%94%D7%97%D7%A8%D7%93%D7%99%D7%AA-%D7%96%D7%94-%D7%92%D7%95%D7%9E%D7%A8-%D7%90%D7%95%D7%AA%D7%A0%D7%95-%D7%96%D7%94-%D7%A7%D7%A5-%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94",
+      "platform": "YouTube",
+      "channel": "All•in הבית של הפודקסטים",
+      "duration": "1 hr 47 min 38 sec",
+      "type": "WATCH",
+      "hook": "Bennett's policy case in his own words. Jump to 20:00 for his constitution proposal or 24:06 for Haredi education; a long interview with useful chapter markers."
     },
     {
       "title": "Vercel data-science agent: simpler tools doubled eval scores",
@@ -100,13 +153,44 @@
       "hook": "A strong counterpoint to ever-growing agent harnesses: Vercel reportedly improved its data-science agent by stripping specialized tools back to bash plus file read/write. A perfect eval question for your own skills."
     },
     {
-      "title": "The paradox at the heart of AI and science | Terence Tao",
-      "source": "https://youtu.be/svl_1upFpQo?si=fmg9bEsF8HStYDKU",
-      "trello": "https://trello.com/c/VL3CjQvr/17-the-paradox-at-the-heart-of-ai-and-science-terence-tao",
+      "title": "Andrew Ng: skills for using coding agents effectively",
+      "source": "https://x.com/AndrewYNg/status/2095890279865721217",
+      "trello": "https://trello.com/c/fFgLhg2p/15-andrew-ng-skills-for-using-coding-agents-effectively",
+      "platform": "X",
+      "duration": "~5 min",
+      "type": "READ",
+      "hook": "A compact framework for what humans still need to get good at when coding agents become more autonomous: planning, context, verification and knowing when to intervene.",
+      "channel": "Andrew Ng"
+    },
+    {
+      "title": "How To Fine-Tune a Small LLM on Your Own Data (Full Guide)",
+      "source": "https://x.com/sairahul1/status/2100882424343265527",
+      "trello": "https://trello.com/c/RJgqcQ0I/101-how-to-fine-tune-a-small-llm-on-your-own-data-full-guide",
+      "platform": "X",
+      "channel": "Rahul (@sairahul1)",
+      "duration": "~20–30 min read including code (estimate)",
+      "type": "READ",
+      "hook": "The useful fine-tuning lesson is in the data pipeline: reviewed examples, company-level splits and a baseline before training. A hands-on guide whose sample code still needs testing."
+    },
+    {
+      "title": "The FIRST Ferrari Electric Car",
+      "source": "https://www.youtube.com/shorts/tOZAKMm7jxY",
+      "trello": "https://trello.com/c/P3iwLOPD/80-the-first-ferrari-electric-car",
       "platform": "YouTube",
-      "duration": "30 min 12 sec",
+      "duration": "<1 min",
       "type": "WATCH",
-      "hook": "AI can get you to the answer faster while quietly stealing the wrong turns that build understanding. Tao's helicopter-vs-hike metaphor is worth sitting with."
+      "hook": "Ferrari's first EV is a quick design-and-technology curiosity: what changes when an identity built around combustion goes electric?",
+      "channel": "Cleo Abram"
+    },
+    {
+      "title": "Episode #1250 - Daniel Bachmat, Mathematics and AI",
+      "source": "https://youtu.be/GolXi97PZbQ?si=-Rui66hYMNo9oA97",
+      "trello": "https://trello.com/c/5wRbawRs/97-episode-1250-daniel-bachmat-mathematics-and-ai",
+      "platform": "YouTube",
+      "channel": "גיקונומי - Geekonomy - פרקי הוידאו של ראם",
+      "duration": "53 min 11 sec",
+      "type": "WATCH",
+      "hook": "A mathematics-focused Geekonomy conversation about Millennium Problems and AI. Keep a skeptical ear for breakthrough claims—the description alone does not establish a solved problem."
     },
     {
       "title": "How We Built an Agent-First CLI — Vercel",
@@ -128,16 +212,6 @@
       "channel": "All-In Podcast"
     },
     {
-      "title": "Andrew Ng: skills for using coding agents effectively",
-      "source": "https://x.com/AndrewYNg/status/2095890279865721217",
-      "trello": "https://trello.com/c/fFgLhg2p/15-andrew-ng-skills-for-using-coding-agents-effectively",
-      "platform": "X",
-      "duration": "~5 min",
-      "type": "READ",
-      "hook": "A compact framework for what humans still need to get good at when coding agents become more autonomous: planning, context, verification and knowing when to intervene.",
-      "channel": "Andrew Ng"
-    },
-    {
       "title": "MCP Just Got a Whole Lot Better — Neon",
       "source": "https://www.youtube.com/watch?v=BqRhBq-_kgE",
       "trello": "https://trello.com/c/PXztvUNv/76-mcp-just-got-a-whole-lot-better-neon",
@@ -145,6 +219,15 @@
       "duration": "unknown",
       "type": "WATCH",
       "hook": "A useful MCP design shift: stop preloading giant tool catalogs; make tools progressively discoverable and expose higher-level workflows."
+    },
+    {
+      "title": "Robots Just Had Their GPT-3 Moment",
+      "source": "https://youtube.com/watch?v=cqwKceUSZ5Q&si=NY6Nxc2QPo-NnAQm",
+      "trello": "https://trello.com/c/roOKjK2y/12-robots-just-had-their-gpt-3-moment",
+      "platform": "YouTube",
+      "duration": "15 min 41 sec",
+      "type": "WATCH",
+      "hook": "The interesting robotics claim isn't one-shot magic: huge pretraining may let a robot use a video demonstration as an in-context task prompt."
     },
     {
       "title": "Why The Harness Matters More Than The Model | YC Paper Club",
@@ -155,6 +238,16 @@
       "type": "WATCH",
       "hook": "The deep version of a theme you've been circling: reliable agents emerge from state, context, tools, memory and control loops—not just a smarter model.",
       "channel": "Y Combinator"
+    },
+    {
+      "title": "\"Soon, half the residents of the Negev will have a Palestinian identity\" | Hagai Reznik",
+      "source": "https://youtu.be/O0HmSiMDei8?si=BzYVdw6fXqMthXKt",
+      "trello": "https://trello.com/c/0nkwyBRa/84-soon-half-the-residents-of-the-negev-will-have-a-palestinian-identity-hagai-reznik",
+      "platform": "YouTube",
+      "channel": "ברק הרשקוביץ | דעה לא פופולרית | Barak Herscowitz",
+      "duration": "1 hr 4 min 56 sec",
+      "type": "WATCH",
+      "hook": "A detailed argument about Negev governance, education, illegal weapons and settlement policy. Useful as one policy perspective; its demographic forecasts remain unverified claims."
     },
     {
       "title": "Star Trek: The Original Series - Season One - re:View",
@@ -196,6 +289,16 @@
       "channel": "All-In Podcast"
     },
     {
+      "title": "Agent harness reliability patterns",
+      "source": "https://x.com/0xwhrrari/status/2093685107534000560",
+      "trello": "https://trello.com/c/MquqLVqE/13-agent-harness-reliability-patterns",
+      "platform": "X",
+      "duration": "~3–5 min",
+      "type": "READ",
+      "hook": "Before adding another prompt, check the control system: durable state, checkpoints, verification and recovery paths. A compact reliability checklist for autonomous platform tooling.",
+      "channel": "@0xwhrrari"
+    },
+    {
       "title": "GPT-6 Astra: 20 Hours of Admin — Nate B Jones",
       "source": "https://youtu.be/ix8SsXjBc7M?si=rGJvOwmUIdwGd7Js",
       "trello": "https://trello.com/c/7FpnqKYr/65-gpt-6-astra-20-hours-of-admin-nate-b-jones",
@@ -213,16 +316,6 @@
       "duration": "unknown",
       "type": "WATCH",
       "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
-    },
-    {
-      "title": "Agent harness reliability patterns",
-      "source": "https://x.com/0xwhrrari/status/2093685107534000560",
-      "trello": "https://trello.com/c/MquqLVqE/13-agent-harness-reliability-patterns",
-      "platform": "X",
-      "duration": "~3–5 min",
-      "type": "READ",
-      "hook": "Before adding another prompt, check the control system: durable state, checkpoints, verification and recovery paths. A compact reliability checklist for autonomous platform tooling.",
-      "channel": "@0xwhrrari"
     },
     {
       "title": "GPT-6 Astra Doesn't Need Your Instructions Anymore — Nate B Jones",
@@ -244,15 +337,6 @@
       "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
     },
     {
-      "title": "Robots Just Had Their GPT-3 Moment",
-      "source": "https://youtube.com/watch?v=cqwKceUSZ5Q&si=NY6Nxc2QPo-NnAQm",
-      "trello": "https://trello.com/c/roOKjK2y/12-robots-just-had-their-gpt-3-moment",
-      "platform": "YouTube",
-      "duration": "15 min 41 sec",
-      "type": "WATCH",
-      "hook": "The interesting robotics claim isn't one-shot magic: huge pretraining may let a robot use a video demonstration as an in-context task prompt."
-    },
-    {
       "title": "Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.",
       "source": "https://youtube.com/watch?v=55rDzRkUVdE&si=Zxf2chI0kb6bPkKh",
       "trello": "https://trello.com/c/CVAvjPWn/11-everyones-testing-claude-fable-51-on-code-it-made-me-a-37-second-film",
@@ -270,16 +354,6 @@
       "type": "WATCH",
       "hook": "A platform-engineering look at why flexible tools become nearly impossible to replace once years of plugins, jobs and custom behavior accumulate around them.",
       "channel": "DevOps & AI Toolkit"
-    },
-    {
-      "title": "JD Vance on AI, Entitlement Fraud, Iran War, Israel, H-1B Abuse & the Midterms",
-      "source": "https://youtu.be/PUcooQRy0PU?si=ZzvfDRt1kEFzAv0U",
-      "trello": "https://trello.com/c/nafbJz9V/95-jd-vance-on-ai-entitlement-fraud-iran-war-israel-h-1b-abuse-the-midterms",
-      "platform": "YouTube",
-      "duration": "unknown",
-      "type": "WATCH",
-      "hook": "Current US policy context spanning AI/data-center power, immigration, deficits and foreign policy. Treat the political/economic assertions as Vance's positions rather than settled facts.",
-      "channel": "All-In Podcast"
     },
     {
       "title": "Azure agents framework",
