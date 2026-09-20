@@ -1,13 +1,9 @@
 {
-  "updated": "2026-09-19T16:25:38.215Z",
+  "updated": "2026-09-20T05:27:29.014Z",
   "unresolved": [
     {
       "label": "Jared Isaacman: A New Era for NASA and American Space Exploration — needs description/content",
       "trello": "https://trello.com/c/00l9PF82/109-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-all-in-podcast"
-    },
-    {
-      "label": "DeepSeek’s Insane New Architecture — needs description/content",
-      "trello": "https://trello.com/c/lNl3LDIw/108-deepseeks-insane-new-architecture-two-minute-papers"
     },
     {
       "label": "The State of Startups in 2026 — needs description/content",
@@ -63,6 +59,16 @@
       "duration": "~6–8 min read (estimate)",
       "type": "READ",
       "hook": "A Hebrew introduction to Chris Cornell and early Soundgarden: the voice, unusual rhythms and route to Badmotorfinger. The complete saved text is in the Trello card."
+    },
+    {
+      "title": "DeepSeek’s Insane New Architecture",
+      "source": "https://www.youtube.com/watch?v=vIHw_2VjSUw&list=PLH-u9ZhLrGqo&index=7&pp=iAQB",
+      "trello": "https://trello.com/c/0wIO9k1O/110-deepseeks-insane-new-architecture-two-minute-papers",
+      "platform": "YouTube",
+      "channel": "Two Minute Papers",
+      "duration": "5 min 11 sec",
+      "type": "WATCH",
+      "hook": "Why use the same amount of compute to read and write? DeepSeek’s asymmetric design and smaller KV cache target long-context agent costs. Enriched with the linked primary documentation; transcript unavailable."
     },
     {
       "title": "Did Google just kickstart the intelligence explosion?",
