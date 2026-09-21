@@ -1,13 +1,9 @@
 {
-  "updated": "2026-09-21T15:26:41.498Z",
+  "updated": "2026-09-21T19:21:50.807Z",
   "unresolved": [
     {
       "label": "Jared Isaacman: A New Era for NASA and American Space Exploration — needs description/content",
       "trello": "https://trello.com/c/00l9PF82/109-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-all-in-podcast"
-    },
-    {
-      "label": "The State of Startups in 2026 — needs description/content",
-      "trello": "https://trello.com/c/tBye1BXB/107-the-state-of-startups-in-2026-y-combinator"
     },
     {
       "label": "Have We Finally Found Dark Matter? — needs description/content",
@@ -119,6 +115,16 @@
       "duration": "12 min 24 sec",
       "type": "WATCH",
       "hook": "RAS-targeted drugs, immunotherapy and personalized vaccines in 12 minutes. A useful research overview, with a headline that needs more evidence than the description provides."
+    },
+    {
+      "title": "The State of Startups in 2026",
+      "source": "https://www.youtube.com/watch?v=yslXlV2BP_Y&list=PLH-u9ZhLrGqo&index=6&pp=iAQB",
+      "trello": "https://trello.com/c/tBye1BXB/107-the-state-of-startups-in-2026-y-combinator",
+      "platform": "YouTube",
+      "channel": "Y Combinator",
+      "duration": "36 min 29 sec",
+      "type": "WATCH",
+      "hook": "What stays valuable when coding gets cheap? YC connects agent-run workflows, physical infrastructure and experienced founders. Start at 15:40 or 32:54; cohort figures are YC-reported."
     },
     {
       "title": "Noam Brown — Agent swarms and alignment",
