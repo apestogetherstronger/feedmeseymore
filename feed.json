@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T05:27:29.014Z",
+  "updated": "2026-09-21T11:23:02.242Z",
   "unresolved": [
     {
       "label": "Jared Isaacman: A New Era for NASA and American Space Exploration — needs description/content",
@@ -59,6 +59,16 @@
       "duration": "~6–8 min read (estimate)",
       "type": "READ",
       "hook": "A Hebrew introduction to Chris Cornell and early Soundgarden: the voice, unusual rhythms and route to Badmotorfinger. The complete saved text is in the Trello card."
+    },
+    {
+      "title": "Build your own Jev (100% local)",
+      "source": "https://x.com/_avichawla/status/2101563610644496464",
+      "trello": "https://trello.com/c/wCpma8PH/111-build-your-own-jev-100-local-avi-chawla",
+      "platform": "X",
+      "channel": "Avi Chawla",
+      "duration": "~15–20 min (estimated)",
+      "type": "READ",
+      "hook": "Use local model scores for fixed-choice routing without generating prose. A practical SGLang tutorial, with crucial limits: scores need calibration and this does not reproduce Jev's training."
     },
     {
       "title": "DeepSeek’s Insane New Architecture",
