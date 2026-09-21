@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T11:23:02.242Z",
+  "updated": "2026-09-21T15:26:41.498Z",
   "unresolved": [
     {
       "label": "Jared Isaacman: A New Era for NASA and American Space Exploration — needs description/content",
@@ -313,6 +313,16 @@
       "type": "READ",
       "hook": "Before adding another prompt, check the control system: durable state, checkpoints, verification and recovery paths. A compact reliability checklist for autonomous platform tooling.",
       "channel": "@0xwhrrari"
+    },
+    {
+      "title": "Jev workflows for LinkedIn and Gmail",
+      "source": "https://www.threads.com/share/_7HBOS6VH/",
+      "trello": "https://trello.com/c/flnUen71/112-jev-workflows-for-linkedin-and-gmail-rubenhassid",
+      "platform": "Threads",
+      "channel": "@rubenhassid",
+      "duration": "~3 min read (estimate)",
+      "type": "READ",
+      "hook": "Two concrete Jev ideas: shortlist LinkedIn contacts and triage Google contacts into Keep, Review or Remove. A short overview with human review; performance claims remain unverified."
     },
     {
       "title": "GPT-6 Astra: 20 Hours of Admin — Nate B Jones",
