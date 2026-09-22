@@ -1,17 +1,9 @@
 {
-  "updated": "2026-09-21T19:21:50.807Z",
+  "updated": "2026-09-23T02:41:00+03:00",
   "unresolved": [
-    {
-      "label": "Jared Isaacman: A New Era for NASA and American Space Exploration — needs description/content",
-      "trello": "https://trello.com/c/00l9PF82/109-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-all-in-podcast"
-    },
     {
       "label": "Have We Finally Found Dark Matter? — needs description/content",
       "trello": "https://trello.com/c/3ACJOfDX/106-have-we-finally-found-dark-matter-startalk"
-    },
-    {
-      "label": "How are they Losing so Bad — needs video/transcript review",
-      "trello": "https://trello.com/c/KKfKcH3J/105-how-are-they-losing-so-bad-the-primetime"
     },
     {
       "label": "האמת מאחורי | המסע המופלא — EZway — needs video/transcript review",
@@ -24,9 +16,55 @@
     {
       "label": "The Plan to Dismantle Saudi Arabia — needs video/transcript review",
       "trello": "https://trello.com/c/ICaSt1Wi/98-the-plan-to-dismantle-saudi-arabia"
+    },
+    {
+      "label": "You're Already a Meat Proxy — needs original post body/context",
+      "trello": "https://trello.com/c/SEhshxEf/113-youre-already-a-meat-proxy-obie"
+    },
+    {
+      "label": "YouTube Yok8wE1yPw8 — unprocessed; indexed metadata unavailable",
+      "trello": "https://trello.com/c/JnKVCLzP/114-https-youtube-yok8we1ypw8sikjckjmbaatutpuj7"
+    },
+    {
+      "label": "YouTube zetQI6TzzCA — unprocessed; indexed metadata unavailable",
+      "trello": "https://trello.com/c/DqO49J14/115-https-youtube-zetqi6tzzcasidcgwkvtbeyjasq2h"
+    },
+    {
+      "label": "Why America keeps losing wars — needs video/transcript review",
+      "trello": "https://trello.com/c/MnaSfOAs/117-why-america-keeps-losing-wars"
     }
   ],
   "items": [
+    {
+      "title": "An ex-OpenAI researcher just deleted language from the LLM",
+      "source": "https://youtu.be/TbkUKCm3CHQ?si=4KCnrhACS-U49EOg",
+      "trello": "https://trello.com/c/FgmXU5YZ/116-an-ex-openai-researcher-just-deleted-language-from-the-llm-fireship",
+      "platform": "YouTube",
+      "channel": "Fireship",
+      "duration": "~5 min",
+      "type": "WATCH",
+      "hook": "A five-minute Jev explainer: typed decisions instead of prose, calibrated confidence and the cases where a fast classifier may beat a generative LLM. Treat the headline speed/cost claims as vendor claims."
+    },
+    {
+      "title": "Google’s Generational Fumble",
+      "source": "https://www.youtube.com/watch?v=d3Gjq-BffuI&list=PLH-u9ZhLrGqo&index=4&pp=iAQB",
+      "trello": "https://trello.com/c/KKfKcH3J/105-googles-generational-fumble-the-primetime",
+      "platform": "YouTube",
+      "channel": "The PrimeTime / theprimeagen",
+      "duration": "11 min 7 sec",
+      "type": "WATCH",
+      "hook": "Prime asks how Google could invent TPUs and help create transformers yet struggle to convert those advantages into leading AI products. The dramatic Gemini cost anecdote is a creator claim, not a benchmark."
+    },
+    {
+      "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+      "source": "https://www.youtube.com/watch?v=VTF6p0U98ek&list=PLH-u9ZhLrGqo&index=8&pp=iAQB",
+      "trello": "https://trello.com/c/00l9PF82/109-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-all-in-podcast",
+      "platform": "YouTube",
+      "channel": "All-In Podcast",
+      "duration": "~38 min",
+      "type": "WATCH",
+      "hook": "A concrete NASA operating-model and roadmap argument: faster Artemis cadence, lunar return, nuclear-electric missions and Mars. Dates and geopolitical claims are Isaacman's stated plans and positions."
+    },
     {
       "title": "Don't Ship Skills Without Evals — Philipp Schmid, Google DeepMind",
       "source": "https://youtu.be/0vphxNt4wyk?si=evK19ZMAu8B3u9re",
@@ -75,16 +113,6 @@
       "duration": "5 min 11 sec",
       "type": "WATCH",
       "hook": "Why use the same amount of compute to read and write? DeepSeek’s asymmetric design and smaller KV cache target long-context agent costs. Enriched with the linked primary documentation; transcript unavailable."
-    },
-    {
-      "title": "Did Google just kickstart the intelligence explosion?",
-      "source": "https://www.youtube.com/watch?v=LoLYw--s-5w&list=PLH-u9ZhLrGqo&index=1&pp=iAQB",
-      "trello": "https://trello.com/c/shL36YBR/103-did-google-just-kickstart-the-intelligence-explosion-fireship",
-      "platform": "YouTube",
-      "channel": "Fireship",
-      "duration": "4 min 59 sec",
-      "type": "WATCH",
-      "hook": "Five minutes on the difference between an intelligence-explosion headline and a mechanism: learning better search strategies from earlier runs."
     },
     {
       "title": "Where Andrew Ng’s Coding-Agent Map Goes Sideways — Nova / Sam Walker",
@@ -193,16 +221,6 @@
       "duration": "~20–30 min read including code (estimate)",
       "type": "READ",
       "hook": "The useful fine-tuning lesson is in the data pipeline: reviewed examples, company-level splits and a baseline before training. A hands-on guide whose sample code still needs testing."
-    },
-    {
-      "title": "The FIRST Ferrari Electric Car",
-      "source": "https://www.youtube.com/shorts/tOZAKMm7jxY",
-      "trello": "https://trello.com/c/P3iwLOPD/80-the-first-ferrari-electric-car",
-      "platform": "YouTube",
-      "duration": "<1 min",
-      "type": "WATCH",
-      "hook": "Ferrari's first EV is a quick design-and-technology curiosity: what changes when an identity built around combustion goes electric?",
-      "channel": "Cleo Abram"
     },
     {
       "title": "Episode #1250 - Daniel Bachmat, Mathematics and AI",
