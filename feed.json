@@ -1,50 +1,48 @@
 {
-  "updated": "2026-09-23T02:41:00+03:00",
+  "updated": "2026-09-25T16:25:54.022+03:00",
   "unresolved": [
     {
-      "label": "Have We Finally Found Dark Matter? — needs description/content",
-      "trello": "https://trello.com/c/3ACJOfDX/106-have-we-finally-found-dark-matter-startalk"
-    },
-    {
-      "label": "האמת מאחורי | המסע המופלא — EZway — needs video/transcript review",
-      "trello": "https://trello.com/c/rzQuTf1M/85-%D7%94%D7%90%D7%9E%D7%AA-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%A1%D7%A2-%D7%94%D7%9E%D7%95%D7%A4%D7%9C%D7%90-ezway"
+      "label": "YouTube playlist — unprocessed",
+      "trello": "https://trello.com/c/nPmqiKlD/129-https-youtubecom-playlistlistploromvodv4rmqxocazwatuhhq-yemblcvsirgczfhdknkkwmta"
     },
     {
       "label": "Is Islam’s Judgment Day coming? — needs video/transcript review",
       "trello": "https://trello.com/c/EVaads95/96-is-islams-judgment-day-coming"
     },
     {
-      "label": "The Plan to Dismantle Saudi Arabia — needs video/transcript review",
-      "trello": "https://trello.com/c/ICaSt1Wi/98-the-plan-to-dismantle-saudi-arabia"
-    },
-    {
       "label": "You're Already a Meat Proxy — needs original post body/context",
       "trello": "https://trello.com/c/SEhshxEf/113-youre-already-a-meat-proxy-obie"
     },
     {
-      "label": "YouTube Yok8wE1yPw8 — unprocessed; indexed metadata unavailable",
+      "label": "YouTube Yok8wE1yPw8 — unprocessed",
       "trello": "https://trello.com/c/JnKVCLzP/114-https-youtube-yok8we1ypw8sikjckjmbaatutpuj7"
     },
     {
-      "label": "YouTube zetQI6TzzCA — unprocessed; indexed metadata unavailable",
+      "label": "YouTube zetQI6TzzCA — unprocessed",
       "trello": "https://trello.com/c/DqO49J14/115-https-youtube-zetqi6tzzcasidcgwkvtbeyjasq2h"
     },
     {
       "label": "Why America keeps losing wars — needs video/transcript review",
       "trello": "https://trello.com/c/MnaSfOAs/117-why-america-keeps-losing-wars"
+    },
+    {
+      "label": "X @undefinedKi post 2068306794116501544 — unprocessed",
+      "trello": "https://trello.com/c/QUQDEV1j/119-https-xcom-undefinedki-status-2068306794116501544"
+    },
+    {
+      "label": "X @omarsar0 post 2102762406204076532 — unprocessed",
+      "trello": "https://trello.com/c/RWDMkoKd/124-https-xcom-omarsar0-status-2102762406204076532"
+    },
+    {
+      "label": "YouTube -P5iFpHL16I — unprocessed",
+      "trello": "https://trello.com/c/PohPTdsb/128-https-youtube-p5ifphl16isifldjwni-nxxaeg2f"
+    },
+    {
+      "label": "YouTube playlist — unprocessed (duplicate card 2)",
+      "trello": "https://trello.com/c/iUjpodxa/130-https-youtubecom-playlistlistploromvodv4rmqxocazwatuhhq-yemblcvsirgczfhdknkkwmta"
     }
   ],
   "items": [
-    {
-      "title": "An ex-OpenAI researcher just deleted language from the LLM",
-      "source": "https://youtu.be/TbkUKCm3CHQ?si=4KCnrhACS-U49EOg",
-      "trello": "https://trello.com/c/FgmXU5YZ/116-an-ex-openai-researcher-just-deleted-language-from-the-llm-fireship",
-      "platform": "YouTube",
-      "channel": "Fireship",
-      "duration": "~5 min",
-      "type": "WATCH",
-      "hook": "A five-minute Jev explainer: typed decisions instead of prose, calibrated confidence and the cases where a fast classifier may beat a generative LLM. Treat the headline speed/cost claims as vendor claims."
-    },
     {
       "title": "Google’s Generational Fumble",
       "source": "https://www.youtube.com/watch?v=d3Gjq-BffuI&list=PLH-u9ZhLrGqo&index=4&pp=iAQB",
