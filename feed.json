@@ -1,27 +1,6 @@
 {
-  "updated": "2026-09-26T19:58:00+03:00",
-  "unresolved": [
-    {
-      "label": "Is Islam’s Judgment Day coming? — needs video/transcript review",
-      "trello": "https://trello.com/c/EVaads95/96-is-islams-judgment-day-coming"
-    },
-    {
-      "label": "You're Already a Meat Proxy — needs original post body/context",
-      "trello": "https://trello.com/c/SEhshxEf/113-youre-already-a-meat-proxy-obie"
-    },
-    {
-      "label": "Building a Custom Harness with Pi and Jev — needs full post/thread",
-      "trello": "https://trello.com/c/RWDMkoKd/124-building-a-custom-harness-with-pi-and-jev-omar-sanseviero"
-    },
-    {
-      "label": "We’re open sourcing the company brain — needs full post/repository review",
-      "trello": "https://trello.com/c/gyAGADx5/132-were-open-sourcing-the-company-brain-dhravya-shah"
-    },
-    {
-      "label": "The situation there is spiraling out of control — needs substantive video review",
-      "trello": "https://trello.com/c/ksHAwoQl/136-the-situation-there-is-spiraling-out-of-control-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94"
-    }
-  ],
+  "updated": "2026-09-26T22:01:30+03:00",
+  "unresolved": [],
   "items": [
     {
       "title": "Thinking in Systems, Shipping in Loops",
