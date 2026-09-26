@@ -1,10 +1,6 @@
 {
-  "updated": "2026-09-26T14:03:32.251Z",
+  "updated": "2026-09-26T19:58:00+03:00",
   "unresolved": [
-    {
-      "label": "YouTube playlist — unprocessed",
-      "trello": "https://trello.com/c/nPmqiKlD/129-https-youtubecom-playlistlistploromvodv4rmqxocazwatuhhq-yemblcvsirgczfhdknkkwmta"
-    },
     {
       "label": "Is Islam’s Judgment Day coming? — needs video/transcript review",
       "trello": "https://trello.com/c/EVaads95/96-is-islams-judgment-day-coming"
@@ -14,43 +10,39 @@
       "trello": "https://trello.com/c/SEhshxEf/113-youre-already-a-meat-proxy-obie"
     },
     {
-      "label": "YouTube Yok8wE1yPw8 — unprocessed",
-      "trello": "https://trello.com/c/JnKVCLzP/114-https-youtube-yok8we1ypw8sikjckjmbaatutpuj7"
+      "label": "Building a Custom Harness with Pi and Jev — needs full post/thread",
+      "trello": "https://trello.com/c/RWDMkoKd/124-building-a-custom-harness-with-pi-and-jev-omar-sanseviero"
     },
     {
-      "label": "YouTube zetQI6TzzCA — unprocessed",
-      "trello": "https://trello.com/c/DqO49J14/115-https-youtube-zetqi6tzzcasidcgwkvtbeyjasq2h"
+      "label": "We’re open sourcing the company brain — needs full post/repository review",
+      "trello": "https://trello.com/c/gyAGADx5/132-were-open-sourcing-the-company-brain-dhravya-shah"
     },
     {
-      "label": "Why America keeps losing wars — needs video/transcript review",
-      "trello": "https://trello.com/c/MnaSfOAs/117-why-america-keeps-losing-wars"
-    },
-    {
-      "label": "X @undefinedKi post 2068306794116501544 — unprocessed",
-      "trello": "https://trello.com/c/QUQDEV1j/119-https-xcom-undefinedki-status-2068306794116501544"
-    },
-    {
-      "label": "X @omarsar0 post 2102762406204076532 — unprocessed",
-      "trello": "https://trello.com/c/RWDMkoKd/124-https-xcom-omarsar0-status-2102762406204076532"
-    },
-    {
-      "label": "YouTube -P5iFpHL16I — unprocessed",
-      "trello": "https://trello.com/c/PohPTdsb/128-https-youtube-p5ifphl16isifldjwni-nxxaeg2f"
-    },
-    {
-      "label": "YouTube playlist — unprocessed (duplicate card 2)",
-      "trello": "https://trello.com/c/iUjpodxa/130-https-youtubecom-playlistlistploromvodv4rmqxocazwatuhhq-yemblcvsirgczfhdknkkwmta"
-    },
-    {
-      "label": "X @ttunguz post 2103145763098566858 — unprocessed",
-      "trello": "https://trello.com/c/pB57EpWH/131-https-xcom-ttunguz-status-2103145763098566858"
-    },
-    {
-      "label": "X @DhravyaShah post 2103668051468300701 — unprocessed",
-      "trello": "https://trello.com/c/gyAGADx5/132-https-xcom-dhravyashah-status-2103668051468300701"
+      "label": "The situation there is spiraling out of control — needs substantive video review",
+      "trello": "https://trello.com/c/ksHAwoQl/136-the-situation-there-is-spiraling-out-of-control-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94"
     }
   ],
   "items": [
+    {
+      "title": "Thinking in Systems, Shipping in Loops",
+      "source": "https://x.com/ttunguz/status/2103145763098566858",
+      "trello": "https://trello.com/c/pB57EpWH/131-thinking-in-systems-shipping-in-loops-tomasz-tunguz",
+      "platform": "X / Web",
+      "channel": "Tomasz Tunguz",
+      "duration": "~3 min read",
+      "type": "READ",
+      "hook": "If agents write the code, the engineering work moves into the loop around them: tests, reviewer agents, observability, reusable skills and composable sandboxes. A concise systems-design framing for agentic development."
+    },
+    {
+      "title": "How to Build an AI Second Brain With Claude and Obsidian",
+      "source": "https://x.com/undefinedKi/status/2068306794116501544",
+      "trello": "https://trello.com/c/QUQDEV1j/119-how-to-build-an-ai-second-brain-with-claude-and-obsidian-undefinedki",
+      "platform": "X article",
+      "channel": "undefinedKi",
+      "duration": "~10 min read",
+      "type": "READ",
+      "hook": "A concrete local-first memory architecture: plain-text Obsidian vault, Claude as the agent layer, MCP for access, CLAUDE.md for durable context and reusable skills for recurring workflows."
+    },
     {
       "title": "Google’s Generational Fumble",
       "source": "https://www.youtube.com/watch?v=d3Gjq-BffuI&list=PLH-u9ZhLrGqo&index=4&pp=iAQB",
@@ -161,16 +153,6 @@
       "hook": "What stays valuable when coding gets cheap? YC connects agent-run workflows, physical infrastructure and experienced founders. Start at 15:40 or 32:54; cohort figures are YC-reported."
     },
     {
-      "title": "Noam Brown — Agent swarms and alignment",
-      "source": "https://youtu.be/6AgOfiZOWiY",
-      "trello": "https://trello.com/c/yqnkaNB8/99-noam-brown-agent-swarms-and-alignment",
-      "platform": "YouTube",
-      "duration": "1 hr 20 min",
-      "type": "WATCH",
-      "hook": "A high-value deep dive on multi-agent coordination: context forking, agent-to-agent messaging and parallel cognitive work—plus why longer agent horizons make evaluation harder.",
-      "channel": "Dwarkesh Podcast"
-    },
-    {
       "title": "Spotify Claude Code token routing: ~90% reduction",
       "source": "https://x.com/undefinedKi/status/2095942506433089832",
       "trello": "https://trello.com/c/rK7ShKgZ/19-spotify-claude-code-token-routing-90-reduction",
@@ -274,16 +256,6 @@
       "duration": "15 min 41 sec",
       "type": "WATCH",
       "hook": "The interesting robotics claim isn't one-shot magic: huge pretraining may let a robot use a video demonstration as an in-context task prompt."
-    },
-    {
-      "title": "Why The Harness Matters More Than The Model | YC Paper Club",
-      "source": "https://youtu.be/n9xKblqyQ28?si=nfAIILyQGb1WiaNc",
-      "trello": "https://trello.com/c/MlFXbfKy/67-why-the-harness-matters-more-than-the-model-yc-paper-club",
-      "platform": "YouTube",
-      "duration": "~60 min",
-      "type": "WATCH",
-      "hook": "The deep version of a theme you've been circling: reliable agents emerge from state, context, tools, memory and control loops—not just a smarter model.",
-      "channel": "Y Combinator"
     },
     {
       "title": "\"Soon, half the residents of the Negev will have a Palestinian identity\" | Hagai Reznik",
