@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T19:50:39+03:00",
+  "updated": "2026-09-27T19:51:36+03:00",
   "unresolved": [],
   "items": [
     {
@@ -359,7 +359,7 @@
       "channel": "The PrimeTime",
       "duration": "11 min 7 sec.",
       "type": "WATCH",
-      "hook": "The prior indexed summary records the creator’s argument that Google had major structural advantages in AI but lagged on product execution. It cites model rankings and a coding-agent cost anecdote; these are creator claims, not independently reproduced benchmarks."
+      "hook": "Prime asks how Google could invent TPUs and help create transformers yet struggle to convert those advantages into leading AI products. The dramatic Gemini cost anecdote is a creator claim, not a benchmark."
     },
     {
       "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
@@ -567,7 +567,7 @@
       "channel": "mark normand",
       "duration": "1 min 11 sec.",
       "type": "WATCH",
-      "hook": "A rapid topical stand-up bit. The captions include jokes about people calling Sydney Sweeney a Nazi over jeans and a separate Kanye reference. Auto-captions can misrender jokes and names; this is a comedy clip, not factual commentary."
+      "hook": "A rapid topical stand-up clip."
     },
     {
       "title": "#standupcomedy #joke #comedy #funnyshorts #usashorts #standup",
@@ -577,7 +577,7 @@
       "channel": "The Movie Snap",
       "duration": "46 sec.",
       "type": "WATCH",
-      "hook": "The title and tags indicate a short comedy clip, but the publisher provides no topic or context. The actual bit could not be assessed."
+      "hook": "A short stand-up comedy clip; no transcript was available."
     },
     {
       "title": "How to Win With AI in 2026 & Beyond",
@@ -587,7 +587,7 @@
       "channel": "Chamath Palihapitiya",
       "duration": "11 min 2 sec.",
       "type": "WATCH",
-      "hook": "A high-level AI industry discussion organized around infrastructure, robotics and model competition. The publisher description does not establish the speakers’ conclusions or support individual market claims; transcript unavailable."
+      "hook": "A high-level AI industry discussion covering infrastructure, robotics and model competition; transcript unavailable."
     },
     {
       "title": "Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
@@ -597,7 +597,7 @@
       "channel": "All-In Podcast",
       "duration": "1 hr 34 min 24 sec.",
       "type": "WATCH",
-      "hook": "A long-form roundtable spanning AI markets, open-source competition, model cost, corporate plans and policy. The title is promotional framing; without a transcript, arguments and evidence were not assessed."
+      "hook": "A long-form roundtable spanning AI markets, open-source competition, model cost, corporate plans and policy; transcript unavailable."
     },
     {
       "title": "The Universe May Have Just Revealed the True Nature of Empty Space",
@@ -607,7 +607,7 @@
       "channel": "PBS Space Time",
       "duration": "17 min 56 sec.",
       "type": "WATCH",
-      "hook": "A physics explainer about quantum-vacuum effects and whether magnetar observations may show vacuum birefringence. The chapter list itself asks whether this is truly a detection; the headline’s “true nature” phrasing should not be read as settled proof."
+      "hook": "A physics explainer about quantum-vacuum effects and whether magnetar observations may show vacuum birefringence."
     },
     {
       "title": "Meta is pivoting again... everything you missed from Connect 2026",
@@ -617,7 +617,7 @@
       "channel": "Fireship",
       "duration": "5 min 41 sec.",
       "type": "WATCH",
-      "hook": "A brief roundup of Meta Connect announcements, framed by the creator as another pivot. The publisher description gives no details on individual announcements, so those could not be assessed."
+      "hook": "A brief roundup of Meta Connect 2026 announcements; transcript unavailable."
     },
     {
       "title": "AI Server Farms Land in Israel - How Will They Impact Our Wallets?",
@@ -627,7 +627,7 @@
       "channel": "כאן | חדשות - תאגיד השידור הישראלי",
       "duration": "10 min 14 sec.",
       "type": "WATCH",
-      "hook": "A short report on the infrastructure and investment behind AI data centers in Israel, including possible consumer implications. No transcript was available, so the details and evidence in the report were not assessed."
+      "hook": "A short report on infrastructure and investment behind AI data centers in Israel and possible consumer implications."
     },
     {
       "title": "Jev is Here",
@@ -637,7 +637,7 @@
       "channel": "The PrimeTime",
       "duration": "12 min 7 sec.",
       "type": "WATCH",
-      "hook": "The title and linked references indicate a showcase of Jev-related workflows and AI-agent demos. The video’s actual walkthroughs and claims could not be assessed without a transcript."
+      "hook": "A showcase of Jev-related workflows and AI-agent demos; transcript unavailable."
     },
     {
       "title": "יאיר גולן | ״בסלון של יסמין״",
@@ -647,7 +647,7 @@
       "channel": "בסלון של יסמין",
       "duration": "1 hr 16 min 4 sec.",
       "type": "WATCH",
-      "hook": "A long political interview spanning security doctrine, economics, judicial reform and party strategy. This summary reflects the publisher’s description and chapter headings only; Golan’s answers and the host’s challenges were not assessed."
+      "hook": "A long interview covering security, Israel-Palestine, economics, judicial reform and party strategy. The card reflects publisher chapters; no transcript was available."
     },
     {
       "title": "New Experiment Settles 80 Years Old Debate, Physicists Claim",
@@ -657,7 +657,7 @@
       "channel": "Sabine Hossenfelder",
       "duration": "6 min 53 sec.",
       "type": "WATCH",
-      "hook": "A short science-news analysis of a quantum-physics experiment associated with Feynman’s path-integral formulation. The creator’s description frames the interpretation as a claim to scrutinize; no transcript was available to assess the argument."
+      "hook": "A short science-news analysis of a quantum-physics experiment associated with Feynman’s path-integral formulation."
     },
     {
       "title": "Luca Ferrari, Bending Spoons CEO: The $40K Start, Buying Product-Market Fit & Beating Private Equity",
@@ -667,7 +667,7 @@
       "channel": "All-In Podcast",
       "duration": "25 min 30 sec.",
       "type": "WATCH",
-      "hook": "Interview topics include the company’s early restart, its operating standards, financing and acquisition strategy, and its European base. These are publisher chapter labels and sampled captions, not independently verified company or performance claims."
+      "hook": "An operator-focused interview on Bending Spoons’ early restart, operating standards, financing and acquisition strategy."
     },
     {
       "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
@@ -677,7 +677,7 @@
       "channel": "Two Minute Papers",
       "duration": "5 min 14 sec.",
       "type": "WATCH",
-      "hook": "A short AI-and-research roundup. The publisher’s caveat shows that at least one showcased result was not reproduced in the creator’s test; the transcript was unavailable, so other claims were not assessed."
+      "hook": "A short AI-and-research roundup; the publisher includes a caveat about one showcased result."
     },
     {
       "title": "The Secret Of Star Trek's Biggest Episode",
@@ -687,7 +687,7 @@
       "channel": "The Art Of Storytelling",
       "duration": "18 min 30 sec.",
       "type": "WATCH",
-      "hook": "A craft-focused reading of “The Best of Both Worlds,” highlighting Riker’s role and the two-part cliffhanger’s contribution to serialized television. This is the creator’s interpretation, not a production-history fact check."
+      "hook": "A craft-focused reading of The Best of Both Worlds, highlighting Riker and the two-part cliffhanger."
     },
     {
       "title": "התחזית: למה שנת 2027 תגרום לשוק הנדל״ן לרעוד",
@@ -697,7 +697,7 @@
       "channel": "לנה כהן 💫 נדל״ן עם כוכבים",
       "duration": "16 min 24 sec.",
       "type": "WATCH",
-      "hook": "A real-estate market commentary built around sharp market and inventory claims and a 2027 forecast. These are the creator’s claims, not independently validated here; note the course promotion."
+      "hook": "Israeli real-estate market commentary built around market, inventory and 2027 forecast claims; the claims were not independently validated."
     },
     {
       "title": "Software Engineer: I'm Tired of Pretending",
@@ -707,7 +707,7 @@
       "channel": "Anime Engineering Senpai",
       "duration": "6 min 50 sec.",
       "type": "WATCH",
-      "hook": "A short, personal piece about the pressure and anxiety of keeping up with software work and tutorials. The chapter list gives topics but not the creator’s full argument; affiliate disclosure noted."
+      "hook": "A short personal piece about pressure, anxiety and keeping up with software work and tutorials."
     },
     {
       "title": "The Rick Rubin Interview",
@@ -717,7 +717,7 @@
       "channel": "Rick Beato",
       "duration": "2 hr 12 min 49 sec.",
       "type": "WATCH",
-      "hook": "A long-form interview about Rubin’s career and creative work. The publisher description is broad and does not identify particular arguments or stories; no transcript was available to assess them."
+      "hook": "A long-form interview about Rick Rubin’s producing career, collaborations and creative process."
     }
   ]
 }
