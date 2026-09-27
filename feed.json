@@ -1,7 +1,167 @@
 {
-  "updated": "2026-09-26T22:01:30+03:00",
+  "updated": "2026-09-27T17:43:00+03:00",
   "unresolved": [],
   "items": [
+    {
+      "title": "The Rick Rubin Interview",
+      "source": "https://www.youtube.com/watch?v=qkwISstQQVw",
+      "trello": "https://trello.com/c/EG87QCaw/152",
+      "platform": "YouTube",
+      "channel": "Rick Beato",
+      "duration": "2 hr 12 min 49 sec",
+      "type": "WATCH",
+      "hook": "A long-form interview about Rick Rubin’s producing career, collaborations and creative process."
+    },
+    {
+      "title": "Software Engineer: I'm Tired of Pretending",
+      "source": "https://www.youtube.com/watch?v=H0HwFqBG9KE",
+      "trello": "https://trello.com/c/QJoNs6uE/151",
+      "platform": "YouTube",
+      "channel": "Anime Engineering Senpai",
+      "duration": "6 min 50 sec",
+      "type": "WATCH",
+      "hook": "A short personal piece about pressure, anxiety and keeping up with software work and tutorials."
+    },
+    {
+      "title": "התחזית: למה שנת 2027 תגרום לשוק הנדל״ן לרעוד",
+      "source": "https://www.youtube.com/watch?v=Ed7Mh9iYqp8",
+      "trello": "https://trello.com/c/G85VUK1Y/150",
+      "platform": "YouTube",
+      "channel": "לנה כהן 💫 נדל״ן עם כוכבים",
+      "duration": "16 min 24 sec",
+      "type": "WATCH",
+      "hook": "Israeli real-estate market commentary built around market, inventory and 2027 forecast claims; the claims were not independently validated."
+    },
+    {
+      "title": "The Secret Of Star Trek's Biggest Episode",
+      "source": "https://www.youtube.com/watch?v=PPg3TwgehAw",
+      "trello": "https://trello.com/c/krgnYidC/149",
+      "platform": "YouTube",
+      "channel": "The Art Of Storytelling",
+      "duration": "18 min 30 sec",
+      "type": "WATCH",
+      "hook": "A craft-focused reading of The Best of Both Worlds, highlighting Riker and the two-part cliffhanger."
+    },
+    {
+      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+      "source": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
+      "trello": "https://trello.com/c/MrhEvIvQ/148",
+      "platform": "YouTube",
+      "channel": "Two Minute Papers",
+      "duration": "5 min 14 sec",
+      "type": "WATCH",
+      "hook": "A short AI-and-research roundup; the publisher includes a caveat about one showcased result."
+    },
+    {
+      "title": "Luca Ferrari, Bending Spoons CEO: The $40K Start, Buying Product-Market Fit & Beating Private Equity",
+      "source": "https://www.youtube.com/watch?v=6t5yF8ansoQ",
+      "trello": "https://trello.com/c/TnrkIWpU/147",
+      "platform": "YouTube",
+      "channel": "All-In Podcast",
+      "duration": "25 min 30 sec",
+      "type": "WATCH",
+      "hook": "An operator-focused interview on Bending Spoons’ early restart, operating standards, financing and acquisition strategy."
+    },
+    {
+      "title": "New Experiment Settles 80 Years Old Debate, Physicists Claim",
+      "source": "https://www.youtube.com/watch?v=A2ImadKWaHA",
+      "trello": "https://trello.com/c/tsM4nAKj/146",
+      "platform": "YouTube",
+      "channel": "Sabine Hossenfelder",
+      "duration": "6 min 53 sec",
+      "type": "WATCH",
+      "hook": "A short science-news analysis of a quantum-physics experiment associated with Feynman’s path-integral formulation."
+    },
+    {
+      "title": "יאיר גולן | ״בסלון של יסמין״",
+      "source": "https://www.youtube.com/watch?v=m1CakR-ZEFc",
+      "trello": "https://trello.com/c/wn2w9KtK/145",
+      "platform": "YouTube",
+      "channel": "בסלון של יסמין",
+      "duration": "1 hr 16 min 4 sec",
+      "type": "WATCH",
+      "hook": "A long interview covering security, Israel-Palestine, economics, judicial reform and party strategy. The card reflects publisher chapters; no transcript was available."
+    },
+    {
+      "title": "Jev is Here",
+      "source": "https://www.youtube.com/watch?v=BHPDsGVciDk",
+      "trello": "https://trello.com/c/h9CG9z4Q/144",
+      "platform": "YouTube",
+      "channel": "The PrimeTime",
+      "duration": "12 min 7 sec",
+      "type": "WATCH",
+      "hook": "A showcase of Jev-related workflows and AI-agent demos; transcript unavailable."
+    },
+    {
+      "title": "AI Server Farms Land in Israel - How Will They Impact Our Wallets?",
+      "source": "https://www.youtube.com/watch?v=UZvE5fXtJJU",
+      "trello": "https://trello.com/c/uFVPqbOP/143",
+      "platform": "YouTube",
+      "channel": "כאן | חדשות",
+      "duration": "10 min 14 sec",
+      "type": "WATCH",
+      "hook": "A short report on infrastructure and investment behind AI data centers in Israel and possible consumer implications."
+    },
+    {
+      "title": "Meta is pivoting again... everything you missed from Connect 2026",
+      "source": "https://www.youtube.com/watch?v=c1rPlzxSZ8E",
+      "trello": "https://trello.com/c/IqkuKvfw/142",
+      "platform": "YouTube",
+      "channel": "Fireship",
+      "duration": "5 min 41 sec",
+      "type": "WATCH",
+      "hook": "A brief roundup of Meta Connect 2026 announcements; transcript unavailable."
+    },
+    {
+      "title": "The Universe May Have Just Revealed the True Nature of Empty Space",
+      "source": "https://www.youtube.com/watch?v=568-39aOZkw",
+      "trello": "https://trello.com/c/I2sf2WJv/141",
+      "platform": "YouTube",
+      "channel": "PBS Space Time",
+      "duration": "17 min 56 sec",
+      "type": "WATCH",
+      "hook": "A physics explainer about quantum-vacuum effects and whether magnetar observations may show vacuum birefringence."
+    },
+    {
+      "title": "Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
+      "source": "https://www.youtube.com/watch?v=cvP_1jmnkmM",
+      "trello": "https://trello.com/c/X8qRUCrk/140",
+      "platform": "YouTube",
+      "channel": "All-In Podcast",
+      "duration": "1 hr 34 min 24 sec",
+      "type": "WATCH",
+      "hook": "A long-form roundtable spanning AI markets, open-source competition, model cost, corporate plans and policy; transcript unavailable."
+    },
+    {
+      "title": "How to Win With AI in 2026 & Beyond",
+      "source": "https://www.youtube.com/watch?v=iI9uVDF0R4s",
+      "trello": "https://trello.com/c/glLqQrUP/139",
+      "platform": "YouTube",
+      "channel": "Chamath Palihapitiya",
+      "duration": "11 min 2 sec",
+      "type": "WATCH",
+      "hook": "A high-level AI industry discussion covering infrastructure, robotics and model competition; transcript unavailable."
+    },
+    {
+      "title": "#standupcomedy #joke #comedy #funnyshorts #usashorts #standup",
+      "source": "https://www.youtube.com/watch?v=qjCzAMLvWo8",
+      "trello": "https://trello.com/c/s5vsSnXZ/138",
+      "platform": "YouTube",
+      "channel": "The Movie Snap",
+      "duration": "46 sec",
+      "type": "WATCH",
+      "hook": "A short stand-up comedy clip; no transcript was available."
+    },
+    {
+      "title": "Mark Normand Roasts Everybody in Just 1 Minute!! #shorts",
+      "source": "https://www.youtube.com/watch?v=-jfnCA3kwVU",
+      "trello": "https://trello.com/c/YwMzOfRg/137",
+      "platform": "YouTube",
+      "channel": "mark normand",
+      "duration": "1 min 11 sec",
+      "type": "WATCH",
+      "hook": "A rapid topical stand-up clip."
+    },
     {
       "title": "Thinking in Systems, Shipping in Loops",
       "source": "https://x.com/ttunguz/status/2103145763098566858",
