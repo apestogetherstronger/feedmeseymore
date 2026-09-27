@@ -1,6 +1,15 @@
 {
-  "updated": "2026-09-27T20:04:49+03:00",
-  "unresolved": [],
+  "updated": "2026-09-27T23:58:31+03:00",
+  "unresolved": [
+    {
+      "title": "https://x.com/amitiitbhu/status/2104063785724203247",
+      "trello": "https://trello.com/c/blfmex7a/153-https-xcom-amitiitbhu-status-2104063785724203247"
+    },
+    {
+      "title": "https://x.com/alexandr_wang/status/2103551714536439951",
+      "trello": "https://trello.com/c/7t5saoqi/154-https-xcom-alexandrwang-status-2103551714536439951"
+    }
+  ],
   "items": [
     {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
