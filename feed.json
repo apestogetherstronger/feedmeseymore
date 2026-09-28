@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T16:22:08+03:00",
+  "updated": "2026-09-28T20:01:20+03:00",
   "unresolved": [],
   "items": [
     {
@@ -728,6 +728,15 @@
       "duration": "Unknown; full article unavailable.",
       "type": "READ",
       "hook": "Wang presents Muse as a “second mind” or general manager that helps surface a person's goals, makes a plan, and handles practical steps such as sending emails, making calls, finding funding and keeping things on schedule. This is a product vision, not…"
+    },
+    {
+      "title": "CAFE(S): A framework for defining AI context quality",
+      "source": "Pasted Engineering Enablement newsletter text; direct newsletter/paper URL was not included.",
+      "trello": "https://trello.com/c/qSIU6m7C/157-cafes-a-framework-for-defining-ai-context-quality",
+      "platform": "Engineering Enablement newsletter; paper published in ACM Queue",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "CAFE(S) defines five qualities for agent context: Clarity (intended meaning), Actionability (objective, constraints, and done state), Fidelity (accuracy, currency, consistency, and trustworthy sources), Efficiency (high signal-to-noise), and Security (whether the agent should…"
     }
   ]
 }
