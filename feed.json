@@ -1,16 +1,25 @@
 {
-  "updated": "2026-09-28T12:03:41+03:00",
-  "unresolved": [
+  "updated": "2026-09-28T16:22:08+03:00",
+  "unresolved": [],
+  "items": [
     {
-      "title": "https://x.com/amitiitbhu/status/2104063785724203247",
-      "trello": "https://trello.com/c/blfmex7a/153-https-xcom-amitiitbhu-status-2104063785724203247"
+      "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
+      "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
+      "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
+      "platform": "YouTube",
+      "duration": "Unknown video runtime; ~5–8 min summary read.",
+      "type": "WATCH",
+      "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
     },
     {
-      "title": "https://x.com/alexandr_wang/status/2103551714536439951",
-      "trello": "https://trello.com/c/7t5saoqi/154-https-xcom-alexandrwang-status-2103551714536439951"
-    }
-  ],
-  "items": [
+      "title": "David Friedberg: US economy, socialism and AI future",
+      "source": "https://youtu.be/OYg6BTjb90E?si=JEbhH9W_0crPE9QF",
+      "trello": "https://trello.com/c/GE6GhHJy/32-david-friedberg-us-economy-socialism-and-ai-future",
+      "platform": "YouTube",
+      "duration": "~2 hr 4 min video; ~13 min indexed summary.",
+      "type": "WATCH",
+      "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
+    },
     {
       "title": "The State of Startups in 2026",
       "source": "https://www.youtube.com/watch?v=yslXlV2BP_Y&list=PLH-u9ZhLrGqo&index=6&pp=iAQB",
@@ -701,22 +710,24 @@
       "hook": "A long-form interview about Rick Rubin’s producing career, collaborations and creative process."
     },
     {
-      "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
-      "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
-      "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
-      "platform": "YouTube",
-      "duration": "Unknown video runtime; ~5–8 min summary read.",
-      "type": "WATCH",
-      "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
+      "title": "The Future of Software Development",
+      "source": "https://x.com/amitiitbhu/status/2104063785724203247",
+      "trello": "https://trello.com/c/blfmex7a/153-the-future-of-software-development-amit-shekhar",
+      "platform": "X article",
+      "channel": "Amit Shekhar (@amitiitbhu)",
+      "duration": "~15 min read (estimate from the saved ~3,000-word copy).",
+      "type": "READ",
+      "hook": "- Shekhar imagines a shift from IDE autocomplete, to terminal-based coding agents, toward expressing intent while agents build, test, fix and ship. He notes that this complete loop is not yet universal. He predicts agent-oriented operating systems,…"
     },
     {
-      "title": "David Friedberg: US economy, socialism and AI future",
-      "source": "https://youtu.be/OYg6BTjb90E?si=JEbhH9W_0crPE9QF",
-      "trello": "https://trello.com/c/GE6GhHJy/32-david-friedberg-us-economy-socialism-and-ai-future",
-      "platform": "YouTube",
-      "duration": "~2 hr 4 min video; ~13 min indexed summary.",
-      "type": "WATCH",
-      "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
+      "title": "Why We're Building Muse",
+      "source": "https://x.com/alexandr_wang/status/2103551714536439951",
+      "trello": "https://trello.com/c/7t5saoqi/154-why-were-building-muse-alexandr-wang",
+      "platform": "X article",
+      "channel": "Alexandr Wang (@alexandr_wang)",
+      "duration": "Unknown; full article unavailable.",
+      "type": "READ",
+      "hook": "Wang presents Muse as a “second mind” or general manager that helps surface a person's goals, makes a plan, and handles practical steps such as sending emails, making calls, finding funding and keeping things on schedule. This is a product vision, not…"
     }
   ]
 }
