@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T11:02:35+03:00",
+  "updated": "2026-09-28T12:03:41+03:00",
   "unresolved": [
     {
       "title": "https://x.com/amitiitbhu/status/2104063785724203247",
@@ -11,24 +11,6 @@
     }
   ],
   "items": [
-    {
-      "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
-      "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
-      "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
-      "platform": "YouTube",
-      "duration": "Unknown video runtime; ~5–8 min summary read.",
-      "type": "WATCH",
-      "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
-    },
-    {
-      "title": "David Friedberg: US economy, socialism and AI future",
-      "source": "https://youtu.be/OYg6BTjb90E?si=JEbhH9W_0crPE9QF",
-      "trello": "https://trello.com/c/GE6GhHJy/32-david-friedberg-us-economy-socialism-and-ai-future",
-      "platform": "YouTube",
-      "duration": "~2 hr 4 min video; ~13 min indexed summary.",
-      "type": "WATCH",
-      "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
-    },
     {
       "title": "The State of Startups in 2026",
       "source": "https://www.youtube.com/watch?v=yslXlV2BP_Y&list=PLH-u9ZhLrGqo&index=6&pp=iAQB",
@@ -717,6 +699,24 @@
       "duration": "2 hr 12 min 49 sec.",
       "type": "WATCH",
       "hook": "A long-form interview about Rick Rubin’s producing career, collaborations and creative process."
+    },
+    {
+      "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
+      "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
+      "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
+      "platform": "YouTube",
+      "duration": "Unknown video runtime; ~5–8 min summary read.",
+      "type": "WATCH",
+      "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
+    },
+    {
+      "title": "David Friedberg: US economy, socialism and AI future",
+      "source": "https://youtu.be/OYg6BTjb90E?si=JEbhH9W_0crPE9QF",
+      "trello": "https://trello.com/c/GE6GhHJy/32-david-friedberg-us-economy-socialism-and-ai-future",
+      "platform": "YouTube",
+      "duration": "~2 hr 4 min video; ~13 min indexed summary.",
+      "type": "WATCH",
+      "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
     }
   ]
 }
