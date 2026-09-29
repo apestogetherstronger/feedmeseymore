@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-28T20:01:20+03:00",
+  "updated": "2026-09-29T17:38:47+03:00",
   "unresolved": [],
   "items": [
     {
@@ -737,6 +737,33 @@
       "duration": "unknown",
       "type": "READ",
       "hook": "CAFE(S) defines five qualities for agent context: Clarity (intended meaning), Actionability (objective, constraints, and done state), Fidelity (accuracy, currency, consistency, and trustworthy sources), Efficiency (high signal-to-noise), and Security (whether the agent should…"
+    },
+    {
+      "title": "The Mythology Of Conscious AI",
+      "source": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
+      "trello": "https://trello.com/c/FXgjf9D5/158-the-mythology-of-conscious-ai-anil-seth",
+      "platform": "unknown",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "Seth argues that intelligence and consciousness are different, and that human tendencies such as anthropomorphism, anthropocentrism, language-based assumptions, and “exponential” narratives encourage people to over-attribute consciousness to AI. He challenges computational…"
+    },
+    {
+      "title": "10 RAG Projects That Will Take You From Basic Retrieval to Production-Grade AI Systems",
+      "source": "https://x.com/_jaydeepkarale/status/2104550496552017991",
+      "trello": "https://trello.com/c/fzQs85s1/159-10-rag-projects-for-production-grade-ai-systems-jaydeep",
+      "platform": "X article",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "A practical learning roadmap for moving beyond a basic document-chat RAG demo. The ten project ideas are: hybrid BM25 + vector search; metadata-filtered retrieval; reranking; contextual chunking; SQL + vector retrieval; knowledge-graph + vector retrieval; corrective RAG that…"
+    },
+    {
+      "title": "Stanford CS329A — Self-Improving AI Agents",
+      "source": "https://cs329a.stanford.edu/",
+      "trello": "https://trello.com/c/fjraglOb/160-stanford-cs329a-self-improving-ai-agents",
+      "platform": "Stanford course website",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "A Stanford graduate seminar on techniques and applications for AI agents that improve through interaction with themselves and their environment. Topics include Constitutional AI and verifiers; test-time compute and search; reinforcement learning; tool use and execution…"
     }
   ]
 }
