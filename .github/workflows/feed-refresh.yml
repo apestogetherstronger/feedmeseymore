@@ -1,0 +1,124 @@
+name: Feed Me, Seymore Refresh
+
+on:
+  schedule:
+    # GitHub cron is UTC and has no timezone support. Run hourly and gate in
+    # Asia/Jerusalem so DST changes still produce 00/04/08/12/16/20 local runs.
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: feed-me-seymore-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    env:
+      TRELLO_API_KEY: ${{ secrets.TRELLO_API_KEY }}
+      TRELLO_TOKEN: ${{ secrets.TRELLO_TOKEN }}
+
+      # These IDs are not secrets. Override them here if the Trello structure changes.
+      TRELLO_CANONICAL_CARD_ID: "6a9be0e6a1dc845ae3514be0"
+      TRELLO_ENRICHED_LIST_ID: "6a9c2408edbcb452bce35076"
+      TRELLO_RECOMMENDED_LIST_ID: "6a9c240d84e3397a15a6f202"
+      TRELLO_INBOX_LIST_ID: "6944a5c20c973d5587213ddd"
+      TRELLO_LOG_CARD_ID: "6a9d16eed880cf84a8c1d9eb"
+      TRELLO_LOG_POLICY_CARD_ID: "6a9d16e611540e3110483950"
+
+    steps:
+      - name: Check schedule in Asia/Jerusalem
+        id: gate
+        shell: bash
+        run: |
+          python - <<'PY'
+          import os
+          from datetime import datetime
+          from zoneinfo import ZoneInfo
+
+          now = datetime.now(ZoneInfo("Asia/Jerusalem"))
+          manual = os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
+          should_run = manual or now.hour in {0, 4, 8, 12, 16, 20}
+          print(f"Jerusalem time: {now.isoformat(timespec='seconds')}; run={should_run}")
+          with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
+              out.write(f"run={'true' if should_run else 'false'}\\n")
+          PY
+
+      - name: Check out repository
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        if: steps.gate.outputs.run == 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Validate Trello credentials
+        if: steps.gate.outputs.run == 'true'
+        shell: bash
+        run: |
+          test -n "$TRELLO_API_KEY" || { echo "::error::Missing TRELLO_API_KEY secret"; exit 1; }
+          test -n "$TRELLO_TOKEN" || { echo "::error::Missing TRELLO_TOKEN secret"; exit 1; }
+
+      - name: Rebuild and validate feed
+        id: refresh
+        if: steps.gate.outputs.run == 'true'
+        run: |
+          python scripts/feed_refresh.py refresh \
+            --feed feed.json \
+            --summary-file /tmp/feed_refresh_summary.json
+
+      - name: Commit and push feed
+        id: publish
+        if: steps.gate.outputs.run == 'true' && steps.refresh.outputs.active == 'true'
+        shell: bash
+        run: |
+          git config user.name "feed-me-seymore[bot]"
+          git config user.email "feed-me-seymore[bot]@users.noreply.github.com"
+          git add feed.json
+          git commit -m "Refresh Feed Me, Seymore feed"
+          git push
+          echo "commit=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+
+      - name: Verify published feed from GitHub
+        if: steps.gate.outputs.run == 'true' && steps.refresh.outputs.active == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          curl --fail --silent --show-error --location \
+            -H "Authorization: Bearer $GH_TOKEN" \
+            -H "Accept: application/vnd.github.raw+json" \
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            "https://api.github.com/repos/${GITHUB_REPOSITORY}/contents/feed.json?ref=${GITHUB_REF_NAME}" \
+            --output /tmp/remote_feed.json
+
+          cmp --silent feed.json /tmp/remote_feed.json || {
+            echo "::error::Remote feed.json differs from the locally verified feed"
+            exit 1
+          }
+
+          python scripts/feed_refresh.py verify \
+            --feed /tmp/remote_feed.json \
+            --summary-file /tmp/feed_refresh_summary.json
+
+      - name: Update Trello run log
+        if: success() && steps.gate.outputs.run == 'true' && steps.refresh.outputs.active == 'true'
+        continue-on-error: true
+        run: |
+          python scripts/feed_refresh.py log \
+            --summary-file /tmp/feed_refresh_summary.json
+
+      - name: Log failed active run
+        if: failure() && steps.gate.outputs.run == 'true'
+        continue-on-error: true
+        run: |
+          python scripts/feed_refresh.py log \
+            --summary-file /tmp/feed_refresh_summary.json \
+            --error
