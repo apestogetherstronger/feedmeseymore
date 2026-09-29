@@ -44,7 +44,7 @@ jobs:
           should_run = manual or now.hour in {0, 4, 8, 12, 16, 20}
           print(f"Jerusalem time: {now.isoformat(timespec='seconds')}; run={should_run}")
           with open(os.environ["GITHUB_OUTPUT"], "a", encoding="utf-8") as out:
-              out.write(f"run={'true' if should_run else 'false'}\\n")
+              out.write(f"run={'true' if should_run else 'false'}\n")
           PY
 
       - name: Check out repository
