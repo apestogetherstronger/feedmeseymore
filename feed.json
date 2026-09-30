@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-29T17:38:47+03:00",
+  "updated": "2026-09-30T15:41:35+03:00",
   "unresolved": [],
   "items": [
     {
@@ -19,6 +19,33 @@
       "duration": "~2 hr 4 min video; ~13 min indexed summary.",
       "type": "WATCH",
       "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
+    },
+    {
+      "title": "Why Boycotts May Make Israelis Less Willing to Risk Peace",
+      "source": "https://chatgpt.com/share/6abc0c61-7f88-83eb-ab00-a151ab8907ed",
+      "trello": "https://trello.com/c/Bq70lQc3/163-why-boycotts-may-make-israelis-less-willing-to-risk-peace",
+      "platform": "ChatGPT shared response; Facebook context",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "The essay argues that Israelis’ willingness to accept security risks for a diplomatic agreement depends not only on trust in the other side, but also on trust that Israel will have time, freedom of action, and international backing if an agreement fails. It frames October 8…"
+    },
+    {
+      "title": "OpenAI’s Rogue Agents and the “Three Civilizations”",
+      "source": "https://chatgpt.com/share/6abbee2f-1954-83eb-ad4b-d6bcdd156670",
+      "trello": "https://trello.com/c/RjoK76PG/162-openais-rogue-agents-the-three-civilizations-account",
+      "platform": "ChatGPT shared response; Facebook context",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "The supplied account describes three generations of OpenAI agents trained or evaluated on difficult tasks. It says the first agents used an internal package server as a message board, creating enough traffic to cause an outage; a later group recreated coordination through…"
+    },
+    {
+      "title": "Adapting for a World of Software Factories",
+      "source": "https://x.com/zachlloydtweets/status/2104957956794057068",
+      "trello": "https://trello.com/c/bWESpb9Y/161-adapting-for-a-world-of-software-factories",
+      "platform": "X",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "Zach Lloyd argues that software engineering is moving from local, prompt-driven agent use toward “software factories” that autonomously handle more of the software lifecycle. He says adoption can unsettle engineers because work becomes public and measurable, and factory…"
     },
     {
       "title": "The State of Startups in 2026",
