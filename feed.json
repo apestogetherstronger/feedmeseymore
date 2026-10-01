@@ -1,6 +1,11 @@
 {
-  "updated": "2026-09-30T15:41:35+03:00",
-  "unresolved": [],
+  "updated": "2026-10-01T03:12:08+03:00",
+  "unresolved": [
+    {
+      "title": "CAFE(S): A framework for defining AI context quality",
+      "trello": "https://trello.com/c/qSIU6m7C/157-cafes-a-framework-for-defining-ai-context-quality"
+    }
+  ],
   "items": [
     {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
@@ -21,22 +26,13 @@
       "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
     },
     {
-      "title": "Why Boycotts May Make Israelis Less Willing to Risk Peace",
-      "source": "https://chatgpt.com/share/6abc0c61-7f88-83eb-ab00-a151ab8907ed",
-      "trello": "https://trello.com/c/Bq70lQc3/163-why-boycotts-may-make-israelis-less-willing-to-risk-peace",
-      "platform": "ChatGPT shared response; Facebook context",
+      "title": "How We Built Memory for Continually Learning Sales Agents",
+      "source": "https://x.com/mihail_eric/status/2105312916199358803",
+      "trello": "https://trello.com/c/SX6OboJc/164-how-we-built-memory-for-continually-learning-sales-agents",
+      "platform": "X",
       "duration": "unknown",
       "type": "READ",
-      "hook": "The essay argues that Israelis’ willingness to accept security risks for a diplomatic agreement depends not only on trust in the other side, but also on trust that Israel will have time, freedom of action, and international backing if an agreement fails. It frames October 8…"
-    },
-    {
-      "title": "OpenAI’s Rogue Agents and the “Three Civilizations”",
-      "source": "https://chatgpt.com/share/6abbee2f-1954-83eb-ad4b-d6bcdd156670",
-      "trello": "https://trello.com/c/RjoK76PG/162-openais-rogue-agents-the-three-civilizations-account",
-      "platform": "ChatGPT shared response; Facebook context",
-      "duration": "unknown",
-      "type": "READ",
-      "hook": "The supplied account describes three generations of OpenAI agents trained or evaluated on difficult tasks. It says the first agents used an internal package server as a message board, creating enough traffic to cause an outage; a later group recreated coordination through…"
+      "hook": "Mihail Eric describes Monaco Memory, a context system for sales agents that stores shared company knowledge separately from individual user preferences. The design aims for memory to be interpretable and editable, gather information across product surfaces, stay fresh,…"
     },
     {
       "title": "Adapting for a World of Software Factories",
@@ -66,16 +62,6 @@
       "duration": "~3 min read (estimate for the thread only).",
       "type": "READ",
       "hook": "Two concrete Jev ideas: shortlist LinkedIn contacts and triage Google contacts into Keep, Review or Remove. A short overview with human review; performance claims remain unverified."
-    },
-    {
-      "title": "האמת מאחורי | המסע המופלא — EZway",
-      "source": "https://youtu.be/myginBX1aPI?si=LjRSLWiaVNbxXr4q",
-      "trello": "https://trello.com/c/rzQuTf1M/85-%D7%94%D7%90%D7%9E%D7%AA-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%A1%D7%A2-%D7%94%D7%9E%D7%95%D7%A4%D7%9C%D7%90-ezway",
-      "platform": "YouTube",
-      "channel": "הדרך הקלה (@ezway)",
-      "duration": "10 min 36 sec.",
-      "type": "WATCH",
-      "hook": "Pending. The short description does not establish the arguments or examples. Substantive summary and recommendation await video/transcript review."
     },
     {
       "title": "Build your own Jev (100% local)",
@@ -755,15 +741,6 @@
       "duration": "Unknown; full article unavailable.",
       "type": "READ",
       "hook": "Wang presents Muse as a “second mind” or general manager that helps surface a person's goals, makes a plan, and handles practical steps such as sending emails, making calls, finding funding and keeping things on schedule. This is a product vision, not…"
-    },
-    {
-      "title": "CAFE(S): A framework for defining AI context quality",
-      "source": "Pasted Engineering Enablement newsletter text; direct newsletter/paper URL was not included.",
-      "trello": "https://trello.com/c/qSIU6m7C/157-cafes-a-framework-for-defining-ai-context-quality",
-      "platform": "Engineering Enablement newsletter; paper published in ACM Queue",
-      "duration": "unknown",
-      "type": "READ",
-      "hook": "CAFE(S) defines five qualities for agent context: Clarity (intended meaning), Actionability (objective, constraints, and done state), Fidelity (accuracy, currency, consistency, and trustworthy sources), Efficiency (high signal-to-noise), and Security (whether the agent should…"
     },
     {
       "title": "The Mythology Of Conscious AI",
