@@ -1,11 +1,6 @@
 {
-  "updated": "2026-10-01T03:12:08+03:00",
-  "unresolved": [
-    {
-      "title": "CAFE(S): A framework for defining AI context quality",
-      "trello": "https://trello.com/c/qSIU6m7C/157-cafes-a-framework-for-defining-ai-context-quality"
-    }
-  ],
+  "updated": "2026-10-03T07:01:15+03:00",
+  "unresolved": [],
   "items": [
     {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
@@ -24,6 +19,94 @@
       "duration": "~2 hr 4 min video; ~13 min indexed summary.",
       "type": "WATCH",
       "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
+    },
+    {
+      "title": "Own your AI, don’t let it own you",
+      "source": "https://x.com/0xSigil/status/2105782954094182442",
+      "trello": "https://trello.com/c/4rT8zoOw/173-own-your-ai-dont-let-it-own-you-sigil-wen",
+      "platform": "X article",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "Sigil Wen argues that capable personal AI will increasingly run on phones and laptops rather than cloud servers, making privacy, cost and user control central product advantages. The post introduces Underdog, whose 27B model is based on Qwen 3.8 27B and is presented as…"
+    },
+    {
+      "title": "זו מדינת אויב? (YouTube displays: Is this an enemy state?)",
+      "source": "https://www.youtube.com/watch?v=fdcow7TmOXM",
+      "trello": "https://trello.com/c/H4RAOna6/172-%D7%96%D7%95-%D7%9E%D7%93%D7%99%D7%A0%D7%AA-%D7%90%D7%95%D7%99%D7%91-is-this-an-enemy-state-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
+      "platform": "YouTube",
+      "channel": "הדרך הקלה (@ezway; verified)",
+      "duration": "12 min 35 sec.",
+      "type": "WATCH",
+      "hook": "The video’s title frames a question about whether an unnamed entity is an enemy state. The publisher description and available transcript do not identify the subject or provide enough information to summarize the argument reliably."
+    },
+    {
+      "title": "מכבית וחנאל - שמח בא להוריד",
+      "source": "https://www.youtube.com/watch?v=fRWh5N8vs6U",
+      "trello": "https://trello.com/c/ynFNAkrm/171-%D7%9E%D7%9B%D7%91%D7%99%D7%AA-%D7%95%D7%97%D7%A0%D7%90%D7%9C-%D7%A9%D7%9E%D7%97-%D7%91%D7%90-%D7%9C%D7%94%D7%95%D7%A8%D7%99%D7%93-%D7%90%D7%95%D7%A9%D7%A8%D7%99%D7%AA-%D7%95%D7%97%D7%9F",
+      "platform": "YouTube",
+      "channel": "אושרית וחן- מערכונים קומדיה",
+      "duration": "10 min 23 sec.",
+      "type": "WATCH",
+      "hook": "A Hebrew comedy sketch in which Hanal and Makhbit want to connect, while a babysitter tries to keep them apart. The description credits director/editor Moshe Yona, writers Chen Rotman and Oshrit Sarusi, and guest Eran Zarhovich."
+    },
+    {
+      "title": "Ass In Gere",
+      "source": "https://www.youtube.com/watch?v=8bO5EGSFI60",
+      "trello": "https://trello.com/c/vOs7oZgs/170-ass-in-gere-mark-normand-matt-salacuse",
+      "platform": "YouTube",
+      "channel": "Mark Normand (verified)",
+      "duration": "2 min 53 sec.",
+      "type": "WATCH",
+      "hook": "A short comedy sketch set around a crisis team in the 1980s trying to manage a tabloid rumor about actor Richard Gere. The publisher lists the sketch’s cast and credits; the transcript confirms the comic premise. Adult humor and sexual innuendo."
+    },
+    {
+      "title": "Prime Minister Netanyahu in an economic discussion with Oren Dobronsky",
+      "source": "https://www.youtube.com/watch?v=tkn6Y_SisRI",
+      "trello": "https://trello.com/c/4grzqUQx/169-prime-minister-netanyahu-on-economics-and-ai-benjamin-netanyahu",
+      "platform": "YouTube",
+      "channel": "Benjamin Netanyahu - בנימין נתניהו (verified official channel)",
+      "duration": "28 min 22 sec.",
+      "type": "WATCH",
+      "hook": "Netanyahu discusses past market reforms, Israel’s economic performance, cost of living, housing, competition and monopolies, then lays out an ambition for Israel to become a leading AI power through education, infrastructure and energy. The economic statistics and policy…"
+    },
+    {
+      "title": "שורדת השבי מייה שם בחשיפה מצמררת: ״אף אחד בישראל לא מבין מה באמת עברתי כחטופה בעזה!״",
+      "source": "https://www.youtube.com/watch?v=LUgoS2v0BBs",
+      "trello": "https://trello.com/c/o3eoIvMD/168-maya-shem-on-life-after-captivity-%D7%93%D7%A0%D7%99%D7%90%D7%9C-%D7%93%D7%95%D7%A9%D7%99",
+      "platform": "YouTube",
+      "channel": "דניאל דושי (@danieldushy)",
+      "duration": "1 hr 7 min 13 sec.",
+      "type": "WATCH",
+      "hook": "Interview with Maya Shem about captivity, returning to life, family and faith, how trauma changes over time, public expectations of survivors, and imagining a future beyond the “hostage” label. The publisher’s chapter list also covers her injuries, the role of family, why she…"
+    },
+    {
+      "title": "This could drag everyone into a war",
+      "source": "https://www.youtube.com/watch?v=J4SJit9vRrk",
+      "trello": "https://trello.com/c/Si3J2AQx/167-this-could-drag-everyone-into-a-war-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
+      "platform": "YouTube",
+      "channel": "הדרך הקלה (@ezway; verified)",
+      "duration": "15 min 8 sec.",
+      "type": "WATCH",
+      "hook": "A current-affairs video framed around rising tensions in Ethiopia and the risk of a wider regional conflict. Available description does not identify the developments or provide enough detail to assess the analysis, so the summary is limited to the publisher’s stated premise."
+    },
+    {
+      "title": "The Insane Real Engineering of the Nazi Enigma Machine",
+      "source": "https://www.youtube.com/watch?v=JsBZOcqZerk",
+      "trello": "https://trello.com/c/sVa2TAop/166-the-insane-real-engineering-of-the-nazi-enigma-machine-veritasium",
+      "platform": "YouTube",
+      "channel": "Veritasium",
+      "duration": "47 min 42 sec.",
+      "type": "WATCH",
+      "hook": "Veritasium explains how the Enigma cipher machine worked and how codebreakers exploited its weaknesses. The publisher’s chapter list covers its origins, early codebreakers, attempts to decrypt a message, Alan Turing, the Bombe, Naval Enigma, and Turing’s later work. The…"
+    },
+    {
+      "title": "The Rise of the Automation Engineer",
+      "source": "https://x.com/jakeserval/status/2105659201221804372",
+      "trello": "https://trello.com/c/y9yzfdSe/165-the-rise-of-the-automation-engineer",
+      "platform": "X",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "Jake Stauch argues that AI-driven automation is creating demand for a new embedded enterprise role: the Automation Engineer. The role combines understanding real business workflows, people and organizational constraints with building automation systems that remove repetitive…"
     },
     {
       "title": "How We Built Memory for Continually Learning Sales Agents",
@@ -212,6 +295,15 @@
       "duration": "9 hr 52 min (Microsoft estimate).",
       "type": "READ",
       "hook": "A real course rather than a snack. Keep it for a deliberate learning block: Agent Framework, MCP, workflows, multi-agent orchestration and A2A are the high-value sections."
+    },
+    {
+      "title": "CAFE(S): A framework for defining AI context quality",
+      "source": "Pasted Engineering Enablement newsletter text; direct newsletter/paper URL was not included.",
+      "trello": "https://trello.com/c/qSIU6m7C/157-cafes-a-framework-for-defining-ai-context-quality",
+      "platform": "Engineering Enablement newsletter; paper published in ACM Queue",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "CAFE(S) defines five qualities for agent context: Clarity (intended meaning), Actionability (objective, constraints, and done state), Fidelity (accuracy, currency, consistency, and trustworthy sources), Efficiency (high signal-to-noise), and Security (whether the agent should…"
     },
     {
       "title": "The paradox at the heart of AI and science | Terence Tao",
