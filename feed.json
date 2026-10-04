@@ -1,6 +1,23 @@
 {
-  "updated": "2026-10-03T07:01:15+03:00",
-  "unresolved": [],
+  "updated": "2026-10-05T00:20:00+03:00",
+  "unresolved": [
+    {
+      "title": "The one OpenAI announcement that can actually make you money... — Fireship",
+      "trello": "https://trello.com/c/4dALKiQq/177-the-one-openai-announcement-that-can-actually-make-you-money-fireship"
+    },
+    {
+      "title": "הסוד מאחורי המחשבות שלכם (The Secret Behind Your Thoughts) — הדרך הקלה",
+      "trello": "https://trello.com/c/DbY6VGPP/178-%D7%94%D7%A1%D7%95%D7%93-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA-%D7%A9%D7%9C%D7%9B%D7%9D-the-secret-behind-your-thoughts-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94"
+    },
+    {
+      "title": "Why The Taliban Are Begging The US To Come Back — RealLifeLore",
+      "trello": "https://trello.com/c/j0RvSlJp/179-why-the-taliban-are-begging-the-us-to-come-back-reallifelore"
+    },
+    {
+      "title": "I'm ... cured? — Adam Ragusea",
+      "trello": "https://trello.com/c/VmGZdw6g/183-im-cured-adam-ragusea"
+    }
+  ],
   "items": [
     {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
@@ -19,6 +36,16 @@
       "duration": "~2 hr 4 min video; ~13 min indexed summary.",
       "type": "WATCH",
       "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
+    },
+    {
+      "title": "2026.40: Dots and Question Marks",
+      "source": "https://stratechery.com/2026/dots-and-question-marks/",
+      "trello": "https://trello.com/c/RA5G9xTC/174-dots-and-question-marks-stratechery-by-ben-thompson",
+      "platform": "Stratechery",
+      "duration": "~5–7 min read for the roundup; linked pieces are additional.",
+      "type": "READ",
+      "hook": "A quick strategic map of how Meta and OpenAI are positioning for an agent-driven computing layer—and where Thompson thinks each is getting distracted or muddled.",
+      "channel": "Ben Thompson / Stratechery"
     },
     {
       "title": "Own your AI, don’t let it own you",
@@ -48,16 +75,6 @@
       "duration": "10 min 23 sec.",
       "type": "WATCH",
       "hook": "A Hebrew comedy sketch in which Hanal and Makhbit want to connect, while a babysitter tries to keep them apart. The description credits director/editor Moshe Yona, writers Chen Rotman and Oshrit Sarusi, and guest Eran Zarhovich."
-    },
-    {
-      "title": "Ass In Gere",
-      "source": "https://www.youtube.com/watch?v=8bO5EGSFI60",
-      "trello": "https://trello.com/c/vOs7oZgs/170-ass-in-gere-mark-normand-matt-salacuse",
-      "platform": "YouTube",
-      "channel": "Mark Normand (verified)",
-      "duration": "2 min 53 sec.",
-      "type": "WATCH",
-      "hook": "A short comedy sketch set around a crisis team in the 1980s trying to manage a tabloid rumor about actor Richard Gere. The publisher lists the sketch’s cast and credits; the transcript confirms the comic premise. Adult humor and sexual innuendo."
     },
     {
       "title": "Prime Minister Netanyahu in an economic discussion with Oren Dobronsky",
@@ -98,15 +115,6 @@
       "duration": "47 min 42 sec.",
       "type": "WATCH",
       "hook": "Veritasium explains how the Enigma cipher machine worked and how codebreakers exploited its weaknesses. The publisher’s chapter list covers its origins, early codebreakers, attempts to decrypt a message, Alan Turing, the Bombe, Naval Enigma, and Turing’s later work. The…"
-    },
-    {
-      "title": "The Rise of the Automation Engineer",
-      "source": "https://x.com/jakeserval/status/2105659201221804372",
-      "trello": "https://trello.com/c/y9yzfdSe/165-the-rise-of-the-automation-engineer",
-      "platform": "X",
-      "duration": "unknown",
-      "type": "READ",
-      "hook": "Jake Stauch argues that AI-driven automation is creating demand for a new embedded enterprise role: the Automation Engineer. The role combines understanding real business workflows, people and organizational constraints with building automation systems that remove repetitive…"
     },
     {
       "title": "How We Built Memory for Continually Learning Sales Agents",
@@ -297,6 +305,16 @@
       "hook": "A real course rather than a snack. Keep it for a deliberate learning block: Agent Framework, MCP, workflows, multi-agent orchestration and A2A are the high-value sections."
     },
     {
+      "title": "פרק 75: טראמפ נגד האו״ם, ענקיות הבינה במרוץ נגד הזמן, ערים לעשירים בלבד?",
+      "source": "https://www.youtube.com/watch?v=ADdt4OFmkxI",
+      "trello": "https://trello.com/c/Pqm23Qt1/175-%D7%A4%D7%A8%D7%A7-75-%D7%98%D7%A8%D7%90%D7%9E%D7%A4-%D7%A0%D7%92%D7%93-%D7%94%D7%90%D7%95%D7%B4%D7%9D-%D7%A2%D7%A0%D7%A7%D7%99%D7%95%D7%AA-%D7%94%D7%91%D7%99%D7%A0%D7%94-%D7%91%D7%9E%D7%A8%D7%95%D7%A5-%D7%A0%D7%92%D7%93-%D7%94%D7%96%D7%9E%D7%9F-%D7%A2%D7%A8%D7%99%D7%9D-%D7%9C%D7%A2%D7%A9%D7%99%D7%A8%D7%99%D7%9D-%D7%91%D7%9C%D7%91%D7%93-%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%95%D7%9C%D7%97%D7%9F-4",
+      "platform": "YouTube",
+      "duration": "~91 min.",
+      "type": "WATCH",
+      "hook": "The episode description and chapters cover Gulf oil routes that bypass Hormuz and Iran’s leverage; Trump’s accusation that the UN encourages migration; Anthropic’s delayed IPO; Venice entry fees and access to cities; and food insecurity. The description provides chapter markers for these segments.",
+      "channel": "פודקאסט שולחן 4"
+    },
+    {
       "title": "CAFE(S): A framework for defining AI context quality",
       "source": "Pasted Engineering Enablement newsletter text; direct newsletter/paper URL was not included.",
       "trello": "https://trello.com/c/qSIU6m7C/157-cafes-a-framework-for-defining-ai-context-quality",
@@ -333,6 +351,16 @@
       "hook": "The useful part of the flashy Blender demo is a spending rule: start on low effort, inspect the artifact, and use more reasoning only where judgment earns it. Demos still need verification."
     },
     {
+      "title": "Kent Beck: Software Engineering in the Age of AI | Prodacity 2026",
+      "source": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
+      "trello": "https://trello.com/c/nhMhk6aO/176-kent-beck-software-engineering-in-the-age-of-ai-prodacity-2026-rise8",
+      "platform": "YouTube",
+      "duration": "~52 min.",
+      "type": "WATCH",
+      "hook": "Kent Beck discusses software craft when models write much of the code: plausible versus working code, preserving future change options, iterative development versus one-shot specifications, formal methods with Lean, and measuring effort, output, outcomes and mission without falling into Goodhart’s law.",
+      "channel": "Rise8"
+    },
+    {
       "title": "Robots Just Had Their GPT-3 Moment",
       "source": "https://youtube.com/watch?v=cqwKceUSZ5Q&si=NY6Nxc2QPo-NnAQm",
       "trello": "https://trello.com/c/roOKjK2y/12-robots-just-had-their-gpt-3-moment",
@@ -358,6 +386,36 @@
       "duration": "~20–30 min (exact runtime not reliably available).",
       "type": "WATCH",
       "hook": "Indexed metadata identifies this as a Vercel Ship 26 session about how AI agents are changing software development. Available snippets emphasize agents working across coding, testing, review and deployment rather than only autocomplete, but I did not retrieve enough primary…"
+    },
+    {
+      "title": "Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?",
+      "source": "https://www.youtube.com/watch?v=lnB4Zckx_34",
+      "trello": "https://trello.com/c/ML5mvG25/180-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version-ai-news-strategy-daily-nate-b-jones",
+      "platform": "YouTube",
+      "duration": "~39 min.",
+      "type": "WATCH",
+      "hook": "The description compares OpenAI DevDay launches including Dots, ChatGPT Space/Pages, and GPT-6.1 Sol with Meta’s Muse and Anthropic. It covers subscription value, context handling, model plan limits, small-team use cases, and builder-facing Decisions API/plugin extensions, with chapter markers.",
+      "channel": "AI News & Strategy Daily | Nate B Jones"
+    },
+    {
+      "title": "Digger - Movie Review (Non-Spoiler & Spoiler)",
+      "source": "https://www.youtube.com/watch?v=5gXm4PAo_nI",
+      "trello": "https://trello.com/c/1dorWqIV/181-digger-movie-review-non-spoiler-spoiler-dan-murrell",
+      "platform": "YouTube",
+      "duration": "~15 min.",
+      "type": "WATCH",
+      "hook": "Dan Murrell reviews Tom Cruise’s film Digger, which he describes as polarizing and unusually risky. The video has a spoiler-free section followed by spoiler discussion beginning at 7:27.",
+      "channel": "Dan Murrell"
+    },
+    {
+      "title": "What Is Jev? The AI Model That Doesn't Generate Text",
+      "source": "https://www.youtube.com/watch?v=YGgNBcIgI4s",
+      "trello": "https://trello.com/c/ElNaFfUo/182-what-is-jev-the-ai-model-that-doesnt-generate-text-ibm-technology",
+      "platform": "YouTube",
+      "duration": "~15 min.",
+      "type": "WATCH",
+      "hook": "IBM Technology explains Jev as a System 1 model that returns calibrated probabilities rather than generated prose. The description covers comparison with LLMs and reasoning models, calibration, training, turning probabilities into software decisions, guardrails, and combining Jev with LLM workflows.",
+      "channel": "IBM Technology"
     },
     {
       "title": "How to become ripped like Adam Ragusea",
