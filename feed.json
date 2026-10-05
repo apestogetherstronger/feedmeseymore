@@ -1,10 +1,6 @@
 {
-  "updated": "2026-10-05T00:20:00+03:00",
+  "updated": "2026-10-05T02:03:32+03:00",
   "unresolved": [
-    {
-      "title": "The one OpenAI announcement that can actually make you money... — Fireship",
-      "trello": "https://trello.com/c/4dALKiQq/177-the-one-openai-announcement-that-can-actually-make-you-money-fireship"
-    },
     {
       "title": "הסוד מאחורי המחשבות שלכם (The Secret Behind Your Thoughts) — הדרך הקלה",
       "trello": "https://trello.com/c/DbY6VGPP/178-%D7%94%D7%A1%D7%95%D7%93-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA-%D7%A9%D7%9C%D7%9B%D7%9D-the-secret-behind-your-thoughts-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94"
@@ -20,24 +16,6 @@
   ],
   "items": [
     {
-      "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
-      "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
-      "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
-      "platform": "YouTube",
-      "duration": "Unknown video runtime; ~5–8 min summary read.",
-      "type": "WATCH",
-      "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
-    },
-    {
-      "title": "David Friedberg: US economy, socialism and AI future",
-      "source": "https://youtu.be/OYg6BTjb90E?si=JEbhH9W_0crPE9QF",
-      "trello": "https://trello.com/c/GE6GhHJy/32-david-friedberg-us-economy-socialism-and-ai-future",
-      "platform": "YouTube",
-      "duration": "~2 hr 4 min video; ~13 min indexed summary.",
-      "type": "WATCH",
-      "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
-    },
-    {
       "title": "2026.40: Dots and Question Marks",
       "source": "https://stratechery.com/2026/dots-and-question-marks/",
       "trello": "https://trello.com/c/RA5G9xTC/174-dots-and-question-marks-stratechery-by-ben-thompson",
@@ -52,7 +30,7 @@
       "source": "https://x.com/0xSigil/status/2105782954094182442",
       "trello": "https://trello.com/c/4rT8zoOw/173-own-your-ai-dont-let-it-own-you-sigil-wen",
       "platform": "X article",
-      "duration": "unknown",
+      "duration": "~10–12 min read (estimate from supplied text).",
       "type": "READ",
       "hook": "Sigil Wen argues that capable personal AI will increasingly run on phones and laptops rather than cloud servers, making privacy, cost and user control central product advantages. The post introduces Underdog, whose 27B model is based on Qwen 3.8 27B and is presented as…"
     },
@@ -61,67 +39,67 @@
       "source": "https://www.youtube.com/watch?v=fdcow7TmOXM",
       "trello": "https://trello.com/c/H4RAOna6/172-%D7%96%D7%95-%D7%9E%D7%93%D7%99%D7%A0%D7%AA-%D7%90%D7%95%D7%99%D7%91-is-this-an-enemy-state-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
-      "channel": "הדרך הקלה (@ezway; verified)",
-      "duration": "12 min 35 sec.",
+      "duration": "12:35",
       "type": "WATCH",
-      "hook": "The video’s title frames a question about whether an unnamed entity is an enemy state. The publisher description and available transcript do not identify the subject or provide enough information to summarize the argument reliably."
+      "hook": "The video’s title frames a question about whether an unnamed entity is an enemy state. The publisher description and available transcript do not identify the subject or provide enough information to summarize the argument reliably.",
+      "channel": "הדרך הקלה (@ezway; verified)"
     },
     {
       "title": "מכבית וחנאל - שמח בא להוריד",
       "source": "https://www.youtube.com/watch?v=fRWh5N8vs6U",
       "trello": "https://trello.com/c/ynFNAkrm/171-%D7%9E%D7%9B%D7%91%D7%99%D7%AA-%D7%95%D7%97%D7%A0%D7%90%D7%9C-%D7%A9%D7%9E%D7%97-%D7%91%D7%90-%D7%9C%D7%94%D7%95%D7%A8%D7%99%D7%93-%D7%90%D7%95%D7%A9%D7%A8%D7%99%D7%AA-%D7%95%D7%97%D7%9F",
       "platform": "YouTube",
-      "channel": "אושרית וחן- מערכונים קומדיה",
-      "duration": "10 min 23 sec.",
+      "duration": "10:23",
       "type": "WATCH",
-      "hook": "A Hebrew comedy sketch in which Hanal and Makhbit want to connect, while a babysitter tries to keep them apart. The description credits director/editor Moshe Yona, writers Chen Rotman and Oshrit Sarusi, and guest Eran Zarhovich."
+      "hook": "A Hebrew comedy sketch in which Hanal and Makhbit want to connect, while a babysitter tries to keep them apart. The description credits director/editor Moshe Yona, writers Chen Rotman and Oshrit Sarusi, and guest Eran Zarhovich.",
+      "channel": "אושרית וחן- מערכונים קומדיה"
     },
     {
       "title": "Prime Minister Netanyahu in an economic discussion with Oren Dobronsky",
       "source": "https://www.youtube.com/watch?v=tkn6Y_SisRI",
       "trello": "https://trello.com/c/4grzqUQx/169-prime-minister-netanyahu-on-economics-and-ai-benjamin-netanyahu",
       "platform": "YouTube",
-      "channel": "Benjamin Netanyahu - בנימין נתניהו (verified official channel)",
-      "duration": "28 min 22 sec.",
+      "duration": "28:22",
       "type": "WATCH",
-      "hook": "Netanyahu discusses past market reforms, Israel’s economic performance, cost of living, housing, competition and monopolies, then lays out an ambition for Israel to become a leading AI power through education, infrastructure and energy. The economic statistics and policy…"
+      "hook": "Netanyahu discusses past market reforms, Israel’s economic performance, cost of living, housing, competition and monopolies, then lays out an ambition for Israel to become a leading AI power through education, infrastructure and energy. The economic statistics and policy…",
+      "channel": "Benjamin Netanyahu - בנימין נתניהו (verified official channel)"
     },
     {
       "title": "שורדת השבי מייה שם בחשיפה מצמררת: ״אף אחד בישראל לא מבין מה באמת עברתי כחטופה בעזה!״",
       "source": "https://www.youtube.com/watch?v=LUgoS2v0BBs",
       "trello": "https://trello.com/c/o3eoIvMD/168-maya-shem-on-life-after-captivity-%D7%93%D7%A0%D7%99%D7%90%D7%9C-%D7%93%D7%95%D7%A9%D7%99",
       "platform": "YouTube",
-      "channel": "דניאל דושי (@danieldushy)",
-      "duration": "1 hr 7 min 13 sec.",
+      "duration": "1:07:13",
       "type": "WATCH",
-      "hook": "Interview with Maya Shem about captivity, returning to life, family and faith, how trauma changes over time, public expectations of survivors, and imagining a future beyond the “hostage” label. The publisher’s chapter list also covers her injuries, the role of family, why she…"
+      "hook": "Interview with Maya Shem about captivity, returning to life, family and faith, how trauma changes over time, public expectations of survivors, and imagining a future beyond the “hostage” label. The publisher’s chapter list also covers her injuries, the role of family, why she…",
+      "channel": "דניאל דושי (@danieldushy)"
     },
     {
       "title": "This could drag everyone into a war",
       "source": "https://www.youtube.com/watch?v=J4SJit9vRrk",
       "trello": "https://trello.com/c/Si3J2AQx/167-this-could-drag-everyone-into-a-war-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
-      "channel": "הדרך הקלה (@ezway; verified)",
-      "duration": "15 min 8 sec.",
+      "duration": "15:08",
       "type": "WATCH",
-      "hook": "A current-affairs video framed around rising tensions in Ethiopia and the risk of a wider regional conflict. Available description does not identify the developments or provide enough detail to assess the analysis, so the summary is limited to the publisher’s stated premise."
+      "hook": "A current-affairs video framed around rising tensions in Ethiopia and the risk of a wider regional conflict. Available description does not identify the developments or provide enough detail to assess the analysis, so the summary is limited to the publisher’s stated premise.",
+      "channel": "הדרך הקלה (@ezway; verified)"
     },
     {
       "title": "The Insane Real Engineering of the Nazi Enigma Machine",
       "source": "https://www.youtube.com/watch?v=JsBZOcqZerk",
       "trello": "https://trello.com/c/sVa2TAop/166-the-insane-real-engineering-of-the-nazi-enigma-machine-veritasium",
       "platform": "YouTube",
-      "channel": "Veritasium",
-      "duration": "47 min 42 sec.",
+      "duration": "47:42",
       "type": "WATCH",
-      "hook": "Veritasium explains how the Enigma cipher machine worked and how codebreakers exploited its weaknesses. The publisher’s chapter list covers its origins, early codebreakers, attempts to decrypt a message, Alan Turing, the Bombe, Naval Enigma, and Turing’s later work. The…"
+      "hook": "Veritasium explains how the Enigma cipher machine worked and how codebreakers exploited its weaknesses. The publisher’s chapter list covers its origins, early codebreakers, attempts to decrypt a message, Alan Turing, the Bombe, Naval Enigma, and Turing’s later work. The…",
+      "channel": "Veritasium"
     },
     {
       "title": "How We Built Memory for Continually Learning Sales Agents",
       "source": "https://x.com/mihail_eric/status/2105312916199358803",
       "trello": "https://trello.com/c/SX6OboJc/164-how-we-built-memory-for-continually-learning-sales-agents",
       "platform": "X",
-      "duration": "unknown",
+      "duration": "About 6–8 minutes to read (estimate from supplied text).",
       "type": "READ",
       "hook": "Mihail Eric describes Monaco Memory, a context system for sales agents that stores shared company knowledge separately from individual user preferences. The design aims for memory to be interpretable and editable, gather information across product surfaces, stay fresh,…"
     },
@@ -130,7 +108,7 @@
       "source": "https://x.com/zachlloydtweets/status/2104957956794057068",
       "trello": "https://trello.com/c/bWESpb9Y/161-adapting-for-a-world-of-software-factories",
       "platform": "X",
-      "duration": "unknown",
+      "duration": "About 8–10 minutes to read (estimate based on the supplied post).",
       "type": "READ",
       "hook": "Zach Lloyd argues that software engineering is moving from local, prompt-driven agent use toward “software factories” that autonomously handle more of the software lifecycle. He says adoption can unsettle engineers because work becomes public and measurable, and factory…"
     },
@@ -139,177 +117,177 @@
       "source": "https://www.youtube.com/watch?v=yslXlV2BP_Y&list=PLH-u9ZhLrGqo&index=6&pp=iAQB",
       "trello": "https://trello.com/c/tBye1BXB/107-the-state-of-startups-in-2026-y-combinator",
       "platform": "YouTube",
-      "channel": "Y Combinator",
       "duration": "36 min 29 sec; ~10 min for 15:40–17:59, 22:52–27:08 and 32:54–end.",
       "type": "WATCH",
-      "hook": "What stays valuable when coding gets cheap? YC connects agent-run workflows, physical infrastructure and experienced founders. Start at 15:40 or 32:54; cohort figures are YC-reported."
+      "hook": "What stays valuable when coding gets cheap? YC connects agent-run workflows, physical infrastructure and experienced founders. Start at 15:40 or 32:54; cohort figures are YC-reported.",
+      "channel": "Y Combinator"
     },
     {
       "title": "Jev workflows for LinkedIn and Gmail (curated title)",
       "source": "https://www.threads.com/share/_7HBOS6VH/",
       "trello": "https://trello.com/c/flnUen71/112-jev-workflows-for-linkedin-and-gmail-rubenhassid",
       "platform": "Threads",
-      "channel": "@rubenhassid",
       "duration": "~3 min read (estimate for the thread only).",
       "type": "READ",
-      "hook": "Two concrete Jev ideas: shortlist LinkedIn contacts and triage Google contacts into Keep, Review or Remove. A short overview with human review; performance claims remain unverified."
+      "hook": "Two concrete Jev ideas: shortlist LinkedIn contacts and triage Google contacts into Keep, Review or Remove. A short overview with human review; performance claims remain unverified.",
+      "channel": "@rubenhassid"
     },
     {
       "title": "Build your own Jev (100% local)",
       "source": "https://x.com/_avichawla/status/2101563610644496464",
       "trello": "https://trello.com/c/wCpma8PH/111-build-your-own-jev-100-local-avi-chawla",
       "platform": "X article",
-      "channel": "Avi Chawla (@_avichawla)",
       "duration": "~15–20 min read (estimate from article length; hands-on implementation extra).",
       "type": "READ",
-      "hook": "Use local model scores for fixed-choice routing without generating prose. A practical SGLang tutorial, with crucial limits: scores need calibration and this does not reproduce Jev's training."
+      "hook": "Use local model scores for fixed-choice routing without generating prose. A practical SGLang tutorial, with crucial limits: scores need calibration and this does not reproduce Jev's training.",
+      "channel": "Avi Chawla (@_avichawla)"
     },
     {
       "title": "DeepSeek’s Insane New Architecture",
       "source": "https://www.youtube.com/watch?v=vIHw_2VjSUw&list=PLH-u9ZhLrGqo&index=7&pp=iAQB",
       "trello": "https://trello.com/c/0wIO9k1O/110-deepseeks-insane-new-architecture-two-minute-papers",
       "platform": "YouTube",
-      "channel": "Two Minute Papers",
       "duration": "5 min 11 sec.",
       "type": "WATCH",
-      "hook": "Why use the same amount of compute to read and write? DeepSeek’s asymmetric design and smaller KV cache target long-context agent costs. Enriched with the linked primary documentation; transcript unavailable."
+      "hook": "Why use the same amount of compute to read and write? DeepSeek’s asymmetric design and smaller KV cache target long-context agent costs. Enriched with the linked primary documentation; transcript unavailable.",
+      "channel": "Two Minute Papers"
     },
     {
       "title": "We Are Witnessing Cancer's Downfall",
       "source": "https://www.youtube.com/watch?v=7eQL0nwjZOs&list=PLH-u9ZhLrGqo&index=2&pp=iAQB0gcJCSQMAYcqIYzv",
       "trello": "https://trello.com/c/ITMdesEA/104-we-are-witnessing-cancers-downfall-dr-brad-stanfield",
       "platform": "YouTube",
-      "channel": "Dr Brad Stanfield",
       "duration": "12:24.",
       "type": "WATCH",
-      "hook": "RAS-targeted drugs, immunotherapy and personalized vaccines in 12 minutes. A useful research overview, with a headline that needs more evidence than the description provides."
+      "hook": "RAS-targeted drugs, immunotherapy and personalized vaccines in 12 minutes. A useful research overview, with a headline that needs more evidence than the description provides.",
+      "channel": "Dr Brad Stanfield"
     },
     {
       "title": "Jev Engineering: Full 10-Step Roadmap to Set Up and Use a New Brain for AI (from scratch)",
       "source": "https://x.com/0xCodila/status/2100984487802708306",
       "trello": "https://trello.com/c/FY4Cuixk/100-jev-engineering-full-10-step-roadmap-to-set-up-and-use-a-new-brain-for-ai-from-scratch",
       "platform": "X",
-      "channel": "codila (@0xcodila)",
       "duration": "~15–20 min read (estimate).",
       "type": "READ",
-      "hook": "Stop spending a large-model call on every routing decision. This Jev walkthrough proposes a small decision layer with explicit choices, escalation and completion checks; benchmark the savings yourself."
+      "hook": "Stop spending a large-model call on every routing decision. This Jev walkthrough proposes a small decision layer with explicit choices, escalation and completion checks; benchmark the savings yourself.",
+      "channel": "codila (@0xcodila)"
     },
     {
       "title": "Where Andrew Ng’s Coding-Agent Map Goes Sideways — Nova / Sam Walker",
       "source": "https://x.com/SamWalker100/status/2096053451826368646",
       "trello": "https://trello.com/c/sPXTTbOU/16-where-andrew-ngs-coding-agent-map-goes-sideways-nova-sam-walker",
       "platform": "X",
-      "channel": "Sam Walker (@samwalker100); article credited to Nova",
       "duration": "~10–12 min read (estimate).",
       "type": "READ",
-      "hook": "An agent can remember a proposal perfectly and still mistake it for permission. This critique connects memory, authority, verification and reusable skills into one design problem."
+      "hook": "An agent can remember a proposal perfectly and still mistake it for permission. This critique connects memory, authority, verification and reusable skills into one design problem.",
+      "channel": "Sam Walker (@samwalker100); article credited to Nova"
     },
     {
       "title": "כריס קורנל וסאונדגרדן — חלק א׳",
       "source": "https://trello.com/c/y5WaKCp0",
       "trello": "https://trello.com/c/y5WaKCp0/102-%D7%90%D7%9D-%D7%9E%D7%A4%D7%A8%D7%A7%D7%99%D7%9D-%D7%90%D7%AA-%D7%90%D7%A8%D7%91%D7%A2%D7%AA-%D7%94%D7%A7%D7%93%D7%95%D7%A9%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A1%D7%99%D7%90%D7%98%D7%9C-%D7%9C%D7%A4%D7%A1%D7%99%D7%A4%D7%A1-%D7%A8%D7%92%D7%A9%D7%99-%D7%9E%D7%91%D7%99%D7%A0%D7%99%D7%9D-%D7%A9%D7%9B%D7%9C-%D7%9C%D7%94%D7%A7%D7%94-%D7%94%D7%97%D7%96%D7%99%D7%A7%D7%94-%D7%91%D7%AA%D7%93%D7%A8-%D7%99%D7%99%D7%97%D7%95%D7%93%D7%99-%D7%A9%D7%94%D7%A8%D7%9B%D7%99%D7%91-%D7%90%D7%AA-%D7%94%D7%AA%D7%95%D7%A4%D7%A2%D7%94-%D7%A0%D7%99%D7%A8%D7%95%D7%95%D7%90%D7%A0%D7%94-%D7%94%D7%96%D7%99%D7%A0%D7%94-%D7%90%D7%AA-%D7%94%D7%9E%D7%A8%D7%93-%D7%94%D7%90%D7%A0%D7%A8%D7%9B",
       "platform": "Saved text",
-      "channel": "Author not recorded",
       "duration": "~6–8 min read (estimate).",
       "type": "READ",
-      "hook": "A Hebrew introduction to Chris Cornell and early Soundgarden: the voice, unusual rhythms and route to Badmotorfinger. The complete saved text is in the Trello card."
+      "hook": "A Hebrew introduction to Chris Cornell and early Soundgarden: the voice, unusual rhythms and route to Badmotorfinger. The complete saved text is in the Trello card.",
+      "channel": "Author not recorded"
     },
     {
       "title": "How To Fine-Tune a Small LLM on Your Own Data (Full Guide)",
       "source": "https://x.com/sairahul1/status/2100882424343265527",
       "trello": "https://trello.com/c/RJgqcQ0I/101-how-to-fine-tune-a-small-llm-on-your-own-data-full-guide",
       "platform": "X",
-      "channel": "Rahul (@sairahul1)",
       "duration": "~20–30 min read including code (estimate).",
       "type": "READ",
-      "hook": "The useful fine-tuning lesson is in the data pipeline: reviewed examples, company-level splits and a baseline before training. A hands-on guide whose sample code still needs testing."
+      "hook": "The useful fine-tuning lesson is in the data pipeline: reviewed examples, company-level splits and a baseline before training. A hands-on guide whose sample code still needs testing.",
+      "channel": "Rahul (@sairahul1)"
     },
     {
       "title": "Episode #1250 - Daniel Bachmat, Mathematics and AI",
       "source": "https://youtu.be/GolXi97PZbQ?si=-Rui66hYMNo9oA97",
       "trello": "https://trello.com/c/5wRbawRs/97-episode-1250-daniel-bachmat-mathematics-and-ai",
       "platform": "YouTube",
-      "channel": "גיקונומי - Geekonomy - פרקי הוידאו של ראם",
       "duration": "53 min 11 sec.",
       "type": "WATCH",
-      "hook": "A mathematics-focused Geekonomy conversation about Millennium Problems and AI. Keep a skeptical ear for breakthrough claims—the description alone does not establish a solved problem."
+      "hook": "A mathematics-focused Geekonomy conversation about Millennium Problems and AI. Keep a skeptical ear for breakthrough claims—the description alone does not establish a solved problem.",
+      "channel": "גיקונומי - Geekonomy - פרקי הוידאו של ראם"
     },
     {
       "title": "אלון אולמן במסר דחוף לישראלים: רק ככה עושים כסף בישראל. הסוד הכלכלי הזה ישנה את חייכם לתמיד!",
       "source": "https://youtu.be/h_hXk-1fP50?si=e5PdsqtrAjyWCsQZ",
       "trello": "https://trello.com/c/PzpsXNJ6/94-%D7%90%D7%9C%D7%95%D7%9F-%D7%90%D7%95%D7%9C%D7%9E%D7%9F-%D7%91%D7%9E%D7%A1%D7%A8-%D7%93%D7%97%D7%95%D7%A3-%D7%9C%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%9D-%D7%A8%D7%A7-%D7%9B%D7%9B%D7%94-%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%9B%D7%A1%D7%A3-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%94%D7%A1%D7%95%D7%93-%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%99-%D7%94%D7%96%D7%94-%D7%99%D7%A9%D7%A0%D7%94-%D7%90%D7%AA-%D7%97%D7%99%D7%99%D7%9B%D7%9D-%D7%9C%D7%AA%D7%9E%D7%99%D7%93",
       "platform": "YouTube",
-      "channel": "דניאל דושי",
       "duration": "1 hr 58 min 9 sec.",
       "type": "WATCH",
-      "hook": "A long personal-development interview with Alon Ulman about creating value, goals, motivation, self-image, career purpose, money and housing. The detailed description and chapters support those themes, but its financial and psychological prescriptions are motivational…"
+      "hook": "A long personal-development interview with Alon Ulman about creating value, goals, motivation, self-image, career purpose, money and housing. The detailed description and chapters support those themes, but its financial and psychological prescriptions are motivational…",
+      "channel": "דניאל דושי"
     },
     {
       "title": "\"Soon, half the residents of the Negev will have a Palestinian identity\" | Hagai Reznik",
       "source": "https://youtu.be/O0HmSiMDei8?si=BzYVdw6fXqMthXKt",
       "trello": "https://trello.com/c/0nkwyBRa/84-soon-half-the-residents-of-the-negev-will-have-a-palestinian-identity-hagai-reznik",
       "platform": "YouTube",
-      "channel": "ברק הרשקוביץ | דעה לא פופולרית | Barak Herscowitz",
       "duration": "1 hr 4 min 56 sec.",
       "type": "WATCH",
-      "hook": "A detailed argument about Negev governance, education, illegal weapons and settlement policy. Useful as one policy perspective; its demographic forecasts remain unverified claims."
+      "hook": "A detailed argument about Negev governance, education, illegal weapons and settlement policy. Useful as one policy perspective; its demographic forecasts remain unverified claims.",
+      "channel": "ברק הרשקוביץ | דעה לא פופולרית | Barak Herscowitz"
     },
     {
       "title": "הפודקאסט של נדב פרי | נפתלי בנט: אם לא נפתור את הסוגיה החרדית זה גומר אותנו, זה קץ המדינה",
       "source": "https://youtu.be/f3o8sXr4Y_k?si=ZCmMF9g7_6SXulUx",
       "trello": "https://trello.com/c/kRXkVsed/79-%D7%94%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%9C-%D7%A0%D7%93%D7%91-%D7%A4%D7%A8%D7%99-%D7%A0%D7%A4%D7%AA%D7%9C%D7%99-%D7%91%D7%A0%D7%98-%D7%90%D7%9D-%D7%9C%D7%90-%D7%A0%D7%A4%D7%AA%D7%95%D7%A8-%D7%90%D7%AA-%D7%94%D7%A1%D7%95%D7%92%D7%99%D7%94-%D7%94%D7%97%D7%A8%D7%93%D7%99%D7%AA-%D7%96%D7%94-%D7%92%D7%95%D7%9E%D7%A8-%D7%90%D7%95%D7%AA%D7%A0%D7%95-%D7%96%D7%94-%D7%A7%D7%A5-%D7%94%D7%9E%D7%93%D7%99%D7%A0%D7%94",
       "platform": "YouTube",
-      "channel": "All•in הבית של הפודקסטים",
       "duration": "1 hr 47 min 38 sec.",
       "type": "WATCH",
-      "hook": "Bennett's policy case in his own words. Jump to 20:00 for his constitution proposal or 24:06 for Haredi education; a long interview with useful chapter markers."
+      "hook": "Bennett's policy case in his own words. Jump to 20:00 for his constitution proposal or 24:06 for Haredi education; a long interview with useful chapter markers.",
+      "channel": "All•in הבית של הפודקסטים"
     },
     {
       "title": "Brad Gerstner: No AI Bubble, Semis Eat the Nasdaq & AI's Take Off Problem",
       "source": "https://youtu.be/PJrntzMA4iQ?si=7AfKkMgvPfh18LfF",
       "trello": "https://trello.com/c/ERjujwAd/92-brad-gerstner-no-ai-bubble-semis-eat-the-nasdaq-ais-take-off-problem",
       "platform": "YouTube",
-      "channel": "All-In Podcast",
       "duration": "18 min 10 sec.",
       "type": "WATCH",
-      "hook": "Can AI revenue support the infrastructure bill? Start at 5:07 for Gerstner's case, then 12:30 for the power, regulation and interest-rate risks."
+      "hook": "Can AI revenue support the infrastructure bill? Start at 5:07 for Gerstner's case, then 12:30 for the power, regulation and interest-rate risks.",
+      "channel": "All-In Podcast"
     },
     {
       "title": "Agent harness reliability patterns",
       "source": "https://x.com/0xwhrrari/status/2093685107534000560",
       "trello": "https://trello.com/c/MquqLVqE/13-agent-harness-reliability-patterns",
       "platform": "X",
-      "channel": "@0xwhrrari",
       "duration": "~3–5 min read.",
       "type": "READ",
-      "hook": "Before adding another prompt, check the control system: durable state, checkpoints, verification and recovery paths. A compact reliability checklist for autonomous platform tooling."
+      "hook": "Before adding another prompt, check the control system: durable state, checkpoints, verification and recovery paths. A compact reliability checklist for autonomous platform tooling.",
+      "channel": "@0xwhrrari"
     },
     {
       "title": "Andrew Ng: skills for using coding agents effectively",
       "source": "https://x.com/AndrewYNg/status/2095890279865721217",
       "trello": "https://trello.com/c/fFgLhg2p/15-andrew-ng-skills-for-using-coding-agents-effectively",
       "platform": "X",
-      "channel": "Andrew Ng",
       "duration": "~5 min read.",
       "type": "READ",
-      "hook": "A compact framework for what humans still need to get good at when coding agents become more autonomous: planning, context, verification and knowing when to intervene."
+      "hook": "A compact framework for what humans still need to get good at when coding agents become more autonomous: planning, context, verification and knowing when to intervene.",
+      "channel": "Andrew Ng"
     },
     {
       "title": "Azure agents framework",
       "source": "https://learn.microsoft.com/en-us/plans/r27t2t1ezjm86",
       "trello": "https://trello.com/c/ZtsJiELu/3-azure-agents-framework",
       "platform": "Web",
-      "channel": "Microsoft Learn",
       "duration": "9 hr 52 min (Microsoft estimate).",
       "type": "READ",
-      "hook": "A real course rather than a snack. Keep it for a deliberate learning block: Agent Framework, MCP, workflows, multi-agent orchestration and A2A are the high-value sections."
+      "hook": "A real course rather than a snack. Keep it for a deliberate learning block: Agent Framework, MCP, workflows, multi-agent orchestration and A2A are the high-value sections.",
+      "channel": "Microsoft Learn"
     },
     {
       "title": "פרק 75: טראמפ נגד האו״ם, ענקיות הבינה במרוץ נגד הזמן, ערים לעשירים בלבד?",
       "source": "https://www.youtube.com/watch?v=ADdt4OFmkxI",
       "trello": "https://trello.com/c/Pqm23Qt1/175-%D7%A4%D7%A8%D7%A7-75-%D7%98%D7%A8%D7%90%D7%9E%D7%A4-%D7%A0%D7%92%D7%93-%D7%94%D7%90%D7%95%D7%B4%D7%9D-%D7%A2%D7%A0%D7%A7%D7%99%D7%95%D7%AA-%D7%94%D7%91%D7%99%D7%A0%D7%94-%D7%91%D7%9E%D7%A8%D7%95%D7%A5-%D7%A0%D7%92%D7%93-%D7%94%D7%96%D7%9E%D7%9F-%D7%A2%D7%A8%D7%99%D7%9D-%D7%9C%D7%A2%D7%A9%D7%99%D7%A8%D7%99%D7%9D-%D7%91%D7%9C%D7%91%D7%93-%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%95%D7%9C%D7%97%D7%9F-4",
       "platform": "YouTube",
-      "duration": "~91 min.",
+      "duration": "1 hr 31 min",
       "type": "WATCH",
       "hook": "The episode description and chapters cover Gulf oil routes that bypass Hormuz and Iran’s leverage; Trump’s accusation that the UN encourages migration; Anthropic’s delayed IPO; Venice entry fees and access to cities; and food insecurity. The description provides chapter markers for these segments.",
       "channel": "פודקאסט שולחן 4"
@@ -319,7 +297,7 @@
       "source": "Pasted Engineering Enablement newsletter text; direct newsletter/paper URL was not included.",
       "trello": "https://trello.com/c/qSIU6m7C/157-cafes-a-framework-for-defining-ai-context-quality",
       "platform": "Engineering Enablement newsletter; paper published in ACM Queue",
-      "duration": "unknown",
+      "duration": "~8 min (estimated from supplied newsletter length)",
       "type": "READ",
       "hook": "CAFE(S) defines five qualities for agent context: Clarity (intended meaning), Actionability (objective, constraints, and done state), Fidelity (accuracy, currency, consistency, and trustworthy sources), Efficiency (high signal-to-noise), and Security (whether the agent should…"
     },
@@ -355,7 +333,7 @@
       "source": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
       "trello": "https://trello.com/c/nhMhk6aO/176-kent-beck-software-engineering-in-the-age-of-ai-prodacity-2026-rise8",
       "platform": "YouTube",
-      "duration": "~52 min.",
+      "duration": "51 min 53 sec",
       "type": "WATCH",
       "hook": "Kent Beck discusses software craft when models write much of the code: plausible versus working code, preserving future change options, iterative development versus one-shot specifications, formal methods with Lean, and measuring effort, output, outcomes and mission without falling into Goodhart’s law.",
       "channel": "Rise8"
@@ -392,7 +370,7 @@
       "source": "https://www.youtube.com/watch?v=lnB4Zckx_34",
       "trello": "https://trello.com/c/ML5mvG25/180-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version-ai-news-strategy-daily-nate-b-jones",
       "platform": "YouTube",
-      "duration": "~39 min.",
+      "duration": "38 min 31 sec",
       "type": "WATCH",
       "hook": "The description compares OpenAI DevDay launches including Dots, ChatGPT Space/Pages, and GPT-6.1 Sol with Meta’s Muse and Anthropic. It covers subscription value, context handling, model plan limits, small-team use cases, and builder-facing Decisions API/plugin extensions, with chapter markers.",
       "channel": "AI News & Strategy Daily | Nate B Jones"
@@ -402,7 +380,7 @@
       "source": "https://www.youtube.com/watch?v=5gXm4PAo_nI",
       "trello": "https://trello.com/c/1dorWqIV/181-digger-movie-review-non-spoiler-spoiler-dan-murrell",
       "platform": "YouTube",
-      "duration": "~15 min.",
+      "duration": "14 min 54 sec",
       "type": "WATCH",
       "hook": "Dan Murrell reviews Tom Cruise’s film Digger, which he describes as polarizing and unusually risky. The video has a spoiler-free section followed by spoiler discussion beginning at 7:27.",
       "channel": "Dan Murrell"
@@ -412,7 +390,7 @@
       "source": "https://www.youtube.com/watch?v=YGgNBcIgI4s",
       "trello": "https://trello.com/c/ElNaFfUo/182-what-is-jev-the-ai-model-that-doesnt-generate-text-ibm-technology",
       "platform": "YouTube",
-      "duration": "~15 min.",
+      "duration": "15 min 03 sec",
       "type": "WATCH",
       "hook": "IBM Technology explains Jev as a System 1 model that returns calibrated probabilities rather than generated prose. The description covers comparison with LLMs and reasoning models, calibration, training, turning probabilities into software decisions, guardrails, and combining Jev with LLM workflows.",
       "channel": "IBM Technology"
@@ -431,20 +409,20 @@
       "source": "https://www.youtube.com/watch?v=1qGH6NwTj3o",
       "trello": "https://trello.com/c/M3FsFkXf/59-gpt-6-astra-doesnt-need-your-instructions-anymore-nate-b-jones",
       "platform": "YouTube",
-      "channel": "AI News & Strategy Daily | Nate B Jones",
       "duration": "~27 min.",
       "type": "WATCH",
-      "hook": "What changes when an agent gets a standing area of responsibility instead of one task? Nate connects delegation and coordination to reliability—and to the practice junior staff still need."
+      "hook": "What changes when an agent gets a standing area of responsibility instead of one task? Nate connects delegation and coordination to reliability—and to the practice junior staff still need.",
+      "channel": "AI News & Strategy Daily | Nate B Jones"
     },
     {
       "title": "GPT-6 Astra: 20 Hours of Admin — Nate B Jones",
       "source": "https://youtu.be/ix8SsXjBc7M?si=rGJvOwmUIdwGd7Js",
       "trello": "https://trello.com/c/7FpnqKYr/65-gpt-6-astra-20-hours-of-admin-nate-b-jones",
       "platform": "YouTube",
-      "channel": "AI News & Strategy Daily | Nate B Jones",
       "duration": "~20–30 min (exact runtime not verified).",
       "type": "WATCH",
-      "hook": "A concrete manager-agent pattern: gather constraints and approval points once, then let parallel executors handle research, forms, dependencies and retries."
+      "hook": "A concrete manager-agent pattern: gather constraints and approval points once, then let parallel executors handle research, forms, dependencies and retries.",
+      "channel": "AI News & Strategy Daily | Nate B Jones"
     },
     {
       "title": "MCP Explained Simply — What It Is and Why It Exists",
@@ -469,90 +447,90 @@
       "source": "https://www.youtube.com/watch?v=VTF6p0U98ek&list=PLH-u9ZhLrGqo&index=8&pp=iAQB",
       "trello": "https://trello.com/c/00l9PF82/109-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-all-in-podcast",
       "platform": "YouTube",
-      "channel": "All-In Podcast",
       "duration": "~38 min.",
       "type": "WATCH",
-      "hook": "A concrete NASA operating-model and roadmap argument: faster Artemis cadence, lunar return, nuclear-electric missions and Mars. Dates and geopolitical claims are Isaacman's stated plans and positions."
+      "hook": "A concrete NASA operating-model and roadmap argument: faster Artemis cadence, lunar return, nuclear-electric missions and Mars. Dates and geopolitical claims are Isaacman's stated plans and positions.",
+      "channel": "All-In Podcast"
     },
     {
       "title": "GPT-4 predictable scaling: capability from more compute",
       "source": "https://openai.com/index/gpt-4-research/#predictable-scaling",
       "trello": "https://trello.com/c/VhUJWKgL/69-gpt-4-predictable-scaling-capability-from-more-compute",
       "platform": "Web",
-      "channel": "OpenAI",
       "duration": "~3–5 min for the relevant section; longer for the full report.",
       "type": "READ",
-      "hook": "The useful old idea behind today's scaling debates: capability gains could be forecast from smaller training runs before the expensive final run."
+      "hook": "The useful old idea behind today's scaling debates: capability gains could be forecast from smaller training runs before the expensive final run.",
+      "channel": "OpenAI"
     },
     {
       "title": "Stanford CS336: Language Modeling from Scratch | Spring 2026",
       "source": "https://youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV&si=rG_CzFHdkNKkWMTA",
       "trello": "https://trello.com/c/nPmqiKlD/129-stanford-cs336-language-modeling-from-scratch-spring-2026",
       "platform": "YouTube playlist",
-      "channel": "Stanford Online (@stanfordonline)",
       "duration": "Approximately 24 hr 1 min for all 18 videos.",
       "type": "WATCH",
-      "hook": "A substantial technical course on building language models from the ground up, moving from tokenization and model architecture through systems and scaling, data, evaluation, and post-training. Playlist-listed runtimes sum to approximately 24 hr 1 min (the individual playlist…"
+      "hook": "A substantial technical course on building language models from the ground up, moving from tokenization and model architecture through systems and scaling, data, evaluation, and post-training. Playlist-listed runtimes sum to approximately 24 hr 1 min (the individual playlist…",
+      "channel": "Stanford Online (@stanfordonline)"
     },
     {
       "title": "Stanford CS153 Frontier Systems | Scale, AGI, and the Future of Everything",
       "source": "https://www.youtube.com/watch?v=F_7M4Hc-usM",
       "trello": "https://trello.com/c/nyo34sjc/20-stanford-cs153-frontier-systems-scale-agi-and-the-future-of-everything",
       "platform": "YouTube",
-      "channel": "Stanford Online",
       "duration": "41 min 10 sec.",
       "type": "WATCH",
-      "hook": "The most relevant part isn't AGI speculation: it's which thinking, writing, coding and verification muscles we should deliberately keep exercising when AI can do the task."
+      "hook": "The most relevant part isn't AGI speculation: it's which thinking, writing, coding and verification muscles we should deliberately keep exercising when AI can do the task.",
+      "channel": "Stanford Online"
     },
     {
       "title": "Jenkins Won DevOps, Yet Nobody Uses It Willingly",
       "source": "https://youtu.be/LbxQqAuQ4Xk?si=nHnJaBcXoECahVwU",
       "trello": "https://trello.com/c/qdmORlJc/70-jenkins-won-devops-yet-nobody-uses-it-willingly",
       "platform": "YouTube",
-      "channel": "DevOps & AI Toolkit",
       "duration": "Unknown.",
       "type": "WATCH",
-      "hook": "A platform-engineering look at why flexible tools become nearly impossible to replace once years of plugins, jobs and custom behavior accumulate around them."
+      "hook": "A platform-engineering look at why flexible tools become nearly impossible to replace once years of plugins, jobs and custom behavior accumulate around them.",
+      "channel": "DevOps & AI Toolkit"
     },
     {
       "title": "How are they Losing so Bad",
       "source": "https://www.youtube.com/watch?v=d3Gjq-BffuI",
       "trello": "https://trello.com/c/KKfKcH3J/105-how-are-they-losing-so-bad-the-primetime",
       "platform": "YouTube",
-      "channel": "The PrimeTime",
       "duration": "11 min 7 sec.",
       "type": "WATCH",
-      "hook": "Prime asks how Google could invent TPUs and help create transformers yet struggle to convert those advantages into leading AI products. The dramatic Gemini cost anecdote is a creator claim, not a benchmark."
+      "hook": "Prime asks how Google could invent TPUs and help create transformers yet struggle to convert those advantages into leading AI products. The dramatic Gemini cost anecdote is a creator claim, not a benchmark.",
+      "channel": "The PrimeTime"
     },
     {
       "title": "Elon Musk & Gwynne Shotwell on AI Risks and Peer Review, Starship, Terafab, SpaceX/Tesla Merger",
       "source": "https://www.youtube.com/watch?v=iwBOQeFPAwg",
       "trello": "https://trello.com/c/KDtayut0/86-elon-musk-gwynne-shotwell-on-ai-risks-and-peer-review-starship-terafab-spacex-tesla-merger",
       "platform": "YouTube",
-      "channel": "All-In Podcast",
       "duration": "1 hr 4 min.",
       "type": "WATCH",
-      "hook": "A broader industrial/space conversation, with one particularly interesting idea: rival AI labs adversarially testing each other's models before release."
+      "hook": "A broader industrial/space conversation, with one particularly interesting idea: rival AI labs adversarially testing each other's models before release.",
+      "channel": "All-In Podcast"
     },
     {
       "title": "Satya Nadella on the AI Doomer Slowdown, Microsoft's Master Plan & Who Wins AI",
       "source": "https://www.youtube.com/watch?v=hdcsTeCFE0I",
       "trello": "https://trello.com/c/wA0HcZ3l/87-satya-nadella-on-the-ai-doomer-slowdown-microsofts-master-plan-who-wins-ai",
       "platform": "YouTube",
-      "channel": "All-In Podcast",
       "duration": "~36 min.",
       "type": "WATCH",
-      "hook": "Microsoft's platform view of AI diffusion, interoperability, third-party safety testing and agent risks such as reward hacking."
+      "hook": "Microsoft's platform view of AI diffusion, interoperability, third-party safety testing and agent risks such as reward hacking.",
+      "channel": "All-In Podcast"
     },
     {
       "title": "Spotify Claude Code token routing: ~90% reduction",
       "source": "https://x.com/undefinedKi/status/2095942506433089832",
       "trello": "https://trello.com/c/rK7ShKgZ/19-spotify-claude-code-token-routing-90-reduction",
       "platform": "X",
-      "channel": "@undefinedki",
       "duration": "~2–3 min post/read.",
       "type": "READ",
-      "hook": "A short cost-control idea for agent workflows: route bulky reads and repetitive work away from the expensive model. The claimed ~90% saving comes from a secondary digest, not a verified original post."
+      "hook": "A short cost-control idea for agent workflows: route bulky reads and repetitive work away from the expensive model. The claimed ~90% saving comes from a secondary digest, not a verified original post.",
+      "channel": "@undefinedki"
     },
     {
       "title": "Vercel data-science agent: simpler tools doubled eval scores",
@@ -577,327 +555,327 @@
       "source": "https://youtu.be/n9xKblqyQ28?si=nfAIILyQGb1WiaNc",
       "trello": "https://trello.com/c/MlFXbfKy/67-why-the-harness-matters-more-than-the-model-yc-paper-club",
       "platform": "YouTube",
-      "channel": "Y Combinator",
       "duration": "~60 min video; ~13 min summary.",
       "type": "WATCH",
-      "hook": "YC Paper Club argues agent harness engineering is a first-class capability layer, not mere scaffolding. It traces static harness primitives (context, tools, memory, skills, reflection/subagents) into self-improving harnesses that optimize prompts or code, then shows Prime…"
+      "hook": "YC Paper Club argues agent harness engineering is a first-class capability layer, not mere scaffolding. It traces static harness primitives (context, tools, memory, skills, reflection/subagents) into self-improving harnesses that optimize prompts or code, then shows Prime…",
+      "channel": "Y Combinator"
     },
     {
       "title": "Is Islam’s Judgment Day coming?",
       "source": "https://youtu.be/FoPhsIOC768?si=ncH-PkGcJVViWLQX",
       "trello": "https://trello.com/c/EVaads95/96-is-islams-judgment-day-coming",
       "platform": "YouTube",
-      "channel": "הדרך הקלה (@ezway)",
       "duration": "14 min 32 sec.",
       "type": "WATCH",
-      "hook": "The video appears to discuss Islamic end-times prophecies and their perceived fulfillment and present-day relevance. No transcript could be found, so the specific claims and evidence cannot be summarized reliably."
+      "hook": "The video appears to discuss Islamic end-times prophecies and their perceived fulfillment and present-day relevance. No transcript could be found, so the specific claims and evidence cannot be summarized reliably.",
+      "channel": "הדרך הקלה (@ezway)"
     },
     {
       "title": "Noam Brown — Agent swarms and alignment",
       "source": "https://youtu.be/6AgOfiZOWiY",
       "trello": "https://trello.com/c/yqnkaNB8/99-noam-brown-agent-swarms-and-alignment",
       "platform": "YouTube",
-      "channel": "Dwarkesh Podcast",
       "duration": "1 hr 20 min.",
       "type": "WATCH",
-      "hook": "Dwarkesh Patel interviews OpenAI researcher Noam Brown about multi-agent coordination and alignment. Key engineering themes include parallel agent work, context forking, agent-to-agent messaging, lightweight communication rules, and incentives for useful coordination. The…"
+      "hook": "Dwarkesh Patel interviews OpenAI researcher Noam Brown about multi-agent coordination and alignment. Key engineering themes include parallel agent work, context forking, agent-to-agent messaging, lightweight communication rules, and incentives for useful coordination. The…",
+      "channel": "Dwarkesh Podcast"
     },
     {
       "title": "You're Already a Meat Proxy",
       "source": "https://x.com/obie/status/2101779116056088732",
       "trello": "https://trello.com/c/SEhshxEf/113-youre-already-a-meat-proxy-obie",
       "platform": "X",
-      "channel": "Obie (@obie)",
       "duration": "Unknown.",
       "type": "READ",
-      "hook": "Not assessable from the available material; the original post's argument could not be retrieved."
+      "hook": "Not assessable from the available material; the original post's argument could not be retrieved.",
+      "channel": "Obie (@obie)"
     },
     {
       "title": "המומחה הפיננסי: למה הבורסה עולה והשקל מתחזק? ומהם 5 הכוחות שפועלים כעת על המשק הישראלי - אדם רויטר",
       "source": "https://youtu.be/Yok8wE1yPw8?si=KJcKJmbaaTUTPuJ7",
       "trello": "https://trello.com/c/JnKVCLzP/114-https-youtube-yok8we1ypw8sikjckjmbaatutpuj7",
       "platform": "YouTube",
-      "channel": "הפודקאסט של גיא קצוביץ' (@guy-Katsovich)",
       "duration": "Approximately 52 min.",
       "type": "WATCH",
-      "hook": "Reuter argues that the Israeli economy and markets have shown more resilience than many expected, and discusses five supporting factors including technology, entrepreneurship, international connections, and resilience. He warns that shekel appreciation can pressure Israeli…"
+      "hook": "Reuter argues that the Israeli economy and markets have shown more resilience than many expected, and discusses five supporting factors including technology, entrepreneurship, international connections, and resilience. He warns that shekel appreciation can pressure Israeli…",
+      "channel": "הפודקאסט של גיא קצוביץ' (@guy-Katsovich)"
     },
     {
       "title": "מומחה לעתיד הכסף במסר דחוף לישראלים: בינה מלאכותית תגרום לאבטלה המונית. רק ככה תינצלו! - בן סמוחה",
       "source": "https://youtu.be/zetQI6TzzCA?si=dCgWkVtbeYJAsQ2h",
       "trello": "https://trello.com/c/DqO49J14/115-https-youtube-zetqi6tzzcasidcgwkvtbeyjasq2h",
       "platform": "YouTube",
-      "channel": "דניאל דושי (@danieldushy)",
       "duration": "1 hr 37 min 53 sec.",
       "type": "WATCH",
-      "hook": "Samocha predicts substantial job cuts from AI within two to three years, identifies junior software, design, service, and marketing roles as exposed, and recommends learning to use AI and strengthening personal finances. The interview then makes wider claims about inflation,…"
+      "hook": "Samocha predicts substantial job cuts from AI within two to three years, identifies junior software, design, service, and marketing roles as exposed, and recommends learning to use AI and strengthening personal finances. The interview then makes wider claims about inflation,…",
+      "channel": "דניאל דושי (@danieldushy)"
     },
     {
       "title": "Why America keeps losing wars",
       "source": "https://youtu.be/748WJ7ydG_s?si=qPKGLVJz1zpZpg5u",
       "trello": "https://trello.com/c/MnaSfOAs/117-why-america-keeps-losing-wars",
       "platform": "YouTube",
-      "channel": "CaspianReport (@caspianreport)",
       "duration": "17 min 32 sec.",
       "type": "WATCH",
-      "hook": "The video argues that limited military objectives can expand into regime change or nation-building, while local opponents may only need to outlast US public and political commitment. It contrasts the Gulf War’s bounded objective and exit with later conflicts, and concludes…"
+      "hook": "The video argues that limited military objectives can expand into regime change or nation-building, while local opponents may only need to outlast US public and political commitment. It contrasts the Gulf War’s bounded objective and exit with later conflicts, and concludes…",
+      "channel": "CaspianReport (@caspianreport)"
     },
     {
       "title": "How to Build an AI Second Brain With Claude and Obsidian That Gets Smarter Every Day (Full Guide)",
       "source": "https://x.com/undefinedKi/status/2068306794116501544",
       "trello": "https://trello.com/c/QUQDEV1j/119-how-to-build-an-ai-second-brain-with-claude-and-obsidian-undefinedki",
       "platform": "X article",
-      "channel": "undefinedKi (@undefinedki)",
       "duration": "~10 min read.",
       "type": "READ",
-      "hook": "A concrete local-first memory architecture: plain-text Obsidian vault, Claude as the agent layer, MCP for access, CLAUDE.md for durable context and reusable skills for recurring workflows."
+      "hook": "A concrete local-first memory architecture: plain-text Obsidian vault, Claude as the agent layer, MCP for access, CLAUDE.md for durable context and reusable skills for recurring workflows.",
+      "channel": "undefinedKi (@undefinedki)"
     },
     {
       "title": "Building a Custom Harness with Pi and Jev",
       "source": "https://x.com/omarsar0/status/2102762406204076532",
       "trello": "https://trello.com/c/RWDMkoKd/124-building-a-custom-harness-with-pi-and-jev-omar-sanseviero",
       "platform": "X",
-      "channel": "Omar Sanseviero (@omarsar0)",
       "duration": "Unknown.",
       "type": "READ",
-      "hook": "The indexed excerpt indicates a tutorial about building a custom agent harness with the Pi SDK and Jev, including Jev usage in three parts of the workflow. The original post returned 403, so implementation details and conclusions could not be verified."
+      "hook": "The indexed excerpt indicates a tutorial about building a custom agent harness with the Pi SDK and Jev, including Jev usage in three parts of the workflow. The original post returned 403, so implementation details and conclusions could not be verified.",
+      "channel": "Omar Sanseviero (@omarsar0)"
     },
     {
       "title": "“The Haredi leadership is scared and completely out of touch”: The engine behind the new Haredi party (YouTube title display is truncated)",
       "source": "https://youtu.be/-P5iFpHL16I?si=FlDjwNi-nXxAEg2f",
       "trello": "https://trello.com/c/PohPTdsb/128-https-youtube-p5ifphl16isifldjwni-nxxaeg2f",
       "platform": "YouTube",
-      "channel": "כאן | חדשות - תאגיד השידור הישראלי (@kan11news)",
       "duration": "31 min 30 sec.",
       "type": "WATCH",
-      "hook": "Leitner argues that some Haredi voters want a party that preserves Haredi identity while supporting greater integration, and criticizes the established parties’ approach to education, military service, employment, and political representation. The interviewer probes how…"
+      "hook": "Leitner argues that some Haredi voters want a party that preserves Haredi identity while supporting greater integration, and criticizes the established parties’ approach to education, military service, employment, and political representation. The interviewer probes how…",
+      "channel": "כאן | חדשות - תאגיד השידור הישראלי (@kan11news)"
     },
     {
       "title": "Stanford CS336: Language Modeling from Scratch | Spring 2026",
       "source": "https://youtube.com/playlist?list=PLoROMvodv4rMqXOcazWaTUHhq-yembLCV&si=rG_CzFHdkNKkWMTA",
       "trello": "https://trello.com/c/iUjpodxa/130-stanford-cs336-language-modeling-from-scratch-spring-2026",
       "platform": "YouTube playlist",
-      "channel": "Stanford Online (@stanfordonline)",
       "duration": "Approximately 24 hr 1 min for all 18 videos.",
       "type": "WATCH",
-      "hook": "A substantial technical course on building language models from the ground up, moving from tokenization and model architecture through systems and scaling, data, evaluation, and post-training. Playlist-listed runtimes sum to approximately 24 hr 1 min (the individual playlist…"
+      "hook": "A substantial technical course on building language models from the ground up, moving from tokenization and model architecture through systems and scaling, data, evaluation, and post-training. Playlist-listed runtimes sum to approximately 24 hr 1 min (the individual playlist…",
+      "channel": "Stanford Online (@stanfordonline)"
     },
     {
       "title": "Thinking in Systems, Shipping in Loops",
       "source": "https://x.com/ttunguz/status/2103145763098566858",
       "trello": "https://trello.com/c/pB57EpWH/131-thinking-in-systems-shipping-in-loops-tomasz-tunguz",
       "platform": "X / Web article",
-      "channel": "Tomasz Tunguz (@ttunguz)",
       "duration": "~3 min read.",
       "type": "READ",
-      "hook": "If agents write the code, the engineering work moves into the loop around them: tests, reviewer agents, observability, reusable skills and composable sandboxes. A concise systems-design framing for agentic development."
+      "hook": "If agents write the code, the engineering work moves into the loop around them: tests, reviewer agents, observability, reusable skills and composable sandboxes. A concise systems-design framing for agentic development.",
+      "channel": "Tomasz Tunguz (@ttunguz)"
     },
     {
       "title": "We’re open sourcing the company brain, Here’s how …",
       "source": "https://x.com/DhravyaShah/status/2103668051468300701",
       "trello": "https://trello.com/c/gyAGADx5/132-were-open-sourcing-the-company-brain-dhravya-shah",
       "platform": "X",
-      "channel": "Dhravya Shah (@dhravyashah)",
       "duration": "Unknown.",
       "type": "READ",
-      "hook": "The indexed excerpt suggests that the post introduces an open-source company-brain project after the prior harness was discontinued. The original post returned 403, so the implementation and rationale could not be verified."
+      "hook": "The indexed excerpt suggests that the post introduces an open-source company-brain project after the prior harness was discontinued. The original post returned 403, so the implementation and rationale could not be verified.",
+      "channel": "Dhravya Shah (@dhravyashah)"
     },
     {
       "title": "Have We Finally Found Dark Matter?",
       "source": "https://www.youtube.com/watch?v=31beWNzkXiA",
       "trello": "https://trello.com/c/WlHi9Jyx/135-have-we-finally-found-dark-matter-startalk",
       "platform": "YouTube",
-      "channel": "StarTalk",
       "duration": "13 min 31 sec.",
       "type": "WATCH",
-      "hook": "A science discussion about interpreting possible dark matter detections and how candidate particles such as WIMPs or a Higgsino fit into the search. Chapters cover particle detection, Freese’s search, WIMPs, liquid-xenon experiments, and the Higgsino idea. The description…"
+      "hook": "A science discussion about interpreting possible dark matter detections and how candidate particles such as WIMPs or a Higgsino fit into the search. Chapters cover particle detection, Freese’s search, WIMPs, liquid-xenon experiments, and the Higgsino idea. The description…",
+      "channel": "StarTalk"
     },
     {
       "title": "The situation there is spiraling out of control",
       "source": "https://www.youtube.com/watch?v=hirpFbFxFXs",
       "trello": "https://trello.com/c/ksHAwoQl/136-the-situation-there-is-spiraling-out-of-control-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
-      "channel": "הדרך הקלה (@ezway)",
       "duration": "Approximately 16 min (playlist display).",
       "type": "WATCH",
-      "hook": "The video appears to discuss Russia and renewed war concerns in Europe. No transcript could be found, and the publisher description is too broad to establish which events or claims the video covers."
+      "hook": "The video appears to discuss Russia and renewed war concerns in Europe. No transcript could be found, and the publisher description is too broad to establish which events or claims the video covers.",
+      "channel": "הדרך הקלה (@ezway)"
     },
     {
       "title": "Mark Normand Roasts Everybody in Just 1 Minute!! #shorts",
       "source": "https://www.youtube.com/watch?v=-jfnCA3kwVU",
       "trello": "https://trello.com/c/YwMzOfRg/137-mark-normand-roasts-everybody-in-just-1-minute-shorts-mark-normand",
       "platform": "YouTube",
-      "channel": "mark normand",
       "duration": "1 min 11 sec.",
       "type": "WATCH",
-      "hook": "A rapid topical stand-up clip."
+      "hook": "A rapid topical stand-up clip.",
+      "channel": "mark normand"
     },
     {
       "title": "#standupcomedy #joke #comedy #funnyshorts #usashorts #standup",
       "source": "https://www.youtube.com/watch?v=qjCzAMLvWo8",
       "trello": "https://trello.com/c/s5vsSnXZ/138-standupcomedy-joke-comedy-funnyshorts-usashorts-standup-the-movie-snap",
       "platform": "YouTube",
-      "channel": "The Movie Snap",
       "duration": "46 sec.",
       "type": "WATCH",
-      "hook": "A short stand-up comedy clip; no transcript was available."
+      "hook": "A short stand-up comedy clip; no transcript was available.",
+      "channel": "The Movie Snap"
     },
     {
       "title": "Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
       "source": "https://www.youtube.com/watch?v=cvP_1jmnkmM",
       "trello": "https://trello.com/c/X8qRUCrk/140-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-gains-share-alignment-fails-all-in-podcast",
       "platform": "YouTube",
-      "channel": "All-In Podcast",
       "duration": "1 hr 34 min 24 sec.",
       "type": "WATCH",
-      "hook": "A long-form roundtable spanning AI markets, open-source competition, model cost, corporate plans and policy; transcript unavailable."
+      "hook": "A long-form roundtable spanning AI markets, open-source competition, model cost, corporate plans and policy; transcript unavailable.",
+      "channel": "All-In Podcast"
     },
     {
       "title": "The Universe May Have Just Revealed the True Nature of Empty Space",
       "source": "https://www.youtube.com/watch?v=568-39aOZkw",
       "trello": "https://trello.com/c/I2sf2WJv/141-the-universe-may-have-just-revealed-the-true-nature-of-empty-space-pbs-space-time",
       "platform": "YouTube",
-      "channel": "PBS Space Time",
       "duration": "17 min 56 sec.",
       "type": "WATCH",
-      "hook": "A physics explainer about quantum-vacuum effects and whether magnetar observations may show vacuum birefringence."
+      "hook": "A physics explainer about quantum-vacuum effects and whether magnetar observations may show vacuum birefringence.",
+      "channel": "PBS Space Time"
     },
     {
       "title": "Meta is pivoting again... everything you missed from Connect 2026",
       "source": "https://www.youtube.com/watch?v=c1rPlzxSZ8E",
       "trello": "https://trello.com/c/IqkuKvfw/142-meta-is-pivoting-again-everything-you-missed-from-connect-2026-fireship",
       "platform": "YouTube",
-      "channel": "Fireship",
       "duration": "5 min 41 sec.",
       "type": "WATCH",
-      "hook": "A brief roundup of Meta Connect 2026 announcements; transcript unavailable."
+      "hook": "A brief roundup of Meta Connect 2026 announcements; transcript unavailable.",
+      "channel": "Fireship"
     },
     {
       "title": "AI Server Farms Land in Israel - How Will They Impact Our Wallets?",
       "source": "https://www.youtube.com/watch?v=UZvE5fXtJJU",
       "trello": "https://trello.com/c/uFVPqbOP/143-ai-server-farms-land-in-israel-how-will-they-impact-our-wallets-%D7%9B%D7%90%D7%9F-%D7%97%D7%93%D7%A9%D7%95%D7%AA",
       "platform": "YouTube",
-      "channel": "כאן | חדשות - תאגיד השידור הישראלי",
       "duration": "10 min 14 sec.",
       "type": "WATCH",
-      "hook": "A short report on infrastructure and investment behind AI data centers in Israel and possible consumer implications."
+      "hook": "A short report on infrastructure and investment behind AI data centers in Israel and possible consumer implications.",
+      "channel": "כאן | חדשות - תאגיד השידור הישראלי"
     },
     {
       "title": "Jev is Here",
       "source": "https://www.youtube.com/watch?v=BHPDsGVciDk",
       "trello": "https://trello.com/c/h9CG9z4Q/144-jev-is-here-the-primetime",
       "platform": "YouTube",
-      "channel": "The PrimeTime",
       "duration": "12 min 7 sec.",
       "type": "WATCH",
-      "hook": "A showcase of Jev-related workflows and AI-agent demos; transcript unavailable."
+      "hook": "A showcase of Jev-related workflows and AI-agent demos; transcript unavailable.",
+      "channel": "The PrimeTime"
     },
     {
       "title": "יאיר גולן | ״בסלון של יסמין״",
       "source": "https://www.youtube.com/watch?v=m1CakR-ZEFc",
       "trello": "https://trello.com/c/wn2w9KtK/145-%D7%99%D7%90%D7%99%D7%A8-%D7%92%D7%95%D7%9C%D7%9F-%D7%B4%D7%91%D7%A1%D7%9C%D7%95%D7%9F-%D7%A9%D7%9C-%D7%99%D7%A1%D7%9E%D7%99%D7%9F%D7%B4-%D7%91%D7%A1%D7%9C%D7%95%D7%9F-%D7%A9%D7%9C-%D7%99%D7%A1%D7%9E%D7%99%D7%9F",
       "platform": "YouTube",
-      "channel": "בסלון של יסמין",
       "duration": "1 hr 16 min 4 sec.",
       "type": "WATCH",
-      "hook": "A long interview covering security, Israel-Palestine, economics, judicial reform and party strategy. The card reflects publisher chapters; no transcript was available."
+      "hook": "A long interview covering security, Israel-Palestine, economics, judicial reform and party strategy. The card reflects publisher chapters; no transcript was available.",
+      "channel": "בסלון של יסמין"
     },
     {
       "title": "New Experiment Settles 80 Years Old Debate, Physicists Claim",
       "source": "https://www.youtube.com/watch?v=A2ImadKWaHA",
       "trello": "https://trello.com/c/tsM4nAKj/146-new-experiment-settles-80-years-old-debate-physicists-claim-sabine-hossenfelder",
       "platform": "YouTube",
-      "channel": "Sabine Hossenfelder",
       "duration": "6 min 53 sec.",
       "type": "WATCH",
-      "hook": "A short science-news analysis of a quantum-physics experiment associated with Feynman’s path-integral formulation."
+      "hook": "A short science-news analysis of a quantum-physics experiment associated with Feynman’s path-integral formulation.",
+      "channel": "Sabine Hossenfelder"
     },
     {
       "title": "Luca Ferrari, Bending Spoons CEO: The $40K Start, Buying Product-Market Fit & Beating Private Equity",
       "source": "https://www.youtube.com/watch?v=6t5yF8ansoQ",
       "trello": "https://trello.com/c/TnrkIWpU/147-luca-ferrari-bending-spoons-ceo-the-40k-start-buying-product-market-fit-beating-private-equity-all-in-podcast",
       "platform": "YouTube",
-      "channel": "All-In Podcast",
       "duration": "25 min 30 sec.",
       "type": "WATCH",
-      "hook": "An operator-focused interview on Bending Spoons’ early restart, operating standards, financing and acquisition strategy."
+      "hook": "An operator-focused interview on Bending Spoons’ early restart, operating standards, financing and acquisition strategy.",
+      "channel": "All-In Podcast"
     },
     {
       "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
       "source": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
       "trello": "https://trello.com/c/MrhEvIvQ/148-claude-opus-55-ai-an-incredible-leap-forward-two-minute-papers",
       "platform": "YouTube",
-      "channel": "Two Minute Papers",
       "duration": "5 min 14 sec.",
       "type": "WATCH",
-      "hook": "A short AI-and-research roundup; the publisher includes a caveat about one showcased result."
+      "hook": "A short AI-and-research roundup; the publisher includes a caveat about one showcased result.",
+      "channel": "Two Minute Papers"
     },
     {
       "title": "The Secret Of Star Trek's Biggest Episode",
       "source": "https://www.youtube.com/watch?v=PPg3TwgehAw",
       "trello": "https://trello.com/c/krgnYidC/149-the-secret-of-star-treks-biggest-episode-the-art-of-storytelling",
       "platform": "YouTube",
-      "channel": "The Art Of Storytelling",
       "duration": "18 min 30 sec.",
       "type": "WATCH",
-      "hook": "A craft-focused reading of The Best of Both Worlds, highlighting Riker and the two-part cliffhanger."
+      "hook": "A craft-focused reading of The Best of Both Worlds, highlighting Riker and the two-part cliffhanger.",
+      "channel": "The Art Of Storytelling"
     },
     {
       "title": "התחזית: למה שנת 2027 תגרום לשוק הנדל״ן לרעוד",
       "source": "https://www.youtube.com/watch?v=Ed7Mh9iYqp8",
       "trello": "https://trello.com/c/G85VUK1Y/150-%D7%94%D7%AA%D7%97%D7%96%D7%99%D7%AA-%D7%9C%D7%9E%D7%94-%D7%A9%D7%A0%D7%AA-2027-%D7%AA%D7%92%D7%A8%D7%95%D7%9D-%D7%9C%D7%A9%D7%95%D7%A7-%D7%94%D7%A0%D7%93%D7%9C%D7%B4%D7%9F-%D7%9C%D7%A8%D7%A2%D7%95%D7%93-%D7%9C%D7%A0%D7%94-%D7%9B%D7%94%D7%9F",
       "platform": "YouTube",
-      "channel": "לנה כהן 💫 נדל״ן עם כוכבים",
       "duration": "16 min 24 sec.",
       "type": "WATCH",
-      "hook": "Israeli real-estate market commentary built around market, inventory and 2027 forecast claims; the claims were not independently validated."
+      "hook": "Israeli real-estate market commentary built around market, inventory and 2027 forecast claims; the claims were not independently validated.",
+      "channel": "לנה כהן 💫 נדל״ן עם כוכבים"
     },
     {
       "title": "Software Engineer: I'm Tired of Pretending",
       "source": "https://www.youtube.com/watch?v=H0HwFqBG9KE",
       "trello": "https://trello.com/c/QJoNs6uE/151-software-engineer-im-tired-of-pretending-anime-engineering-senpai",
       "platform": "YouTube",
-      "channel": "Anime Engineering Senpai",
       "duration": "6 min 50 sec.",
       "type": "WATCH",
-      "hook": "A short personal piece about pressure, anxiety and keeping up with software work and tutorials."
+      "hook": "A short personal piece about pressure, anxiety and keeping up with software work and tutorials.",
+      "channel": "Anime Engineering Senpai"
     },
     {
       "title": "The Rick Rubin Interview",
       "source": "https://www.youtube.com/watch?v=qkwISstQQVw",
       "trello": "https://trello.com/c/EG87QCaw/152-the-rick-rubin-interview-rick-beato",
       "platform": "YouTube",
-      "channel": "Rick Beato",
       "duration": "2 hr 12 min 49 sec.",
       "type": "WATCH",
-      "hook": "A long-form interview about Rick Rubin’s producing career, collaborations and creative process."
+      "hook": "A long-form interview about Rick Rubin’s producing career, collaborations and creative process.",
+      "channel": "Rick Beato"
     },
     {
       "title": "The Future of Software Development",
       "source": "https://x.com/amitiitbhu/status/2104063785724203247",
       "trello": "https://trello.com/c/blfmex7a/153-the-future-of-software-development-amit-shekhar",
       "platform": "X article",
-      "channel": "Amit Shekhar (@amitiitbhu)",
       "duration": "~15 min read (estimate from the saved ~3,000-word copy).",
       "type": "READ",
-      "hook": "- Shekhar imagines a shift from IDE autocomplete, to terminal-based coding agents, toward expressing intent while agents build, test, fix and ship. He notes that this complete loop is not yet universal. He predicts agent-oriented operating systems,…"
+      "hook": "- Shekhar imagines a shift from IDE autocomplete, to terminal-based coding agents, toward expressing intent while agents build, test, fix and ship. He notes that this complete loop is not yet universal. He predicts agent-oriented operating systems,…",
+      "channel": "Amit Shekhar (@amitiitbhu)"
     },
     {
       "title": "Why We're Building Muse",
       "source": "https://x.com/alexandr_wang/status/2103551714536439951",
       "trello": "https://trello.com/c/7t5saoqi/154-why-were-building-muse-alexandr-wang",
       "platform": "X article",
-      "channel": "Alexandr Wang (@alexandr_wang)",
       "duration": "Unknown; full article unavailable.",
       "type": "READ",
-      "hook": "Wang presents Muse as a “second mind” or general manager that helps surface a person's goals, makes a plan, and handles practical steps such as sending emails, making calls, finding funding and keeping things on schedule. This is a product vision, not…"
+      "hook": "Wang presents Muse as a “second mind” or general manager that helps surface a person's goals, makes a plan, and handles practical steps such as sending emails, making calls, finding funding and keeping things on schedule. This is a product vision, not…",
+      "channel": "Alexandr Wang (@alexandr_wang)"
     },
     {
       "title": "The Mythology Of Conscious AI",
       "source": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
       "trello": "https://trello.com/c/FXgjf9D5/158-the-mythology-of-conscious-ai-anil-seth",
       "platform": "unknown",
-      "duration": "unknown",
+      "duration": "~15 min read (estimate; long essay)",
       "type": "READ",
       "hook": "Seth argues that intelligence and consciousness are different, and that human tendencies such as anthropomorphism, anthropocentrism, language-based assumptions, and “exponential” narratives encourage people to over-attribute consciousness to AI. He challenges computational…"
     },
@@ -906,7 +884,7 @@
       "source": "https://x.com/_jaydeepkarale/status/2104550496552017991",
       "trello": "https://trello.com/c/fzQs85s1/159-10-rag-projects-for-production-grade-ai-systems-jaydeep",
       "platform": "X article",
-      "duration": "unknown",
+      "duration": "~12 min read (estimate)",
       "type": "READ",
       "hook": "A practical learning roadmap for moving beyond a basic document-chat RAG demo. The ten project ideas are: hybrid BM25 + vector search; metadata-filtered retrieval; reranking; contextual chunking; SQL + vector retrieval; knowledge-graph + vector retrieval; corrective RAG that…"
     },
@@ -915,9 +893,37 @@
       "source": "https://cs329a.stanford.edu/",
       "trello": "https://trello.com/c/fjraglOb/160-stanford-cs329a-self-improving-ai-agents",
       "platform": "Stanford course website",
-      "duration": "unknown",
+      "duration": "Unknown overall; the syllabus lists 20 class meetings scheduled for 80 minutes each, plus research readings and a project. No recordings are linked.",
       "type": "READ",
       "hook": "A Stanford graduate seminar on techniques and applications for AI agents that improve through interaction with themselves and their environment. Topics include Constitutional AI and verifiers; test-time compute and search; reinforcement learning; tool use and execution…"
+    },
+    {
+      "title": "The end of the app era: What comes next? — Nate B Jones (36 min)",
+      "source": "https://www.youtube.com/watch?v=0j8wy4jUlsw",
+      "trello": "https://trello.com/c/KsjNBXnu/184-the-end-of-the-app-era-what-comes-next-nate-b-jones-36-min",
+      "platform": "YouTube",
+      "duration": "36:21",
+      "type": "WATCH",
+      "hook": "As agents take over information work, what remains worth paying for: the data, the workflow, or the application interface?",
+      "channel": "AI News & Strategy Daily · Nate B Jones"
+    },
+    {
+      "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
+      "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
+      "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
+      "platform": "YouTube",
+      "duration": "Unknown video runtime; ~5–8 min summary read.",
+      "type": "WATCH",
+      "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
+    },
+    {
+      "title": "David Friedberg: US economy, socialism and AI future",
+      "source": "https://youtu.be/OYg6BTjb90E?si=JEbhH9W_0crPE9QF",
+      "trello": "https://trello.com/c/GE6GhHJy/32-david-friedberg-us-economy-socialism-and-ai-future",
+      "platform": "YouTube",
+      "duration": "~2 hr 4 min video; ~13 min indexed summary.",
+      "type": "WATCH",
+      "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
     }
   ]
 }
