@@ -1,19 +1,6 @@
 {
-  "updated": "2026-10-05T02:03:32+03:00",
-  "unresolved": [
-    {
-      "title": "הסוד מאחורי המחשבות שלכם (The Secret Behind Your Thoughts) — הדרך הקלה",
-      "trello": "https://trello.com/c/DbY6VGPP/178-%D7%94%D7%A1%D7%95%D7%93-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA-%D7%A9%D7%9C%D7%9B%D7%9D-the-secret-behind-your-thoughts-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94"
-    },
-    {
-      "title": "Why The Taliban Are Begging The US To Come Back — RealLifeLore",
-      "trello": "https://trello.com/c/j0RvSlJp/179-why-the-taliban-are-begging-the-us-to-come-back-reallifelore"
-    },
-    {
-      "title": "I'm ... cured? — Adam Ragusea",
-      "trello": "https://trello.com/c/VmGZdw6g/183-im-cured-adam-ragusea"
-    }
-  ],
+  "updated": "2026-10-07T09:52:26+03:00",
+  "unresolved": [],
   "items": [
     {
       "title": "2026.40: Dots and Question Marks",
@@ -32,7 +19,8 @@
       "platform": "X article",
       "duration": "~10–12 min read (estimate from supplied text).",
       "type": "READ",
-      "hook": "Sigil Wen argues that capable personal AI will increasingly run on phones and laptops rather than cloud servers, making privacy, cost and user control central product advantages. The post introduces Underdog, whose 27B model is based on Qwen 3.8 27B and is presented as…"
+      "hook": "A concrete argument that the next AI platform shift may be from cloud agents to private, on-device assistants—and that inference engineering is what makes that practical.",
+      "channel": "Sigil Wen (@0xsigil)"
     },
     {
       "title": "זו מדינת אויב? (YouTube displays: Is this an enemy state?)",
@@ -41,7 +29,7 @@
       "platform": "YouTube",
       "duration": "12:35",
       "type": "WATCH",
-      "hook": "The video’s title frames a question about whether an unnamed entity is an enemy state. The publisher description and available transcript do not identify the subject or provide enough information to summarize the argument reliably.",
+      "hook": "A 12-minute current-affairs video asking whether an unnamed entity should be considered an enemy state; the available metadata does not reveal its case.",
       "channel": "הדרך הקלה (@ezway; verified)"
     },
     {
@@ -51,7 +39,7 @@
       "platform": "YouTube",
       "duration": "10:23",
       "type": "WATCH",
-      "hook": "A Hebrew comedy sketch in which Hanal and Makhbit want to connect, while a babysitter tries to keep them apart. The description credits director/editor Moshe Yona, writers Chen Rotman and Oshrit Sarusi, and guest Eran Zarhovich.",
+      "hook": "A Hebrew sketch built around a couple’s attempt to connect and a babysitter’s interference.",
       "channel": "אושרית וחן- מערכונים קומדיה"
     },
     {
@@ -61,7 +49,7 @@
       "platform": "YouTube",
       "duration": "28:22",
       "type": "WATCH",
-      "hook": "Netanyahu discusses past market reforms, Israel’s economic performance, cost of living, housing, competition and monopolies, then lays out an ambition for Israel to become a leading AI power through education, infrastructure and energy. The economic statistics and policy…",
+      "hook": "Hear Netanyahu’s own case for his economic record and his proposed AI strategy for Israel.",
       "channel": "Benjamin Netanyahu - בנימין נתניהו (verified official channel)"
     },
     {
@@ -71,7 +59,7 @@
       "platform": "YouTube",
       "duration": "1:07:13",
       "type": "WATCH",
-      "hook": "Interview with Maya Shem about captivity, returning to life, family and faith, how trauma changes over time, public expectations of survivors, and imagining a future beyond the “hostage” label. The publisher’s chapter list also covers her injuries, the role of family, why she…",
+      "hook": "A survivor describes how she is rebuilding life after captivity and resisting being defined only by that experience.",
       "channel": "דניאל דושי (@danieldushy)"
     },
     {
@@ -81,7 +69,7 @@
       "platform": "YouTube",
       "duration": "15:08",
       "type": "WATCH",
-      "hook": "A current-affairs video framed around rising tensions in Ethiopia and the risk of a wider regional conflict. Available description does not identify the developments or provide enough detail to assess the analysis, so the summary is limited to the publisher’s stated premise.",
+      "hook": "A short explainer on whether tensions in Ethiopia could spread into a wider regional war.",
       "channel": "הדרך הקלה (@ezway; verified)"
     },
     {
@@ -91,7 +79,7 @@
       "platform": "YouTube",
       "duration": "47:42",
       "type": "WATCH",
-      "hook": "Veritasium explains how the Enigma cipher machine worked and how codebreakers exploited its weaknesses. The publisher’s chapter list covers its origins, early codebreakers, attempts to decrypt a message, Alan Turing, the Bombe, Naval Enigma, and Turing’s later work. The…",
+      "hook": "Follow how the Enigma machine’s engineering shaped the codebreaking methods used against it.",
       "channel": "Veritasium"
     },
     {
@@ -101,7 +89,8 @@
       "platform": "X",
       "duration": "About 6–8 minutes to read (estimate from supplied text).",
       "type": "READ",
-      "hook": "Mihail Eric describes Monaco Memory, a context system for sales agents that stores shared company knowledge separately from individual user preferences. The design aims for memory to be interpretable and editable, gather information across product surfaces, stay fresh,…"
+      "hook": "See how sales-agent memory can separate company policy from individual preferences, then update both through explicit events and reviewed reflections.",
+      "channel": "Mihail Eric (@mihail_eric)"
     },
     {
       "title": "Adapting for a World of Software Factories",
@@ -110,7 +99,8 @@
       "platform": "X",
       "duration": "About 8–10 minutes to read (estimate based on the supplied post).",
       "type": "READ",
-      "hook": "Zach Lloyd argues that software engineering is moving from local, prompt-driven agent use toward “software factories” that autonomously handle more of the software lifecycle. He says adoption can unsettle engineers because work becomes public and measurable, and factory…"
+      "hook": "A practical framework for thinking about engineers’ two future jobs: shaping the product and improving the factory that builds it.",
+      "channel": "Zach Lloyd (@zachlloydtweets), Warp"
     },
     {
       "title": "The State of Startups in 2026",
@@ -190,7 +180,7 @@
       "duration": "~6–8 min read (estimate).",
       "type": "READ",
       "hook": "A Hebrew introduction to Chris Cornell and early Soundgarden: the voice, unusual rhythms and route to Badmotorfinger. The complete saved text is in the Trello card.",
-      "channel": "Author not recorded"
+      "channel": "Not recorded; original external URL not provided."
     },
     {
       "title": "How To Fine-Tune a Small LLM on Your Own Data (Full Guide)",
@@ -299,7 +289,8 @@
       "platform": "Engineering Enablement newsletter; paper published in ACM Queue",
       "duration": "~8 min (estimated from supplied newsletter length)",
       "type": "READ",
-      "hook": "CAFE(S) defines five qualities for agent context: Clarity (intended meaning), Actionability (objective, constraints, and done state), Fidelity (accuracy, currency, consistency, and trustworthy sources), Efficiency (high signal-to-noise), and Security (whether the agent should…"
+      "hook": "CAFE(S) defines five qualities for agent context: Clarity (intended meaning), Actionability (objective, constraints, and done state), Fidelity (accuracy, currency, consistency, and trustworthy sources), Efficiency (high signal-to-noise), and Security (whether the agent should…",
+      "channel": "Brian Houck; co-authored with Max Kanat-Alexander, Eirini Kalliamvakou, Margaret-Anne Storey, and Nicole Forsgren"
     },
     {
       "title": "The paradox at the heart of AI and science | Terence Tao",
@@ -559,16 +550,6 @@
       "type": "WATCH",
       "hook": "YC Paper Club argues agent harness engineering is a first-class capability layer, not mere scaffolding. It traces static harness primitives (context, tools, memory, skills, reflection/subagents) into self-improving harnesses that optimize prompts or code, then shows Prime…",
       "channel": "Y Combinator"
-    },
-    {
-      "title": "Is Islam’s Judgment Day coming?",
-      "source": "https://youtu.be/FoPhsIOC768?si=ncH-PkGcJVViWLQX",
-      "trello": "https://trello.com/c/EVaads95/96-is-islams-judgment-day-coming",
-      "platform": "YouTube",
-      "duration": "14 min 32 sec.",
-      "type": "WATCH",
-      "hook": "The video appears to discuss Islamic end-times prophecies and their perceived fulfillment and present-day relevance. No transcript could be found, so the specific claims and evidence cannot be summarized reliably.",
-      "channel": "הדרך הקלה (@ezway)"
     },
     {
       "title": "Noam Brown — Agent swarms and alignment",
@@ -877,7 +858,8 @@
       "platform": "unknown",
       "duration": "~15 min read (estimate; long essay)",
       "type": "READ",
-      "hook": "Seth argues that intelligence and consciousness are different, and that human tendencies such as anthropomorphism, anthropocentrism, language-based assumptions, and “exponential” narratives encourage people to over-attribute consciousness to AI. He challenges computational…"
+      "hook": "A neuroscientist challenges the assumption that more capable AI must become conscious, while acknowledging the question remains unresolved.",
+      "channel": "Anil Seth"
     },
     {
       "title": "10 RAG Projects That Will Take You From Basic Retrieval to Production-Grade AI Systems",
@@ -886,7 +868,8 @@
       "platform": "X article",
       "duration": "~12 min read (estimate)",
       "type": "READ",
-      "hook": "A practical learning roadmap for moving beyond a basic document-chat RAG demo. The ten project ideas are: hybrid BM25 + vector search; metadata-filtered retrieval; reranking; contextual chunking; SQL + vector retrieval; knowledge-graph + vector retrieval; corrective RAG that…"
+      "hook": "Ten buildable projects map the gap between “chat with your PDF” and retrieval that can filter, rerank, verify, and recover.",
+      "channel": "Jaydeep (@_jaydeepkarale)"
     },
     {
       "title": "Stanford CS329A — Self-Improving AI Agents",
@@ -895,7 +878,7 @@
       "platform": "Stanford course website",
       "duration": "Unknown overall; the syllabus lists 20 class meetings scheduled for 80 minutes each, plus research readings and a project. No recordings are linked.",
       "type": "READ",
-      "hook": "A Stanford graduate seminar on techniques and applications for AI agents that improve through interaction with themselves and their environment. Topics include Constitutional AI and verifiers; test-time compute and search; reinforcement learning; tool use and execution…"
+      "hook": "Use Stanford’s paper sequence to trace how self-improving agents connect test-time search, verification, tool feedback, memory and long-horizon evaluation."
     },
     {
       "title": "The end of the app era: What comes next? — Nate B Jones (36 min)",
@@ -924,6 +907,55 @@
       "duration": "~2 hr 4 min video; ~13 min indexed summary.",
       "type": "WATCH",
       "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
+    },
+    {
+      "title": "Will AI replace workers? Not if we build it right",
+      "source": "https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/",
+      "trello": "https://trello.com/c/PPGrr59f/187-https-humanistreviewai-issue-1-acemoglu-ai-replace-workers",
+      "platform": "Web article",
+      "duration": "Unknown.",
+      "type": "READ",
+      "hook": "Acemoglu’s case that the key AI question is not simply which jobs get automated, but whether tools are designed to expand what workers can do.",
+      "channel": "The Humanist Review of AI / Daron Acemoglu"
+    },
+    {
+      "title": "The AI SDLC transformation playbook",
+      "source": "https://www.atlassian.com/blog/ai-at-work/ai-sdlc-transformation-playbook",
+      "trello": "https://trello.com/c/0uKCcXVp/185-the-ai-sdlc-transformation-playbook-inside-atlassian",
+      "platform": "Web article",
+      "duration": "Unknown.",
+      "type": "READ",
+      "hook": "Why adding coding agents alone may leave the biggest bottlenecks untouched—and what context, workflow and measurement changes Atlassian says are needed.",
+      "channel": "Inside Atlassian"
+    },
+    {
+      "title": "The Coming Taiwan Crisis — Jonathan A. Czin / 2028 risk window",
+      "source": "https://chatgpt.com/s/t_6ac525c6fd488191a4049dd2c2309ea2",
+      "trello": "https://trello.com/c/6wxIoJ4u/186-the-coming-taiwan-crisis-jonathan-a-czin-2028-risk-window",
+      "platform": "ChatGPT share / Facebook commentary on Foreign Affairs",
+      "duration": "~7–9 min read.",
+      "type": "READ",
+      "hook": "Why the famous “2027 invasion” date may be the wrong focal point—and why Czin thinks the political window around Taiwan’s 2028 election matters more."
+    },
+    {
+      "title": "הסוד מאחורי המחשבות שלכם (The Secret Behind Your Thoughts)",
+      "source": "https://www.youtube.com/watch?v=0jLrqOZn9-E",
+      "trello": "https://trello.com/c/DbY6VGPP/178-%D7%94%D7%A1%D7%95%D7%93-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA-%D7%A9%D7%9C%D7%9B%D7%9D-the-secret-behind-your-thoughts-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
+      "platform": "YouTube",
+      "duration": "13 min 54 sec",
+      "type": "WATCH",
+      "hook": "unknown",
+      "channel": "הדרך הקלה"
+    },
+    {
+      "title": "Why The Taliban Are Begging The US To Come Back",
+      "source": "https://www.youtube.com/watch?v=NQSndaDIvcs",
+      "trello": "https://trello.com/c/j0RvSlJp/179-why-the-taliban-are-begging-the-us-to-come-back-reallifelore",
+      "platform": "YouTube",
+      "duration": "38 min 51 sec",
+      "type": "WATCH",
+      "hook": "unknown",
+      "channel": "RealLifeLore"
     }
   ]
 }
