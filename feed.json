@@ -1,7 +1,46 @@
 {
-  "updated": "2026-10-07T09:52:26+03:00",
+  "updated": "2026-10-08T18:38:22+03:00",
   "unresolved": [],
   "items": [
+    {
+      "title": "Agent Evals 101: Stop Guessing, Start Measuring",
+      "source": "https://chatgpt.com/share/6ac64947-c590-83ed-8600-45f05ee39a21?ogimg=plain",
+      "trello": "https://trello.com/c/zJIq0dvF/189-agent-evals-101-stop-guessing-start-measuring-paul-iusztin",
+      "platform": "ChatGPT share / X article",
+      "duration": "~18–22 min read (estimate from supplied article length).",
+      "type": "READ",
+      "hook": "A concrete blueprint for replacing “this model feels better” with a repeatable agent test system that measures correctness, regressions, reliability, cost and latency on your own workloads.",
+      "channel": "Paul Iusztin (@pauliusztin_)"
+    },
+    {
+      "title": "Will AI replace workers? Not if we build it right",
+      "source": "https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/",
+      "trello": "https://trello.com/c/PPGrr59f/187-https-humanistreviewai-issue-1-acemoglu-ai-replace-workers",
+      "platform": "Web article",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "Acemoglu’s case that the key AI question is not simply which jobs get automated, but whether tools are designed to expand what workers can do.",
+      "channel": "The Humanist Review of AI / Daron Acemoglu"
+    },
+    {
+      "title": "The AI SDLC transformation playbook",
+      "source": "https://www.atlassian.com/blog/ai-at-work/ai-sdlc-transformation-playbook",
+      "trello": "https://trello.com/c/0uKCcXVp/185-the-ai-sdlc-transformation-playbook-inside-atlassian",
+      "platform": "Web article",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "Why adding coding agents alone may leave the biggest bottlenecks untouched—and what context, workflow and measurement changes Atlassian says are needed.",
+      "channel": "Inside Atlassian"
+    },
+    {
+      "title": "The Coming Taiwan Crisis — Jonathan A. Czin / 2028 risk window",
+      "source": "https://chatgpt.com/s/t_6ac525c6fd488191a4049dd2c2309ea2",
+      "trello": "https://trello.com/c/6wxIoJ4u/186-the-coming-taiwan-crisis-jonathan-a-czin-2028-risk-window",
+      "platform": "ChatGPT share / Facebook commentary on Foreign Affairs",
+      "duration": "~7–9 min read.",
+      "type": "READ",
+      "hook": "Why the famous “2027 invasion” date may be the wrong focal point—and why Czin thinks the political window around Taiwan’s 2028 election matters more."
+    },
     {
       "title": "2026.40: Dots and Question Marks",
       "source": "https://stratechery.com/2026/dots-and-question-marks/",
@@ -27,7 +66,7 @@
       "source": "https://www.youtube.com/watch?v=fdcow7TmOXM",
       "trello": "https://trello.com/c/H4RAOna6/172-%D7%96%D7%95-%D7%9E%D7%93%D7%99%D7%A0%D7%AA-%D7%90%D7%95%D7%99%D7%91-is-this-an-enemy-state-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
-      "duration": "12:35",
+      "duration": "12 min 35 sec.",
       "type": "WATCH",
       "hook": "A 12-minute current-affairs video asking whether an unnamed entity should be considered an enemy state; the available metadata does not reveal its case.",
       "channel": "הדרך הקלה (@ezway; verified)"
@@ -37,7 +76,7 @@
       "source": "https://www.youtube.com/watch?v=fRWh5N8vs6U",
       "trello": "https://trello.com/c/ynFNAkrm/171-%D7%9E%D7%9B%D7%91%D7%99%D7%AA-%D7%95%D7%97%D7%A0%D7%90%D7%9C-%D7%A9%D7%9E%D7%97-%D7%91%D7%90-%D7%9C%D7%94%D7%95%D7%A8%D7%99%D7%93-%D7%90%D7%95%D7%A9%D7%A8%D7%99%D7%AA-%D7%95%D7%97%D7%9F",
       "platform": "YouTube",
-      "duration": "10:23",
+      "duration": "10 min 23 sec.",
       "type": "WATCH",
       "hook": "A Hebrew sketch built around a couple’s attempt to connect and a babysitter’s interference.",
       "channel": "אושרית וחן- מערכונים קומדיה"
@@ -47,7 +86,7 @@
       "source": "https://www.youtube.com/watch?v=tkn6Y_SisRI",
       "trello": "https://trello.com/c/4grzqUQx/169-prime-minister-netanyahu-on-economics-and-ai-benjamin-netanyahu",
       "platform": "YouTube",
-      "duration": "28:22",
+      "duration": "28 min 22 sec.",
       "type": "WATCH",
       "hook": "Hear Netanyahu’s own case for his economic record and his proposed AI strategy for Israel.",
       "channel": "Benjamin Netanyahu - בנימין נתניהו (verified official channel)"
@@ -57,7 +96,7 @@
       "source": "https://www.youtube.com/watch?v=LUgoS2v0BBs",
       "trello": "https://trello.com/c/o3eoIvMD/168-maya-shem-on-life-after-captivity-%D7%93%D7%A0%D7%99%D7%90%D7%9C-%D7%93%D7%95%D7%A9%D7%99",
       "platform": "YouTube",
-      "duration": "1:07:13",
+      "duration": "1 hr 7 min 13 sec.",
       "type": "WATCH",
       "hook": "A survivor describes how she is rebuilding life after captivity and resisting being defined only by that experience.",
       "channel": "דניאל דושי (@danieldushy)"
@@ -67,7 +106,7 @@
       "source": "https://www.youtube.com/watch?v=J4SJit9vRrk",
       "trello": "https://trello.com/c/Si3J2AQx/167-this-could-drag-everyone-into-a-war-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
-      "duration": "15:08",
+      "duration": "15 min 8 sec.",
       "type": "WATCH",
       "hook": "A short explainer on whether tensions in Ethiopia could spread into a wider regional war.",
       "channel": "הדרך הקלה (@ezway; verified)"
@@ -77,7 +116,7 @@
       "source": "https://www.youtube.com/watch?v=JsBZOcqZerk",
       "trello": "https://trello.com/c/sVa2TAop/166-the-insane-real-engineering-of-the-nazi-enigma-machine-veritasium",
       "platform": "YouTube",
-      "duration": "47:42",
+      "duration": "47 min 42 sec.",
       "type": "WATCH",
       "hook": "Follow how the Enigma machine’s engineering shaped the codebreaking methods used against it.",
       "channel": "Veritasium"
@@ -277,7 +316,7 @@
       "source": "https://www.youtube.com/watch?v=ADdt4OFmkxI",
       "trello": "https://trello.com/c/Pqm23Qt1/175-%D7%A4%D7%A8%D7%A7-75-%D7%98%D7%A8%D7%90%D7%9E%D7%A4-%D7%A0%D7%92%D7%93-%D7%94%D7%90%D7%95%D7%B4%D7%9D-%D7%A2%D7%A0%D7%A7%D7%99%D7%95%D7%AA-%D7%94%D7%91%D7%99%D7%A0%D7%94-%D7%91%D7%9E%D7%A8%D7%95%D7%A5-%D7%A0%D7%92%D7%93-%D7%94%D7%96%D7%9E%D7%9F-%D7%A2%D7%A8%D7%99%D7%9D-%D7%9C%D7%A2%D7%A9%D7%99%D7%A8%D7%99%D7%9D-%D7%91%D7%9C%D7%91%D7%93-%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%95%D7%9C%D7%97%D7%9F-4",
       "platform": "YouTube",
-      "duration": "1 hr 31 min",
+      "duration": "~91 min.",
       "type": "WATCH",
       "hook": "The episode description and chapters cover Gulf oil routes that bypass Hormuz and Iran’s leverage; Trump’s accusation that the UN encourages migration; Anthropic’s delayed IPO; Venice entry fees and access to cities; and food insecurity. The description provides chapter markers for these segments.",
       "channel": "פודקאסט שולחן 4"
@@ -324,7 +363,7 @@
       "source": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
       "trello": "https://trello.com/c/nhMhk6aO/176-kent-beck-software-engineering-in-the-age-of-ai-prodacity-2026-rise8",
       "platform": "YouTube",
-      "duration": "51 min 53 sec",
+      "duration": "~52 min.",
       "type": "WATCH",
       "hook": "Kent Beck discusses software craft when models write much of the code: plausible versus working code, preserving future change options, iterative development versus one-shot specifications, formal methods with Lean, and measuring effort, output, outcomes and mission without falling into Goodhart’s law.",
       "channel": "Rise8"
@@ -361,7 +400,7 @@
       "source": "https://www.youtube.com/watch?v=lnB4Zckx_34",
       "trello": "https://trello.com/c/ML5mvG25/180-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version-ai-news-strategy-daily-nate-b-jones",
       "platform": "YouTube",
-      "duration": "38 min 31 sec",
+      "duration": "~39 min.",
       "type": "WATCH",
       "hook": "The description compares OpenAI DevDay launches including Dots, ChatGPT Space/Pages, and GPT-6.1 Sol with Meta’s Muse and Anthropic. It covers subscription value, context handling, model plan limits, small-team use cases, and builder-facing Decisions API/plugin extensions, with chapter markers.",
       "channel": "AI News & Strategy Daily | Nate B Jones"
@@ -371,7 +410,7 @@
       "source": "https://www.youtube.com/watch?v=5gXm4PAo_nI",
       "trello": "https://trello.com/c/1dorWqIV/181-digger-movie-review-non-spoiler-spoiler-dan-murrell",
       "platform": "YouTube",
-      "duration": "14 min 54 sec",
+      "duration": "~15 min.",
       "type": "WATCH",
       "hook": "Dan Murrell reviews Tom Cruise’s film Digger, which he describes as polarizing and unusually risky. The video has a spoiler-free section followed by spoiler discussion beginning at 7:27.",
       "channel": "Dan Murrell"
@@ -381,7 +420,7 @@
       "source": "https://www.youtube.com/watch?v=YGgNBcIgI4s",
       "trello": "https://trello.com/c/ElNaFfUo/182-what-is-jev-the-ai-model-that-doesnt-generate-text-ibm-technology",
       "platform": "YouTube",
-      "duration": "15 min 03 sec",
+      "duration": "~15 min.",
       "type": "WATCH",
       "hook": "IBM Technology explains Jev as a System 1 model that returns calibrated probabilities rather than generated prose. The description covers comparison with LLMs and reasoning models, calibration, training, turning probabilities into software decisions, guardrails, and combining Jev with LLM workflows.",
       "channel": "IBM Technology"
@@ -391,7 +430,7 @@
       "source": "https://youtu.be/613Xbz7nJUw?si=jc24Yio86DJzN9EA",
       "trello": "https://trello.com/c/3mCC45Wp/36-how-to-become-ripped-like-adam-ragusea",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "Adam Ragusea fitness video about getting leaner/more muscular. Indexed discussion confirms the title/topic, but a reliable transcript or enough primary metadata was not available to summarize the actual advice without inference."
     },
@@ -420,7 +459,7 @@
       "source": "https://youtu.be/oblaHqULUHk?si=2GXGH--zFOu-LwV8",
       "trello": "https://trello.com/c/RC0os2MJ/66-mcp-explained-simply-what-it-is-and-why-it-exists",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "TechWorld with Nana explainer on Model Context Protocol (MCP): the standardized interface that lets AI clients connect to external tools/data through MCP servers rather than bespoke integrations for each client-service pair. Useful as a conceptual refresher; accessible…"
     },
@@ -478,7 +517,7 @@
       "source": "https://youtu.be/LbxQqAuQ4Xk?si=nHnJaBcXoECahVwU",
       "trello": "https://trello.com/c/qdmORlJc/70-jenkins-won-devops-yet-nobody-uses-it-willingly",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "A platform-engineering look at why flexible tools become nearly impossible to replace once years of plugins, jobs and custom behavior accumulate around them.",
       "channel": "DevOps & AI Toolkit"
@@ -528,7 +567,7 @@
       "source": "https://youtu.be/9dYcwOkpCE8?si=ojYrhvo_CoMY5jfn",
       "trello": "https://trello.com/c/cH4VAt6P/93-vercel-data-science-agent-simpler-tools-doubled-eval-scores",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "A strong counterpoint to ever-growing agent harnesses: Vercel reportedly improved its data-science agent by stripping specialized tools back to bash plus file read/write. A perfect eval question for your own skills."
     },
@@ -566,7 +605,7 @@
       "source": "https://x.com/obie/status/2101779116056088732",
       "trello": "https://trello.com/c/SEhshxEf/113-youre-already-a-meat-proxy-obie",
       "platform": "X",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Not assessable from the available material; the original post's argument could not be retrieved.",
       "channel": "Obie (@obie)"
@@ -616,7 +655,7 @@
       "source": "https://x.com/omarsar0/status/2102762406204076532",
       "trello": "https://trello.com/c/RWDMkoKd/124-building-a-custom-harness-with-pi-and-jev-omar-sanseviero",
       "platform": "X",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "The indexed excerpt indicates a tutorial about building a custom agent harness with the Pi SDK and Jev, including Jev usage in three parts of the workflow. The original post returned 403, so implementation details and conclusions could not be verified.",
       "channel": "Omar Sanseviero (@omarsar0)"
@@ -656,7 +695,7 @@
       "source": "https://x.com/DhravyaShah/status/2103668051468300701",
       "trello": "https://trello.com/c/gyAGADx5/132-were-open-sourcing-the-company-brain-dhravya-shah",
       "platform": "X",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "The indexed excerpt suggests that the post introduces an open-source company-brain project after the prior harness was discontinued. The original post returned 403, so the implementation and rationale could not be verified.",
       "channel": "Dhravya Shah (@dhravyashah)"
@@ -891,6 +930,36 @@
       "channel": "AI News & Strategy Daily · Nate B Jones"
     },
     {
+      "title": "הסוד מאחורי המחשבות שלכם (The Secret Behind Your Thoughts)",
+      "source": "https://www.youtube.com/watch?v=0jLrqOZn9-E",
+      "trello": "https://trello.com/c/DbY6VGPP/178-%D7%94%D7%A1%D7%95%D7%93-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA-%D7%A9%D7%9C%D7%9B%D7%9D-the-secret-behind-your-thoughts-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
+      "platform": "YouTube",
+      "duration": "13 min 54 sec.",
+      "type": "WATCH",
+      "hook": "The title suggests a discussion of thought, but the description is generic channel promotion and does not explain the topic. Transcript is unavailable, so the content cannot be summarized reliably.",
+      "channel": "הדרך הקלה"
+    },
+    {
+      "title": "Why The Taliban Are Begging The US To Come Back",
+      "source": "https://www.youtube.com/watch?v=NQSndaDIvcs",
+      "trello": "https://trello.com/c/j0RvSlJp/179-why-the-taliban-are-begging-the-us-to-come-back-reallifelore",
+      "platform": "YouTube",
+      "duration": "~39 min.",
+      "type": "WATCH",
+      "hook": "The YouTube description contains channel promotions and production credits, but no substantive explanation of the video’s argument. The title alone is not enough to summarize it.",
+      "channel": "RealLifeLore"
+    },
+    {
+      "title": "A Change in AI Strategy",
+      "source": "https://chatgpt.com/share/6ac7ad9c-4adc-83ed-8a02-16abc4a6cd6e?ogimg=plain",
+      "trello": "https://trello.com/c/A8pXCPcR/191-a-change-in-ai-strategy-tomasz-tunguz",
+      "platform": "ChatGPT share / author's website",
+      "duration": "~3 min read (author's website).",
+      "type": "READ",
+      "hook": "If AI models become cheap and substitutable, who captures the profit: the lab making the smartest model, or the platform routing millions of tasks across them?",
+      "channel": "Tomasz Tunguz (Theory Ventures)"
+    },
+    {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
       "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
       "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
@@ -907,55 +976,6 @@
       "duration": "~2 hr 4 min video; ~13 min indexed summary.",
       "type": "WATCH",
       "hook": "A broad argument about AI, jobs and capital for when you want economic context rather than another coding tutorial. Friedberg's optimistic conclusions are positions to evaluate, not settled facts."
-    },
-    {
-      "title": "Will AI replace workers? Not if we build it right",
-      "source": "https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/",
-      "trello": "https://trello.com/c/PPGrr59f/187-https-humanistreviewai-issue-1-acemoglu-ai-replace-workers",
-      "platform": "Web article",
-      "duration": "Unknown.",
-      "type": "READ",
-      "hook": "Acemoglu’s case that the key AI question is not simply which jobs get automated, but whether tools are designed to expand what workers can do.",
-      "channel": "The Humanist Review of AI / Daron Acemoglu"
-    },
-    {
-      "title": "The AI SDLC transformation playbook",
-      "source": "https://www.atlassian.com/blog/ai-at-work/ai-sdlc-transformation-playbook",
-      "trello": "https://trello.com/c/0uKCcXVp/185-the-ai-sdlc-transformation-playbook-inside-atlassian",
-      "platform": "Web article",
-      "duration": "Unknown.",
-      "type": "READ",
-      "hook": "Why adding coding agents alone may leave the biggest bottlenecks untouched—and what context, workflow and measurement changes Atlassian says are needed.",
-      "channel": "Inside Atlassian"
-    },
-    {
-      "title": "The Coming Taiwan Crisis — Jonathan A. Czin / 2028 risk window",
-      "source": "https://chatgpt.com/s/t_6ac525c6fd488191a4049dd2c2309ea2",
-      "trello": "https://trello.com/c/6wxIoJ4u/186-the-coming-taiwan-crisis-jonathan-a-czin-2028-risk-window",
-      "platform": "ChatGPT share / Facebook commentary on Foreign Affairs",
-      "duration": "~7–9 min read.",
-      "type": "READ",
-      "hook": "Why the famous “2027 invasion” date may be the wrong focal point—and why Czin thinks the political window around Taiwan’s 2028 election matters more."
-    },
-    {
-      "title": "הסוד מאחורי המחשבות שלכם (The Secret Behind Your Thoughts)",
-      "source": "https://www.youtube.com/watch?v=0jLrqOZn9-E",
-      "trello": "https://trello.com/c/DbY6VGPP/178-%D7%94%D7%A1%D7%95%D7%93-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA-%D7%A9%D7%9C%D7%9B%D7%9D-the-secret-behind-your-thoughts-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
-      "platform": "YouTube",
-      "duration": "13 min 54 sec",
-      "type": "WATCH",
-      "hook": "unknown",
-      "channel": "הדרך הקלה"
-    },
-    {
-      "title": "Why The Taliban Are Begging The US To Come Back",
-      "source": "https://www.youtube.com/watch?v=NQSndaDIvcs",
-      "trello": "https://trello.com/c/j0RvSlJp/179-why-the-taliban-are-begging-the-us-to-come-back-reallifelore",
-      "platform": "YouTube",
-      "duration": "38 min 51 sec",
-      "type": "WATCH",
-      "hook": "unknown",
-      "channel": "RealLifeLore"
     }
   ]
 }
