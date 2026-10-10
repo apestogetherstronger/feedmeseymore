@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-08T18:38:22+03:00",
+  "updated": "2026-10-10T21:55:22+03:00",
   "unresolved": [],
   "items": [
+    {
+      "title": "The Buckmaster Interview (Navier-Stokes) - Numberphile",
+      "source": "https://www.youtube.com/watch?v=Mzbtj5nkMXI",
+      "trello": "https://trello.com/c/9ig2VxEz/192-the-buckmaster-interview-navier-stokes-numberphile",
+      "platform": "YouTube",
+      "channel": "Numberphile",
+      "duration": "46 min 5 sec.",
+      "type": "WATCH",
+      "hook": "A first-person look at the controversy around OpenAI's Navier-Stokes result, with chapters on AI's role, OpenAI's intervention and the ethical disputes that followed."
+    },
     {
       "title": "Agent Evals 101: Stop Guessing, Start Measuring",
       "source": "https://chatgpt.com/share/6ac64947-c590-83ed-8600-45f05ee39a21?ogimg=plain",
