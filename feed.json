@@ -37,7 +37,7 @@
       "source": "https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/",
       "trello": "https://trello.com/c/PPGrr59f/187-https-humanistreviewai-issue-1-acemoglu-ai-replace-workers",
       "platform": "Web article",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Acemoglu’s case that the key AI question is not simply which jobs get automated, but whether tools are designed to expand what workers can do.",
       "channel": "The Humanist Review of AI / Daron Acemoglu"
@@ -47,7 +47,7 @@
       "source": "https://www.atlassian.com/blog/ai-at-work/ai-sdlc-transformation-playbook",
       "trello": "https://trello.com/c/0uKCcXVp/185-the-ai-sdlc-transformation-playbook-inside-atlassian",
       "platform": "Web article",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Why adding coding agents alone may leave the biggest bottlenecks untouched—and what context, workflow and measurement changes Atlassian says are needed.",
       "channel": "Inside Atlassian"
@@ -450,7 +450,7 @@
       "source": "https://youtu.be/613Xbz7nJUw?si=jc24Yio86DJzN9EA",
       "trello": "https://trello.com/c/3mCC45Wp/36-how-to-become-ripped-like-adam-ragusea",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "Adam Ragusea fitness video about getting leaner/more muscular. Indexed discussion confirms the title/topic, but a reliable transcript or enough primary metadata was not available to summarize the actual advice without inference."
     },
@@ -479,7 +479,7 @@
       "source": "https://youtu.be/oblaHqULUHk?si=2GXGH--zFOu-LwV8",
       "trello": "https://trello.com/c/RC0os2MJ/66-mcp-explained-simply-what-it-is-and-why-it-exists",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "TechWorld with Nana explainer on Model Context Protocol (MCP): the standardized interface that lets AI clients connect to external tools/data through MCP servers rather than bespoke integrations for each client-service pair. Useful as a conceptual refresher; accessible…"
     },
@@ -537,7 +537,7 @@
       "source": "https://youtu.be/LbxQqAuQ4Xk?si=nHnJaBcXoECahVwU",
       "trello": "https://trello.com/c/qdmORlJc/70-jenkins-won-devops-yet-nobody-uses-it-willingly",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "A platform-engineering look at why flexible tools become nearly impossible to replace once years of plugins, jobs and custom behavior accumulate around them.",
       "channel": "DevOps & AI Toolkit"
@@ -587,7 +587,7 @@
       "source": "https://youtu.be/9dYcwOkpCE8?si=ojYrhvo_CoMY5jfn",
       "trello": "https://trello.com/c/cH4VAt6P/93-vercel-data-science-agent-simpler-tools-doubled-eval-scores",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "A strong counterpoint to ever-growing agent harnesses: Vercel reportedly improved its data-science agent by stripping specialized tools back to bash plus file read/write. A perfect eval question for your own skills."
     },
@@ -625,7 +625,7 @@
       "source": "https://x.com/obie/status/2101779116056088732",
       "trello": "https://trello.com/c/SEhshxEf/113-youre-already-a-meat-proxy-obie",
       "platform": "X",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Not assessable from the available material; the original post's argument could not be retrieved.",
       "channel": "Obie (@obie)"
@@ -675,7 +675,7 @@
       "source": "https://x.com/omarsar0/status/2102762406204076532",
       "trello": "https://trello.com/c/RWDMkoKd/124-building-a-custom-harness-with-pi-and-jev-omar-sanseviero",
       "platform": "X",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "The indexed excerpt indicates a tutorial about building a custom agent harness with the Pi SDK and Jev, including Jev usage in three parts of the workflow. The original post returned 403, so implementation details and conclusions could not be verified.",
       "channel": "Omar Sanseviero (@omarsar0)"
@@ -715,7 +715,7 @@
       "source": "https://x.com/DhravyaShah/status/2103668051468300701",
       "trello": "https://trello.com/c/gyAGADx5/132-were-open-sourcing-the-company-brain-dhravya-shah",
       "platform": "X",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "The indexed excerpt suggests that the post introduces an open-source company-brain project after the prior harness was discontinued. The original post returned 403, so the implementation and rationale could not be verified.",
       "channel": "Dhravya Shah (@dhravyashah)"
