@@ -1,7 +1,16 @@
 {
-  "updated": "2026-10-14T17:04:30+03:00",
+  "updated": "2026-10-14T17:27:53+03:00",
   "unresolved": [],
   "items": [
+    {
+      "title": "Building Long-Running Agents with ScaleDown and Deep Agents",
+      "source": "https://x.com/sydneyrunkle/status/2109977909280776633",
+      "trello": "https://trello.com/c/Swd5a24s/198-building-long-running-agents-with-scaledown-and-deep-agents",
+      "platform": "X article",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "Explains ScaleDown's constrained decoding models for frequent context-management steps around a general-purpose agent."
+    },
     {
       "title": "Token-smart GitHub Copilot — token use and DevOps workflows",
       "source": "https://roro123arc.github.io/tokenops-ghcp/",
@@ -51,16 +60,6 @@
       "type": "READ",
       "hook": "Acemoglu’s case that the key AI question is not simply which jobs get automated, but whether tools are designed to expand what workers can do.",
       "channel": "The Humanist Review of AI / Daron Acemoglu"
-    },
-    {
-      "title": "The AI SDLC transformation playbook",
-      "source": "https://www.atlassian.com/blog/ai-at-work/ai-sdlc-transformation-playbook",
-      "trello": "https://trello.com/c/0uKCcXVp/185-the-ai-sdlc-transformation-playbook-inside-atlassian",
-      "platform": "Web article",
-      "duration": "unknown",
-      "type": "READ",
-      "hook": "Why adding coding agents alone may leave the biggest bottlenecks untouched—and what context, workflow and measurement changes Atlassian says are needed.",
-      "channel": "Inside Atlassian"
     },
     {
       "title": "The Coming Taiwan Crisis — Jonathan A. Czin / 2028 risk window",
