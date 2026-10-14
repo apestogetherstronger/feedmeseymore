@@ -1,7 +1,17 @@
 {
-  "updated": "2026-10-13T02:24:10+03:00",
+  "updated": "2026-10-14T17:04:30+03:00",
   "unresolved": [],
   "items": [
+    {
+      "title": "Token-smart GitHub Copilot — token use and DevOps workflows",
+      "source": "https://roro123arc.github.io/tokenops-ghcp/",
+      "trello": "https://trello.com/c/XSBlN9zn/199-token-smart-github-copilot-token-use-and-devops-workflows",
+      "platform": "GitHub Pages / repository",
+      "channel": "roro123arc",
+      "duration": "~15–20 min to read and explore (estimate).",
+      "type": "READ",
+      "hook": "A practical eight-step guide to managing Copilot token use, paired with DevOps workflow patterns. Review its model routing, cache and quality-gate advice, then verify time-sensitive preview, pricing and API claims against current primary docs."
+    },
     {
       "title": "How We Trapped Light and Built the Internet",
       "trello": "https://trello.com/c/DL7nPOJs/197-how-we-trapped-light-and-built-the-internet-veritasium",
