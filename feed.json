@@ -1,48 +1,159 @@
 {
-  "updated": "2026-10-15T19:32:24+03:00",
+  "updated": "2026-10-16T03:23:10+03:00",
   "unresolved": [
     {
-      "title": "We found a Tencent agent fleet · swarmcha.se",
-      "trello": "https://trello.com/c/FOlfW0Um/200-we-found-a-tencent-agent-fleet-swarmchase"
+      "title": "New Somali Piracy Situation is Insane — RealLifeLore",
+      "trello": "https://trello.com/c/E4yvdRgO/218-new-somali-piracy-situation-is-insane-reallifelore"
     },
     {
-      "title": "Why the Arab World never united",
-      "trello": "https://trello.com/c/j6iIUv7z/201-why-the-arab-world-never-united"
+      "title": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdGtsWvqH&urlhash=zqre&mt=BA13gdhCJfcPckdA2PoCIMEHDAtBN_aySynl92S_UQ8jDz6F3YcHZp17oBwx6B_Z1DFYvvgqIpIcsz4vxjs_Hopu8OkgfmC0zXcU8DIh5O6rIG26PgHyzX_4&isSdui=true",
+      "trello": "https://trello.com/c/Q6jnh18h/221-https-wwwlinkedincom-safety-go-urlhttps3a2f2flnkd2ein2fdgtswvqhurlhashzqremtba13gdhcjfcpckda2pocimehdatbnaysynl92suq8jdz6f3ychzp"
     },
     {
-      "title": "עוד מצב שמתחיל לצאת משליטה",
-      "trello": "https://trello.com/c/KcwaEoII/202-%D7%A2%D7%95%D7%93-%D7%9E%D7%A6%D7%91-%D7%A9%D7%9E%D7%AA%D7%97%D7%99%D7%9C-%D7%9C%D7%A6%D7%90%D7%AA-%D7%9E%D7%A9%D7%9C%D7%99%D7%98%D7%94"
+      "title": "Claude Code Projects: Make Claude Your Chief of Staff",
+      "trello": "https://trello.com/c/Edjaaxh9/222-claude-code-projects-make-claude-your-chief-of-staff"
     }
   ],
   "items": [
     {
-      "title": "Agents Write the Code. Your System Has to Prove It.",
-      "source": "https://x.com/alexlavaee/status/2110521585623003572",
-      "trello": "https://trello.com/c/x6iGzr9Y/203-agents-write-the-code-your-system-has-to-prove-it-alex-lavaee",
-      "platform": "X article",
-      "channel": "Alex Lavaee (@alexlavaee)",
-      "duration": "~15–20 min (estimated from full supplied text).",
-      "type": "READ",
-      "hook": "If an agent writes both the implementation and the tests, what prevents it from making a failing change look green? A practical verification architecture where independent, immutable checks—not the coding agent's confidence—decide whether work is done."
+      "title": "עוד מצב שמתחיל לצאת משליטה",
+      "source": "https://www.youtube.com/watch?v=r6p32JbJiYI",
+      "platform": "YouTube",
+      "channel": "הדרך הקלה",
+      "trello": "https://trello.com/c/KcwaEoII/202-%D7%A2%D7%95%D7%93-%D7%9E%D7%A6%D7%91-%D7%A9%D7%9E%D7%AA%D7%97%D7%99%D7%9C-%D7%9C%D7%A6%D7%90%D7%AA-%D7%9E%D7%A9%D7%9C%D7%99%D7%98%D7%94",
+      "duration": "15 min 20 sec",
+      "type": "WATCH",
+      "hook": "A short update on the situation in Ethiopia and the Horn of Africa."
     },
     {
-      "title": "Building Long-Running Agents with ScaleDown and Deep Agents",
-      "source": "https://x.com/sydneyrunkle/status/2109977909280776633",
-      "trello": "https://trello.com/c/Swd5a24s/198-building-long-running-agents-with-scaledown-and-deep-agents",
-      "platform": "X article",
-      "duration": "Not stated by source.",
+      "title": "We found a Tencent agent fleet · swarmcha.se",
+      "source": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+      "platform": "Web article",
+      "channel": "Swarmchasers / swarmcha.se",
+      "trello": "https://trello.com/c/FOlfW0Um/200-we-found-a-tencent-agent-fleet-swarmchase",
+      "duration": "unknown",
       "type": "READ",
-      "hook": "Explains ScaleDown's constrained decoding models for frequent context-management steps around a general-purpose agent."
+      "hook": "A first-person investigation of how agents reached blocked map data, what researchers observed, and how the researchers communicated with them."
     },
     {
-      "title": "Token-smart GitHub Copilot",
-      "source": "https://github.com/roro123arc/tokenops-ghcp",
-      "trello": "https://trello.com/c/XSBlN9zn/199-token-smart-github-copilot-token-use-and-devops-workflows",
-      "platform": "GitHub Pages / repository",
-      "channel": "roro123arc",
-      "duration": "~15–20 min to read and explore (estimate).",
-      "type": "READ",
-      "hook": "A practical eight-step guide to managing Copilot token use, paired with DevOps workflow patterns. Review its model routing, cache and quality-gate advice, then verify time-sensitive preview, pricing and API claims against current primary docs."
+      "title": "The Haredi leadership is scared and completely out of touch — כאן חדשות",
+      "source": "https://www.youtube.com/watch?v=-P5iFpHL16I",
+      "platform": "YouTube",
+      "channel": "כאן | חדשות",
+      "trello": "https://trello.com/c/uvcK9LoF/204-the-haredi-leadership-is-scared-and-completely-out-of-touch-%D7%9B%D7%90%D7%9F-%D7%97%D7%93%D7%A9%D7%95%D7%AA",
+      "duration": "31 min",
+      "type": "WATCH",
+      "hook": "Hear Moti Leitner make the case for challenging Shas and United Torah Judaism from within Haredi politics."
+    },
+    {
+      "title": "Konstantin Kisin’s WARNING: Our Leaders Have Lost Control — The Diary Of A CEO",
+      "source": "https://www.youtube.com/watch?v=Y43T7VQGtOs",
+      "platform": "YouTube",
+      "channel": "The Diary Of A CEO",
+      "trello": "https://trello.com/c/w9AGXd16/205-konstantin-kisins-warning-our-leaders-have-lost-control-the-diary-of-a-ceo",
+      "duration": "1 hr 33 min 59 sec",
+      "type": "WATCH",
+      "hook": "A long debate between Kisin and economist Steve Keen on debt, immigration, climate, and AI."
+    },
+    {
+      "title": "Why Time Flows Differently Between Galaxies — PBS Space Time",
+      "source": "https://www.youtube.com/watch?v=SXg6YVcdOcA",
+      "platform": "YouTube",
+      "channel": "PBS Space Time",
+      "trello": "https://trello.com/c/K0xJeX1i/207-why-time-flows-differently-between-galaxies-pbs-space-time",
+      "duration": "16 min 28 sec",
+      "type": "WATCH",
+      "hook": "A cosmology explainer linking the title’s intergalactic time question to the debate over dark energy."
+    },
+    {
+      "title": "What Every Parent Should Fix While They Still Can — Jay Shetty Podcast",
+      "source": "https://www.youtube.com/watch?v=1PNqoHNJwew",
+      "platform": "YouTube",
+      "channel": "Jay Shetty Podcast",
+      "trello": "https://trello.com/c/cV6TNZ11/208-what-every-parent-should-fix-while-they-still-can-jay-shetty-podcast",
+      "duration": "34 min",
+      "type": "WATCH",
+      "hook": "Hear the guests’ advice on helping children build independence, then check the evidence behind their “according to science” claims."
+    },
+    {
+      "title": "מועדון כתב #61 - ממ״ד — מועדון כתב",
+      "source": "https://www.youtube.com/watch?v=Se2pcG5hGEs",
+      "platform": "YouTube",
+      "channel": "מועדון כתב",
+      "trello": "https://trello.com/c/EAUPWlsL/209-%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F-%D7%9B%D7%AA%D7%91-61-%D7%9E%D7%9E%D7%B4%D7%93-%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F-%D7%9B%D7%AA%D7%91",
+      "duration": "8 min 33 sec",
+      "type": "WATCH",
+      "hook": "A Hebrew spoken-word piece that stages a contrast between the home safe room and the public shelter."
+    },
+    {
+      "title": "The Social Reckoning — Movie Review — Dan Murrell",
+      "source": "https://www.youtube.com/watch?v=CURyvsr3WBw",
+      "platform": "YouTube",
+      "channel": "Dan Murrell",
+      "trello": "https://trello.com/c/MfRNlphM/213-the-social-reckoning-movie-review-dan-murrell",
+      "duration": "13 min 55 sec",
+      "type": "WATCH",
+      "hook": "A short review of Aaron Sorkin’s follow-up to The Social Network."
+    },
+    {
+      "title": "Why America keeps losing wars — CaspianReport",
+      "source": "https://www.youtube.com/watch?v=748WJ7ydG_s",
+      "platform": "YouTube",
+      "channel": "CaspianReport",
+      "trello": "https://trello.com/c/ZxMUlbUq/212-why-america-keeps-losing-wars-caspianreport",
+      "duration": "17 min",
+      "type": "WATCH",
+      "hook": "Why can battlefield victories fail to end a war on favorable terms?"
+    },
+    {
+      "title": "Adam Savage Experiences Anatomically Correct Wings! — Adam Savage’s Tested",
+      "source": "https://www.youtube.com/watch?v=WT7MLrxor1A",
+      "platform": "YouTube",
+      "channel": "Adam Savage’s Tested",
+      "trello": "https://trello.com/c/INrIM29E/210-adam-savage-experiences-anatomically-correct-wings-adam-savages-tested",
+      "duration": "11 min 6 sec",
+      "type": "WATCH",
+      "hook": "Adam Savage tries articulated wings built to move like real bird wings."
+    },
+    {
+      "title": "The REAL Reason Scientists Know Reality Is An Illusion — The Diary Of A CEO Clips",
+      "source": "https://www.youtube.com/watch?v=GEhdiVrddp4",
+      "platform": "YouTube",
+      "channel": "The Diary Of A CEO Clips",
+      "trello": "https://trello.com/c/rIhK0cuv/214-the-real-reason-scientists-know-reality-is-an-illusion-the-diary-of-a-ceo-clips",
+      "duration": "20 min",
+      "type": "WATCH",
+      "hook": "A discussion of string theory and the simulation argument, with Greene’s caveat that neither settles whether reality is simulated."
+    },
+    {
+      "title": "The Absurd Engineering Behind the Internet — Veritasium",
+      "source": "https://www.youtube.com/watch?v=NiCgcUTL9_Q",
+      "platform": "YouTube",
+      "channel": "Veritasium",
+      "trello": "https://trello.com/c/9ZyHCmR4/216-the-absurd-engineering-behind-the-internet-veritasium",
+      "duration": "34 min",
+      "type": "WATCH",
+      "hook": "See why turning glass into the backbone of global communications took far more than simply making it transparent."
+    },
+    {
+      "title": "Everyone is still waiting for that revolution — הדרך הקלה",
+      "source": "https://www.youtube.com/watch?v=6QwGhGU_WGI",
+      "platform": "YouTube",
+      "channel": "הדרך הקלה",
+      "trello": "https://trello.com/c/VeHzVHN7/217-everyone-is-still-waiting-for-that-revolution-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
+      "duration": "17 min",
+      "type": "WATCH",
+      "hook": "A concise introduction to Marx’s ideas, presented by the Hebrew channel הדרך הקלה."
+    },
+    {
+      "title": "Azure Firewall Deep Dive — John Savill's Technical Training",
+      "source": "https://www.youtube.com/watch?v=JiUerkqyW0g",
+      "platform": "YouTube",
+      "channel": "John Savill's Technical Training",
+      "trello": "https://trello.com/c/ckOGdK4J/220-azure-firewall-deep-dive-john-savills-technical-training",
+      "duration": "1 hr 24 min 35 sec",
+      "type": "WATCH",
+      "hook": "Review the Azure Firewall feature map, from routing and policy rules through Premium inspection and monitoring."
     },
     {
       "title": "How We Trapped Light and Built the Internet",
@@ -80,7 +191,7 @@
       "trello": "https://trello.com/c/PPGrr59f/187-https-humanistreviewai-issue-1-acemoglu-ai-replace-workers",
       "platform": "Web article",
       "channel": "The Humanist Review of AI / Daron Acemoglu",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Acemoglu’s case that the key AI question is not simply which jobs get automated, but whether tools are designed to expand what workers can do."
     },
@@ -284,16 +395,6 @@
       "hook": "The useful fine-tuning lesson is in the data pipeline: reviewed examples, company-level splits and a baseline before training. A hands-on guide whose sample code still needs testing."
     },
     {
-      "title": "Episode #1250 - Daniel Bachmat, Mathematics and AI",
-      "source": "https://youtu.be/GolXi97PZbQ?si=-Rui66hYMNo9oA97",
-      "trello": "https://trello.com/c/5wRbawRs/97-episode-1250-daniel-bachmat-mathematics-and-ai",
-      "platform": "YouTube",
-      "channel": "גיקונומי - Geekonomy - פרקי הוידאו של ראם",
-      "duration": "53 min 11 sec.",
-      "type": "WATCH",
-      "hook": "A mathematics-focused Geekonomy conversation about Millennium Problems and AI. Keep a skeptical ear for breakthrough claims—the description alone does not establish a solved problem."
-    },
-    {
       "title": "אלון אולמן במסר דחוף לישראלים: רק ככה עושים כסף בישראל. הסוד הכלכלי הזה ישנה את חייכם לתמיד!",
       "source": "https://youtu.be/h_hXk-1fP50?si=e5PdsqtrAjyWCsQZ",
       "trello": "https://trello.com/c/PzpsXNJ6/94-%D7%90%D7%9C%D7%95%D7%9F-%D7%90%D7%95%D7%9C%D7%9E%D7%9F-%D7%91%D7%9E%D7%A1%D7%A8-%D7%93%D7%97%D7%95%D7%A3-%D7%9C%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%9D-%D7%A8%D7%A7-%D7%9B%D7%9B%D7%94-%D7%A2%D7%95%D7%A9%D7%99%D7%9D-%D7%9B%D7%A1%D7%A3-%D7%91%D7%99%D7%A9%D7%A8%D7%90%D7%9C-%D7%94%D7%A1%D7%95%D7%93-%D7%94%D7%9B%D7%9C%D7%9B%D7%9C%D7%99-%D7%94%D7%96%D7%94-%D7%99%D7%A9%D7%A0%D7%94-%D7%90%D7%AA-%D7%97%D7%99%D7%99%D7%9B%D7%9D-%D7%9C%D7%AA%D7%9E%D7%99%D7%93",
@@ -364,16 +465,6 @@
       "hook": "A real course rather than a snack. Keep it for a deliberate learning block: Agent Framework, MCP, workflows, multi-agent orchestration and A2A are the high-value sections."
     },
     {
-      "title": "פרק 75: טראמפ נגד האו״ם, ענקיות הבינה במרוץ נגד הזמן, ערים לעשירים בלבד?",
-      "source": "https://www.youtube.com/watch?v=ADdt4OFmkxI",
-      "trello": "https://trello.com/c/Pqm23Qt1/175-%D7%A4%D7%A8%D7%A7-75-%D7%98%D7%A8%D7%90%D7%9E%D7%A4-%D7%A0%D7%92%D7%93-%D7%94%D7%90%D7%95%D7%B4%D7%9D-%D7%A2%D7%A0%D7%A7%D7%99%D7%95%D7%AA-%D7%94%D7%91%D7%99%D7%A0%D7%94-%D7%91%D7%9E%D7%A8%D7%95%D7%A5-%D7%A0%D7%92%D7%93-%D7%94%D7%96%D7%9E%D7%9F-%D7%A2%D7%A8%D7%99%D7%9D-%D7%9C%D7%A2%D7%A9%D7%99%D7%A8%D7%99%D7%9D-%D7%91%D7%9C%D7%91%D7%93-%D7%A4%D7%95%D7%93%D7%A7%D7%90%D7%A1%D7%98-%D7%A9%D7%95%D7%9C%D7%97%D7%9F-4",
-      "platform": "YouTube",
-      "channel": "פודקאסט שולחן 4",
-      "duration": "~91 min.",
-      "type": "WATCH",
-      "hook": "The episode description and chapters cover Gulf oil routes that bypass Hormuz and Iran’s leverage; Trump’s accusation that the UN encourages migration; Anthropic’s delayed IPO; Venice entry fees and access to cities; and food insecurity. The description provides chapter markers for these segments."
-    },
-    {
       "title": "CAFE(S): A framework for defining AI context quality",
       "source": "Pasted Engineering Enablement newsletter text; direct newsletter/paper URL was not included.",
       "trello": "https://trello.com/c/qSIU6m7C/157-cafes-a-framework-for-defining-ai-context-quality",
@@ -402,6 +493,16 @@
       "hook": "A long-form RedLetterMedia discussion of Star Trek's first season when entertainment is what you want. Title and approximate runtime are known; no detailed transcript-based curation is available."
     },
     {
+      "title": "I Tested The Viral Github Repo To Reverse Engineer Anything — Nick Saraev",
+      "source": "https://www.youtube.com/watch?v=dAzs_rU6080",
+      "platform": "YouTube",
+      "channel": "Nick Saraev",
+      "trello": "https://trello.com/c/kVpvmvOz/219-i-tested-the-viral-github-repo-to-reverse-engineer-anything-nick-saraev",
+      "duration": "10 min 47 sec",
+      "type": "WATCH",
+      "hook": "A 10-minute hands-on look at a GitHub tool that claims to reverse engineer apps, including a preview rebuild and app-matching test."
+    },
+    {
       "title": "Everyone's Testing Claude Fable 5.1 On Code. It Made Me A 37-Second Film.",
       "source": "https://youtube.com/watch?v=55rDzRkUVdE&si=Zxf2chI0kb6bPkKh",
       "trello": "https://trello.com/c/CVAvjPWn/11-everyones-testing-claude-fable-51-on-code-it-made-me-a-37-second-film",
@@ -409,16 +510,6 @@
       "duration": "~15–20 min video (exact duration not available in accessible metadata).",
       "type": "WATCH",
       "hook": "The useful part of the flashy Blender demo is a spending rule: start on low effort, inspect the artifact, and use more reasoning only where judgment earns it. Demos still need verification."
-    },
-    {
-      "title": "Kent Beck: Software Engineering in the Age of AI | Prodacity 2026",
-      "source": "https://www.youtube.com/watch?v=F8fBgDCf2Y4",
-      "trello": "https://trello.com/c/nhMhk6aO/176-kent-beck-software-engineering-in-the-age-of-ai-prodacity-2026-rise8",
-      "platform": "YouTube",
-      "channel": "Rise8",
-      "duration": "~52 min.",
-      "type": "WATCH",
-      "hook": "Kent Beck discusses software craft when models write much of the code: plausible versus working code, preserving future change options, iterative development versus one-shot specifications, formal methods with Lean, and measuring effort, output, outcomes and mission without falling into Goodhart’s law."
     },
     {
       "title": "Robots Just Had Their GPT-3 Moment",
@@ -482,7 +573,7 @@
       "source": "https://youtu.be/613Xbz7nJUw?si=jc24Yio86DJzN9EA",
       "trello": "https://trello.com/c/3mCC45Wp/36-how-to-become-ripped-like-adam-ragusea",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "Adam Ragusea fitness video about getting leaner/more muscular. Indexed discussion confirms the title/topic, but a reliable transcript or enough primary metadata was not available to summarize the actual advice without inference."
     },
@@ -511,7 +602,7 @@
       "source": "https://youtu.be/oblaHqULUHk?si=2GXGH--zFOu-LwV8",
       "trello": "https://trello.com/c/RC0os2MJ/66-mcp-explained-simply-what-it-is-and-why-it-exists",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "TechWorld with Nana explainer on Model Context Protocol (MCP): the standardized interface that lets AI clients connect to external tools/data through MCP servers rather than bespoke integrations for each client-service pair. Useful as a conceptual refresher; accessible…"
     },
@@ -523,6 +614,16 @@
       "duration": "Short technical video; exact runtime not reliably indexed.",
       "type": "WATCH",
       "hook": "A useful MCP design shift: stop preloading giant tool catalogs; make tools progressively discoverable and expose higher-level workflows."
+    },
+    {
+      "title": "Inside the Gemini Agent: Desktop, Workspace, Mobile & CLI — Google Cloud",
+      "source": "https://www.youtube.com/watch?v=xgYDSQbY9n4",
+      "platform": "YouTube",
+      "channel": "Google Cloud",
+      "trello": "https://trello.com/c/Yxs82szO/206-inside-the-gemini-agent-desktop-workspace-mobile-cli-google-cloud",
+      "duration": "13 min 58 sec",
+      "type": "WATCH",
+      "hook": "Watch one Gemini cloud agent move from Microsoft 365 and Workspace into Slack, then build and deploy a microsite."
     },
     {
       "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
@@ -570,7 +671,7 @@
       "trello": "https://trello.com/c/qdmORlJc/70-jenkins-won-devops-yet-nobody-uses-it-willingly",
       "platform": "YouTube",
       "channel": "DevOps & AI Toolkit",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "A platform-engineering look at why flexible tools become nearly impossible to replace once years of plugins, jobs and custom behavior accumulate around them."
     },
@@ -619,7 +720,7 @@
       "source": "https://youtu.be/9dYcwOkpCE8?si=ojYrhvo_CoMY5jfn",
       "trello": "https://trello.com/c/cH4VAt6P/93-vercel-data-science-agent-simpler-tools-doubled-eval-scores",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "A strong counterpoint to ever-growing agent harnesses: Vercel reportedly improved its data-science agent by stripping specialized tools back to bash plus file read/write. A perfect eval question for your own skills."
     },
@@ -658,7 +759,7 @@
       "trello": "https://trello.com/c/SEhshxEf/113-youre-already-a-meat-proxy-obie",
       "platform": "X",
       "channel": "Obie (@obie)",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Not assessable from the available material; the original post's argument could not be retrieved."
     },
@@ -708,7 +809,7 @@
       "trello": "https://trello.com/c/RWDMkoKd/124-building-a-custom-harness-with-pi-and-jev-omar-sanseviero",
       "platform": "X",
       "channel": "Omar Sanseviero (@omarsar0)",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "The indexed excerpt indicates a tutorial about building a custom agent harness with the Pi SDK and Jev, including Jev usage in three parts of the workflow. The original post returned 403, so implementation details and conclusions could not be verified."
     },
@@ -748,7 +849,7 @@
       "trello": "https://trello.com/c/gyAGADx5/132-were-open-sourcing-the-company-brain-dhravya-shah",
       "platform": "X",
       "channel": "Dhravya Shah (@dhravyashah)",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "The indexed excerpt suggests that the post introduces an open-source company-brain project after the prior harness was discontinued. The original post returned 403, so the implementation and rationale could not be verified."
     },
@@ -938,7 +1039,7 @@
       "trello": "https://trello.com/c/7t5saoqi/154-why-were-building-muse-alexandr-wang",
       "platform": "X article",
       "channel": "Alexandr Wang (@alexandr_wang)",
-      "duration": "Unknown; full article unavailable.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Wang presents Muse as a “second mind” or general manager that helps surface a person's goals, makes a plan, and handles practical steps such as sending emails, making calls, finding funding and keeping things on schedule. This is a product vision, not…"
     },
@@ -967,7 +1068,7 @@
       "source": "https://cs329a.stanford.edu/",
       "trello": "https://trello.com/c/fjraglOb/160-stanford-cs329a-self-improving-ai-agents",
       "platform": "Stanford course website",
-      "duration": "Unknown overall; the syllabus lists 20 class meetings scheduled for 80 minutes each, plus research readings and a project. No recordings are linked.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Use Stanford’s paper sequence to trace how self-improving agents connect test-time search, verification, tool feedback, memory and long-horizon evaluation."
     },
@@ -1012,11 +1113,70 @@
       "hook": "If AI models become cheap and substitutable, who captures the profit: the lab making the smartest model, or the platform routing millions of tasks across them?"
     },
     {
+      "title": "Building Long-Running Agents with ScaleDown and Deep Agents",
+      "source": "https://x.com/sydneyrunkle/status/2109977909280776633",
+      "trello": "https://trello.com/c/Swd5a24s/198-building-long-running-agents-with-scaledown-and-deep-agents",
+      "platform": "X article",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "Explains ScaleDown's constrained decoding models for frequent context-management steps around a general-purpose agent."
+    },
+    {
+      "title": "Token-smart GitHub Copilot",
+      "source": "https://github.com/roro123arc/tokenops-ghcp",
+      "trello": "https://trello.com/c/XSBlN9zn/199-token-smart-github-copilot-token-use-and-devops-workflows",
+      "platform": "GitHub Pages / repository",
+      "channel": "roro123arc",
+      "duration": "~15–20 min to read and explore (estimate).",
+      "type": "READ",
+      "hook": "A practical eight-step guide to managing Copilot token use, paired with DevOps workflow patterns. Review its model routing, cache and quality-gate advice, then verify time-sensitive preview, pricing and API claims against current primary docs."
+    },
+    {
+      "title": "Agents Write the Code. Your System Has to Prove It.",
+      "source": "https://x.com/alexlavaee/status/2110521585623003572",
+      "trello": "https://trello.com/c/x6iGzr9Y/203-agents-write-the-code-your-system-has-to-prove-it-alex-lavaee",
+      "platform": "X article",
+      "channel": "Alex Lavaee (@alexlavaee)",
+      "duration": "~15–20 min (estimated from full supplied text).",
+      "type": "READ",
+      "hook": "If an agent writes both the implementation and the tests, what prevents it from making a failing change look green? A practical verification architecture where independent, immutable checks—not the coding agent's confidence—decide whether work is done."
+    },
+    {
+      "title": "Why the Arab World never united",
+      "source": "https://www.youtube.com/watch?v=dnk-np4C1m0",
+      "platform": "YouTube",
+      "channel": "CaspianReport",
+      "trello": "https://trello.com/c/j6iIUv7z/201-why-the-arab-world-never-united",
+      "duration": "16 min 42 sec",
+      "type": "WATCH",
+      "hook": "The title identifies a historical/geopolitical question about why the Arab world has not united. The publisher's available description does not show the explanation or evidence used."
+    },
+    {
+      "title": "Inside The World's Darkest Airport — The B1M",
+      "source": "https://www.youtube.com/watch?v=sRF_aTASC5c",
+      "platform": "YouTube",
+      "channel": "The B1M",
+      "trello": "https://trello.com/c/qL0lMfUP/215-inside-the-worlds-darkest-airport-the-b1m",
+      "duration": "22 min",
+      "type": "WATCH",
+      "hook": "The available publisher text does not explain what the video establishes about the airport or its future. A reliable summary needs the linked reporting or transcript."
+    },
+    {
+      "title": "Post-Labor Economics explained in 10 minutes — David Shapiro",
+      "source": "https://www.youtube.com/watch?v=_Ey6fWliRXc",
+      "platform": "YouTube",
+      "channel": "David Shapiro",
+      "trello": "https://trello.com/c/x630lyx5/211-post-labor-economics-explained-in-10-minutes-david-shapiro",
+      "duration": "10 min 57 sec",
+      "type": "WATCH",
+      "hook": "The title identifies post-labor economics as the topic, but the available description does not show how the creator defines it or what claims he makes."
+    },
+    {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
       "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
       "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
       "platform": "YouTube",
-      "duration": "Unknown video runtime; ~5–8 min summary read.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
     },
