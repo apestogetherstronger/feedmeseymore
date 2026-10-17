@@ -1,52 +1,132 @@
 {
-  "updated": "2026-10-17T23:41:05+03:00",
+  "updated": "2026-10-18T02:14:09+03:00",
   "unresolved": [
     {
-      "title": "New Somali Piracy Situation is Insane — RealLifeLore",
-      "trello": "https://trello.com/c/E4yvdRgO/218-new-somali-piracy-situation-is-insane-reallifelore"
-    },
-    {
-      "title": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdGtsWvqH&urlhash=zqre&mt=BA13gdhCJfcPckdA2PoCIMEHDAtBN_aySynl92S_UQ8jDz6F3YcHZp17oBwx6B_Z1DFYvvgqIpIcsz4vxjs_Hopu8OkgfmC0zXcU8DIh5O6rIG26PgHyzX_4&isSdui=true",
-      "trello": "https://trello.com/c/Q6jnh18h/221-https-wwwlinkedincom-safety-go-urlhttps3a2f2flnkd2ein2fdgtswvqhurlhashzqremtba13gdhcjfcpckda2pocimehdatbnaysynl92suq8jdz6f3ychzp"
-    },
-    {
-      "title": "Claude Code Projects: Make Claude Your Chief of Staff",
-      "trello": "https://trello.com/c/Edjaaxh9/222-claude-code-projects-make-claude-your-chief-of-staff"
-    },
-    {
-      "title": "Caramelized vegetable lentil stew (for a rainy day)",
-      "trello": "https://trello.com/c/xJARTDWR/223-caramelized-vegetable-lentil-stew-for-a-rainy-day"
-    },
-    {
-      "title": "How the Top 1% Use Claude Code Differently",
-      "trello": "https://trello.com/c/uyEG9lri/224-how-the-top-1-use-claude-code-differently"
-    },
-    {
-      "title": "Why The US Is Suddenly Attacking Canada",
-      "trello": "https://trello.com/c/aRZzmg0J/225-why-the-us-is-suddenly-attacking-canada"
-    },
-    {
-      "title": "Fixing the PR Bottleneck — Matt Pocock, AIHero",
-      "trello": "https://trello.com/c/rJqOaZWB/226-fixing-the-pr-bottleneck-matt-pocock-aihero"
-    },
-    {
-      "title": "שיא של 30 שנים: המהפכה השקטה ברחוב הערבי - שיכולה לקבוע את תוצאת הבחירות | היום",
-      "trello": "https://trello.com/c/4jBN8g8m/228-%D7%A9%D7%99%D7%90-%D7%A9%D7%9C-30-%D7%A9%D7%A0%D7%99%D7%9D-%D7%94%D7%9E%D7%94%D7%A4%D7%9B%D7%94-%D7%94%D7%A9%D7%A7%D7%98%D7%94-%D7%91%D7%A8%D7%97%D7%95%D7%91-%D7%94%D7%A2%D7%A8%D7%91%D7%99-%D7%A9%D7%99%D7%9B%D7%95%D7%9C%D7%94-%D7%9C%D7%A7%D7%91%D7%95%D7%A2-%D7%90%D7%AA-%D7%AA%D7%95%D7%A6%D7%90%D7%AA-%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA-%D7%94%D7%99%D7%95%D7%9D"
-    },
-    {
-      "title": "What Every Parent Should Fix While They Still Can (According to Science)...",
-      "trello": "https://trello.com/c/8rJEoMYO/229-what-every-parent-should-fix-while-they-still-can-according-to-science"
-    },
-    {
-      "title": "Arynne Wexler - The Conservative Comedian Breaking the Internet | Call H...",
-      "trello": "https://trello.com/c/jX0KvW9D/230-arynne-wexler-the-conservative-comedian-breaking-the-internet-call-h"
-    },
-    {
-      "title": "The Most Likely Place to Find Aliens",
-      "trello": "https://trello.com/c/aQPEUjHv/233-the-most-likely-place-to-find-aliens"
+      "title": "Employment at Anthropic.pdf",
+      "trello": "https://trello.com/c/fvm5Pp9J/234-employment-at-anthropicpdf"
     }
   ],
   "items": [
+    {
+      "title": "New Somali Piracy Situation is Insane — RealLifeLore",
+      "source": "https://www.youtube.com/watch?v=UHsSZ7lUvKM",
+      "trello": "https://trello.com/c/E4yvdRgO/218-new-somali-piracy-situation-is-insane-reallifelore",
+      "platform": "YouTube",
+      "duration": "44:35 video.",
+      "type": "WATCH",
+      "hook": "How a handful of hijackings can impose costs far beyond the ransom payments.",
+      "channel": "RealLifeLore"
+    },
+    {
+      "title": "Redesigning source control at Anthropic",
+      "source": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdGtsWvqH&urlhash=zqre&mt=BA13gdhCJfcPckdA2PoCIMEHDAtBN_aySynl92S_UQ8jDz6F3YcHZp17oBwx6B_Z1DFYvvgqIpIcsz4vxjs_Hopu8OkgfmC0zXcU8DIh5O6rIG26PgHyzX_4&isSdui=true",
+      "trello": "https://trello.com/c/Q6jnh18h/221-redesigning-source-control-at-anthropic",
+      "platform": "Anthropic Engineering",
+      "duration": "Approximately 15–18 min reading (estimate).",
+      "type": "READ",
+      "hook": "When agents create code faster, source control and CI become the next engineering problem.",
+      "channel": "Nick G. and the source control team"
+    },
+    {
+      "title": "Claude Code Projects: Make Claude Your Chief of Staff",
+      "source": "https://linas.substack.com/p/claude-code-projects-playbook",
+      "trello": "https://trello.com/c/Edjaaxh9/222-claude-code-projects-make-claude-your-chief-of-staff",
+      "platform": "Substack",
+      "duration": "Approximately 3–4 min for the accessible preview; full article unknown.",
+      "type": "READ",
+      "hook": "A useful framing for coordinating agent work: clear ownership, review gates and a budget.",
+      "channel": "Linas Beliūnas"
+    },
+    {
+      "title": "Caramelized vegetable lentil stew (for a rainy day)",
+      "source": "https://youtube.com/watch?v=XpkfHAaxNJc&si=XTDV_Ijs25V4p1CF",
+      "trello": "https://trello.com/c/xJARTDWR/223-caramelized-vegetable-lentil-stew-for-a-rainy-day",
+      "platform": "YouTube",
+      "duration": "10:05 video. Cooking includes about 20 min browning and 30 min simmering, plus preparation.",
+      "type": "WATCH",
+      "hook": "Get a deeply savory meatless stew from browned vegetables, mushrooms and lentils.",
+      "channel": "Adam Ragusea"
+    },
+    {
+      "title": "How the Top 1% Use Claude Code Differently",
+      "source": "https://youtube.com/watch?v=J9NQTYUP6k0&si=pJDOZYKpP5e1BGdh",
+      "trello": "https://trello.com/c/uyEG9lri/224-how-the-top-1-use-claude-code-differently",
+      "platform": "YouTube",
+      "duration": "At least 16:50 based on the final listed chapter; exact total duration not confirmed.",
+      "type": "WATCH",
+      "hook": "Turn “done” into evidence: checks, context routing and hooks for agent workflows.",
+      "channel": "Simon Scrapes"
+    },
+    {
+      "title": "Why The US Is Suddenly Attacking Canada",
+      "source": "https://youtube.com/watch?v=R60ZGwd3n9E&si=WML8Xn5AQs-nwIYD",
+      "trello": "https://trello.com/c/aRZzmg0J/225-why-the-us-is-suddenly-attacking-canada",
+      "platform": "YouTube",
+      "duration": "53:03 video.",
+      "type": "WATCH",
+      "hook": "What happens when deep economic integration becomes a source of political leverage?",
+      "channel": "RealLifeLore"
+    },
+    {
+      "title": "Fixing the PR Bottleneck — Matt Pocock, AIHero",
+      "source": "https://youtube.com/watch?v=LlgiOCmFG_w&si=q2mYmqWcjNco_wSl",
+      "trello": "https://trello.com/c/rJqOaZWB/226-fixing-the-pr-bottleneck-matt-pocock-aihero",
+      "platform": "YouTube",
+      "duration": "22:34 video. Publisher notes poor audio during the first approximately 2 min.",
+      "type": "WATCH",
+      "hook": "Make each PR review improve the system that produces the next PR.",
+      "channel": "AI Engineer"
+    },
+    {
+      "title": "שיא של 30 שנים: המהפכה השקטה ברחוב הערבי - שיכולה לקבוע את תוצאת הבחירות | היום",
+      "source": "https://www.israelhayom.co.il/magazine/hashavua/article/21635682",
+      "trello": "https://trello.com/c/4jBN8g8m/228-%D7%A9%D7%99%D7%90-%D7%A9%D7%9C-30-%D7%A9%D7%A0%D7%99%D7%9D-%D7%94%D7%9E%D7%94%D7%A4%D7%9B%D7%94-%D7%94%D7%A9%D7%A7%D7%98%D7%94-%D7%91%D7%A8%D7%97%D7%95%D7%91-%D7%94%D7%A2%D7%A8%D7%91%D7%99-%D7%A9%D7%99%D7%9B%D7%95%D7%9C%D7%94-%D7%9C%D7%A7%D7%91%D7%95%D7%A2-%D7%90%D7%AA-%D7%AA%D7%95%D7%A6%D7%90%D7%AA-%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA-%D7%94%D7%99%D7%95%D7%9D",
+      "platform": "Israel Hayom",
+      "duration": "Approximately 7–9 min reading (estimate).",
+      "type": "READ",
+      "hook": "Why higher turnout can change seat totals without resolving the coalition deadlock.",
+      "channel": "Amit Segal"
+    },
+    {
+      "title": "Always-On Agent Architecture · six layers · @choopyplug1",
+      "source": "https://t.co/MHBkqhFfng",
+      "trello": "https://trello.com/c/sgrPkKqz/236-always-on-agent-architecture-six-layers-choopyplug1",
+      "platform": "unknown",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "unknown",
+      "channel": "@choopyplug1 (as printed on page 1)."
+    },
+    {
+      "title": "Arynne Wexler - The Conservative Comedian Breaking the Internet | Call H...",
+      "source": "https://youtube.com/watch?v=jyl870Tx0fM&si=s_Fu_ImJfegkPEKx",
+      "trello": "https://trello.com/c/jX0KvW9D/230-arynne-wexler-the-conservative-comedian-breaking-the-internet-call-h",
+      "platform": "YouTube",
+      "duration": "57:26 video.",
+      "type": "WATCH",
+      "hook": "From trading currencies to handling hecklers: a comedian on building a public voice.",
+      "channel": "Call Her Tatty (collaboration with Arynne Wexler)"
+    },
+    {
+      "title": "The Most Likely Place to Find Aliens",
+      "source": "https://www.youtube.com/watch?v=YkEwyFpxWFc",
+      "trello": "https://trello.com/c/aQPEUjHv/233-the-most-likely-place-to-find-aliens",
+      "platform": "YouTube",
+      "duration": "39:06 video.",
+      "type": "WATCH",
+      "hook": "From distant atmospheres to Venus's clouds: what detecting alien life would actually require.",
+      "channel": "Cleo Abram"
+    },
+    {
+      "title": "The Digital Renaissance Man: Why Polymaths Win in the AI Age — Dan Koe",
+      "source": "https://x.com/thedankoe/status/2093051293078261973",
+      "trello": "https://trello.com/c/aZuTL30H/235-the-digital-renaissance-man-why-polymaths-win-in-the-ai-age-dan-koe",
+      "platform": "X article",
+      "duration": "~12–15 min (estimated reading time; not measured).",
+      "type": "READ",
+      "hook": "Use AI to expand what one person can build—without giving away the taste and judgment that make the work valuable.",
+      "channel": "Dan Koe (@thedankoe)"
+    },
     {
       "title": "The road to self-improving software — Ben Holmes",
       "source": "https://x.com/BHolmesDev/status/2110793920930107817",
@@ -93,7 +173,7 @@
       "platform": "Web article",
       "channel": "Swarmchasers / swarmcha.se",
       "trello": "https://trello.com/c/FOlfW0Um/200-we-found-a-tencent-agent-fleet-swarmchase",
-      "duration": "unknown",
+      "duration": "Unknown (long-form investigation).",
       "type": "READ",
       "hook": "A first-person investigation of how agents reached blocked map data, what researchers observed, and how the researchers communicated with them."
     },
@@ -223,7 +303,7 @@
       "trello": "https://trello.com/c/DL7nPOJs/197-how-we-trapped-light-and-built-the-internet-veritasium",
       "platform": "YouTube",
       "channel": "Veritasium",
-      "duration": "34 min.",
+      "duration": "34 min",
       "type": "WATCH",
       "hook": "Explores why making glass fibers that can carry signals was so difficult, connecting the engineering challenge to fiber optic communication."
     },
@@ -292,7 +372,7 @@
       "trello": "https://trello.com/c/H4RAOna6/172-%D7%96%D7%95-%D7%9E%D7%93%D7%99%D7%A0%D7%AA-%D7%90%D7%95%D7%99%D7%91-is-this-an-enemy-state-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
       "channel": "הדרך הקלה (@ezway; verified)",
-      "duration": "12 min 35 sec.",
+      "duration": "12:35",
       "type": "WATCH",
       "hook": "A 12-minute current-affairs video asking whether an unnamed entity should be considered an enemy state; the available metadata does not reveal its case."
     },
@@ -302,7 +382,7 @@
       "trello": "https://trello.com/c/ynFNAkrm/171-%D7%9E%D7%9B%D7%91%D7%99%D7%AA-%D7%95%D7%97%D7%A0%D7%90%D7%9C-%D7%A9%D7%9E%D7%97-%D7%91%D7%90-%D7%9C%D7%94%D7%95%D7%A8%D7%99%D7%93-%D7%90%D7%95%D7%A9%D7%A8%D7%99%D7%AA-%D7%95%D7%97%D7%9F",
       "platform": "YouTube",
       "channel": "אושרית וחן- מערכונים קומדיה",
-      "duration": "10 min 23 sec.",
+      "duration": "10:23",
       "type": "WATCH",
       "hook": "A Hebrew sketch built around a couple’s attempt to connect and a babysitter’s interference."
     },
@@ -312,7 +392,7 @@
       "trello": "https://trello.com/c/4grzqUQx/169-prime-minister-netanyahu-on-economics-and-ai-benjamin-netanyahu",
       "platform": "YouTube",
       "channel": "Benjamin Netanyahu - בנימין נתניהו (verified official channel)",
-      "duration": "28 min 22 sec.",
+      "duration": "28:22",
       "type": "WATCH",
       "hook": "Hear Netanyahu’s own case for his economic record and his proposed AI strategy for Israel."
     },
@@ -322,7 +402,7 @@
       "trello": "https://trello.com/c/o3eoIvMD/168-maya-shem-on-life-after-captivity-%D7%93%D7%A0%D7%99%D7%90%D7%9C-%D7%93%D7%95%D7%A9%D7%99",
       "platform": "YouTube",
       "channel": "דניאל דושי (@danieldushy)",
-      "duration": "1 hr 7 min 13 sec.",
+      "duration": "1:07:13",
       "type": "WATCH",
       "hook": "A survivor describes how she is rebuilding life after captivity and resisting being defined only by that experience."
     },
@@ -332,7 +412,7 @@
       "trello": "https://trello.com/c/Si3J2AQx/167-this-could-drag-everyone-into-a-war-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
       "channel": "הדרך הקלה (@ezway; verified)",
-      "duration": "15 min 8 sec.",
+      "duration": "15:08",
       "type": "WATCH",
       "hook": "A short explainer on whether tensions in Ethiopia could spread into a wider regional war."
     },
@@ -342,7 +422,7 @@
       "trello": "https://trello.com/c/sVa2TAop/166-the-insane-real-engineering-of-the-nazi-enigma-machine-veritasium",
       "platform": "YouTube",
       "channel": "Veritasium",
-      "duration": "47 min 42 sec.",
+      "duration": "47:42",
       "type": "WATCH",
       "hook": "Follow how the Enigma machine’s engineering shaped the codebreaking methods used against it."
     },
@@ -441,7 +521,6 @@
       "source": "https://trello.com/c/y5WaKCp0",
       "trello": "https://trello.com/c/y5WaKCp0/102-%D7%90%D7%9D-%D7%9E%D7%A4%D7%A8%D7%A7%D7%99%D7%9D-%D7%90%D7%AA-%D7%90%D7%A8%D7%91%D7%A2%D7%AA-%D7%94%D7%A7%D7%93%D7%95%D7%A9%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A1%D7%99%D7%90%D7%98%D7%9C-%D7%9C%D7%A4%D7%A1%D7%99%D7%A4%D7%A1-%D7%A8%D7%92%D7%A9%D7%99-%D7%9E%D7%91%D7%99%D7%A0%D7%99%D7%9D-%D7%A9%D7%9B%D7%9C-%D7%9C%D7%94%D7%A7%D7%94-%D7%94%D7%97%D7%96%D7%99%D7%A7%D7%94-%D7%91%D7%AA%D7%93%D7%A8-%D7%99%D7%99%D7%97%D7%95%D7%93%D7%99-%D7%A9%D7%94%D7%A8%D7%9B%D7%99%D7%91-%D7%90%D7%AA-%D7%94%D7%AA%D7%95%D7%A4%D7%A2%D7%94-%D7%A0%D7%99%D7%A8%D7%95%D7%95%D7%90%D7%A0%D7%94-%D7%94%D7%96%D7%99%D7%A0%D7%94-%D7%90%D7%AA-%D7%94%D7%9E%D7%A8%D7%93-%D7%94%D7%90%D7%A0%D7%A8%D7%9B",
       "platform": "Saved text",
-      "channel": "Not recorded; original external URL not provided.",
       "duration": "~6–8 min read (estimate).",
       "type": "READ",
       "hook": "A Hebrew introduction to Chris Cornell and early Soundgarden: the voice, unusual rhythms and route to Badmotorfinger. The complete saved text is in the Trello card."
@@ -1101,7 +1180,7 @@
       "trello": "https://trello.com/c/7t5saoqi/154-why-were-building-muse-alexandr-wang",
       "platform": "X article",
       "channel": "Alexandr Wang (@alexandr_wang)",
-      "duration": "unknown",
+      "duration": "Unknown; full article unavailable.",
       "type": "READ",
       "hook": "Wang presents Muse as a “second mind” or general manager that helps surface a person's goals, makes a plan, and handles practical steps such as sending emails, making calls, finding funding and keeping things on schedule. This is a product vision, not…"
     },
@@ -1150,7 +1229,7 @@
       "trello": "https://trello.com/c/DbY6VGPP/178-%D7%94%D7%A1%D7%95%D7%93-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA-%D7%A9%D7%9C%D7%9B%D7%9D-the-secret-behind-your-thoughts-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
       "channel": "הדרך הקלה",
-      "duration": "13 min 54 sec.",
+      "duration": "13 min 54 sec",
       "type": "WATCH",
       "hook": "The title suggests a discussion of thought, but the description is generic channel promotion and does not explain the topic. Transcript is unavailable, so the content cannot be summarized reliably."
     },
@@ -1189,7 +1268,7 @@
       "trello": "https://trello.com/c/XSBlN9zn/199-token-smart-github-copilot-token-use-and-devops-workflows",
       "platform": "GitHub Pages / repository",
       "channel": "roro123arc",
-      "duration": "~15–20 min to read and explore (estimate).",
+      "duration": "~15–20 min to read and explore; estimates only.",
       "type": "READ",
       "hook": "A practical eight-step guide to managing Copilot token use, paired with DevOps workflow patterns. Review its model routing, cache and quality-gate advice, then verify time-sensitive preview, pricing and API claims against current primary docs."
     },
@@ -1238,7 +1317,7 @@
       "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
       "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
       "platform": "YouTube",
-      "duration": "unknown",
+      "duration": "Unknown video runtime; ~5–8 min summary read.",
       "type": "WATCH",
       "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
     },
