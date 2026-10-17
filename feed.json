@@ -1,161 +1,16 @@
 {
-  "updated": "2026-10-18T02:14:09+03:00",
-  "unresolved": [
-    {
-      "title": "Employment at Anthropic.pdf",
-      "trello": "https://trello.com/c/fvm5Pp9J/234-employment-at-anthropicpdf"
-    }
-  ],
+  "updated": "2026-10-18T02:22:15+03:00",
+  "unresolved": [],
   "items": [
-    {
-      "title": "New Somali Piracy Situation is Insane — RealLifeLore",
-      "source": "https://www.youtube.com/watch?v=UHsSZ7lUvKM",
-      "trello": "https://trello.com/c/E4yvdRgO/218-new-somali-piracy-situation-is-insane-reallifelore",
-      "platform": "YouTube",
-      "duration": "44:35 video.",
-      "type": "WATCH",
-      "hook": "How a handful of hijackings can impose costs far beyond the ransom payments.",
-      "channel": "RealLifeLore"
-    },
-    {
-      "title": "Redesigning source control at Anthropic",
-      "source": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdGtsWvqH&urlhash=zqre&mt=BA13gdhCJfcPckdA2PoCIMEHDAtBN_aySynl92S_UQ8jDz6F3YcHZp17oBwx6B_Z1DFYvvgqIpIcsz4vxjs_Hopu8OkgfmC0zXcU8DIh5O6rIG26PgHyzX_4&isSdui=true",
-      "trello": "https://trello.com/c/Q6jnh18h/221-redesigning-source-control-at-anthropic",
-      "platform": "Anthropic Engineering",
-      "duration": "Approximately 15–18 min reading (estimate).",
-      "type": "READ",
-      "hook": "When agents create code faster, source control and CI become the next engineering problem.",
-      "channel": "Nick G. and the source control team"
-    },
-    {
-      "title": "Claude Code Projects: Make Claude Your Chief of Staff",
-      "source": "https://linas.substack.com/p/claude-code-projects-playbook",
-      "trello": "https://trello.com/c/Edjaaxh9/222-claude-code-projects-make-claude-your-chief-of-staff",
-      "platform": "Substack",
-      "duration": "Approximately 3–4 min for the accessible preview; full article unknown.",
-      "type": "READ",
-      "hook": "A useful framing for coordinating agent work: clear ownership, review gates and a budget.",
-      "channel": "Linas Beliūnas"
-    },
-    {
-      "title": "Caramelized vegetable lentil stew (for a rainy day)",
-      "source": "https://youtube.com/watch?v=XpkfHAaxNJc&si=XTDV_Ijs25V4p1CF",
-      "trello": "https://trello.com/c/xJARTDWR/223-caramelized-vegetable-lentil-stew-for-a-rainy-day",
-      "platform": "YouTube",
-      "duration": "10:05 video. Cooking includes about 20 min browning and 30 min simmering, plus preparation.",
-      "type": "WATCH",
-      "hook": "Get a deeply savory meatless stew from browned vegetables, mushrooms and lentils.",
-      "channel": "Adam Ragusea"
-    },
-    {
-      "title": "How the Top 1% Use Claude Code Differently",
-      "source": "https://youtube.com/watch?v=J9NQTYUP6k0&si=pJDOZYKpP5e1BGdh",
-      "trello": "https://trello.com/c/uyEG9lri/224-how-the-top-1-use-claude-code-differently",
-      "platform": "YouTube",
-      "duration": "At least 16:50 based on the final listed chapter; exact total duration not confirmed.",
-      "type": "WATCH",
-      "hook": "Turn “done” into evidence: checks, context routing and hooks for agent workflows.",
-      "channel": "Simon Scrapes"
-    },
-    {
-      "title": "Why The US Is Suddenly Attacking Canada",
-      "source": "https://youtube.com/watch?v=R60ZGwd3n9E&si=WML8Xn5AQs-nwIYD",
-      "trello": "https://trello.com/c/aRZzmg0J/225-why-the-us-is-suddenly-attacking-canada",
-      "platform": "YouTube",
-      "duration": "53:03 video.",
-      "type": "WATCH",
-      "hook": "What happens when deep economic integration becomes a source of political leverage?",
-      "channel": "RealLifeLore"
-    },
-    {
-      "title": "Fixing the PR Bottleneck — Matt Pocock, AIHero",
-      "source": "https://youtube.com/watch?v=LlgiOCmFG_w&si=q2mYmqWcjNco_wSl",
-      "trello": "https://trello.com/c/rJqOaZWB/226-fixing-the-pr-bottleneck-matt-pocock-aihero",
-      "platform": "YouTube",
-      "duration": "22:34 video. Publisher notes poor audio during the first approximately 2 min.",
-      "type": "WATCH",
-      "hook": "Make each PR review improve the system that produces the next PR.",
-      "channel": "AI Engineer"
-    },
-    {
-      "title": "שיא של 30 שנים: המהפכה השקטה ברחוב הערבי - שיכולה לקבוע את תוצאת הבחירות | היום",
-      "source": "https://www.israelhayom.co.il/magazine/hashavua/article/21635682",
-      "trello": "https://trello.com/c/4jBN8g8m/228-%D7%A9%D7%99%D7%90-%D7%A9%D7%9C-30-%D7%A9%D7%A0%D7%99%D7%9D-%D7%94%D7%9E%D7%94%D7%A4%D7%9B%D7%94-%D7%94%D7%A9%D7%A7%D7%98%D7%94-%D7%91%D7%A8%D7%97%D7%95%D7%91-%D7%94%D7%A2%D7%A8%D7%91%D7%99-%D7%A9%D7%99%D7%9B%D7%95%D7%9C%D7%94-%D7%9C%D7%A7%D7%91%D7%95%D7%A2-%D7%90%D7%AA-%D7%AA%D7%95%D7%A6%D7%90%D7%AA-%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA-%D7%94%D7%99%D7%95%D7%9D",
-      "platform": "Israel Hayom",
-      "duration": "Approximately 7–9 min reading (estimate).",
-      "type": "READ",
-      "hook": "Why higher turnout can change seat totals without resolving the coalition deadlock.",
-      "channel": "Amit Segal"
-    },
-    {
-      "title": "Always-On Agent Architecture · six layers · @choopyplug1",
-      "source": "https://t.co/MHBkqhFfng",
-      "trello": "https://trello.com/c/sgrPkKqz/236-always-on-agent-architecture-six-layers-choopyplug1",
-      "platform": "unknown",
-      "duration": "unknown",
-      "type": "READ",
-      "hook": "unknown",
-      "channel": "@choopyplug1 (as printed on page 1)."
-    },
-    {
-      "title": "Arynne Wexler - The Conservative Comedian Breaking the Internet | Call H...",
-      "source": "https://youtube.com/watch?v=jyl870Tx0fM&si=s_Fu_ImJfegkPEKx",
-      "trello": "https://trello.com/c/jX0KvW9D/230-arynne-wexler-the-conservative-comedian-breaking-the-internet-call-h",
-      "platform": "YouTube",
-      "duration": "57:26 video.",
-      "type": "WATCH",
-      "hook": "From trading currencies to handling hecklers: a comedian on building a public voice.",
-      "channel": "Call Her Tatty (collaboration with Arynne Wexler)"
-    },
-    {
-      "title": "The Most Likely Place to Find Aliens",
-      "source": "https://www.youtube.com/watch?v=YkEwyFpxWFc",
-      "trello": "https://trello.com/c/aQPEUjHv/233-the-most-likely-place-to-find-aliens",
-      "platform": "YouTube",
-      "duration": "39:06 video.",
-      "type": "WATCH",
-      "hook": "From distant atmospheres to Venus's clouds: what detecting alien life would actually require.",
-      "channel": "Cleo Abram"
-    },
-    {
-      "title": "The Digital Renaissance Man: Why Polymaths Win in the AI Age — Dan Koe",
-      "source": "https://x.com/thedankoe/status/2093051293078261973",
-      "trello": "https://trello.com/c/aZuTL30H/235-the-digital-renaissance-man-why-polymaths-win-in-the-ai-age-dan-koe",
-      "platform": "X article",
-      "duration": "~12–15 min (estimated reading time; not measured).",
-      "type": "READ",
-      "hook": "Use AI to expand what one person can build—without giving away the taste and judgment that make the work valuable.",
-      "channel": "Dan Koe (@thedankoe)"
-    },
     {
       "title": "The road to self-improving software — Ben Holmes",
       "source": "https://x.com/BHolmesDev/status/2110793920930107817",
       "trello": "https://trello.com/c/Md2GEFB6/227-the-road-to-self-improving-software-ben-holmes",
       "platform": "X article",
       "channel": "Ben Holmes (@bholmesdev)",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "READ",
       "hook": "Three ways to make agents decide what to fix, improve in their own setup, and build next."
-    },
-    {
-      "title": "Context Engineering for AI Agents: 4 Failure Modes to Avoid",
-      "source": "https://www.youtube.com/watch?v=BwXremQ-i6I",
-      "trello": "https://trello.com/c/MbSahNld/231-context-engineering-for-ai-agents-4-failure-modes-to-avoid",
-      "platform": "YouTube",
-      "channel": "IBM Technology",
-      "duration": "10 min 20 sec video.",
-      "type": "WATCH",
-      "hook": "Martin Keen explains context rot and four ways an agent's context can hurt reliability: poisoning (bad information becomes accepted), distraction (long histories derail focus), confusion (too many tools), and clash (conflicting information)."
-    },
-    {
-      "title": "Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think",
-      "source": "https://www.youtube.com/watch?v=o-wv_szZ0V0",
-      "trello": "https://trello.com/c/f7kHY6oP/232-andrew-ng-the-biggest-opportunities-in-ai-arent-where-you-think",
-      "platform": "YouTube",
-      "channel": "Silicon Valley Girl",
-      "duration": "37 min video.",
-      "type": "WATCH",
-      "hook": "Andrew Ng challenges alarmist claims about AI eliminating large shares of jobs, discusses how students and new graduates can learn and prepare, and says employers increasingly value people who can build with AI."
     },
     {
       "title": "עוד מצב שמתחיל לצאת משליטה",
@@ -333,7 +188,7 @@
       "trello": "https://trello.com/c/PPGrr59f/187-https-humanistreviewai-issue-1-acemoglu-ai-replace-workers",
       "platform": "Web article",
       "channel": "The Humanist Review of AI / Daron Acemoglu",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "READ",
       "hook": "Acemoglu’s case that the key AI question is not simply which jobs get automated, but whether tools are designed to expand what workers can do."
     },
@@ -523,7 +378,8 @@
       "platform": "Saved text",
       "duration": "~6–8 min read (estimate).",
       "type": "READ",
-      "hook": "A Hebrew introduction to Chris Cornell and early Soundgarden: the voice, unusual rhythms and route to Badmotorfinger. The complete saved text is in the Trello card."
+      "hook": "A Hebrew introduction to Chris Cornell and early Soundgarden: the voice, unusual rhythms and route to Badmotorfinger. The complete saved text is in the Trello card.",
+      "channel": "Not recorded; original external URL not provided."
     },
     {
       "title": "How To Fine-Tune a Small LLM on Your Own Data (Full Guide)",
@@ -606,6 +462,16 @@
       "hook": "A real course rather than a snack. Keep it for a deliberate learning block: Agent Framework, MCP, workflows, multi-agent orchestration and A2A are the high-value sections."
     },
     {
+      "title": "New Somali Piracy Situation is Insane — RealLifeLore",
+      "source": "https://www.youtube.com/watch?v=UHsSZ7lUvKM",
+      "trello": "https://trello.com/c/E4yvdRgO/218-new-somali-piracy-situation-is-insane-reallifelore",
+      "platform": "YouTube",
+      "duration": "44:35 video.",
+      "type": "WATCH",
+      "hook": "How a handful of hijackings can impose costs far beyond the ransom payments.",
+      "channel": "RealLifeLore"
+    },
+    {
       "title": "CAFE(S): A framework for defining AI context quality",
       "source": "Pasted Engineering Enablement newsletter text; direct newsletter/paper URL was not included.",
       "trello": "https://trello.com/c/qSIU6m7C/157-cafes-a-framework-for-defining-ai-context-quality",
@@ -662,6 +528,16 @@
       "hook": "The interesting robotics claim isn't one-shot magic: huge pretraining may let a robot use a video demonstration as an in-context task prompt."
     },
     {
+      "title": "Redesigning source control at Anthropic",
+      "source": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdGtsWvqH&urlhash=zqre&mt=BA13gdhCJfcPckdA2PoCIMEHDAtBN_aySynl92S_UQ8jDz6F3YcHZp17oBwx6B_Z1DFYvvgqIpIcsz4vxjs_Hopu8OkgfmC0zXcU8DIh5O6rIG26PgHyzX_4&isSdui=true",
+      "trello": "https://trello.com/c/Q6jnh18h/221-redesigning-source-control-at-anthropic",
+      "platform": "Anthropic Engineering",
+      "duration": "Approximately 15–18 min reading (estimate).",
+      "type": "READ",
+      "hook": "When agents create code faster, source control and CI become the next engineering problem.",
+      "channel": "Nick G. and the source control team"
+    },
+    {
       "title": "How We Built an Agent-First CLI — Vercel",
       "source": "https://youtu.be/IDy2SxjMOFM?si=8zERWRWoi92tP8_6",
       "trello": "https://trello.com/c/lZoXtUcj/34-how-we-built-an-agent-first-cli-vercel",
@@ -671,6 +547,16 @@
       "hook": "Design CLIs as predictable machine contracts: stable output, structured JSON, explicit errors and discoverable help instead of hoping agents can scrape human interfaces."
     },
     {
+      "title": "Claude Code Projects: Make Claude Your Chief of Staff",
+      "source": "https://linas.substack.com/p/claude-code-projects-playbook",
+      "trello": "https://trello.com/c/Edjaaxh9/222-claude-code-projects-make-claude-your-chief-of-staff",
+      "platform": "Substack",
+      "duration": "Approximately 3–4 min for the accessible preview; full article unknown.",
+      "type": "READ",
+      "hook": "A useful framing for coordinating agent work: clear ownership, review gates and a budget.",
+      "channel": "Linas Beliūnas"
+    },
+    {
       "title": "How Agents Are Changing How We Build Software — Vercel",
       "source": "https://youtu.be/NYFGCESmikA?si=tA-1XCuAB_72xbX5",
       "trello": "https://trello.com/c/KljW9Ocf/35-how-agents-are-changing-how-we-build-software-vercel",
@@ -678,6 +564,16 @@
       "duration": "~20–30 min (exact runtime not reliably available).",
       "type": "WATCH",
       "hook": "Indexed metadata identifies this as a Vercel Ship 26 session about how AI agents are changing software development. Available snippets emphasize agents working across coding, testing, review and deployment rather than only autocomplete, but I did not retrieve enough primary…"
+    },
+    {
+      "title": "Caramelized vegetable lentil stew (for a rainy day)",
+      "source": "https://youtube.com/watch?v=XpkfHAaxNJc&si=XTDV_Ijs25V4p1CF",
+      "trello": "https://trello.com/c/xJARTDWR/223-caramelized-vegetable-lentil-stew-for-a-rainy-day",
+      "platform": "YouTube",
+      "duration": "10:05 video. Cooking includes about 20 min browning and 30 min simmering, plus preparation.",
+      "type": "WATCH",
+      "hook": "Get a deeply savory meatless stew from browned vegetables, mushrooms and lentils.",
+      "channel": "Adam Ragusea"
     },
     {
       "title": "Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?",
@@ -690,6 +586,16 @@
       "hook": "The description compares OpenAI DevDay launches including Dots, ChatGPT Space/Pages, and GPT-6.1 Sol with Meta’s Muse and Anthropic. It covers subscription value, context handling, model plan limits, small-team use cases, and builder-facing Decisions API/plugin extensions, with chapter markers."
     },
     {
+      "title": "How the Top 1% Use Claude Code Differently",
+      "source": "https://youtube.com/watch?v=J9NQTYUP6k0&si=pJDOZYKpP5e1BGdh",
+      "trello": "https://trello.com/c/uyEG9lri/224-how-the-top-1-use-claude-code-differently",
+      "platform": "YouTube",
+      "duration": "At least 16:50 based on the final listed chapter; exact total duration not confirmed.",
+      "type": "WATCH",
+      "hook": "Turn “done” into evidence: checks, context routing and hooks for agent workflows.",
+      "channel": "Simon Scrapes"
+    },
+    {
       "title": "Digger - Movie Review (Non-Spoiler & Spoiler)",
       "source": "https://www.youtube.com/watch?v=5gXm4PAo_nI",
       "trello": "https://trello.com/c/1dorWqIV/181-digger-movie-review-non-spoiler-spoiler-dan-murrell",
@@ -698,6 +604,16 @@
       "duration": "14 min 54 sec",
       "type": "WATCH",
       "hook": "Dan Murrell reviews Tom Cruise’s film Digger, which he describes as polarizing and unusually risky. The video has a spoiler-free section followed by spoiler discussion beginning at 7:27."
+    },
+    {
+      "title": "Why The US Is Suddenly Attacking Canada",
+      "source": "https://youtube.com/watch?v=R60ZGwd3n9E&si=WML8Xn5AQs-nwIYD",
+      "trello": "https://trello.com/c/aRZzmg0J/225-why-the-us-is-suddenly-attacking-canada",
+      "platform": "YouTube",
+      "duration": "53:03 video.",
+      "type": "WATCH",
+      "hook": "What happens when deep economic integration becomes a source of political leverage?",
+      "channel": "RealLifeLore"
     },
     {
       "title": "What Is Jev? The AI Model That Doesn't Generate Text",
@@ -710,13 +626,33 @@
       "hook": "IBM Technology explains Jev as a System 1 model that returns calibrated probabilities rather than generated prose. The description covers comparison with LLMs and reasoning models, calibration, training, turning probabilities into software decisions, guardrails, and combining Jev with LLM workflows."
     },
     {
+      "title": "Fixing the PR Bottleneck — Matt Pocock, AIHero",
+      "source": "https://youtube.com/watch?v=LlgiOCmFG_w&si=q2mYmqWcjNco_wSl",
+      "trello": "https://trello.com/c/rJqOaZWB/226-fixing-the-pr-bottleneck-matt-pocock-aihero",
+      "platform": "YouTube",
+      "duration": "22:34 video. Publisher notes poor audio during the first approximately 2 min.",
+      "type": "WATCH",
+      "hook": "Make each PR review improve the system that produces the next PR.",
+      "channel": "AI Engineer"
+    },
+    {
       "title": "How to become ripped like Adam Ragusea",
       "source": "https://youtu.be/613Xbz7nJUw?si=jc24Yio86DJzN9EA",
       "trello": "https://trello.com/c/3mCC45Wp/36-how-to-become-ripped-like-adam-ragusea",
       "platform": "YouTube",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "WATCH",
       "hook": "Adam Ragusea fitness video about getting leaner/more muscular. Indexed discussion confirms the title/topic, but a reliable transcript or enough primary metadata was not available to summarize the actual advice without inference."
+    },
+    {
+      "title": "שיא של 30 שנים: המהפכה השקטה ברחוב הערבי - שיכולה לקבוע את תוצאת הבחירות | היום",
+      "source": "https://www.israelhayom.co.il/magazine/hashavua/article/21635682",
+      "trello": "https://trello.com/c/4jBN8g8m/228-%D7%A9%D7%99%D7%90-%D7%A9%D7%9C-30-%D7%A9%D7%A0%D7%99%D7%9D-%D7%94%D7%9E%D7%94%D7%A4%D7%9B%D7%94-%D7%94%D7%A9%D7%A7%D7%98%D7%94-%D7%91%D7%A8%D7%97%D7%95%D7%91-%D7%94%D7%A2%D7%A8%D7%91%D7%99-%D7%A9%D7%99%D7%9B%D7%95%D7%9C%D7%94-%D7%9C%D7%A7%D7%91%D7%95%D7%A2-%D7%90%D7%AA-%D7%AA%D7%95%D7%A6%D7%90%D7%AA-%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA-%D7%94%D7%99%D7%95%D7%9D",
+      "platform": "Israel Hayom",
+      "duration": "Approximately 7–9 min reading (estimate).",
+      "type": "READ",
+      "hook": "Why higher turnout can change seat totals without resolving the coalition deadlock.",
+      "channel": "Amit Segal"
     },
     {
       "title": "GPT-6 Astra Doesn't Need Your Instructions Anymore — Nate B Jones",
@@ -729,6 +665,15 @@
       "hook": "What changes when an agent gets a standing area of responsibility instead of one task? Nate connects delegation and coordination to reliability—and to the practice junior staff still need."
     },
     {
+      "title": "How Employment is Changing at Anthropic",
+      "source": "https://www-cdn.anthropic.com/72628f1863c53432195db83279252dfd2cb53158/Employment%20at%20Anthropic.pdf",
+      "trello": "https://trello.com/c/fvm5Pp9J/234-how-employment-is-changing-at-anthropic-9-10",
+      "platform": "The Anthropic Institute",
+      "duration": "Estimated 25–35 minutes for the report; 10–15 minutes for a focused pass. Prioritize pp. 9–15 on attention bottlenecks, supervision, documentation and hiring; pp. 16–18 on organizational responses. Estimates, not publisher-supplied times.",
+      "type": "READ",
+      "hook": "When agents produce more work than humans can read, the valuable skill shifts toward deciding what deserves attention."
+    },
+    {
       "title": "GPT-6 Astra: 20 Hours of Admin — Nate B Jones",
       "source": "https://youtu.be/ix8SsXjBc7M?si=rGJvOwmUIdwGd7Js",
       "trello": "https://trello.com/c/7FpnqKYr/65-gpt-6-astra-20-hours-of-admin-nate-b-jones",
@@ -739,13 +684,43 @@
       "hook": "A concrete manager-agent pattern: gather constraints and approval points once, then let parallel executors handle research, forms, dependencies and retries."
     },
     {
+      "title": "Always-On Agent Architecture · six layers · @choopyplug1",
+      "source": "https://t.co/MHBkqhFfng",
+      "trello": "https://trello.com/c/sgrPkKqz/236-always-on-agent-architecture-six-layers-choopyplug1",
+      "platform": "unknown",
+      "duration": "Approximately 8–12 minutes for the captured portion (estimate); full-document reading time unknown.",
+      "type": "READ",
+      "hook": "unknown",
+      "channel": "@choopyplug1 (as printed on page 1)."
+    },
+    {
+      "title": "Arynne Wexler - The Conservative Comedian Breaking the Internet | Call H...",
+      "source": "https://youtube.com/watch?v=jyl870Tx0fM&si=s_Fu_ImJfegkPEKx",
+      "trello": "https://trello.com/c/jX0KvW9D/230-arynne-wexler-the-conservative-comedian-breaking-the-internet-call-h",
+      "platform": "YouTube",
+      "duration": "57:26 video.",
+      "type": "WATCH",
+      "hook": "From trading currencies to handling hecklers: a comedian on building a public voice.",
+      "channel": "Call Her Tatty (collaboration with Arynne Wexler)"
+    },
+    {
       "title": "MCP Explained Simply — What It Is and Why It Exists",
       "source": "https://youtu.be/oblaHqULUHk?si=2GXGH--zFOu-LwV8",
       "trello": "https://trello.com/c/RC0os2MJ/66-mcp-explained-simply-what-it-is-and-why-it-exists",
       "platform": "YouTube",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "WATCH",
       "hook": "TechWorld with Nana explainer on Model Context Protocol (MCP): the standardized interface that lets AI clients connect to external tools/data through MCP servers rather than bespoke integrations for each client-service pair. Useful as a conceptual refresher; accessible…"
+    },
+    {
+      "title": "The Most Likely Place to Find Aliens",
+      "source": "https://www.youtube.com/watch?v=YkEwyFpxWFc",
+      "trello": "https://trello.com/c/aQPEUjHv/233-the-most-likely-place-to-find-aliens",
+      "platform": "YouTube",
+      "duration": "39:06 video.",
+      "type": "WATCH",
+      "hook": "From distant atmospheres to Venus's clouds: what detecting alien life would actually require.",
+      "channel": "Cleo Abram"
     },
     {
       "title": "MCP Just Got a Whole Lot Better — Neon",
@@ -812,7 +787,7 @@
       "trello": "https://trello.com/c/qdmORlJc/70-jenkins-won-devops-yet-nobody-uses-it-willingly",
       "platform": "YouTube",
       "channel": "DevOps & AI Toolkit",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "WATCH",
       "hook": "A platform-engineering look at why flexible tools become nearly impossible to replace once years of plugins, jobs and custom behavior accumulate around them."
     },
@@ -861,7 +836,7 @@
       "source": "https://youtu.be/9dYcwOkpCE8?si=ojYrhvo_CoMY5jfn",
       "trello": "https://trello.com/c/cH4VAt6P/93-vercel-data-science-agent-simpler-tools-doubled-eval-scores",
       "platform": "YouTube",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "WATCH",
       "hook": "A strong counterpoint to ever-growing agent harnesses: Vercel reportedly improved its data-science agent by stripping specialized tools back to bash plus file read/write. A perfect eval question for your own skills."
     },
@@ -900,7 +875,7 @@
       "trello": "https://trello.com/c/SEhshxEf/113-youre-already-a-meat-proxy-obie",
       "platform": "X",
       "channel": "Obie (@obie)",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "READ",
       "hook": "Not assessable from the available material; the original post's argument could not be retrieved."
     },
@@ -950,7 +925,7 @@
       "trello": "https://trello.com/c/RWDMkoKd/124-building-a-custom-harness-with-pi-and-jev-omar-sanseviero",
       "platform": "X",
       "channel": "Omar Sanseviero (@omarsar0)",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "READ",
       "hook": "The indexed excerpt indicates a tutorial about building a custom agent harness with the Pi SDK and Jev, including Jev usage in three parts of the workflow. The original post returned 403, so implementation details and conclusions could not be verified."
     },
@@ -990,7 +965,7 @@
       "trello": "https://trello.com/c/gyAGADx5/132-were-open-sourcing-the-company-brain-dhravya-shah",
       "platform": "X",
       "channel": "Dhravya Shah (@dhravyashah)",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "READ",
       "hook": "The indexed excerpt suggests that the post introduces an open-source company-brain project after the prior harness was discontinued. The original post returned 403, so the implementation and rationale could not be verified."
     },
@@ -1209,7 +1184,7 @@
       "source": "https://cs329a.stanford.edu/",
       "trello": "https://trello.com/c/fjraglOb/160-stanford-cs329a-self-improving-ai-agents",
       "platform": "Stanford course website",
-      "duration": "unknown",
+      "duration": "Unknown overall; the syllabus lists 20 class meetings scheduled for 80 minutes each, plus research readings and a project. No recordings are linked.",
       "type": "READ",
       "hook": "Use Stanford’s paper sequence to trace how self-improving agents connect test-time search, verification, tool feedback, memory and long-horizon evaluation."
     },
@@ -1258,7 +1233,7 @@
       "source": "https://x.com/sydneyrunkle/status/2109977909280776633",
       "trello": "https://trello.com/c/Swd5a24s/198-building-long-running-agents-with-scaledown-and-deep-agents",
       "platform": "X article",
-      "duration": "unknown",
+      "duration": "Not stated by source.",
       "type": "READ",
       "hook": "Explains ScaleDown's constrained decoding models for frequent context-management steps around a general-purpose agent."
     },
@@ -1311,6 +1286,36 @@
       "duration": "10 min 57 sec",
       "type": "WATCH",
       "hook": "The title identifies post-labor economics as the topic, but the available description does not show how the creator defines it or what claims he makes."
+    },
+    {
+      "title": "Context Engineering for AI Agents: 4 Failure Modes to Avoid",
+      "source": "https://www.youtube.com/watch?v=BwXremQ-i6I",
+      "trello": "https://trello.com/c/MbSahNld/231-context-engineering-for-ai-agents-4-failure-modes-to-avoid",
+      "platform": "YouTube",
+      "channel": "IBM Technology",
+      "duration": "10 min 20 sec video.",
+      "type": "WATCH",
+      "hook": "Martin Keen explains context rot and four ways an agent's context can hurt reliability: poisoning (bad information becomes accepted), distraction (long histories derail focus), confusion (too many tools), and clash (conflicting information)."
+    },
+    {
+      "title": "Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think",
+      "source": "https://www.youtube.com/watch?v=o-wv_szZ0V0",
+      "trello": "https://trello.com/c/f7kHY6oP/232-andrew-ng-the-biggest-opportunities-in-ai-arent-where-you-think",
+      "platform": "YouTube",
+      "channel": "Silicon Valley Girl",
+      "duration": "37 min video.",
+      "type": "WATCH",
+      "hook": "Andrew Ng challenges alarmist claims about AI eliminating large shares of jobs, discusses how students and new graduates can learn and prepare, and says employers increasingly value people who can build with AI."
+    },
+    {
+      "title": "The Digital Renaissance Man: Why Polymaths Win in the AI Age — Dan Koe",
+      "source": "https://x.com/thedankoe/status/2093051293078261973",
+      "trello": "https://trello.com/c/aZuTL30H/235-the-digital-renaissance-man-why-polymaths-win-in-the-ai-age-dan-koe",
+      "platform": "X article",
+      "duration": "~12–15 min (estimated reading time; not measured).",
+      "type": "READ",
+      "hook": "Use AI to expand what one person can build—without giving away the taste and judgment that make the work valuable.",
+      "channel": "Dan Koe (@thedankoe)"
     },
     {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
