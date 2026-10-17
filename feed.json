@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T03:23:10+03:00",
+  "updated": "2026-10-17T23:41:05+03:00",
   "unresolved": [
     {
       "title": "New Somali Piracy Situation is Insane — RealLifeLore",
@@ -12,9 +12,71 @@
     {
       "title": "Claude Code Projects: Make Claude Your Chief of Staff",
       "trello": "https://trello.com/c/Edjaaxh9/222-claude-code-projects-make-claude-your-chief-of-staff"
+    },
+    {
+      "title": "Caramelized vegetable lentil stew (for a rainy day)",
+      "trello": "https://trello.com/c/xJARTDWR/223-caramelized-vegetable-lentil-stew-for-a-rainy-day"
+    },
+    {
+      "title": "How the Top 1% Use Claude Code Differently",
+      "trello": "https://trello.com/c/uyEG9lri/224-how-the-top-1-use-claude-code-differently"
+    },
+    {
+      "title": "Why The US Is Suddenly Attacking Canada",
+      "trello": "https://trello.com/c/aRZzmg0J/225-why-the-us-is-suddenly-attacking-canada"
+    },
+    {
+      "title": "Fixing the PR Bottleneck — Matt Pocock, AIHero",
+      "trello": "https://trello.com/c/rJqOaZWB/226-fixing-the-pr-bottleneck-matt-pocock-aihero"
+    },
+    {
+      "title": "שיא של 30 שנים: המהפכה השקטה ברחוב הערבי - שיכולה לקבוע את תוצאת הבחירות | היום",
+      "trello": "https://trello.com/c/4jBN8g8m/228-%D7%A9%D7%99%D7%90-%D7%A9%D7%9C-30-%D7%A9%D7%A0%D7%99%D7%9D-%D7%94%D7%9E%D7%94%D7%A4%D7%9B%D7%94-%D7%94%D7%A9%D7%A7%D7%98%D7%94-%D7%91%D7%A8%D7%97%D7%95%D7%91-%D7%94%D7%A2%D7%A8%D7%91%D7%99-%D7%A9%D7%99%D7%9B%D7%95%D7%9C%D7%94-%D7%9C%D7%A7%D7%91%D7%95%D7%A2-%D7%90%D7%AA-%D7%AA%D7%95%D7%A6%D7%90%D7%AA-%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA-%D7%94%D7%99%D7%95%D7%9D"
+    },
+    {
+      "title": "What Every Parent Should Fix While They Still Can (According to Science)...",
+      "trello": "https://trello.com/c/8rJEoMYO/229-what-every-parent-should-fix-while-they-still-can-according-to-science"
+    },
+    {
+      "title": "Arynne Wexler - The Conservative Comedian Breaking the Internet | Call H...",
+      "trello": "https://trello.com/c/jX0KvW9D/230-arynne-wexler-the-conservative-comedian-breaking-the-internet-call-h"
+    },
+    {
+      "title": "The Most Likely Place to Find Aliens",
+      "trello": "https://trello.com/c/aQPEUjHv/233-the-most-likely-place-to-find-aliens"
     }
   ],
   "items": [
+    {
+      "title": "The road to self-improving software — Ben Holmes",
+      "source": "https://x.com/BHolmesDev/status/2110793920930107817",
+      "trello": "https://trello.com/c/Md2GEFB6/227-the-road-to-self-improving-software-ben-holmes",
+      "platform": "X article",
+      "channel": "Ben Holmes (@bholmesdev)",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "Three ways to make agents decide what to fix, improve in their own setup, and build next."
+    },
+    {
+      "title": "Context Engineering for AI Agents: 4 Failure Modes to Avoid",
+      "source": "https://www.youtube.com/watch?v=BwXremQ-i6I",
+      "trello": "https://trello.com/c/MbSahNld/231-context-engineering-for-ai-agents-4-failure-modes-to-avoid",
+      "platform": "YouTube",
+      "channel": "IBM Technology",
+      "duration": "10 min 20 sec video.",
+      "type": "WATCH",
+      "hook": "Martin Keen explains context rot and four ways an agent's context can hurt reliability: poisoning (bad information becomes accepted), distraction (long histories derail focus), confusion (too many tools), and clash (conflicting information)."
+    },
+    {
+      "title": "Andrew Ng: The Biggest Opportunities in AI Aren't Where You Think",
+      "source": "https://www.youtube.com/watch?v=o-wv_szZ0V0",
+      "trello": "https://trello.com/c/f7kHY6oP/232-andrew-ng-the-biggest-opportunities-in-ai-arent-where-you-think",
+      "platform": "YouTube",
+      "channel": "Silicon Valley Girl",
+      "duration": "37 min video.",
+      "type": "WATCH",
+      "hook": "Andrew Ng challenges alarmist claims about AI eliminating large shares of jobs, discusses how students and new graduates can learn and prepare, and says employers increasingly value people who can build with AI."
+    },
     {
       "title": "עוד מצב שמתחיל לצאת משליטה",
       "source": "https://www.youtube.com/watch?v=r6p32JbJiYI",
@@ -544,7 +606,7 @@
       "trello": "https://trello.com/c/ML5mvG25/180-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version-ai-news-strategy-daily-nate-b-jones",
       "platform": "YouTube",
       "channel": "AI News & Strategy Daily | Nate B Jones",
-      "duration": "~39 min.",
+      "duration": "38 min 31 sec",
       "type": "WATCH",
       "hook": "The description compares OpenAI DevDay launches including Dots, ChatGPT Space/Pages, and GPT-6.1 Sol with Meta’s Muse and Anthropic. It covers subscription value, context handling, model plan limits, small-team use cases, and builder-facing Decisions API/plugin extensions, with chapter markers."
     },
@@ -554,7 +616,7 @@
       "trello": "https://trello.com/c/1dorWqIV/181-digger-movie-review-non-spoiler-spoiler-dan-murrell",
       "platform": "YouTube",
       "channel": "Dan Murrell",
-      "duration": "~15 min.",
+      "duration": "14 min 54 sec",
       "type": "WATCH",
       "hook": "Dan Murrell reviews Tom Cruise’s film Digger, which he describes as polarizing and unusually risky. The video has a spoiler-free section followed by spoiler discussion beginning at 7:27."
     },
@@ -564,7 +626,7 @@
       "trello": "https://trello.com/c/ElNaFfUo/182-what-is-jev-the-ai-model-that-doesnt-generate-text-ibm-technology",
       "platform": "YouTube",
       "channel": "IBM Technology",
-      "duration": "~15 min.",
+      "duration": "15 min 03 sec",
       "type": "WATCH",
       "hook": "IBM Technology explains Jev as a System 1 model that returns calibrated probabilities rather than generated prose. The description covers comparison with LLMs and reasoning models, calibration, training, turning probabilities into software decisions, guardrails, and combining Jev with LLM workflows."
     },
@@ -1098,7 +1160,7 @@
       "trello": "https://trello.com/c/j0RvSlJp/179-why-the-taliban-are-begging-the-us-to-come-back-reallifelore",
       "platform": "YouTube",
       "channel": "RealLifeLore",
-      "duration": "~39 min.",
+      "duration": "38 min 51 sec",
       "type": "WATCH",
       "hook": "The YouTube description contains channel promotions and production credits, but no substantive explanation of the video’s argument. The title alone is not enough to summarize it."
     },
