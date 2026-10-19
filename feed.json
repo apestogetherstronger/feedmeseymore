@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T02:22:15+03:00",
+  "updated": "2026-10-19T14:37:24+03:00",
   "unresolved": [],
   "items": [
     {
@@ -8,16 +8,16 @@
       "trello": "https://trello.com/c/Md2GEFB6/227-the-road-to-self-improving-software-ben-holmes",
       "platform": "X article",
       "channel": "Ben Holmes (@bholmesdev)",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Three ways to make agents decide what to fix, improve in their own setup, and build next."
     },
     {
       "title": "עוד מצב שמתחיל לצאת משליטה",
       "source": "https://www.youtube.com/watch?v=r6p32JbJiYI",
+      "trello": "https://trello.com/c/KcwaEoII/202-%D7%A2%D7%95%D7%93-%D7%9E%D7%A6%D7%91-%D7%A9%D7%9E%D7%AA%D7%97%D7%99%D7%9C-%D7%9C%D7%A6%D7%90%D7%AA-%D7%9E%D7%A9%D7%9C%D7%99%D7%98%D7%94",
       "platform": "YouTube",
       "channel": "הדרך הקלה",
-      "trello": "https://trello.com/c/KcwaEoII/202-%D7%A2%D7%95%D7%93-%D7%9E%D7%A6%D7%91-%D7%A9%D7%9E%D7%AA%D7%97%D7%99%D7%9C-%D7%9C%D7%A6%D7%90%D7%AA-%D7%9E%D7%A9%D7%9C%D7%99%D7%98%D7%94",
       "duration": "15 min 20 sec",
       "type": "WATCH",
       "hook": "A short update on the situation in Ethiopia and the Horn of Africa."
@@ -25,19 +25,19 @@
     {
       "title": "We found a Tencent agent fleet · swarmcha.se",
       "source": "https://swarmcha.se/posts/chinese-agent-fleet-full-report",
+      "trello": "https://trello.com/c/FOlfW0Um/200-we-found-a-tencent-agent-fleet-swarmchase",
       "platform": "Web article",
       "channel": "Swarmchasers / swarmcha.se",
-      "trello": "https://trello.com/c/FOlfW0Um/200-we-found-a-tencent-agent-fleet-swarmchase",
-      "duration": "Unknown (long-form investigation).",
+      "duration": "unknown",
       "type": "READ",
       "hook": "A first-person investigation of how agents reached blocked map data, what researchers observed, and how the researchers communicated with them."
     },
     {
       "title": "The Haredi leadership is scared and completely out of touch — כאן חדשות",
       "source": "https://www.youtube.com/watch?v=-P5iFpHL16I",
+      "trello": "https://trello.com/c/uvcK9LoF/204-the-haredi-leadership-is-scared-and-completely-out-of-touch-%D7%9B%D7%90%D7%9F-%D7%97%D7%93%D7%A9%D7%95%D7%AA",
       "platform": "YouTube",
       "channel": "כאן | חדשות",
-      "trello": "https://trello.com/c/uvcK9LoF/204-the-haredi-leadership-is-scared-and-completely-out-of-touch-%D7%9B%D7%90%D7%9F-%D7%97%D7%93%D7%A9%D7%95%D7%AA",
       "duration": "31 min",
       "type": "WATCH",
       "hook": "Hear Moti Leitner make the case for challenging Shas and United Torah Judaism from within Haredi politics."
@@ -45,9 +45,9 @@
     {
       "title": "Konstantin Kisin’s WARNING: Our Leaders Have Lost Control — The Diary Of A CEO",
       "source": "https://www.youtube.com/watch?v=Y43T7VQGtOs",
+      "trello": "https://trello.com/c/w9AGXd16/205-konstantin-kisins-warning-our-leaders-have-lost-control-the-diary-of-a-ceo",
       "platform": "YouTube",
       "channel": "The Diary Of A CEO",
-      "trello": "https://trello.com/c/w9AGXd16/205-konstantin-kisins-warning-our-leaders-have-lost-control-the-diary-of-a-ceo",
       "duration": "1 hr 33 min 59 sec",
       "type": "WATCH",
       "hook": "A long debate between Kisin and economist Steve Keen on debt, immigration, climate, and AI."
@@ -55,9 +55,9 @@
     {
       "title": "Why Time Flows Differently Between Galaxies — PBS Space Time",
       "source": "https://www.youtube.com/watch?v=SXg6YVcdOcA",
+      "trello": "https://trello.com/c/K0xJeX1i/207-why-time-flows-differently-between-galaxies-pbs-space-time",
       "platform": "YouTube",
       "channel": "PBS Space Time",
-      "trello": "https://trello.com/c/K0xJeX1i/207-why-time-flows-differently-between-galaxies-pbs-space-time",
       "duration": "16 min 28 sec",
       "type": "WATCH",
       "hook": "A cosmology explainer linking the title’s intergalactic time question to the debate over dark energy."
@@ -65,9 +65,9 @@
     {
       "title": "What Every Parent Should Fix While They Still Can — Jay Shetty Podcast",
       "source": "https://www.youtube.com/watch?v=1PNqoHNJwew",
+      "trello": "https://trello.com/c/cV6TNZ11/208-what-every-parent-should-fix-while-they-still-can-jay-shetty-podcast",
       "platform": "YouTube",
       "channel": "Jay Shetty Podcast",
-      "trello": "https://trello.com/c/cV6TNZ11/208-what-every-parent-should-fix-while-they-still-can-jay-shetty-podcast",
       "duration": "34 min",
       "type": "WATCH",
       "hook": "Hear the guests’ advice on helping children build independence, then check the evidence behind their “according to science” claims."
@@ -75,9 +75,9 @@
     {
       "title": "מועדון כתב #61 - ממ״ד — מועדון כתב",
       "source": "https://www.youtube.com/watch?v=Se2pcG5hGEs",
+      "trello": "https://trello.com/c/EAUPWlsL/209-%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F-%D7%9B%D7%AA%D7%91-61-%D7%9E%D7%9E%D7%B4%D7%93-%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F-%D7%9B%D7%AA%D7%91",
       "platform": "YouTube",
       "channel": "מועדון כתב",
-      "trello": "https://trello.com/c/EAUPWlsL/209-%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F-%D7%9B%D7%AA%D7%91-61-%D7%9E%D7%9E%D7%B4%D7%93-%D7%9E%D7%95%D7%A2%D7%93%D7%95%D7%9F-%D7%9B%D7%AA%D7%91",
       "duration": "8 min 33 sec",
       "type": "WATCH",
       "hook": "A Hebrew spoken-word piece that stages a contrast between the home safe room and the public shelter."
@@ -85,9 +85,9 @@
     {
       "title": "The Social Reckoning — Movie Review — Dan Murrell",
       "source": "https://www.youtube.com/watch?v=CURyvsr3WBw",
+      "trello": "https://trello.com/c/MfRNlphM/213-the-social-reckoning-movie-review-dan-murrell",
       "platform": "YouTube",
       "channel": "Dan Murrell",
-      "trello": "https://trello.com/c/MfRNlphM/213-the-social-reckoning-movie-review-dan-murrell",
       "duration": "13 min 55 sec",
       "type": "WATCH",
       "hook": "A short review of Aaron Sorkin’s follow-up to The Social Network."
@@ -95,9 +95,9 @@
     {
       "title": "Why America keeps losing wars — CaspianReport",
       "source": "https://www.youtube.com/watch?v=748WJ7ydG_s",
+      "trello": "https://trello.com/c/ZxMUlbUq/212-why-america-keeps-losing-wars-caspianreport",
       "platform": "YouTube",
       "channel": "CaspianReport",
-      "trello": "https://trello.com/c/ZxMUlbUq/212-why-america-keeps-losing-wars-caspianreport",
       "duration": "17 min",
       "type": "WATCH",
       "hook": "Why can battlefield victories fail to end a war on favorable terms?"
@@ -105,9 +105,9 @@
     {
       "title": "Adam Savage Experiences Anatomically Correct Wings! — Adam Savage’s Tested",
       "source": "https://www.youtube.com/watch?v=WT7MLrxor1A",
+      "trello": "https://trello.com/c/INrIM29E/210-adam-savage-experiences-anatomically-correct-wings-adam-savages-tested",
       "platform": "YouTube",
       "channel": "Adam Savage’s Tested",
-      "trello": "https://trello.com/c/INrIM29E/210-adam-savage-experiences-anatomically-correct-wings-adam-savages-tested",
       "duration": "11 min 6 sec",
       "type": "WATCH",
       "hook": "Adam Savage tries articulated wings built to move like real bird wings."
@@ -115,9 +115,9 @@
     {
       "title": "The REAL Reason Scientists Know Reality Is An Illusion — The Diary Of A CEO Clips",
       "source": "https://www.youtube.com/watch?v=GEhdiVrddp4",
+      "trello": "https://trello.com/c/rIhK0cuv/214-the-real-reason-scientists-know-reality-is-an-illusion-the-diary-of-a-ceo-clips",
       "platform": "YouTube",
       "channel": "The Diary Of A CEO Clips",
-      "trello": "https://trello.com/c/rIhK0cuv/214-the-real-reason-scientists-know-reality-is-an-illusion-the-diary-of-a-ceo-clips",
       "duration": "20 min",
       "type": "WATCH",
       "hook": "A discussion of string theory and the simulation argument, with Greene’s caveat that neither settles whether reality is simulated."
@@ -125,9 +125,9 @@
     {
       "title": "The Absurd Engineering Behind the Internet — Veritasium",
       "source": "https://www.youtube.com/watch?v=NiCgcUTL9_Q",
+      "trello": "https://trello.com/c/9ZyHCmR4/216-the-absurd-engineering-behind-the-internet-veritasium",
       "platform": "YouTube",
       "channel": "Veritasium",
-      "trello": "https://trello.com/c/9ZyHCmR4/216-the-absurd-engineering-behind-the-internet-veritasium",
       "duration": "34 min",
       "type": "WATCH",
       "hook": "See why turning glass into the backbone of global communications took far more than simply making it transparent."
@@ -135,9 +135,9 @@
     {
       "title": "Everyone is still waiting for that revolution — הדרך הקלה",
       "source": "https://www.youtube.com/watch?v=6QwGhGU_WGI",
+      "trello": "https://trello.com/c/VeHzVHN7/217-everyone-is-still-waiting-for-that-revolution-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
       "channel": "הדרך הקלה",
-      "trello": "https://trello.com/c/VeHzVHN7/217-everyone-is-still-waiting-for-that-revolution-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "duration": "17 min",
       "type": "WATCH",
       "hook": "A concise introduction to Marx’s ideas, presented by the Hebrew channel הדרך הקלה."
@@ -145,15 +145,15 @@
     {
       "title": "Azure Firewall Deep Dive — John Savill's Technical Training",
       "source": "https://www.youtube.com/watch?v=JiUerkqyW0g",
+      "trello": "https://trello.com/c/ckOGdK4J/220-azure-firewall-deep-dive-john-savills-technical-training",
       "platform": "YouTube",
       "channel": "John Savill's Technical Training",
-      "trello": "https://trello.com/c/ckOGdK4J/220-azure-firewall-deep-dive-john-savills-technical-training",
       "duration": "1 hr 24 min 35 sec",
       "type": "WATCH",
       "hook": "Review the Azure Firewall feature map, from routing and policy rules through Premium inspection and monitoring."
     },
     {
-      "title": "How We Trapped Light and Built the Internet",
+      "title": "How We Trapped Light and Built the Internet — Veritasium",
       "source": "https://youtu.be/NiCgcUTL9_Q",
       "trello": "https://trello.com/c/DL7nPOJs/197-how-we-trapped-light-and-built-the-internet-veritasium",
       "platform": "YouTube",
@@ -163,7 +163,7 @@
       "hook": "Explores why making glass fibers that can carry signals was so difficult, connecting the engineering challenge to fiber optic communication."
     },
     {
-      "title": "The Personal Agent Series: Part 1",
+      "title": "The Personal Agent Series: Part 1 — JJ Englert",
       "source": "https://x.com/JJEnglert/status/2109001632918708711",
       "trello": "https://trello.com/c/x3vPFafg/194-the-personal-agent-series-part-1-jj-englert",
       "platform": "X article",
@@ -173,7 +173,7 @@
       "hook": "What changes after three weeks living with a personal AI agent, rather than just testing one? Concrete examples from calendars, travel, homegrown apps, music and an ESP32 voice device—plus the privacy cost."
     },
     {
-      "title": "Agent Evals 101: Stop Guessing, Start Measuring",
+      "title": "Agent Evals 101: Stop Guessing, Start Measuring — Paul Iusztin",
       "source": "https://chatgpt.com/share/6ac64947-c590-83ed-8600-45f05ee39a21?ogimg=plain",
       "trello": "https://trello.com/c/zJIq0dvF/189-agent-evals-101-stop-guessing-start-measuring-paul-iusztin",
       "platform": "ChatGPT share / X article",
@@ -183,12 +183,12 @@
       "hook": "A concrete blueprint for replacing “this model feels better” with a repeatable agent test system that measures correctness, regressions, reliability, cost and latency on your own workloads."
     },
     {
-      "title": "Will AI replace workers? Not if we build it right",
+      "title": "https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/",
       "source": "https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/",
       "trello": "https://trello.com/c/PPGrr59f/187-https-humanistreviewai-issue-1-acemoglu-ai-replace-workers",
       "platform": "Web article",
       "channel": "The Humanist Review of AI / Daron Acemoglu",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Acemoglu’s case that the key AI question is not simply which jobs get automated, but whether tools are designed to expand what workers can do."
     },
@@ -202,7 +202,7 @@
       "hook": "Why the famous “2027 invasion” date may be the wrong focal point—and why Czin thinks the political window around Taiwan’s 2028 election matters more."
     },
     {
-      "title": "2026.40: Dots and Question Marks",
+      "title": "Dots and Question Marks – Stratechery by Ben Thompson",
       "source": "https://stratechery.com/2026/dots-and-question-marks/",
       "trello": "https://trello.com/c/RA5G9xTC/174-dots-and-question-marks-stratechery-by-ben-thompson",
       "platform": "Stratechery",
@@ -212,7 +212,7 @@
       "hook": "A quick strategic map of how Meta and OpenAI are positioning for an agent-driven computing layer—and where Thompson thinks each is getting distracted or muddled."
     },
     {
-      "title": "Own your AI, don’t let it own you",
+      "title": "Own your AI, don’t let it own you — Sigil Wen",
       "source": "https://x.com/0xSigil/status/2105782954094182442",
       "trello": "https://trello.com/c/4rT8zoOw/173-own-your-ai-dont-let-it-own-you-sigil-wen",
       "platform": "X article",
@@ -222,7 +222,7 @@
       "hook": "A concrete argument that the next AI platform shift may be from cloud agents to private, on-device assistants—and that inference engineering is what makes that practical."
     },
     {
-      "title": "זו מדינת אויב? (YouTube displays: Is this an enemy state?)",
+      "title": "זו מדינת אויב? (Is this an enemy state?) — הדרך הקלה",
       "source": "https://www.youtube.com/watch?v=fdcow7TmOXM",
       "trello": "https://trello.com/c/H4RAOna6/172-%D7%96%D7%95-%D7%9E%D7%93%D7%99%D7%A0%D7%AA-%D7%90%D7%95%D7%99%D7%91-is-this-an-enemy-state-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
@@ -232,7 +232,7 @@
       "hook": "A 12-minute current-affairs video asking whether an unnamed entity should be considered an enemy state; the available metadata does not reveal its case."
     },
     {
-      "title": "מכבית וחנאל - שמח בא להוריד",
+      "title": "מכבית וחנאל - שמח בא להוריד — אושרית וחן",
       "source": "https://www.youtube.com/watch?v=fRWh5N8vs6U",
       "trello": "https://trello.com/c/ynFNAkrm/171-%D7%9E%D7%9B%D7%91%D7%99%D7%AA-%D7%95%D7%97%D7%A0%D7%90%D7%9C-%D7%A9%D7%9E%D7%97-%D7%91%D7%90-%D7%9C%D7%94%D7%95%D7%A8%D7%99%D7%93-%D7%90%D7%95%D7%A9%D7%A8%D7%99%D7%AA-%D7%95%D7%97%D7%9F",
       "platform": "YouTube",
@@ -242,7 +242,7 @@
       "hook": "A Hebrew sketch built around a couple’s attempt to connect and a babysitter’s interference."
     },
     {
-      "title": "Prime Minister Netanyahu in an economic discussion with Oren Dobronsky",
+      "title": "Prime Minister Netanyahu on economics and AI — Benjamin Netanyahu",
       "source": "https://www.youtube.com/watch?v=tkn6Y_SisRI",
       "trello": "https://trello.com/c/4grzqUQx/169-prime-minister-netanyahu-on-economics-and-ai-benjamin-netanyahu",
       "platform": "YouTube",
@@ -252,7 +252,7 @@
       "hook": "Hear Netanyahu’s own case for his economic record and his proposed AI strategy for Israel."
     },
     {
-      "title": "שורדת השבי מייה שם בחשיפה מצמררת: ״אף אחד בישראל לא מבין מה באמת עברתי כחטופה בעזה!״",
+      "title": "Maya Shem on life after captivity — דניאל דושי",
       "source": "https://www.youtube.com/watch?v=LUgoS2v0BBs",
       "trello": "https://trello.com/c/o3eoIvMD/168-maya-shem-on-life-after-captivity-%D7%93%D7%A0%D7%99%D7%90%D7%9C-%D7%93%D7%95%D7%A9%D7%99",
       "platform": "YouTube",
@@ -262,7 +262,7 @@
       "hook": "A survivor describes how she is rebuilding life after captivity and resisting being defined only by that experience."
     },
     {
-      "title": "This could drag everyone into a war",
+      "title": "This could drag everyone into a war — הדרך הקלה",
       "source": "https://www.youtube.com/watch?v=J4SJit9vRrk",
       "trello": "https://trello.com/c/Si3J2AQx/167-this-could-drag-everyone-into-a-war-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
@@ -272,7 +272,7 @@
       "hook": "A short explainer on whether tensions in Ethiopia could spread into a wider regional war."
     },
     {
-      "title": "The Insane Real Engineering of the Nazi Enigma Machine",
+      "title": "The Insane Real Engineering of the Nazi Enigma Machine — Veritasium",
       "source": "https://www.youtube.com/watch?v=JsBZOcqZerk",
       "trello": "https://trello.com/c/sVa2TAop/166-the-insane-real-engineering-of-the-nazi-enigma-machine-veritasium",
       "platform": "YouTube",
@@ -302,7 +302,7 @@
       "hook": "A practical framework for thinking about engineers’ two future jobs: shaping the product and improving the factory that builds it."
     },
     {
-      "title": "The State of Startups in 2026",
+      "title": "The State of Startups in 2026 — Y Combinator",
       "source": "https://www.youtube.com/watch?v=yslXlV2BP_Y&list=PLH-u9ZhLrGqo&index=6&pp=iAQB",
       "trello": "https://trello.com/c/tBye1BXB/107-the-state-of-startups-in-2026-y-combinator",
       "platform": "YouTube",
@@ -312,7 +312,7 @@
       "hook": "What stays valuable when coding gets cheap? YC connects agent-run workflows, physical infrastructure and experienced founders. Start at 15:40 or 32:54; cohort figures are YC-reported."
     },
     {
-      "title": "Jev workflows for LinkedIn and Gmail (curated title)",
+      "title": "Jev workflows for LinkedIn and Gmail — @rubenhassid",
       "source": "https://www.threads.com/share/_7HBOS6VH/",
       "trello": "https://trello.com/c/flnUen71/112-jev-workflows-for-linkedin-and-gmail-rubenhassid",
       "platform": "Threads",
@@ -322,7 +322,7 @@
       "hook": "Two concrete Jev ideas: shortlist LinkedIn contacts and triage Google contacts into Keep, Review or Remove. A short overview with human review; performance claims remain unverified."
     },
     {
-      "title": "Build your own Jev (100% local)",
+      "title": "Build your own Jev (100% local) — Avi Chawla",
       "source": "https://x.com/_avichawla/status/2101563610644496464",
       "trello": "https://trello.com/c/wCpma8PH/111-build-your-own-jev-100-local-avi-chawla",
       "platform": "X article",
@@ -332,7 +332,7 @@
       "hook": "Use local model scores for fixed-choice routing without generating prose. A practical SGLang tutorial, with crucial limits: scores need calibration and this does not reproduce Jev's training."
     },
     {
-      "title": "DeepSeek’s Insane New Architecture",
+      "title": "DeepSeek’s Insane New Architecture — Two Minute Papers",
       "source": "https://www.youtube.com/watch?v=vIHw_2VjSUw&list=PLH-u9ZhLrGqo&index=7&pp=iAQB",
       "trello": "https://trello.com/c/0wIO9k1O/110-deepseeks-insane-new-architecture-two-minute-papers",
       "platform": "YouTube",
@@ -342,7 +342,7 @@
       "hook": "Why use the same amount of compute to read and write? DeepSeek’s asymmetric design and smaller KV cache target long-context agent costs. Enriched with the linked primary documentation; transcript unavailable."
     },
     {
-      "title": "We Are Witnessing Cancer's Downfall",
+      "title": "We Are Witnessing Cancer's Downfall — Dr Brad Stanfield",
       "source": "https://www.youtube.com/watch?v=7eQL0nwjZOs&list=PLH-u9ZhLrGqo&index=2&pp=iAQB0gcJCSQMAYcqIYzv",
       "trello": "https://trello.com/c/ITMdesEA/104-we-are-witnessing-cancers-downfall-dr-brad-stanfield",
       "platform": "YouTube",
@@ -372,14 +372,14 @@
       "hook": "An agent can remember a proposal perfectly and still mistake it for permission. This critique connects memory, authority, verification and reusable skills into one design problem."
     },
     {
-      "title": "כריס קורנל וסאונדגרדן — חלק א׳",
+      "title": "אם מפרקים את \"ארבעת הקדושים\" של סיאטל לפסיפס רגשי, מבינים שכל להקה החזיקה בתדר ייחודי שהרכיב את התופעה: נירוואנה הזינה את המרד האנרכיסטי, אליס אין צ'יינס חקרה את האופל והדיכאון, פרל ג'אם הביאה את התקווה המלנכולית שיום אחד יהיה בסדר, וסאונדגרדן הייתה העוצמה - כוח טבע גולמי, כבד ובלתי מתפשר.  לכל להקה היה כמובן את הסולן הענק שלה, כל אחד מהם ענק בדרכו, אבל כריס קורנל הוא כנראה השלם מכולם – האיש שמשלב את העוצמה הווקאלית של 4 אוקטבות, כריזמה מתפרצת, רגישות של נער פגיע, יופי של אל יווני, כישרון כתיבה נדיר וכמובן את הדיכאון שבסופו של דבר לקח גם אותו מן העולם הזה (ולזה כמובן נגיע בסוף). אם הגראנג' היה בן אדם, הוא היה כריס קורנל.  הצבעתם לו בסקר, חיכיתם לזה המון המון זמן, יש פה אנשים שאשכרה עשו עוקב כדי לקבל את הסדרה עליו. אז הנה זה בא - זהו חלק א׳ על אחד הסולנים הגדולים בתולדות הרוק, אישיות מורכבת ומודל לחיקוי של מאות זמרים שבאו אחריו - כריס קורנל.  יאללה ממשיכים 🤘  קורנל שייך למועדון מאוד מאוד אקסקלוסיבי של כוכבי רוק שהצליחו בענק עם שתי להקות שונות. האחת היא כמובן Soundgarden - ממייסדות הגראנג' שהתחילו לנגן אי שם ב-1984, והשניה היא Audioslave שאותה הקים ב-2001 כשהיה כבר קרוב ל-40. לצערי פספסתי אותו בענק בזמן אמת עם סאונדגרדן אחרי שהקליפ Black Hole Sun עשה לי רע פיזית כשהייתי ילד, אבל לגמרי הרווחתי אותו בחזרה כשהייתי כבר בצבא, ואודיוסלייב הפכה לאחת הלהקות האהובות עליי. את סאונדגרדן התחלתי לשמוע רק עכשיו, כשאני בעצמי מתקרב ל-40. ובאיזה שהוא מקום אני מרגיש שזה נכון (לי לפחות) כי מדובר בלהקה מורכבת, משונה, קשה לעיכול, אחת כזו שצריך לעבור תהליך כדי להתחבר אליה. המוזיקה שלהם נעימה ולא נעימה בו זמנית, שורטת, בדיוק כמו הקול של כריס עצמו. כן, בואו נפתח את זה - הקול שלו הוא טעם נרכש כמו רוטב סויה, ויש כאלה שלא אוהבים אותו בכלל וזה לגיטימי.  כדי להבין את הקסם שלו, צריך להבין את הניגוד הפנימי שחי בתוכו. על הבמה, הוא נראה כמו הרוקסטאר האולטימטיבי - גבוה, חתיך, כריזמטי, עם עיניים כחולות חודרות ו-וייב של בנאדם שהבין הכל על החיים. אבל ברגע שהאורות כבו, הקסם הזה התפוגג והוא חזר להיות מי שהוא באמת: אדם צנוע, מופנם, שקט ורגיש ברמות שקשה לתאר. הניגוד הזה הוא מה שהעניק לטקסטים שלו עומק כל כך נדיר ופגיע.  הוא גדל בבית דל אמצעים עם שישה ילדים, אמא מותשת ואבא אלכוהוליסט שכמעט ולא דיבר עם הילדים שלו, וכשהוא דיבר זה היה סימן שאתה הולך לחטוף. אז את המפלט מהכאוס בבית הוא מצא כמובן במוזיקה. וזה הגיע לגמרי במקרה אחרי שיום אחד הוא מצא אוסף נטוש של תקליטי הביטלס במרתף מוצף של השכנים. כריס הקטן אסף את התקליטים הרטובים והעבשים, ניקה אותם בזהירות, שם על הפטיפון ושמע לראשונה את המוזיקה שתשנה את חייו לנצח. כן, כמו אצל רבים וטובים אחרים, הכל אצלו התחיל מהביטלס - משם הוא קלט את מבנה השירים, ספג את האקורדים הראשונים והבין איך נראית להקה.  אבל ההתפתחות האמיתית שלו קרתה מתוך משבר. בשנות העשרה המוקדמות שלו, קורנל סבל מדיכאון קשה וחרדה חברתית, והסתגר בחדרו במשך שנה שלמה. בתוך הבידוד הזה, החברים היחידים שלו היו מערכת תופים והתקליטים. הוא לימד את עצמו לתופף באגרסיביות תוך כדי שהוא שר עם הזמרים האהובים עליו, וככה, מתוך הצרחות בחדר הסגור, הוא גילה את הכשרון הגדול שלו. כלומר... במציאות מקבילה אם כריס לא היה אדם דיכאוני עם ילדות קשה, יש מצב שהיה עובד בבנק וארבע האוקטבות שלו לא היו מתגלות לעולם. טוב, אולי רק במקלחת.  קופצים לשנת 1984, לעיר אפורה ומבודדת בצפון-מערב ארה\"ב בשם סיאטל, אולי שמעתם. תהיו בהלם, אבל אינטרנט אז לא היה קיים, MTV היה בחיתולים, ומעט מאוד אמנים הגיעו לעיר המרוחקת הזו כדי להופיע, והיה מעט מאוד מידע אודות המוזיקה שהמקומיים שמעו מתקליטים שאותם הצליחו להשיג. הבידוד הזה יצר חממה ייחודית שאפשרה מוזיקה נטולת תכתיבים מסחריים. באותה שנה קורנל פגש את הבסיסט הירו יאמאמוטו ואת הגיטריסט קים תאייל. הם רצו להקים להקה שתשלב את האפלה והכבדות של Black Sabbath, עם האנרגיה הפרועה של Led Zeppelin והחספוס של הפוסט-פאנק הבריטי. בימים הראשונים, קורנל עוד ישב על התופים ושר במקביל. הכל היה טוב ויפה, עד שהמפיק המיתולוגי שלהם באותן שנים, ג'ק אנדינו, זיהה משהו קריטי: המאמץ הפיזי העצום של התיפוף הגביל וחנק את השירה של קורנל. כדי לשחרר את החיה, הם צירפו את המתופף מאט קאמרון, וקורנל המופנם עלה סוף סוף לחזית הבמה.  מה שהפך את הסאונד שלהם לייחודי באמת, היה סוג של \"מתמטיקה של כאב\". הם כתבו במבנים מוזיקליים משונים ובמקום להיצמד למקצבים רגילים של 4/4 שנוחים לאוזן, הם שברו את המוזיקה למשקלים מורכבים כמו 7/4 או 5/4. קים תאייל השתמש בכיווני גיטרה נמוכים ומשונים שיצרו דיסוננס אפל, והתיפוף הדינמי והחד של קאמרון החזיק את כל הקונסטרוקציה הזו באוויר.  אחרי אלבום הבכורה העצמאי (\"Ultramega OK\" ב-1988), סאונדגרדן עשתה היסטוריה והייתה ללהקת הגראנג' הראשונה שחותמת בלייבל גדול (A&M Records), דרכו שחררו את האלבום \"Louder Than Love\" ב-1989. שני האלבומים האלה אמנם היו ניסיוניים מדי בכדי להגיע להפצה רחבה, אבל כן הגיעו לאוזניים הנכונות ונתנו את הסיפתח והוכיחו שהם הרבה יותר מעוד חבורת ילדים שמנסים לעשות רוק כבד DIY.  ואז הגיעה הפריצה הגדולה. בסוף 1991, בשיאה של מהפכת הרוק האלטרנטיבי, שחררו סאונדגרדן את \"Badmotorfinger\". תחשבו על השנה הזו: נירוואנה מוציאה את Nevermind, פרל ג׳אם משחררת את Ten, ואליס אין צ׳יינס עדיין רוכבת על גלי ההצלחה של Facelift שיצא שנה קודם. הגראנג׳ בשיאו. כולם רוצים גראנג׳. ובתוך כל הטירוף הזה, Badmotorfinger בלט כאלבום הכי מוזר, הכי מטאלי והכי טכני בחבורה. הוא היה מלוטש, כבד וחד יותר מאחרים, והצליח לקחת את המורכבות המוזיקלית של הלהקה ולהגיש אותה בצורה עוצמתית שתפסה את ההמונים. זה האלבום שהביא לנו את \"Outshined\" עם המשקל השבור והשורה המפורסמת \"I'm looking California and feeling Minnesota\", את \"Rusty Cage\" הדינמי והמסחרר (שלימים זכה לקאבר של ג'וני קאש הגדול), ואת \"Jesus Christ Pose\" – רצועה מהירה ומלחיצה שביקרה את השימוש בדימויים דתיים בתרבות הסלבריטאים, ספגה צנזורה ב-MTV, ובעקבות זאת הפכה לקלאסיקה באנדרגראונד.  האלבום נמכר ביותר מ-2 מיליון עותקים בארה\"ב בלבד, הגיע למעמד פלטינה כפולה, והיה מועמד לגראמי. הוא ביסס סופית את סאונדגרדן כאחת מעמודי התווך של הז׳אנר הפופולרי בעולם דאז. בניגוד לקהל של נירוואנה, שהורכב ברובו מאאוטסיידרים, ילדי פאנק ובני נוער שחיפשו מרד, המעריצים של סאונדגרדן באו מרקע של מטאל ורוק מתקדם. אלה היו אנשים שחיפשו מוזיקה טכנית, ריפים מורכבים וזמר שיכול לנסר את הרמקולים. ההבדל הזה נתן לסאונדגרדן צבע הרבה יותר מסתורי, כבד ובוגר משאר הלהקות בסצנה.  אבל השיא עוד לפניהם, ועליו נדבר בחלק ב׳. ואתם יודעים מה צריך לעשות כדי לא לפספס אותו 🤘",
       "source": "https://trello.com/c/y5WaKCp0",
       "trello": "https://trello.com/c/y5WaKCp0/102-%D7%90%D7%9D-%D7%9E%D7%A4%D7%A8%D7%A7%D7%99%D7%9D-%D7%90%D7%AA-%D7%90%D7%A8%D7%91%D7%A2%D7%AA-%D7%94%D7%A7%D7%93%D7%95%D7%A9%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A1%D7%99%D7%90%D7%98%D7%9C-%D7%9C%D7%A4%D7%A1%D7%99%D7%A4%D7%A1-%D7%A8%D7%92%D7%A9%D7%99-%D7%9E%D7%91%D7%99%D7%A0%D7%99%D7%9D-%D7%A9%D7%9B%D7%9C-%D7%9C%D7%94%D7%A7%D7%94-%D7%94%D7%97%D7%96%D7%99%D7%A7%D7%94-%D7%91%D7%AA%D7%93%D7%A8-%D7%99%D7%99%D7%97%D7%95%D7%93%D7%99-%D7%A9%D7%94%D7%A8%D7%9B%D7%99%D7%91-%D7%90%D7%AA-%D7%94%D7%AA%D7%95%D7%A4%D7%A2%D7%94-%D7%A0%D7%99%D7%A8%D7%95%D7%95%D7%90%D7%A0%D7%94-%D7%94%D7%96%D7%99%D7%A0%D7%94-%D7%90%D7%AA-%D7%94%D7%9E%D7%A8%D7%93-%D7%94%D7%90%D7%A0%D7%A8%D7%9B",
       "platform": "Saved text",
+      "channel": "Not recorded; original external URL not provided.",
       "duration": "~6–8 min read (estimate).",
       "type": "READ",
-      "hook": "A Hebrew introduction to Chris Cornell and early Soundgarden: the voice, unusual rhythms and route to Badmotorfinger. The complete saved text is in the Trello card.",
-      "channel": "Not recorded; original external URL not provided."
+      "hook": "A Hebrew introduction to Chris Cornell and early Soundgarden: the voice, unusual rhythms and route to Badmotorfinger. The complete saved text is in the Trello card."
     },
     {
       "title": "How To Fine-Tune a Small LLM on Your Own Data (Full Guide)",
@@ -466,10 +466,10 @@
       "source": "https://www.youtube.com/watch?v=UHsSZ7lUvKM",
       "trello": "https://trello.com/c/E4yvdRgO/218-new-somali-piracy-situation-is-insane-reallifelore",
       "platform": "YouTube",
+      "channel": "RealLifeLore",
       "duration": "44:35 video.",
       "type": "WATCH",
-      "hook": "How a handful of hijackings can impose costs far beyond the ransom payments.",
-      "channel": "RealLifeLore"
+      "hook": "How a handful of hijackings can impose costs far beyond the ransom payments."
     },
     {
       "title": "CAFE(S): A framework for defining AI context quality",
@@ -502,9 +502,9 @@
     {
       "title": "I Tested The Viral Github Repo To Reverse Engineer Anything — Nick Saraev",
       "source": "https://www.youtube.com/watch?v=dAzs_rU6080",
+      "trello": "https://trello.com/c/kVpvmvOz/219-i-tested-the-viral-github-repo-to-reverse-engineer-anything-nick-saraev",
       "platform": "YouTube",
       "channel": "Nick Saraev",
-      "trello": "https://trello.com/c/kVpvmvOz/219-i-tested-the-viral-github-repo-to-reverse-engineer-anything-nick-saraev",
       "duration": "10 min 47 sec",
       "type": "WATCH",
       "hook": "A 10-minute hands-on look at a GitHub tool that claims to reverse engineer apps, including a preview rebuild and app-matching test."
@@ -532,10 +532,10 @@
       "source": "https://www.linkedin.com/safety/go/?url=https%3A%2F%2Flnkd%2Ein%2FdGtsWvqH&urlhash=zqre&mt=BA13gdhCJfcPckdA2PoCIMEHDAtBN_aySynl92S_UQ8jDz6F3YcHZp17oBwx6B_Z1DFYvvgqIpIcsz4vxjs_Hopu8OkgfmC0zXcU8DIh5O6rIG26PgHyzX_4&isSdui=true",
       "trello": "https://trello.com/c/Q6jnh18h/221-redesigning-source-control-at-anthropic",
       "platform": "Anthropic Engineering",
+      "channel": "Nick G. and the source control team",
       "duration": "Approximately 15–18 min reading (estimate).",
       "type": "READ",
-      "hook": "When agents create code faster, source control and CI become the next engineering problem.",
-      "channel": "Nick G. and the source control team"
+      "hook": "When agents create code faster, source control and CI become the next engineering problem."
     },
     {
       "title": "How We Built an Agent-First CLI — Vercel",
@@ -551,10 +551,10 @@
       "source": "https://linas.substack.com/p/claude-code-projects-playbook",
       "trello": "https://trello.com/c/Edjaaxh9/222-claude-code-projects-make-claude-your-chief-of-staff",
       "platform": "Substack",
+      "channel": "Linas Beliūnas",
       "duration": "Approximately 3–4 min for the accessible preview; full article unknown.",
       "type": "READ",
-      "hook": "A useful framing for coordinating agent work: clear ownership, review gates and a budget.",
-      "channel": "Linas Beliūnas"
+      "hook": "A useful framing for coordinating agent work: clear ownership, review gates and a budget."
     },
     {
       "title": "How Agents Are Changing How We Build Software — Vercel",
@@ -570,13 +570,13 @@
       "source": "https://youtube.com/watch?v=XpkfHAaxNJc&si=XTDV_Ijs25V4p1CF",
       "trello": "https://trello.com/c/xJARTDWR/223-caramelized-vegetable-lentil-stew-for-a-rainy-day",
       "platform": "YouTube",
+      "channel": "Adam Ragusea",
       "duration": "10:05 video. Cooking includes about 20 min browning and 30 min simmering, plus preparation.",
       "type": "WATCH",
-      "hook": "Get a deeply savory meatless stew from browned vegetables, mushrooms and lentils.",
-      "channel": "Adam Ragusea"
+      "hook": "Get a deeply savory meatless stew from browned vegetables, mushrooms and lentils."
     },
     {
-      "title": "Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version?",
+      "title": "Should You Pay $100 A Month For OpenAI's Dots When Meta's Muse Has A Free Version? — AI News & Strategy Daily | Nate B Jones",
       "source": "https://www.youtube.com/watch?v=lnB4Zckx_34",
       "trello": "https://trello.com/c/ML5mvG25/180-should-you-pay-100-a-month-for-openais-dots-when-metas-muse-has-a-free-version-ai-news-strategy-daily-nate-b-jones",
       "platform": "YouTube",
@@ -590,13 +590,13 @@
       "source": "https://youtube.com/watch?v=J9NQTYUP6k0&si=pJDOZYKpP5e1BGdh",
       "trello": "https://trello.com/c/uyEG9lri/224-how-the-top-1-use-claude-code-differently",
       "platform": "YouTube",
+      "channel": "Simon Scrapes",
       "duration": "At least 16:50 based on the final listed chapter; exact total duration not confirmed.",
       "type": "WATCH",
-      "hook": "Turn “done” into evidence: checks, context routing and hooks for agent workflows.",
-      "channel": "Simon Scrapes"
+      "hook": "Turn “done” into evidence: checks, context routing and hooks for agent workflows."
     },
     {
-      "title": "Digger - Movie Review (Non-Spoiler & Spoiler)",
+      "title": "Digger - Movie Review (Non-Spoiler & Spoiler) — Dan Murrell",
       "source": "https://www.youtube.com/watch?v=5gXm4PAo_nI",
       "trello": "https://trello.com/c/1dorWqIV/181-digger-movie-review-non-spoiler-spoiler-dan-murrell",
       "platform": "YouTube",
@@ -610,13 +610,13 @@
       "source": "https://youtube.com/watch?v=R60ZGwd3n9E&si=WML8Xn5AQs-nwIYD",
       "trello": "https://trello.com/c/aRZzmg0J/225-why-the-us-is-suddenly-attacking-canada",
       "platform": "YouTube",
+      "channel": "RealLifeLore",
       "duration": "53:03 video.",
       "type": "WATCH",
-      "hook": "What happens when deep economic integration becomes a source of political leverage?",
-      "channel": "RealLifeLore"
+      "hook": "What happens when deep economic integration becomes a source of political leverage?"
     },
     {
-      "title": "What Is Jev? The AI Model That Doesn't Generate Text",
+      "title": "What Is Jev? The AI Model That Doesn't Generate Text — IBM Technology",
       "source": "https://www.youtube.com/watch?v=YGgNBcIgI4s",
       "trello": "https://trello.com/c/ElNaFfUo/182-what-is-jev-the-ai-model-that-doesnt-generate-text-ibm-technology",
       "platform": "YouTube",
@@ -630,17 +630,17 @@
       "source": "https://youtube.com/watch?v=LlgiOCmFG_w&si=q2mYmqWcjNco_wSl",
       "trello": "https://trello.com/c/rJqOaZWB/226-fixing-the-pr-bottleneck-matt-pocock-aihero",
       "platform": "YouTube",
+      "channel": "AI Engineer",
       "duration": "22:34 video. Publisher notes poor audio during the first approximately 2 min.",
       "type": "WATCH",
-      "hook": "Make each PR review improve the system that produces the next PR.",
-      "channel": "AI Engineer"
+      "hook": "Make each PR review improve the system that produces the next PR."
     },
     {
       "title": "How to become ripped like Adam Ragusea",
       "source": "https://youtu.be/613Xbz7nJUw?si=jc24Yio86DJzN9EA",
       "trello": "https://trello.com/c/3mCC45Wp/36-how-to-become-ripped-like-adam-ragusea",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "Adam Ragusea fitness video about getting leaner/more muscular. Indexed discussion confirms the title/topic, but a reliable transcript or enough primary metadata was not available to summarize the actual advice without inference."
     },
@@ -649,10 +649,10 @@
       "source": "https://www.israelhayom.co.il/magazine/hashavua/article/21635682",
       "trello": "https://trello.com/c/4jBN8g8m/228-%D7%A9%D7%99%D7%90-%D7%A9%D7%9C-30-%D7%A9%D7%A0%D7%99%D7%9D-%D7%94%D7%9E%D7%94%D7%A4%D7%9B%D7%94-%D7%94%D7%A9%D7%A7%D7%98%D7%94-%D7%91%D7%A8%D7%97%D7%95%D7%91-%D7%94%D7%A2%D7%A8%D7%91%D7%99-%D7%A9%D7%99%D7%9B%D7%95%D7%9C%D7%94-%D7%9C%D7%A7%D7%91%D7%95%D7%A2-%D7%90%D7%AA-%D7%AA%D7%95%D7%A6%D7%90%D7%AA-%D7%94%D7%91%D7%97%D7%99%D7%A8%D7%95%D7%AA-%D7%94%D7%99%D7%95%D7%9D",
       "platform": "Israel Hayom",
+      "channel": "Amit Segal",
       "duration": "Approximately 7–9 min reading (estimate).",
       "type": "READ",
-      "hook": "Why higher turnout can change seat totals without resolving the coalition deadlock.",
-      "channel": "Amit Segal"
+      "hook": "Why higher turnout can change seat totals without resolving the coalition deadlock."
     },
     {
       "title": "GPT-6 Astra Doesn't Need Your Instructions Anymore — Nate B Jones",
@@ -665,10 +665,11 @@
       "hook": "What changes when an agent gets a standing area of responsibility instead of one task? Nate connects delegation and coordination to reliability—and to the practice junior staff still need."
     },
     {
-      "title": "How Employment is Changing at Anthropic",
+      "title": "How Employment is Changing at Anthropic — 9/10",
       "source": "https://www-cdn.anthropic.com/72628f1863c53432195db83279252dfd2cb53158/Employment%20at%20Anthropic.pdf",
       "trello": "https://trello.com/c/fvm5Pp9J/234-how-employment-is-changing-at-anthropic-9-10",
       "platform": "The Anthropic Institute",
+      "channel": "The Anthropic Institute",
       "duration": "Estimated 25–35 minutes for the report; 10–15 minutes for a focused pass. Prioritize pp. 9–15 on attention bottlenecks, supervision, documentation and hiring; pp. 16–18 on organizational responses. Estimates, not publisher-supplied times.",
       "type": "READ",
       "hook": "When agents produce more work than humans can read, the valuable skill shifts toward deciding what deserves attention."
@@ -687,28 +688,28 @@
       "title": "Always-On Agent Architecture · six layers · @choopyplug1",
       "source": "https://t.co/MHBkqhFfng",
       "trello": "https://trello.com/c/sgrPkKqz/236-always-on-agent-architecture-six-layers-choopyplug1",
-      "platform": "unknown",
+      "platform": "Web article",
+      "channel": "@choopyplug1 (as printed on page 1).",
       "duration": "Approximately 8–12 minutes for the captured portion (estimate); full-document reading time unknown.",
       "type": "READ",
-      "hook": "unknown",
-      "channel": "@choopyplug1 (as printed on page 1)."
+      "hook": "unknown"
     },
     {
       "title": "Arynne Wexler - The Conservative Comedian Breaking the Internet | Call H...",
       "source": "https://youtube.com/watch?v=jyl870Tx0fM&si=s_Fu_ImJfegkPEKx",
       "trello": "https://trello.com/c/jX0KvW9D/230-arynne-wexler-the-conservative-comedian-breaking-the-internet-call-h",
       "platform": "YouTube",
+      "channel": "Call Her Tatty (collaboration with Arynne Wexler)",
       "duration": "57:26 video.",
       "type": "WATCH",
-      "hook": "From trading currencies to handling hecklers: a comedian on building a public voice.",
-      "channel": "Call Her Tatty (collaboration with Arynne Wexler)"
+      "hook": "From trading currencies to handling hecklers: a comedian on building a public voice."
     },
     {
       "title": "MCP Explained Simply — What It Is and Why It Exists",
       "source": "https://youtu.be/oblaHqULUHk?si=2GXGH--zFOu-LwV8",
       "trello": "https://trello.com/c/RC0os2MJ/66-mcp-explained-simply-what-it-is-and-why-it-exists",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "TechWorld with Nana explainer on Model Context Protocol (MCP): the standardized interface that lets AI clients connect to external tools/data through MCP servers rather than bespoke integrations for each client-service pair. Useful as a conceptual refresher; accessible…"
     },
@@ -717,10 +718,10 @@
       "source": "https://www.youtube.com/watch?v=YkEwyFpxWFc",
       "trello": "https://trello.com/c/aQPEUjHv/233-the-most-likely-place-to-find-aliens",
       "platform": "YouTube",
+      "channel": "Cleo Abram",
       "duration": "39:06 video.",
       "type": "WATCH",
-      "hook": "From distant atmospheres to Venus's clouds: what detecting alien life would actually require.",
-      "channel": "Cleo Abram"
+      "hook": "From distant atmospheres to Venus's clouds: what detecting alien life would actually require."
     },
     {
       "title": "MCP Just Got a Whole Lot Better — Neon",
@@ -734,15 +735,15 @@
     {
       "title": "Inside the Gemini Agent: Desktop, Workspace, Mobile & CLI — Google Cloud",
       "source": "https://www.youtube.com/watch?v=xgYDSQbY9n4",
+      "trello": "https://trello.com/c/Yxs82szO/206-inside-the-gemini-agent-desktop-workspace-mobile-cli-google-cloud",
       "platform": "YouTube",
       "channel": "Google Cloud",
-      "trello": "https://trello.com/c/Yxs82szO/206-inside-the-gemini-agent-desktop-workspace-mobile-cli-google-cloud",
       "duration": "13 min 58 sec",
       "type": "WATCH",
       "hook": "Watch one Gemini cloud agent move from Microsoft 365 and Workspace into Slack, then build and deploy a microsite."
     },
     {
-      "title": "Jared Isaacman: A New Era for NASA and American Space Exploration",
+      "title": "Jared Isaacman: A New Era for NASA and American Space Exploration — All-In Podcast",
       "source": "https://www.youtube.com/watch?v=VTF6p0U98ek&list=PLH-u9ZhLrGqo&index=8&pp=iAQB",
       "trello": "https://trello.com/c/00l9PF82/109-jared-isaacman-a-new-era-for-nasa-and-american-space-exploration-all-in-podcast",
       "platform": "YouTube",
@@ -787,12 +788,12 @@
       "trello": "https://trello.com/c/qdmORlJc/70-jenkins-won-devops-yet-nobody-uses-it-willingly",
       "platform": "YouTube",
       "channel": "DevOps & AI Toolkit",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "A platform-engineering look at why flexible tools become nearly impossible to replace once years of plugins, jobs and custom behavior accumulate around them."
     },
     {
-      "title": "How are they Losing so Bad",
+      "title": "How are they Losing so Bad — The PrimeTime",
       "source": "https://www.youtube.com/watch?v=d3Gjq-BffuI",
       "trello": "https://trello.com/c/KKfKcH3J/105-how-are-they-losing-so-bad-the-primetime",
       "platform": "YouTube",
@@ -836,7 +837,7 @@
       "source": "https://youtu.be/9dYcwOkpCE8?si=ojYrhvo_CoMY5jfn",
       "trello": "https://trello.com/c/cH4VAt6P/93-vercel-data-science-agent-simpler-tools-doubled-eval-scores",
       "platform": "YouTube",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "A strong counterpoint to ever-growing agent harnesses: Vercel reportedly improved its data-science agent by stripping specialized tools back to bash plus file read/write. A perfect eval question for your own skills."
     },
@@ -870,17 +871,17 @@
       "hook": "Dwarkesh Patel interviews OpenAI researcher Noam Brown about multi-agent coordination and alignment. Key engineering themes include parallel agent work, context forking, agent-to-agent messaging, lightweight communication rules, and incentives for useful coordination. The…"
     },
     {
-      "title": "You're Already a Meat Proxy",
+      "title": "You're Already a Meat Proxy — Obie",
       "source": "https://x.com/obie/status/2101779116056088732",
       "trello": "https://trello.com/c/SEhshxEf/113-youre-already-a-meat-proxy-obie",
       "platform": "X",
       "channel": "Obie (@obie)",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Not assessable from the available material; the original post's argument could not be retrieved."
     },
     {
-      "title": "המומחה הפיננסי: למה הבורסה עולה והשקל מתחזק? ומהם 5 הכוחות שפועלים כעת על המשק הישראלי - אדם רויטר",
+      "title": "https://youtu.be/Yok8wE1yPw8?si=KJcKJmbaaTUTPuJ7",
       "source": "https://youtu.be/Yok8wE1yPw8?si=KJcKJmbaaTUTPuJ7",
       "trello": "https://trello.com/c/JnKVCLzP/114-https-youtube-yok8we1ypw8sikjckjmbaatutpuj7",
       "platform": "YouTube",
@@ -890,7 +891,7 @@
       "hook": "Reuter argues that the Israeli economy and markets have shown more resilience than many expected, and discusses five supporting factors including technology, entrepreneurship, international connections, and resilience. He warns that shekel appreciation can pressure Israeli…"
     },
     {
-      "title": "מומחה לעתיד הכסף במסר דחוף לישראלים: בינה מלאכותית תגרום לאבטלה המונית. רק ככה תינצלו! - בן סמוחה",
+      "title": "https://youtu.be/zetQI6TzzCA?si=dCgWkVtbeYJAsQ2h",
       "source": "https://youtu.be/zetQI6TzzCA?si=dCgWkVtbeYJAsQ2h",
       "trello": "https://trello.com/c/DqO49J14/115-https-youtube-zetqi6tzzcasidcgwkvtbeyjasq2h",
       "platform": "YouTube",
@@ -910,7 +911,7 @@
       "hook": "The video argues that limited military objectives can expand into regime change or nation-building, while local opponents may only need to outlast US public and political commitment. It contrasts the Gulf War’s bounded objective and exit with later conflicts, and concludes…"
     },
     {
-      "title": "How to Build an AI Second Brain With Claude and Obsidian That Gets Smarter Every Day (Full Guide)",
+      "title": "How to Build an AI Second Brain With Claude and Obsidian — undefinedKi",
       "source": "https://x.com/undefinedKi/status/2068306794116501544",
       "trello": "https://trello.com/c/QUQDEV1j/119-how-to-build-an-ai-second-brain-with-claude-and-obsidian-undefinedki",
       "platform": "X article",
@@ -920,17 +921,17 @@
       "hook": "A concrete local-first memory architecture: plain-text Obsidian vault, Claude as the agent layer, MCP for access, CLAUDE.md for durable context and reusable skills for recurring workflows."
     },
     {
-      "title": "Building a Custom Harness with Pi and Jev",
+      "title": "Building a Custom Harness with Pi and Jev — Omar Sanseviero",
       "source": "https://x.com/omarsar0/status/2102762406204076532",
       "trello": "https://trello.com/c/RWDMkoKd/124-building-a-custom-harness-with-pi-and-jev-omar-sanseviero",
       "platform": "X",
       "channel": "Omar Sanseviero (@omarsar0)",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "The indexed excerpt indicates a tutorial about building a custom agent harness with the Pi SDK and Jev, including Jev usage in three parts of the workflow. The original post returned 403, so implementation details and conclusions could not be verified."
     },
     {
-      "title": "“The Haredi leadership is scared and completely out of touch”: The engine behind the new Haredi party (YouTube title display is truncated)",
+      "title": "https://youtu.be/-P5iFpHL16I?si=FlDjwNi-nXxAEg2f",
       "source": "https://youtu.be/-P5iFpHL16I?si=FlDjwNi-nXxAEg2f",
       "trello": "https://trello.com/c/PohPTdsb/128-https-youtube-p5ifphl16isifldjwni-nxxaeg2f",
       "platform": "YouTube",
@@ -950,7 +951,7 @@
       "hook": "A substantial technical course on building language models from the ground up, moving from tokenization and model architecture through systems and scaling, data, evaluation, and post-training. Playlist-listed runtimes sum to approximately 24 hr 1 min (the individual playlist…"
     },
     {
-      "title": "Thinking in Systems, Shipping in Loops",
+      "title": "Thinking in Systems, Shipping in Loops — Tomasz Tunguz",
       "source": "https://x.com/ttunguz/status/2103145763098566858",
       "trello": "https://trello.com/c/pB57EpWH/131-thinking-in-systems-shipping-in-loops-tomasz-tunguz",
       "platform": "X / Web article",
@@ -960,17 +961,17 @@
       "hook": "If agents write the code, the engineering work moves into the loop around them: tests, reviewer agents, observability, reusable skills and composable sandboxes. A concise systems-design framing for agentic development."
     },
     {
-      "title": "We’re open sourcing the company brain, Here’s how …",
+      "title": "We’re open sourcing the company brain — Dhravya Shah",
       "source": "https://x.com/DhravyaShah/status/2103668051468300701",
       "trello": "https://trello.com/c/gyAGADx5/132-were-open-sourcing-the-company-brain-dhravya-shah",
       "platform": "X",
       "channel": "Dhravya Shah (@dhravyashah)",
-      "duration": "Unknown.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "The indexed excerpt suggests that the post introduces an open-source company-brain project after the prior harness was discontinued. The original post returned 403, so the implementation and rationale could not be verified."
     },
     {
-      "title": "Have We Finally Found Dark Matter?",
+      "title": "Have We Finally Found Dark Matter? — StarTalk",
       "source": "https://www.youtube.com/watch?v=31beWNzkXiA",
       "trello": "https://trello.com/c/WlHi9Jyx/135-have-we-finally-found-dark-matter-startalk",
       "platform": "YouTube",
@@ -980,7 +981,7 @@
       "hook": "A science discussion about interpreting possible dark matter detections and how candidate particles such as WIMPs or a Higgsino fit into the search. Chapters cover particle detection, Freese’s search, WIMPs, liquid-xenon experiments, and the Higgsino idea. The description…"
     },
     {
-      "title": "The situation there is spiraling out of control",
+      "title": "The situation there is spiraling out of control — הדרך הקלה",
       "source": "https://www.youtube.com/watch?v=hirpFbFxFXs",
       "trello": "https://trello.com/c/ksHAwoQl/136-the-situation-there-is-spiraling-out-of-control-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
@@ -990,7 +991,7 @@
       "hook": "The video appears to discuss Russia and renewed war concerns in Europe. No transcript could be found, and the publisher description is too broad to establish which events or claims the video covers."
     },
     {
-      "title": "Mark Normand Roasts Everybody in Just 1 Minute!! #shorts",
+      "title": "Mark Normand Roasts Everybody in Just 1 Minute!! #shorts — mark normand",
       "source": "https://www.youtube.com/watch?v=-jfnCA3kwVU",
       "trello": "https://trello.com/c/YwMzOfRg/137-mark-normand-roasts-everybody-in-just-1-minute-shorts-mark-normand",
       "platform": "YouTube",
@@ -1000,7 +1001,7 @@
       "hook": "A rapid topical stand-up clip."
     },
     {
-      "title": "#standupcomedy #joke #comedy #funnyshorts #usashorts #standup",
+      "title": "#standupcomedy #joke #comedy #funnyshorts #usashorts #standup — The Movie Snap",
       "source": "https://www.youtube.com/watch?v=qjCzAMLvWo8",
       "trello": "https://trello.com/c/s5vsSnXZ/138-standupcomedy-joke-comedy-funnyshorts-usashorts-standup-the-movie-snap",
       "platform": "YouTube",
@@ -1010,7 +1011,7 @@
       "hook": "A short stand-up comedy clip; no transcript was available."
     },
     {
-      "title": "Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails",
+      "title": "Anthropic IPO at Risk, Meta’s Muse Pop, Token Prices Fall, Open Source Gains Share, Alignment Fails — All-In Podcast",
       "source": "https://www.youtube.com/watch?v=cvP_1jmnkmM",
       "trello": "https://trello.com/c/X8qRUCrk/140-anthropic-ipo-at-risk-metas-muse-pop-token-prices-fall-open-source-gains-share-alignment-fails-all-in-podcast",
       "platform": "YouTube",
@@ -1020,7 +1021,7 @@
       "hook": "A long-form roundtable spanning AI markets, open-source competition, model cost, corporate plans and policy; transcript unavailable."
     },
     {
-      "title": "The Universe May Have Just Revealed the True Nature of Empty Space",
+      "title": "The Universe May Have Just Revealed the True Nature of Empty Space — PBS Space Time",
       "source": "https://www.youtube.com/watch?v=568-39aOZkw",
       "trello": "https://trello.com/c/I2sf2WJv/141-the-universe-may-have-just-revealed-the-true-nature-of-empty-space-pbs-space-time",
       "platform": "YouTube",
@@ -1030,7 +1031,7 @@
       "hook": "A physics explainer about quantum-vacuum effects and whether magnetar observations may show vacuum birefringence."
     },
     {
-      "title": "Meta is pivoting again... everything you missed from Connect 2026",
+      "title": "Meta is pivoting again... everything you missed from Connect 2026 — Fireship",
       "source": "https://www.youtube.com/watch?v=c1rPlzxSZ8E",
       "trello": "https://trello.com/c/IqkuKvfw/142-meta-is-pivoting-again-everything-you-missed-from-connect-2026-fireship",
       "platform": "YouTube",
@@ -1040,7 +1041,7 @@
       "hook": "A brief roundup of Meta Connect 2026 announcements; transcript unavailable."
     },
     {
-      "title": "AI Server Farms Land in Israel - How Will They Impact Our Wallets?",
+      "title": "AI Server Farms Land in Israel - How Will They Impact Our Wallets? — כאן | חדשות",
       "source": "https://www.youtube.com/watch?v=UZvE5fXtJJU",
       "trello": "https://trello.com/c/uFVPqbOP/143-ai-server-farms-land-in-israel-how-will-they-impact-our-wallets-%D7%9B%D7%90%D7%9F-%D7%97%D7%93%D7%A9%D7%95%D7%AA",
       "platform": "YouTube",
@@ -1050,7 +1051,7 @@
       "hook": "A short report on infrastructure and investment behind AI data centers in Israel and possible consumer implications."
     },
     {
-      "title": "Jev is Here",
+      "title": "Jev is Here — The PrimeTime",
       "source": "https://www.youtube.com/watch?v=BHPDsGVciDk",
       "trello": "https://trello.com/c/h9CG9z4Q/144-jev-is-here-the-primetime",
       "platform": "YouTube",
@@ -1060,7 +1061,7 @@
       "hook": "A showcase of Jev-related workflows and AI-agent demos; transcript unavailable."
     },
     {
-      "title": "יאיר גולן | ״בסלון של יסמין״",
+      "title": "יאיר גולן | ״בסלון של יסמין״ — בסלון של יסמין",
       "source": "https://www.youtube.com/watch?v=m1CakR-ZEFc",
       "trello": "https://trello.com/c/wn2w9KtK/145-%D7%99%D7%90%D7%99%D7%A8-%D7%92%D7%95%D7%9C%D7%9F-%D7%B4%D7%91%D7%A1%D7%9C%D7%95%D7%9F-%D7%A9%D7%9C-%D7%99%D7%A1%D7%9E%D7%99%D7%9F%D7%B4-%D7%91%D7%A1%D7%9C%D7%95%D7%9F-%D7%A9%D7%9C-%D7%99%D7%A1%D7%9E%D7%99%D7%9F",
       "platform": "YouTube",
@@ -1070,7 +1071,7 @@
       "hook": "A long interview covering security, Israel-Palestine, economics, judicial reform and party strategy. The card reflects publisher chapters; no transcript was available."
     },
     {
-      "title": "New Experiment Settles 80 Years Old Debate, Physicists Claim",
+      "title": "New Experiment Settles 80 Years Old Debate, Physicists Claim — Sabine Hossenfelder",
       "source": "https://www.youtube.com/watch?v=A2ImadKWaHA",
       "trello": "https://trello.com/c/tsM4nAKj/146-new-experiment-settles-80-years-old-debate-physicists-claim-sabine-hossenfelder",
       "platform": "YouTube",
@@ -1080,7 +1081,7 @@
       "hook": "A short science-news analysis of a quantum-physics experiment associated with Feynman’s path-integral formulation."
     },
     {
-      "title": "Luca Ferrari, Bending Spoons CEO: The $40K Start, Buying Product-Market Fit & Beating Private Equity",
+      "title": "Luca Ferrari, Bending Spoons CEO: The $40K Start, Buying Product-Market Fit & Beating Private Equity — All-In Podcast",
       "source": "https://www.youtube.com/watch?v=6t5yF8ansoQ",
       "trello": "https://trello.com/c/TnrkIWpU/147-luca-ferrari-bending-spoons-ceo-the-40k-start-buying-product-market-fit-beating-private-equity-all-in-podcast",
       "platform": "YouTube",
@@ -1090,7 +1091,7 @@
       "hook": "An operator-focused interview on Bending Spoons’ early restart, operating standards, financing and acquisition strategy."
     },
     {
-      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward",
+      "title": "Claude Opus 5.5 AI: An Incredible Leap Forward — Two Minute Papers",
       "source": "https://www.youtube.com/watch?v=SA9kdAX2Zj0",
       "trello": "https://trello.com/c/MrhEvIvQ/148-claude-opus-55-ai-an-incredible-leap-forward-two-minute-papers",
       "platform": "YouTube",
@@ -1100,7 +1101,7 @@
       "hook": "A short AI-and-research roundup; the publisher includes a caveat about one showcased result."
     },
     {
-      "title": "The Secret Of Star Trek's Biggest Episode",
+      "title": "The Secret Of Star Trek's Biggest Episode — The Art Of Storytelling",
       "source": "https://www.youtube.com/watch?v=PPg3TwgehAw",
       "trello": "https://trello.com/c/krgnYidC/149-the-secret-of-star-treks-biggest-episode-the-art-of-storytelling",
       "platform": "YouTube",
@@ -1110,7 +1111,7 @@
       "hook": "A craft-focused reading of The Best of Both Worlds, highlighting Riker and the two-part cliffhanger."
     },
     {
-      "title": "התחזית: למה שנת 2027 תגרום לשוק הנדל״ן לרעוד",
+      "title": "התחזית: למה שנת 2027 תגרום לשוק הנדל״ן לרעוד — לנה כהן",
       "source": "https://www.youtube.com/watch?v=Ed7Mh9iYqp8",
       "trello": "https://trello.com/c/G85VUK1Y/150-%D7%94%D7%AA%D7%97%D7%96%D7%99%D7%AA-%D7%9C%D7%9E%D7%94-%D7%A9%D7%A0%D7%AA-2027-%D7%AA%D7%92%D7%A8%D7%95%D7%9D-%D7%9C%D7%A9%D7%95%D7%A7-%D7%94%D7%A0%D7%93%D7%9C%D7%B4%D7%9F-%D7%9C%D7%A8%D7%A2%D7%95%D7%93-%D7%9C%D7%A0%D7%94-%D7%9B%D7%94%D7%9F",
       "platform": "YouTube",
@@ -1120,7 +1121,7 @@
       "hook": "Israeli real-estate market commentary built around market, inventory and 2027 forecast claims; the claims were not independently validated."
     },
     {
-      "title": "Software Engineer: I'm Tired of Pretending",
+      "title": "Software Engineer: I'm Tired of Pretending — Anime Engineering Senpai",
       "source": "https://www.youtube.com/watch?v=H0HwFqBG9KE",
       "trello": "https://trello.com/c/QJoNs6uE/151-software-engineer-im-tired-of-pretending-anime-engineering-senpai",
       "platform": "YouTube",
@@ -1130,7 +1131,7 @@
       "hook": "A short personal piece about pressure, anxiety and keeping up with software work and tutorials."
     },
     {
-      "title": "The Rick Rubin Interview",
+      "title": "The Rick Rubin Interview — Rick Beato",
       "source": "https://www.youtube.com/watch?v=qkwISstQQVw",
       "trello": "https://trello.com/c/EG87QCaw/152-the-rick-rubin-interview-rick-beato",
       "platform": "YouTube",
@@ -1140,7 +1141,7 @@
       "hook": "A long-form interview about Rick Rubin’s producing career, collaborations and creative process."
     },
     {
-      "title": "The Future of Software Development",
+      "title": "The Future of Software Development — Amit Shekhar",
       "source": "https://x.com/amitiitbhu/status/2104063785724203247",
       "trello": "https://trello.com/c/blfmex7a/153-the-future-of-software-development-amit-shekhar",
       "platform": "X article",
@@ -1150,7 +1151,7 @@
       "hook": "- Shekhar imagines a shift from IDE autocomplete, to terminal-based coding agents, toward expressing intent while agents build, test, fix and ship. He notes that this complete loop is not yet universal. He predicts agent-oriented operating systems,…"
     },
     {
-      "title": "Why We're Building Muse",
+      "title": "Why We’re Building Muse — Alexandr Wang",
       "source": "https://x.com/alexandr_wang/status/2103551714536439951",
       "trello": "https://trello.com/c/7t5saoqi/154-why-were-building-muse-alexandr-wang",
       "platform": "X article",
@@ -1160,17 +1161,17 @@
       "hook": "Wang presents Muse as a “second mind” or general manager that helps surface a person's goals, makes a plan, and handles practical steps such as sending emails, making calls, finding funding and keeping things on schedule. This is a product vision, not…"
     },
     {
-      "title": "The Mythology Of Conscious AI",
+      "title": "The Mythology Of Conscious AI — Anil Seth",
       "source": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
       "trello": "https://trello.com/c/FXgjf9D5/158-the-mythology-of-conscious-ai-anil-seth",
-      "platform": "unknown",
+      "platform": "Web article",
       "channel": "Anil Seth",
       "duration": "~15 min read (estimate; long essay)",
       "type": "READ",
       "hook": "A neuroscientist challenges the assumption that more capable AI must become conscious, while acknowledging the question remains unresolved."
     },
     {
-      "title": "10 RAG Projects That Will Take You From Basic Retrieval to Production-Grade AI Systems",
+      "title": "10 RAG Projects for Production-Grade AI Systems — Jaydeep",
       "source": "https://x.com/_jaydeepkarale/status/2104550496552017991",
       "trello": "https://trello.com/c/fzQs85s1/159-10-rag-projects-for-production-grade-ai-systems-jaydeep",
       "platform": "X article",
@@ -1180,11 +1181,11 @@
       "hook": "Ten buildable projects map the gap between “chat with your PDF” and retrieval that can filter, rerank, verify, and recover."
     },
     {
-      "title": "Stanford CS329A — Self-Improving AI Agents",
+      "title": "Stanford CS329A: Self-Improving AI Agents",
       "source": "https://cs329a.stanford.edu/",
       "trello": "https://trello.com/c/fjraglOb/160-stanford-cs329a-self-improving-ai-agents",
       "platform": "Stanford course website",
-      "duration": "Unknown overall; the syllabus lists 20 class meetings scheduled for 80 minutes each, plus research readings and a project. No recordings are linked.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Use Stanford’s paper sequence to trace how self-improving agents connect test-time search, verification, tool feedback, memory and long-horizon evaluation."
     },
@@ -1199,7 +1200,7 @@
       "hook": "As agents take over information work, what remains worth paying for: the data, the workflow, or the application interface?"
     },
     {
-      "title": "הסוד מאחורי המחשבות שלכם (The Secret Behind Your Thoughts)",
+      "title": "הסוד מאחורי המחשבות שלכם (The Secret Behind Your Thoughts) — הדרך הקלה",
       "source": "https://www.youtube.com/watch?v=0jLrqOZn9-E",
       "trello": "https://trello.com/c/DbY6VGPP/178-%D7%94%D7%A1%D7%95%D7%93-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%9E%D7%97%D7%A9%D7%91%D7%95%D7%AA-%D7%A9%D7%9C%D7%9B%D7%9D-the-secret-behind-your-thoughts-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
       "platform": "YouTube",
@@ -1209,7 +1210,7 @@
       "hook": "The title suggests a discussion of thought, but the description is generic channel promotion and does not explain the topic. Transcript is unavailable, so the content cannot be summarized reliably."
     },
     {
-      "title": "Why The Taliban Are Begging The US To Come Back",
+      "title": "Why The Taliban Are Begging The US To Come Back — RealLifeLore",
       "source": "https://www.youtube.com/watch?v=NQSndaDIvcs",
       "trello": "https://trello.com/c/j0RvSlJp/179-why-the-taliban-are-begging-the-us-to-come-back-reallifelore",
       "platform": "YouTube",
@@ -1219,7 +1220,7 @@
       "hook": "The YouTube description contains channel promotions and production credits, but no substantive explanation of the video’s argument. The title alone is not enough to summarize it."
     },
     {
-      "title": "A Change in AI Strategy",
+      "title": "A Change in AI Strategy — Tomasz Tunguz",
       "source": "https://chatgpt.com/share/6ac7ad9c-4adc-83ed-8a02-16abc4a6cd6e?ogimg=plain",
       "trello": "https://trello.com/c/A8pXCPcR/191-a-change-in-ai-strategy-tomasz-tunguz",
       "platform": "ChatGPT share / author's website",
@@ -1238,7 +1239,7 @@
       "hook": "Explains ScaleDown's constrained decoding models for frequent context-management steps around a general-purpose agent."
     },
     {
-      "title": "Token-smart GitHub Copilot",
+      "title": "Token-smart GitHub Copilot — token use and DevOps workflows",
       "source": "https://github.com/roro123arc/tokenops-ghcp",
       "trello": "https://trello.com/c/XSBlN9zn/199-token-smart-github-copilot-token-use-and-devops-workflows",
       "platform": "GitHub Pages / repository",
@@ -1248,7 +1249,7 @@
       "hook": "A practical eight-step guide to managing Copilot token use, paired with DevOps workflow patterns. Review its model routing, cache and quality-gate advice, then verify time-sensitive preview, pricing and API claims against current primary docs."
     },
     {
-      "title": "Agents Write the Code. Your System Has to Prove It.",
+      "title": "Agents Write the Code. Your System Has to Prove It. — Alex Lavaee",
       "source": "https://x.com/alexlavaee/status/2110521585623003572",
       "trello": "https://trello.com/c/x6iGzr9Y/203-agents-write-the-code-your-system-has-to-prove-it-alex-lavaee",
       "platform": "X article",
@@ -1260,9 +1261,9 @@
     {
       "title": "Why the Arab World never united",
       "source": "https://www.youtube.com/watch?v=dnk-np4C1m0",
+      "trello": "https://trello.com/c/j6iIUv7z/201-why-the-arab-world-never-united",
       "platform": "YouTube",
       "channel": "CaspianReport",
-      "trello": "https://trello.com/c/j6iIUv7z/201-why-the-arab-world-never-united",
       "duration": "16 min 42 sec",
       "type": "WATCH",
       "hook": "The title identifies a historical/geopolitical question about why the Arab world has not united. The publisher's available description does not show the explanation or evidence used."
@@ -1270,9 +1271,9 @@
     {
       "title": "Inside The World's Darkest Airport — The B1M",
       "source": "https://www.youtube.com/watch?v=sRF_aTASC5c",
+      "trello": "https://trello.com/c/qL0lMfUP/215-inside-the-worlds-darkest-airport-the-b1m",
       "platform": "YouTube",
       "channel": "The B1M",
-      "trello": "https://trello.com/c/qL0lMfUP/215-inside-the-worlds-darkest-airport-the-b1m",
       "duration": "22 min",
       "type": "WATCH",
       "hook": "The available publisher text does not explain what the video establishes about the airport or its future. A reliable summary needs the linked reporting or transcript."
@@ -1280,9 +1281,9 @@
     {
       "title": "Post-Labor Economics explained in 10 minutes — David Shapiro",
       "source": "https://www.youtube.com/watch?v=_Ey6fWliRXc",
+      "trello": "https://trello.com/c/x630lyx5/211-post-labor-economics-explained-in-10-minutes-david-shapiro",
       "platform": "YouTube",
       "channel": "David Shapiro",
-      "trello": "https://trello.com/c/x630lyx5/211-post-labor-economics-explained-in-10-minutes-david-shapiro",
       "duration": "10 min 57 sec",
       "type": "WATCH",
       "hook": "The title identifies post-labor economics as the topic, but the available description does not show how the creator defines it or what claims he makes."
@@ -1312,17 +1313,27 @@
       "source": "https://x.com/thedankoe/status/2093051293078261973",
       "trello": "https://trello.com/c/aZuTL30H/235-the-digital-renaissance-man-why-polymaths-win-in-the-ai-age-dan-koe",
       "platform": "X article",
+      "channel": "Dan Koe (@thedankoe)",
       "duration": "~12–15 min (estimated reading time; not measured).",
       "type": "READ",
-      "hook": "Use AI to expand what one person can build—without giving away the taste and judgment that make the work valuable.",
-      "channel": "Dan Koe (@thedankoe)"
+      "hook": "Use AI to expand what one person can build—without giving away the taste and judgment that make the work valuable."
+    },
+    {
+      "title": "תיקון חוק תובענות ייצוגיות — פוסט על הגנת עסקים קטנים",
+      "source": "https://www.facebook.com/share/p/1FMCsNUsXy/",
+      "trello": "https://trello.com/c/dbs3SlBG/237-%D7%AA%D7%99%D7%A7%D7%95%D7%9F-%D7%97%D7%95%D7%A7-%D7%AA%D7%95%D7%91%D7%A2%D7%A0%D7%95%D7%AA-%D7%99%D7%99%D7%A6%D7%95%D7%92%D7%99%D7%95%D7%AA-%D7%A4%D7%95%D7%A1%D7%98-%D7%A2%D7%9C-%D7%94%D7%92%D7%A0%D7%AA-%D7%A2%D7%A1%D7%A7%D7%99%D7%9D-%D7%A7%D7%98%D7%A0%D7%99%D7%9D",
+      "platform": "Facebook",
+      "channel": "לא זוהה בטקסט שסופק",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "unknown"
     },
     {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
       "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
       "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
       "platform": "YouTube",
-      "duration": "Unknown video runtime; ~5–8 min summary read.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
     },
