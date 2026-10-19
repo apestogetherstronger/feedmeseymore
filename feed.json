@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T14:37:24+03:00",
+  "updated": "2026-10-19T20:12:53+03:00",
   "unresolved": [],
   "items": [
     {
@@ -692,7 +692,7 @@
       "channel": "@choopyplug1 (as printed on page 1).",
       "duration": "Approximately 8–12 minutes for the captured portion (estimate); full-document reading time unknown.",
       "type": "READ",
-      "hook": "unknown"
+      "hook": "The author organizes always-on agents into six layers: a persistent isolated computer, channel/app reach, cross-channel memory, proactive research, action rules and review."
     },
     {
       "title": "Arynne Wexler - The Conservative Comedian Breaking the Internet | Call H...",
@@ -1326,7 +1326,56 @@
       "channel": "לא זוהה בטקסט שסופק",
       "duration": "unknown",
       "type": "READ",
-      "hook": "unknown"
+      "hook": "הכותב מציג התקדמות בתיקון חוק תובענות ייצוגיות כהישג של מאבק נגד שימוש לרעה בתביעות נגד עסקים קטנים."
+    },
+    {
+      "title": "Why Africa has so many failed states — CaspianReport",
+      "source": "https://www.youtube.com/watch?v=hmIQvQhh8H4",
+      "trello": "https://trello.com/c/kZA5IRNU/238-why-africa-has-so-many-failed-states-caspianreport",
+      "platform": "YouTube",
+      "channel": "CaspianReport",
+      "duration": "16 min 6 sec.",
+      "type": "WATCH",
+      "hook": "The video argues that instability cannot be explained by borders or ethnic diversity alone."
+    },
+    {
+      "title": "Is France spiraling out of control? — הדרך הקלה",
+      "source": "https://www.youtube.com/watch?v=q9thCagu3Bk",
+      "trello": "https://trello.com/c/ykAldvrC/239-is-france-spiraling-out-of-control-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
+      "platform": "YouTube",
+      "channel": "הדרך הקלה",
+      "duration": "15 min 43 sec.",
+      "type": "WATCH",
+      "hook": "Doran Shafrir examines instability in France through fiscal deficits, pensions, demographics, immigration, and a fragmented parliament."
+    },
+    {
+      "title": "רה״מ נתניהו מציג את תפיסת הביטחון של ישראל — IsraeliPM",
+      "source": "https://www.youtube.com/watch?v=uCpJ-reOuMk",
+      "trello": "https://trello.com/c/YH81iiBK/240-%D7%A8%D7%94%D7%B4%D7%9E-%D7%A0%D7%AA%D7%A0%D7%99%D7%94%D7%95-%D7%9E%D7%A6%D7%99%D7%92-%D7%90%D7%AA-%D7%AA%D7%A4%D7%99%D7%A1%D7%AA-%D7%94%D7%91%D7%99%D7%98%D7%97%D7%95%D7%9F-%D7%A9%D7%9C-%D7%99%D7%A9%D7%A8%D7%90%D7%9C-israelipm",
+      "platform": "YouTube",
+      "channel": "IsraeliPM",
+      "duration": "47 min 33 sec.",
+      "type": "WATCH",
+      "hook": "Netanyahu outlines his security doctrine, including preventive initiative, deterrence, intelligence, domestic weapons production and technological advantage."
+    },
+    {
+      "title": "פגישה עם רוני קובן | אסף רפפורט — כאן 11",
+      "source": "https://www.youtube.com/watch?v=w7Bb_C8GWzI",
+      "trello": "https://trello.com/c/g49nELbP/241-%D7%A4%D7%92%D7%99%D7%A9%D7%94-%D7%A2%D7%9D-%D7%A8%D7%95%D7%A0%D7%99-%D7%A7%D7%95%D7%91%D7%9F-%D7%90%D7%A1%D7%A3-%D7%A8%D7%A4%D7%A4%D7%95%D7%A8%D7%98-%D7%9B%D7%90%D7%9F-11",
+      "platform": "YouTube",
+      "channel": "כאן 11 - תאגיד השידור הישראלי",
+      "duration": "Approximately 42 min (playlist display; exact runtime unverified).",
+      "type": "WATCH",
+      "hook": "Roni Koven interviews Wiz CEO Asaf Rappaport about the Google transaction, wealth, and his views on government."
+    },
+    {
+      "title": "How the Claude Code team does code review",
+      "source": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "trello": "https://trello.com/c/cwcZLj4Y/242-how-the-claude-code-team-does-code-review",
+      "platform": "unknown",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "How to keep agent-generated PRs moving without letting review loops consume the team."
     },
     {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
