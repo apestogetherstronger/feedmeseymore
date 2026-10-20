@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T20:12:53+03:00",
+  "updated": "2026-10-21T02:18:11+03:00",
   "unresolved": [],
   "items": [
     {
@@ -8,7 +8,7 @@
       "trello": "https://trello.com/c/Md2GEFB6/227-the-road-to-self-improving-software-ben-holmes",
       "platform": "X article",
       "channel": "Ben Holmes (@bholmesdev)",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "READ",
       "hook": "Three ways to make agents decide what to fix, improve in their own setup, and build next."
     },
@@ -28,7 +28,7 @@
       "trello": "https://trello.com/c/FOlfW0Um/200-we-found-a-tencent-agent-fleet-swarmchase",
       "platform": "Web article",
       "channel": "Swarmchasers / swarmcha.se",
-      "duration": "unknown",
+      "duration": "Unknown (long-form investigation).",
       "type": "READ",
       "hook": "A first-person investigation of how agents reached blocked map data, what researchers observed, and how the researchers communicated with them."
     },
@@ -188,7 +188,7 @@
       "trello": "https://trello.com/c/PPGrr59f/187-https-humanistreviewai-issue-1-acemoglu-ai-replace-workers",
       "platform": "Web article",
       "channel": "The Humanist Review of AI / Daron Acemoglu",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "READ",
       "hook": "Acemoglu’s case that the key AI question is not simply which jobs get automated, but whether tools are designed to expand what workers can do."
     },
@@ -640,7 +640,7 @@
       "source": "https://youtu.be/613Xbz7nJUw?si=jc24Yio86DJzN9EA",
       "trello": "https://trello.com/c/3mCC45Wp/36-how-to-become-ripped-like-adam-ragusea",
       "platform": "YouTube",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "WATCH",
       "hook": "Adam Ragusea fitness video about getting leaner/more muscular. Indexed discussion confirms the title/topic, but a reliable transcript or enough primary metadata was not available to summarize the actual advice without inference."
     },
@@ -663,6 +663,16 @@
       "duration": "~27 min.",
       "type": "WATCH",
       "hook": "What changes when an agent gets a standing area of responsibility instead of one task? Nate connects delegation and coordination to reliability—and to the practice junior staff still need."
+    },
+    {
+      "title": "We are now factory engineers, not product engineers — Zach Lloyd (Warp)",
+      "source": "https://www.warp.dev/blog/we-are-now-factory-engineers-not-product-engineers",
+      "trello": "https://trello.com/c/SDewdWe1/243-we-are-now-factory-engineers-not-product-engineers-zach-lloyd-warp",
+      "platform": "Warp blog",
+      "channel": "Zach Lloyd",
+      "duration": "Approximately 6–8 minutes (estimate).",
+      "type": "READ",
+      "hook": "Lloyd argues that engineers should improve the systems that produce software."
     },
     {
       "title": "How Employment is Changing at Anthropic — 9/10",
@@ -709,7 +719,7 @@
       "source": "https://youtu.be/oblaHqULUHk?si=2GXGH--zFOu-LwV8",
       "trello": "https://trello.com/c/RC0os2MJ/66-mcp-explained-simply-what-it-is-and-why-it-exists",
       "platform": "YouTube",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "WATCH",
       "hook": "TechWorld with Nana explainer on Model Context Protocol (MCP): the standardized interface that lets AI clients connect to external tools/data through MCP servers rather than bespoke integrations for each client-service pair. Useful as a conceptual refresher; accessible…"
     },
@@ -788,7 +798,7 @@
       "trello": "https://trello.com/c/qdmORlJc/70-jenkins-won-devops-yet-nobody-uses-it-willingly",
       "platform": "YouTube",
       "channel": "DevOps & AI Toolkit",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "WATCH",
       "hook": "A platform-engineering look at why flexible tools become nearly impossible to replace once years of plugins, jobs and custom behavior accumulate around them."
     },
@@ -837,7 +847,7 @@
       "source": "https://youtu.be/9dYcwOkpCE8?si=ojYrhvo_CoMY5jfn",
       "trello": "https://trello.com/c/cH4VAt6P/93-vercel-data-science-agent-simpler-tools-doubled-eval-scores",
       "platform": "YouTube",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "WATCH",
       "hook": "A strong counterpoint to ever-growing agent harnesses: Vercel reportedly improved its data-science agent by stripping specialized tools back to bash plus file read/write. A perfect eval question for your own skills."
     },
@@ -876,7 +886,7 @@
       "trello": "https://trello.com/c/SEhshxEf/113-youre-already-a-meat-proxy-obie",
       "platform": "X",
       "channel": "Obie (@obie)",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "READ",
       "hook": "Not assessable from the available material; the original post's argument could not be retrieved."
     },
@@ -926,7 +936,7 @@
       "trello": "https://trello.com/c/RWDMkoKd/124-building-a-custom-harness-with-pi-and-jev-omar-sanseviero",
       "platform": "X",
       "channel": "Omar Sanseviero (@omarsar0)",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "READ",
       "hook": "The indexed excerpt indicates a tutorial about building a custom agent harness with the Pi SDK and Jev, including Jev usage in three parts of the workflow. The original post returned 403, so implementation details and conclusions could not be verified."
     },
@@ -966,7 +976,7 @@
       "trello": "https://trello.com/c/gyAGADx5/132-were-open-sourcing-the-company-brain-dhravya-shah",
       "platform": "X",
       "channel": "Dhravya Shah (@dhravyashah)",
-      "duration": "unknown",
+      "duration": "Unknown.",
       "type": "READ",
       "hook": "The indexed excerpt suggests that the post introduces an open-source company-brain project after the prior harness was discontinued. The original post returned 403, so the implementation and rationale could not be verified."
     },
@@ -1382,7 +1392,7 @@
       "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
       "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
       "platform": "YouTube",
-      "duration": "unknown",
+      "duration": "Unknown video runtime; ~5–8 min summary read.",
       "type": "WATCH",
       "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
     },
