@@ -1,0 +1,50 @@
+[
+  {
+    "en": "bee",
+    "he": "דבורה"
+  },
+  {
+    "en": "spider",
+    "he": "עכביש"
+  },
+  {
+    "en": "six",
+    "he": "שש"
+  },
+  {
+    "en": "count",
+    "he": "לספור",
+    "tags": [
+      "whenever-wherever",
+      "song"
+    ]
+  },
+  {
+    "en": "legs",
+    "he": "רגליים",
+    "tags": [
+      "whenever-wherever",
+      "song"
+    ]
+  },
+  {
+    "en": "shoes",
+    "he": "נעליים"
+  },
+  {
+    "en": "fly",
+    "he": "לעוף"
+  },
+  {
+    "en": "cake",
+    "he": "עוגה"
+  },
+  {
+    "en": "sharing",
+    "he": "לשתף"
+  },
+  {
+    "en": "dance",
+    "he": "ריקוד"
+  }
+]

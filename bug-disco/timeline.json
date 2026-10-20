@@ -1,0 +1,196 @@
+[
+  {
+    "start": 0,
+    "end": 5,
+    "title": "SHOES REQUIRED",
+    "word": "bee",
+    "events": [
+      {
+        "speaker": "bee",
+        "text": "Welcome to the bug disco! Shoes required.",
+        "start": 0.65,
+        "end": 3.3475510204081633
+      }
+    ]
+  },
+  {
+    "start": 5,
+    "end": 11,
+    "title": "A SMALL PROBLEM",
+    "word": "shoes",
+    "events": [
+      {
+        "speaker": "spider",
+        "text": "Eight shoes, please.",
+        "start": 0.65,
+        "end": 2.399160997732426
+      },
+      {
+        "speaker": "bee",
+        "text": "Six. Best I can do.",
+        "start": 2.819160997732426,
+        "end": 4.550544217687075
+      }
+    ]
+  },
+  {
+    "start": 11,
+    "end": 17,
+    "title": "LET US COUNT",
+    "word": "count",
+    "events": [
+      {
+        "speaker": "bee",
+        "text": "One. Two. Three. Four. Five. Six.",
+        "start": 0.65,
+        "end": 3.4912244897959184
+      }
+    ]
+  },
+  {
+    "start": 17,
+    "end": 22,
+    "title": "TWO FEET LEFT OVER",
+    "word": "legs",
+    "events": [
+      {
+        "speaker": "spider",
+        "text": "Great! Now, what about these two?",
+        "start": 0.65,
+        "end": 3.2037868480725624
+      }
+    ]
+  },
+  {
+    "start": 22,
+    "end": 26,
+    "title": "BEE.EXE HAS STOPPED",
+    "word": "six",
+    "events": [
+      {
+        "speaker": "robot",
+        "text": "Error! Too many feet!",
+        "start": 0.65,
+        "end": 1.759183673469388
+      }
+    ]
+  },
+  {
+    "start": 26,
+    "end": 31.1362358276644,
+    "title": "TINY SCIENCE BREAK",
+    "word": "six",
+    "events": [
+      {
+        "speaker": "narrator",
+        "text": "Insects, like bees, have six legs.",
+        "start": 0.65,
+        "end": 4.066235827664399
+      }
+    ]
+  },
+  {
+    "start": 31.1362358276644,
+    "end": 38.1362358276644,
+    "title": "SAME PARTY. DIFFERENT BODY.",
+    "word": "spider",
+    "events": [
+      {
+        "speaker": "narrator",
+        "text": "Spiders have eight legs. They are arachnids, not insects.",
+        "start": 0.65,
+        "end": 4.811995464852608
+      }
+    ]
+  },
+  {
+    "start": 38.1362358276644,
+    "end": 43.1362358276644,
+    "title": "A BRILLIANT IDEA",
+    "word": "fly",
+    "events": [
+      {
+        "speaker": "bee",
+        "text": "I can fly! I do not need shoes!",
+        "start": 0.65,
+        "end": 3.1243537414965985
+      }
+    ]
+  },
+  {
+    "start": 43.1362358276644,
+    "end": 47.6362358276644,
+    "title": "FREE DELIVERY",
+    "word": "shoes",
+    "events": [
+      {
+        "speaker": "spider",
+        "text": "Then I can have yours!",
+        "start": 0.65,
+        "end": 2.2159410430839004
+      }
+    ]
+  },
+  {
+    "start": 47.6362358276644,
+    "end": 53.6362358276644,
+    "title": "THE CAKE INCIDENT",
+    "word": "sharing",
+    "events": [
+      {
+        "speaker": "bee",
+        "text": "You took my cake!",
+        "start": 0.65,
+        "end": 1.9710430839002266
+      },
+      {
+        "speaker": "spider",
+        "text": "No. I am sharing!",
+        "start": 2.3910430839002266,
+        "end": 3.9476190476190474
+      }
+    ]
+  },
+  {
+    "start": 53.6362358276644,
+    "end": 59.1362358276644,
+    "title": "THE SIX-SHOE SHUFFLE",
+    "word": "dance",
+    "events": [
+      {
+        "speaker": "narrator",
+        "text": "Six legs. Eight legs. Everyone can dance!",
+        "start": 0.65,
+        "end": 3.711655328798186
+      }
+    ]
+  },
+  {
+    "start": 59.1362358276644,
+    "end": 65.1362358276644,
+    "title": "YOUR TURN",
+    "word": "count",
+    "events": [
+      {
+        "speaker": "narrator",
+        "text": "How many legs does a spider have?",
+        "start": 0.65,
+        "end": 3.2601360544217686
+      }
+    ]
+  },
+  {
+    "start": 65.1362358276644,
+    "end": 70.1362358276644,
+    "title": "EIGHT! YOU GOT IT.",
+    "word": "spider",
+    "events": [
+      {
+        "speaker": "spider",
+        "text": "Eight legs. And one very happy spider!",
+        "start": 0.65,
+        "end": 3.639138321995465
+      }
+    ]
+  }
+]
