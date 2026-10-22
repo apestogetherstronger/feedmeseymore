@@ -1,176 +1,7 @@
 {
-  "updated": "2026-10-22T02:09:01+03:00",
+  "updated": "2026-10-23T00:09:05+03:00",
   "unresolved": [],
   "items": [
-    {
-      "title": "The Only SaaS Moats Left in 2026 — Rob Walling and MicroConf",
-      "source": "https://www.youtube.com/watch?v=KpILHX2D-AA",
-      "trello": "https://trello.com/c/MyLLRvRH/244-the-only-saas-moats-left-in-2026-rob-walling-and-microconf",
-      "platform": "YouTube",
-      "channel": "Rob Walling and MicroConf",
-      "duration": "39:50",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "How I Run AI Agents in the Cloud Without Leaving Claude Code (with Aether) — DevOps & AI Toolkit",
-      "source": "https://www.youtube.com/watch?v=s-XCTNf06XQ",
-      "trello": "https://trello.com/c/uyPl2RD0/245-how-i-run-ai-agents-in-the-cloud-without-leaving-claude-code-with-aether-devops-ai-toolkit",
-      "platform": "YouTube",
-      "channel": "DevOps & AI Toolkit",
-      "duration": "16:48",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "יהונתן אדירי | כנס °AI 360 — עלינו - הנכדים המייסדים",
-      "source": "https://www.youtube.com/watch?v=SYAwVTWHYCg",
-      "trello": "https://trello.com/c/kIl690MF/246-%D7%99%D7%94%D7%95%D7%A0%D7%AA%D7%9F-%D7%90%D7%93%D7%99%D7%A8%D7%99-%D7%9B%D7%A0%D7%A1-ai-360-%D7%A2%D7%9C%D7%99%D7%A0%D7%95-%D7%94%D7%A0%D7%9B%D7%93%D7%99%D7%9D-%D7%94%D7%9E%D7%99%D7%99%D7%A1%D7%93%D7%99%D7%9D",
-      "platform": "YouTube",
-      "channel": "עלינו - הנכדים המייסדים",
-      "duration": "27 minutes (playlist display)",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "The Sun Is Weirder Than You Think — Cleo Abram",
-      "source": "https://www.youtube.com/watch?v=eNkxTjirY-Q",
-      "trello": "https://trello.com/c/bJ902PXX/247-the-sun-is-weirder-than-you-think-cleo-abram",
-      "platform": "YouTube",
-      "channel": "Cleo Abram",
-      "duration": "18 minutes (playlist display)",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "Hard to believe this is real — הדרך הקלה",
-      "source": "https://www.youtube.com/watch?v=7AD9F0w07WU",
-      "trello": "https://trello.com/c/qS9QvP39/248-hard-to-believe-this-is-real-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
-      "platform": "YouTube",
-      "channel": "הדרך הקלה",
-      "duration": "16 minutes (playlist display)",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "פגישה עם רוני קובן עונה 11 | חילי טרופר — כאן 11 - תאגיד השידור הישראלי",
-      "source": "https://www.youtube.com/watch?v=2ikFiXiaqZk",
-      "trello": "https://trello.com/c/JvAMSx9y/249-%D7%A4%D7%92%D7%99%D7%A9%D7%94-%D7%A2%D7%9D-%D7%A8%D7%95%D7%A0%D7%99-%D7%A7%D7%95%D7%91%D7%9F-%D7%A2%D7%95%D7%A0%D7%94-11-%D7%97%D7%99%D7%9C%D7%99-%D7%98%D7%A8%D7%95%D7%A4%D7%A8-%D7%9B%D7%90%D7%9F-11-%D7%AA%D7%90%D7%92%D7%99%D7%93-%D7%94%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99",
-      "platform": "YouTube",
-      "channel": "כאן 11 - תאגיד השידור הישראלי",
-      "duration": "36 minutes (playlist display)",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "What Senior Engineers Are Actually Doing About AI | Demetri Spanos — A Life Engineered",
-      "source": "https://www.youtube.com/watch?v=DF5M5CJi9sM",
-      "trello": "https://trello.com/c/8IIiH5AU/250-what-senior-engineers-are-actually-doing-about-ai-demetri-spanos-a-life-engineered",
-      "platform": "YouTube",
-      "channel": "A Life Engineered",
-      "duration": "1 hour 24 minutes (playlist display)",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "You Will Only Like Half of This Video — Kurzgesagt – In a Nutshell",
-      "source": "https://www.youtube.com/watch?v=PXbVn-f_wuM",
-      "trello": "https://trello.com/c/A0n65g7p/251-you-will-only-like-half-of-this-video-kurzgesagt-in-a-nutshell",
-      "platform": "YouTube",
-      "channel": "Kurzgesagt – In a Nutshell",
-      "duration": "3:33",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity — All-In Podcast",
-      "source": "https://www.youtube.com/watch?v=2Zj6uMv3kTA",
-      "trello": "https://trello.com/c/PPAVLiDL/252-dylan-field-is-ai-replacing-designers-design-is-the-new-code-democratizing-creativity-all-in-podcast",
-      "platform": "YouTube",
-      "channel": "All-In Podcast",
-      "duration": "40 minutes (playlist display)",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "Once You Understand MONEY, You'll Stop Saving It [PART #1] — LITTLE BIT BETTER",
-      "source": "https://www.youtube.com/watch?v=mnuOZcmoGD8",
-      "trello": "https://trello.com/c/qVkYQTfC/253-once-you-understand-money-youll-stop-saving-it-part-1-little-bit-better",
-      "platform": "YouTube",
-      "channel": "LITTLE BIT BETTER",
-      "duration": "21 minutes (playlist display)",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic) — Lenny's Podcast",
-      "source": "https://www.youtube.com/watch?v=JHo-aiePjoM",
-      "trello": "https://trello.com/c/aGZxP772/254-inside-the-black-box-of-ai-how-ai-models-actually-think-emmanuel-ameisen-anthropic-lennys-podcast",
-      "platform": "YouTube",
-      "channel": "Lenny's Podcast",
-      "duration": "1 hour 12 minutes (playlist display)",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "We Finally Know More About Humanity’s First Civilization — Kurzgesagt – In a Nutshell",
-      "source": "https://www.youtube.com/watch?v=_y9JuojAIg0",
-      "trello": "https://trello.com/c/hY4riYBR/255-we-finally-know-more-about-humanitys-first-civilization-kurzgesagt-in-a-nutshell",
-      "platform": "YouTube",
-      "channel": "Kurzgesagt – In a Nutshell",
-      "duration": "17 minutes (playlist display)",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "CRISPR is capable of more than we initially expected | Jennifer Doudna: Full Interview — The Well",
-      "source": "https://www.youtube.com/watch?v=yFEMRYQFkyE",
-      "trello": "https://trello.com/c/PDiH7Uf7/256-crispr-is-capable-of-more-than-we-initially-expected-jennifer-doudna-full-interview-the-well",
-      "platform": "YouTube",
-      "channel": "The Well",
-      "duration": "36 minutes (playlist display)",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "Revolution at the Square: A Glimpse into the New Luxury Neighborhood at Kikar Hamedina — כאן | חדשות - תאגיד השידור הישראלי",
-      "source": "https://www.youtube.com/watch?v=NnnNdi2sDtE",
-      "trello": "https://trello.com/c/8DMQSNhb/257-revolution-at-the-square-a-glimpse-into-the-new-luxury-neighborhood-at-kikar-hamedina-%D7%9B%D7%90%D7%9F-%D7%97%D7%93%D7%A9%D7%95%D7%AA-%D7%AA%D7%90%D7%92%D7%99%D7%93-%D7%94%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99",
-      "platform": "YouTube",
-      "channel": "כאן | חדשות - תאגיד השידור הישראלי",
-      "duration": "10:31",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "Don't Fly Dubai — Yohay Sponder - יוחאי ספונדר",
-      "source": "https://www.youtube.com/watch?v=e752ZLZko98",
-      "trello": "https://trello.com/c/ZsiPwx0s/258-dont-fly-dubai-yohay-sponder-%D7%99%D7%95%D7%97%D7%90%D7%99-%D7%A1%D7%A4%D7%95%D7%A0%D7%93%D7%A8",
-      "platform": "YouTube",
-      "channel": "Yohay Sponder - יוחאי ספונדר",
-      "duration": "6:05",
-      "type": "WATCH",
-      "hook": "unknown"
-    },
-    {
-      "title": "From Inference to Execution: AI’s Next Economy — Jaya Gupta & Ashu Garg",
-      "source": "unknown",
-      "trello": "https://trello.com/c/5wBOpg6j/260-from-inference-to-execution-ais-next-economy-jaya-gupta-ashu-garg",
-      "platform": "unknown",
-      "duration": "unknown",
-      "type": "READ",
-      "hook": "unknown"
-    },
-    {
-      "title": "The Software Factory Debate: Build, Buy, Fork or Delegate — Josh Rosen",
-      "source": "https://x.com/JoshARosen/status/2112902388302467493",
-      "trello": "https://trello.com/c/gE4Qxu9B/262-the-software-factory-debate-build-buy-fork-or-delegate-josh-rosen",
-      "platform": "X (long-form article)",
-      "channel": "Josh Rosen (@josharosen)",
-      "duration": "Approx. 10–12 min (reading-time estimate from supplied article).",
-      "type": "READ",
-      "hook": "Should your software factory be a workflow containing agents—or an agent coordinating workflows? The key design choice may be how you capture proof of progress."
-    },
     {
       "title": "עוד מצב שמתחיל לצאת משליטה",
       "source": "https://www.youtube.com/watch?v=r6p32JbJiYI",
@@ -1295,7 +1126,7 @@
       "trello": "https://trello.com/c/7t5saoqi/154-why-were-building-muse-alexandr-wang",
       "platform": "X article",
       "channel": "Alexandr Wang (@alexandr_wang)",
-      "duration": "Unknown; full article unavailable.",
+      "duration": "unknown",
       "type": "READ",
       "hook": "Wang presents Muse as a “second mind” or general manager that helps surface a person's goals, makes a plan, and handles practical steps such as sending emails, making calls, finding funding and keeping things on schedule. This is a product vision, not…"
     },
@@ -1511,17 +1342,195 @@
       "title": "How the Claude Code team does code review",
       "source": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "trello": "https://trello.com/c/cwcZLj4Y/242-how-the-claude-code-team-does-code-review",
-      "platform": "unknown",
+      "platform": "Web article",
       "duration": "unknown",
       "type": "READ",
       "hook": "How to keep agent-generated PRs moving without letting review loops consume the team."
+    },
+    {
+      "title": "The Only SaaS Moats Left in 2026 — Rob Walling and MicroConf",
+      "source": "https://www.youtube.com/watch?v=KpILHX2D-AA",
+      "trello": "https://trello.com/c/MyLLRvRH/244-the-only-saas-moats-left-in-2026-rob-walling-and-microconf",
+      "platform": "YouTube",
+      "channel": "Rob Walling and MicroConf",
+      "duration": "39:50",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "How I Run AI Agents in the Cloud Without Leaving Claude Code (with Aether) — DevOps & AI Toolkit",
+      "source": "https://www.youtube.com/watch?v=s-XCTNf06XQ",
+      "trello": "https://trello.com/c/uyPl2RD0/245-how-i-run-ai-agents-in-the-cloud-without-leaving-claude-code-with-aether-devops-ai-toolkit",
+      "platform": "YouTube",
+      "channel": "DevOps & AI Toolkit",
+      "duration": "16:48",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "יהונתן אדירי | כנס °AI 360 — עלינו - הנכדים המייסדים",
+      "source": "https://www.youtube.com/watch?v=SYAwVTWHYCg",
+      "trello": "https://trello.com/c/kIl690MF/246-%D7%99%D7%94%D7%95%D7%A0%D7%AA%D7%9F-%D7%90%D7%93%D7%99%D7%A8%D7%99-%D7%9B%D7%A0%D7%A1-ai-360-%D7%A2%D7%9C%D7%99%D7%A0%D7%95-%D7%94%D7%A0%D7%9B%D7%93%D7%99%D7%9D-%D7%94%D7%9E%D7%99%D7%99%D7%A1%D7%93%D7%99%D7%9D",
+      "platform": "YouTube",
+      "channel": "עלינו - הנכדים המייסדים",
+      "duration": "27 minutes (playlist display)",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "The Sun Is Weirder Than You Think — Cleo Abram",
+      "source": "https://www.youtube.com/watch?v=eNkxTjirY-Q",
+      "trello": "https://trello.com/c/bJ902PXX/247-the-sun-is-weirder-than-you-think-cleo-abram",
+      "platform": "YouTube",
+      "channel": "Cleo Abram",
+      "duration": "18 minutes (playlist display)",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "Hard to believe this is real — הדרך הקלה",
+      "source": "https://www.youtube.com/watch?v=7AD9F0w07WU",
+      "trello": "https://trello.com/c/qS9QvP39/248-hard-to-believe-this-is-real-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
+      "platform": "YouTube",
+      "channel": "הדרך הקלה",
+      "duration": "16 minutes (playlist display)",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "פגישה עם רוני קובן עונה 11 | חילי טרופר — כאן 11 - תאגיד השידור הישראלי",
+      "source": "https://www.youtube.com/watch?v=2ikFiXiaqZk",
+      "trello": "https://trello.com/c/JvAMSx9y/249-%D7%A4%D7%92%D7%99%D7%A9%D7%94-%D7%A2%D7%9D-%D7%A8%D7%95%D7%A0%D7%99-%D7%A7%D7%95%D7%91%D7%9F-%D7%A2%D7%95%D7%A0%D7%94-11-%D7%97%D7%99%D7%9C%D7%99-%D7%98%D7%A8%D7%95%D7%A4%D7%A8-%D7%9B%D7%90%D7%9F-11-%D7%AA%D7%90%D7%92%D7%99%D7%93-%D7%94%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99",
+      "platform": "YouTube",
+      "channel": "כאן 11 - תאגיד השידור הישראלי",
+      "duration": "36 minutes (playlist display)",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "What Senior Engineers Are Actually Doing About AI | Demetri Spanos — A Life Engineered",
+      "source": "https://www.youtube.com/watch?v=DF5M5CJi9sM",
+      "trello": "https://trello.com/c/8IIiH5AU/250-what-senior-engineers-are-actually-doing-about-ai-demetri-spanos-a-life-engineered",
+      "platform": "YouTube",
+      "channel": "A Life Engineered",
+      "duration": "1 hour 24 minutes (playlist display)",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "You Will Only Like Half of This Video — Kurzgesagt – In a Nutshell",
+      "source": "https://www.youtube.com/watch?v=PXbVn-f_wuM",
+      "trello": "https://trello.com/c/A0n65g7p/251-you-will-only-like-half-of-this-video-kurzgesagt-in-a-nutshell",
+      "platform": "YouTube",
+      "channel": "Kurzgesagt – In a Nutshell",
+      "duration": "3:33",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "Dylan Field: Is AI Replacing Designers?, Design is the New Code & Democratizing Creativity — All-In Podcast",
+      "source": "https://www.youtube.com/watch?v=2Zj6uMv3kTA",
+      "trello": "https://trello.com/c/PPAVLiDL/252-dylan-field-is-ai-replacing-designers-design-is-the-new-code-democratizing-creativity-all-in-podcast",
+      "platform": "YouTube",
+      "channel": "All-In Podcast",
+      "duration": "40 minutes (playlist display)",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "Once You Understand MONEY, You'll Stop Saving It [PART #1] — LITTLE BIT BETTER",
+      "source": "https://www.youtube.com/watch?v=mnuOZcmoGD8",
+      "trello": "https://trello.com/c/qVkYQTfC/253-once-you-understand-money-youll-stop-saving-it-part-1-little-bit-better",
+      "platform": "YouTube",
+      "channel": "LITTLE BIT BETTER",
+      "duration": "21 minutes (playlist display)",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic) — Lenny's Podcast",
+      "source": "https://www.youtube.com/watch?v=JHo-aiePjoM",
+      "trello": "https://trello.com/c/aGZxP772/254-inside-the-black-box-of-ai-how-ai-models-actually-think-emmanuel-ameisen-anthropic-lennys-podcast",
+      "platform": "YouTube",
+      "channel": "Lenny's Podcast",
+      "duration": "1 hour 12 minutes (playlist display)",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "We Finally Know More About Humanity’s First Civilization — Kurzgesagt – In a Nutshell",
+      "source": "https://www.youtube.com/watch?v=_y9JuojAIg0",
+      "trello": "https://trello.com/c/hY4riYBR/255-we-finally-know-more-about-humanitys-first-civilization-kurzgesagt-in-a-nutshell",
+      "platform": "YouTube",
+      "channel": "Kurzgesagt – In a Nutshell",
+      "duration": "17 minutes (playlist display)",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "CRISPR is capable of more than we initially expected | Jennifer Doudna: Full Interview — The Well",
+      "source": "https://www.youtube.com/watch?v=yFEMRYQFkyE",
+      "trello": "https://trello.com/c/PDiH7Uf7/256-crispr-is-capable-of-more-than-we-initially-expected-jennifer-doudna-full-interview-the-well",
+      "platform": "YouTube",
+      "channel": "The Well",
+      "duration": "36 minutes (playlist display)",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "Revolution at the Square: A Glimpse into the New Luxury Neighborhood at Kikar Hamedina — כאן | חדשות - תאגיד השידור הישראלי",
+      "source": "https://www.youtube.com/watch?v=NnnNdi2sDtE",
+      "trello": "https://trello.com/c/8DMQSNhb/257-revolution-at-the-square-a-glimpse-into-the-new-luxury-neighborhood-at-kikar-hamedina-%D7%9B%D7%90%D7%9F-%D7%97%D7%93%D7%A9%D7%95%D7%AA-%D7%AA%D7%90%D7%92%D7%99%D7%93-%D7%94%D7%A9%D7%99%D7%93%D7%95%D7%A8-%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99",
+      "platform": "YouTube",
+      "channel": "כאן | חדשות - תאגיד השידור הישראלי",
+      "duration": "10:31",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "Don't Fly Dubai — Yohay Sponder - יוחאי ספונדר",
+      "source": "https://www.youtube.com/watch?v=e752ZLZko98",
+      "trello": "https://trello.com/c/ZsiPwx0s/258-dont-fly-dubai-yohay-sponder-%D7%99%D7%95%D7%97%D7%90%D7%99-%D7%A1%D7%A4%D7%95%D7%A0%D7%93%D7%A8",
+      "platform": "YouTube",
+      "channel": "Yohay Sponder - יוחאי ספונדר",
+      "duration": "6:05",
+      "type": "WATCH",
+      "hook": "unknown"
+    },
+    {
+      "title": "From Inference to Execution: AI’s Next Economy — Jaya Gupta & Ashu Garg",
+      "source": "unknown",
+      "trello": "https://trello.com/c/5wBOpg6j/260-from-inference-to-execution-ais-next-economy-jaya-gupta-ashu-garg",
+      "platform": "X article",
+      "duration": "unknown",
+      "type": "READ",
+      "hook": "unknown"
+    },
+    {
+      "title": "The Software Factory Debate: Build, Buy, Fork or Delegate — Josh Rosen",
+      "source": "https://x.com/JoshARosen/status/2112902388302467493",
+      "trello": "https://trello.com/c/gE4Qxu9B/262-the-software-factory-debate-build-buy-fork-or-delegate-josh-rosen",
+      "platform": "X (long-form article)",
+      "channel": "Josh Rosen (@josharosen)",
+      "duration": "Approx. 10–12 min (reading-time estimate from supplied article).",
+      "type": "READ",
+      "hook": "Should your software factory be a workflow containing agents—or an agent coordinating workflows? The key design choice may be how you capture proof of progress."
+    },
+    {
+      "title": "The Internet Is Under Attack — Matt Shumer · AI cyber risks & family security",
+      "source": "https://x.com/mattshumer_/status/2113360930876580337",
+      "trello": "https://trello.com/c/fmZmZO0h/263-the-internet-is-under-attack-matt-shumer-ai-cyber-risks-family-security",
+      "platform": "X article",
+      "duration": "Approximately 8–10 minutes (estimate).",
+      "type": "READ",
+      "hook": "unknown"
     },
     {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
       "source": "https://youtu.be/HDmBwU5uvEE?si=rBBPnJKTkFc7wGAa",
       "trello": "https://trello.com/c/Pg3sAA5h/63-how-to-prompt-claude-5-7-essential-rules-from-anthropic",
       "platform": "YouTube",
-      "duration": "Unknown video runtime; ~5–8 min summary read.",
+      "duration": "unknown",
       "type": "WATCH",
       "hook": "Give the whole job, context, guardrails and a clear definition of done. The saved summary also questions older prompting habits; test those claims with evals rather than dropping verification blindly."
     },
