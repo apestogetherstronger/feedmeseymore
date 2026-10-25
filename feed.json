@@ -1,16 +1,21 @@
 {
-  "updated": "2026-10-23T00:09:05+03:00",
-  "unresolved": [],
+  "updated": "2026-10-25T23:22:05+02:00",
+  "unresolved": [
+    {
+      "label": "Everyone is fighting over this place. — הדרך הקלה",
+      "trello": "https://trello.com/c/ei44zWr4/269-everyone-is-fighting-over-this-place-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94"
+    }
+  ],
   "items": [
     {
-      "title": "עוד מצב שמתחיל לצאת משליטה",
-      "source": "https://www.youtube.com/watch?v=r6p32JbJiYI",
-      "trello": "https://trello.com/c/KcwaEoII/202-%D7%A2%D7%95%D7%93-%D7%9E%D7%A6%D7%91-%D7%A9%D7%9E%D7%AA%D7%97%D7%99%D7%9C-%D7%9C%D7%A6%D7%90%D7%AA-%D7%9E%D7%A9%D7%9C%D7%99%D7%98%D7%94",
-      "platform": "YouTube",
-      "channel": "הדרך הקלה",
-      "duration": "15 min 20 sec",
-      "type": "WATCH",
-      "hook": "A short update on the situation in Ethiopia and the Horn of Africa."
+      "title": "Open Sourcing HumanLayer",
+      "source": "https://x.com/dexhorthy/status/2113750268043210767",
+      "trello": "https://trello.com/c/6ooPbVp1/264-open-sourcing-humanlayer-dex",
+      "platform": "X article / HumanLayer blog",
+      "channel": "Dex (@dexhorthy), HumanLayer",
+      "duration": "~3 min read (official HumanLayer blog).",
+      "type": "READ",
+      "hook": "The software factory's control plane just became forkable: HumanLayer released the UI, local agent daemon, APIs, and sync layer—not just an SDK."
     },
     {
       "title": "Konstantin Kisin’s WARNING: Our Leaders Have Lost Control — The Diary Of A CEO",
@@ -153,7 +158,7 @@
       "hook": "A concrete blueprint for replacing “this model feels better” with a repeatable agent test system that measures correctness, regressions, reliability, cost and latency on your own workloads."
     },
     {
-      "title": "https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/",
+      "title": "Will AI replace workers? Not if we build it right",
       "source": "https://humanistreview.ai/issue-1/acemoglu-ai-replace-workers/",
       "trello": "https://trello.com/c/PPGrr59f/187-https-humanistreviewai-issue-1-acemoglu-ai-replace-workers",
       "platform": "Web article",
@@ -342,7 +347,7 @@
       "hook": "An agent can remember a proposal perfectly and still mistake it for permission. This critique connects memory, authority, verification and reusable skills into one design problem."
     },
     {
-      "title": "אם מפרקים את \"ארבעת הקדושים\" של סיאטל לפסיפס רגשי, מבינים שכל להקה החזיקה בתדר ייחודי שהרכיב את התופעה: נירוואנה הזינה את המרד האנרכיסטי, אליס אין צ'יינס חקרה את האופל והדיכאון, פרל ג'אם הביאה את התקווה המלנכולית שיום אחד יהיה בסדר, וסאונדגרדן הייתה העוצמה - כוח טבע גולמי, כבד ובלתי מתפשר.  לכל להקה היה כמובן את הסולן הענק שלה, כל אחד מהם ענק בדרכו, אבל כריס קורנל הוא כנראה השלם מכולם – האיש שמשלב את העוצמה הווקאלית של 4 אוקטבות, כריזמה מתפרצת, רגישות של נער פגיע, יופי של אל יווני, כישרון כתיבה נדיר וכמובן את הדיכאון שבסופו של דבר לקח גם אותו מן העולם הזה (ולזה כמובן נגיע בסוף). אם הגראנג' היה בן אדם, הוא היה כריס קורנל.  הצבעתם לו בסקר, חיכיתם לזה המון המון זמן, יש פה אנשים שאשכרה עשו עוקב כדי לקבל את הסדרה עליו. אז הנה זה בא - זהו חלק א׳ על אחד הסולנים הגדולים בתולדות הרוק, אישיות מורכבת ומודל לחיקוי של מאות זמרים שבאו אחריו - כריס קורנל.  יאללה ממשיכים 🤘  קורנל שייך למועדון מאוד מאוד אקסקלוסיבי של כוכבי רוק שהצליחו בענק עם שתי להקות שונות. האחת היא כמובן Soundgarden - ממייסדות הגראנג' שהתחילו לנגן אי שם ב-1984, והשניה היא Audioslave שאותה הקים ב-2001 כשהיה כבר קרוב ל-40. לצערי פספסתי אותו בענק בזמן אמת עם סאונדגרדן אחרי שהקליפ Black Hole Sun עשה לי רע פיזית כשהייתי ילד, אבל לגמרי הרווחתי אותו בחזרה כשהייתי כבר בצבא, ואודיוסלייב הפכה לאחת הלהקות האהובות עליי. את סאונדגרדן התחלתי לשמוע רק עכשיו, כשאני בעצמי מתקרב ל-40. ובאיזה שהוא מקום אני מרגיש שזה נכון (לי לפחות) כי מדובר בלהקה מורכבת, משונה, קשה לעיכול, אחת כזו שצריך לעבור תהליך כדי להתחבר אליה. המוזיקה שלהם נעימה ולא נעימה בו זמנית, שורטת, בדיוק כמו הקול של כריס עצמו. כן, בואו נפתח את זה - הקול שלו הוא טעם נרכש כמו רוטב סויה, ויש כאלה שלא אוהבים אותו בכלל וזה לגיטימי.  כדי להבין את הקסם שלו, צריך להבין את הניגוד הפנימי שחי בתוכו. על הבמה, הוא נראה כמו הרוקסטאר האולטימטיבי - גבוה, חתיך, כריזמטי, עם עיניים כחולות חודרות ו-וייב של בנאדם שהבין הכל על החיים. אבל ברגע שהאורות כבו, הקסם הזה התפוגג והוא חזר להיות מי שהוא באמת: אדם צנוע, מופנם, שקט ורגיש ברמות שקשה לתאר. הניגוד הזה הוא מה שהעניק לטקסטים שלו עומק כל כך נדיר ופגיע.  הוא גדל בבית דל אמצעים עם שישה ילדים, אמא מותשת ואבא אלכוהוליסט שכמעט ולא דיבר עם הילדים שלו, וכשהוא דיבר זה היה סימן שאתה הולך לחטוף. אז את המפלט מהכאוס בבית הוא מצא כמובן במוזיקה. וזה הגיע לגמרי במקרה אחרי שיום אחד הוא מצא אוסף נטוש של תקליטי הביטלס במרתף מוצף של השכנים. כריס הקטן אסף את התקליטים הרטובים והעבשים, ניקה אותם בזהירות, שם על הפטיפון ושמע לראשונה את המוזיקה שתשנה את חייו לנצח. כן, כמו אצל רבים וטובים אחרים, הכל אצלו התחיל מהביטלס - משם הוא קלט את מבנה השירים, ספג את האקורדים הראשונים והבין איך נראית להקה.  אבל ההתפתחות האמיתית שלו קרתה מתוך משבר. בשנות העשרה המוקדמות שלו, קורנל סבל מדיכאון קשה וחרדה חברתית, והסתגר בחדרו במשך שנה שלמה. בתוך הבידוד הזה, החברים היחידים שלו היו מערכת תופים והתקליטים. הוא לימד את עצמו לתופף באגרסיביות תוך כדי שהוא שר עם הזמרים האהובים עליו, וככה, מתוך הצרחות בחדר הסגור, הוא גילה את הכשרון הגדול שלו. כלומר... במציאות מקבילה אם כריס לא היה אדם דיכאוני עם ילדות קשה, יש מצב שהיה עובד בבנק וארבע האוקטבות שלו לא היו מתגלות לעולם. טוב, אולי רק במקלחת.  קופצים לשנת 1984, לעיר אפורה ומבודדת בצפון-מערב ארה\"ב בשם סיאטל, אולי שמעתם. תהיו בהלם, אבל אינטרנט אז לא היה קיים, MTV היה בחיתולים, ומעט מאוד אמנים הגיעו לעיר המרוחקת הזו כדי להופיע, והיה מעט מאוד מידע אודות המוזיקה שהמקומיים שמעו מתקליטים שאותם הצליחו להשיג. הבידוד הזה יצר חממה ייחודית שאפשרה מוזיקה נטולת תכתיבים מסחריים. באותה שנה קורנל פגש את הבסיסט הירו יאמאמוטו ואת הגיטריסט קים תאייל. הם רצו להקים להקה שתשלב את האפלה והכבדות של Black Sabbath, עם האנרגיה הפרועה של Led Zeppelin והחספוס של הפוסט-פאנק הבריטי. בימים הראשונים, קורנל עוד ישב על התופים ושר במקביל. הכל היה טוב ויפה, עד שהמפיק המיתולוגי שלהם באותן שנים, ג'ק אנדינו, זיהה משהו קריטי: המאמץ הפיזי העצום של התיפוף הגביל וחנק את השירה של קורנל. כדי לשחרר את החיה, הם צירפו את המתופף מאט קאמרון, וקורנל המופנם עלה סוף סוף לחזית הבמה.  מה שהפך את הסאונד שלהם לייחודי באמת, היה סוג של \"מתמטיקה של כאב\". הם כתבו במבנים מוזיקליים משונים ובמקום להיצמד למקצבים רגילים של 4/4 שנוחים לאוזן, הם שברו את המוזיקה למשקלים מורכבים כמו 7/4 או 5/4. קים תאייל השתמש בכיווני גיטרה נמוכים ומשונים שיצרו דיסוננס אפל, והתיפוף הדינמי והחד של קאמרון החזיק את כל הקונסטרוקציה הזו באוויר.  אחרי אלבום הבכורה העצמאי (\"Ultramega OK\" ב-1988), סאונדגרדן עשתה היסטוריה והייתה ללהקת הגראנג' הראשונה שחותמת בלייבל גדול (A&M Records), דרכו שחררו את האלבום \"Louder Than Love\" ב-1989. שני האלבומים האלה אמנם היו ניסיוניים מדי בכדי להגיע להפצה רחבה, אבל כן הגיעו לאוזניים הנכונות ונתנו את הסיפתח והוכיחו שהם הרבה יותר מעוד חבורת ילדים שמנסים לעשות רוק כבד DIY.  ואז הגיעה הפריצה הגדולה. בסוף 1991, בשיאה של מהפכת הרוק האלטרנטיבי, שחררו סאונדגרדן את \"Badmotorfinger\". תחשבו על השנה הזו: נירוואנה מוציאה את Nevermind, פרל ג׳אם משחררת את Ten, ואליס אין צ׳יינס עדיין רוכבת על גלי ההצלחה של Facelift שיצא שנה קודם. הגראנג׳ בשיאו. כולם רוצים גראנג׳. ובתוך כל הטירוף הזה, Badmotorfinger בלט כאלבום הכי מוזר, הכי מטאלי והכי טכני בחבורה. הוא היה מלוטש, כבד וחד יותר מאחרים, והצליח לקחת את המורכבות המוזיקלית של הלהקה ולהגיש אותה בצורה עוצמתית שתפסה את ההמונים. זה האלבום שהביא לנו את \"Outshined\" עם המשקל השבור והשורה המפורסמת \"I'm looking California and feeling Minnesota\", את \"Rusty Cage\" הדינמי והמסחרר (שלימים זכה לקאבר של ג'וני קאש הגדול), ואת \"Jesus Christ Pose\" – רצועה מהירה ומלחיצה שביקרה את השימוש בדימויים דתיים בתרבות הסלבריטאים, ספגה צנזורה ב-MTV, ובעקבות זאת הפכה לקלאסיקה באנדרגראונד.  האלבום נמכר ביותר מ-2 מיליון עותקים בארה\"ב בלבד, הגיע למעמד פלטינה כפולה, והיה מועמד לגראמי. הוא ביסס סופית את סאונדגרדן כאחת מעמודי התווך של הז׳אנר הפופולרי בעולם דאז. בניגוד לקהל של נירוואנה, שהורכב ברובו מאאוטסיידרים, ילדי פאנק ובני נוער שחיפשו מרד, המעריצים של סאונדגרדן באו מרקע של מטאל ורוק מתקדם. אלה היו אנשים שחיפשו מוזיקה טכנית, ריפים מורכבים וזמר שיכול לנסר את הרמקולים. ההבדל הזה נתן לסאונדגרדן צבע הרבה יותר מסתורי, כבד ובוגר משאר הלהקות בסצנה.  אבל השיא עוד לפניהם, ועליו נדבר בחלק ב׳. ואתם יודעים מה צריך לעשות כדי לא לפספס אותו 🤘",
+      "title": "כריס קורנל וסאונדגרדן — חלק א׳",
       "source": "https://trello.com/c/y5WaKCp0",
       "trello": "https://trello.com/c/y5WaKCp0/102-%D7%90%D7%9D-%D7%9E%D7%A4%D7%A8%D7%A7%D7%99%D7%9D-%D7%90%D7%AA-%D7%90%D7%A8%D7%91%D7%A2%D7%AA-%D7%94%D7%A7%D7%93%D7%95%D7%A9%D7%99%D7%9D-%D7%A9%D7%9C-%D7%A1%D7%99%D7%90%D7%98%D7%9C-%D7%9C%D7%A4%D7%A1%D7%99%D7%A4%D7%A1-%D7%A8%D7%92%D7%A9%D7%99-%D7%9E%D7%91%D7%99%D7%A0%D7%99%D7%9D-%D7%A9%D7%9B%D7%9C-%D7%9C%D7%94%D7%A7%D7%94-%D7%94%D7%97%D7%96%D7%99%D7%A7%D7%94-%D7%91%D7%AA%D7%93%D7%A8-%D7%99%D7%99%D7%97%D7%95%D7%93%D7%99-%D7%A9%D7%94%D7%A8%D7%9B%D7%99%D7%91-%D7%90%D7%AA-%D7%94%D7%AA%D7%95%D7%A4%D7%A2%D7%94-%D7%A0%D7%99%D7%A8%D7%95%D7%95%D7%90%D7%A0%D7%94-%D7%94%D7%96%D7%99%D7%A0%D7%94-%D7%90%D7%AA-%D7%94%D7%9E%D7%A8%D7%93-%D7%94%D7%90%D7%A0%D7%A8%D7%9B",
       "platform": "Saved text",
@@ -665,6 +670,16 @@
       "hook": "A concrete manager-agent pattern: gather constraints and approval points once, then let parallel executors handle research, forms, dependencies and retries."
     },
     {
+      "title": "How to Progress Faster Than Everyone Else (as an engineer)",
+      "source": "https://www.youtube.com/watch?v=XL-Tge8a2eg",
+      "trello": "https://trello.com/c/V9cSDos5/275-how-to-progress-faster-than-everyone-else-as-an-engineer",
+      "platform": "YouTube",
+      "channel": "A Life Engineered",
+      "duration": "10 min 11 sec.",
+      "type": "WATCH",
+      "hook": "Six practical principles for progressing as an engineer: measurable impact, higher-level behavior, sharper focus, and a clear promotion story."
+    },
+    {
       "title": "Always-On Agent Architecture · six layers · @choopyplug1",
       "source": "https://t.co/MHBkqhFfng",
       "trello": "https://trello.com/c/sgrPkKqz/236-always-on-agent-architecture-six-layers-choopyplug1",
@@ -694,6 +709,16 @@
       "hook": "TechWorld with Nana explainer on Model Context Protocol (MCP): the standardized interface that lets AI clients connect to external tools/data through MCP servers rather than bespoke integrations for each client-service pair. Useful as a conceptual refresher; accessible…"
     },
     {
+      "title": "מהפיכות הבינה המלאכותית – מבט מדעי וטכנולוגי",
+      "source": "https://www.youtube.com/watch?v=kPUy6H_2R5M",
+      "trello": "https://trello.com/c/6KgSUMnc/276-%D7%9E%D7%94%D7%A4%D7%99%D7%9B%D7%95%D7%AA-%D7%94%D7%91%D7%99%D7%A0%D7%94-%D7%94%D7%9E%D7%9C%D7%90%D7%9B%D7%95%D7%AA%D7%99%D7%AA-%D7%9E%D7%91%D7%98-%D7%9E%D7%93%D7%A2%D7%99-%D7%95%D7%98%D7%9B%D7%A0%D7%95%D7%9C%D7%95%D7%92%D7%99",
+      "platform": "YouTube",
+      "channel": "הטכניון - מכון טכנולוגי לישראל",
+      "duration": "Approximately 1 hr 17 min (playlist display).",
+      "type": "WATCH",
+      "hook": "A Technion lecture tracing the scientific and computing breakthroughs from pattern recognition to generative AI."
+    },
+    {
       "title": "The Most Likely Place to Find Aliens",
       "source": "https://www.youtube.com/watch?v=YkEwyFpxWFc",
       "trello": "https://trello.com/c/aQPEUjHv/233-the-most-likely-place-to-find-aliens",
@@ -711,6 +736,16 @@
       "duration": "Short technical video; exact runtime not reliably indexed.",
       "type": "WATCH",
       "hook": "A useful MCP design shift: stop preloading giant tool catalogs; make tools progressively discoverable and expose higher-level workflows."
+    },
+    {
+      "title": "פגישה עם רוני קובן עונה 11 | בר אלמליח דונצוב (הפשוטע)",
+      "source": "https://www.youtube.com/watch?v=8GWH-9XqkDc",
+      "trello": "https://trello.com/c/qTES0t7v/277-%D7%A4%D7%92%D7%99%D7%A9%D7%94-%D7%A2%D7%9D-%D7%A8%D7%95%D7%A0%D7%99-%D7%A7%D7%95%D7%91%D7%9F-%D7%A2%D7%95%D7%A0%D7%94-11-%D7%91%D7%A8-%D7%90%D7%9C%D7%9E%D7%9C%D7%99%D7%97-%D7%93%D7%95%D7%A0%D7%A6%D7%95%D7%91-%D7%94%D7%A4%D7%A9%D7%95%D7%98%D7%A2",
+      "platform": "YouTube",
+      "channel": "כאן 11 - תאגיד השידור הישראלי",
+      "duration": "Approximately 38 min (playlist display).",
+      "type": "WATCH",
+      "hook": "The creator of הפשוטע discusses the online persona, coming out, difficult experiences growing up and during military service, and Israeli celebrity culture."
     },
     {
       "title": "Inside the Gemini Agent: Desktop, Workspace, Mobile & CLI — Google Cloud",
@@ -861,7 +896,7 @@
       "hook": "Not assessable from the available material; the original post's argument could not be retrieved."
     },
     {
-      "title": "https://youtu.be/Yok8wE1yPw8?si=KJcKJmbaaTUTPuJ7",
+      "title": "המומחה הפיננסי: למה הבורסה עולה והשקל מתחזק? ומהם 5 הכוחות שפועלים כעת על המשק הישראלי - אדם רויטר",
       "source": "https://youtu.be/Yok8wE1yPw8?si=KJcKJmbaaTUTPuJ7",
       "trello": "https://trello.com/c/JnKVCLzP/114-https-youtube-yok8we1ypw8sikjckjmbaatutpuj7",
       "platform": "YouTube",
@@ -871,7 +906,7 @@
       "hook": "Reuter argues that the Israeli economy and markets have shown more resilience than many expected, and discusses five supporting factors including technology, entrepreneurship, international connections, and resilience. He warns that shekel appreciation can pressure Israeli…"
     },
     {
-      "title": "https://youtu.be/zetQI6TzzCA?si=dCgWkVtbeYJAsQ2h",
+      "title": "מומחה לעתיד הכסף במסר דחוף לישראלים: בינה מלאכותית תגרום לאבטלה המונית. רק ככה תינצלו! - בן סמוחה",
       "source": "https://youtu.be/zetQI6TzzCA?si=dCgWkVtbeYJAsQ2h",
       "trello": "https://trello.com/c/DqO49J14/115-https-youtube-zetqi6tzzcasidcgwkvtbeyjasq2h",
       "platform": "YouTube",
@@ -1294,7 +1329,7 @@
       "trello": "https://trello.com/c/dbs3SlBG/237-%D7%AA%D7%99%D7%A7%D7%95%D7%9F-%D7%97%D7%95%D7%A7-%D7%AA%D7%95%D7%91%D7%A2%D7%A0%D7%95%D7%AA-%D7%99%D7%99%D7%A6%D7%95%D7%92%D7%99%D7%95%D7%AA-%D7%A4%D7%95%D7%A1%D7%98-%D7%A2%D7%9C-%D7%94%D7%92%D7%A0%D7%AA-%D7%A2%D7%A1%D7%A7%D7%99%D7%9D-%D7%A7%D7%98%D7%A0%D7%99%D7%9D",
       "platform": "Facebook",
       "channel": "לא זוהה בטקסט שסופק",
-      "duration": "unknown",
+      "duration": "כ־2 דקות קריאה (הערכה לפי הטקסט שסופק).",
       "type": "READ",
       "hook": "הכותב מציג התקדמות בתיקון חוק תובענות ייצוגיות כהישג של מאבק נגד שימוש לרעה בתביעות נגד עסקים קטנים."
     },
@@ -1343,7 +1378,7 @@
       "source": "https://claude.dev/blog/solving-code-review-at-anthropic/",
       "trello": "https://trello.com/c/cwcZLj4Y/242-how-the-claude-code-team-does-code-review",
       "platform": "Web article",
-      "duration": "unknown",
+      "duration": "14 min (publisher reading time)",
       "type": "READ",
       "hook": "How to keep agent-generated PRs moving without letting review loops consume the team."
     },
@@ -1523,7 +1558,88 @@
       "platform": "X article",
       "duration": "Approximately 8–10 minutes (estimate).",
       "type": "READ",
-      "hook": "unknown"
+      "hook": "unknown",
+      "channel": "Matt Shumer (@mattshumer_)"
+    },
+    {
+      "title": "סליחה על השאלה עונה 4 | אנשים שעזבו את הארץ",
+      "source": "https://www.youtube.com/watch?v=bd49W9Wf_Js",
+      "trello": "https://trello.com/c/O8NK3eMd/266-%D7%A1%D7%9C%D7%99%D7%97%D7%94-%D7%A2%D7%9C-%D7%94%D7%A9%D7%90%D7%9C%D7%94-%D7%A2%D7%95%D7%A0%D7%94-4-%D7%90%D7%A0%D7%A9%D7%99%D7%9D-%D7%A9%D7%A2%D7%96%D7%91%D7%95-%D7%90%D7%AA-%D7%94%D7%90%D7%A8%D7%A5",
+      "platform": "YouTube",
+      "channel": "כאן 11 - תאגיד השידור הישראלי",
+      "duration": "26 min 49 sec (player; playlist rounds to 26:50).",
+      "type": "WATCH",
+      "hook": "The practical benefits of moving abroad meet the harder questions: children’s identity, loneliness and aging parents."
+    },
+    {
+      "title": "Arvind Krishna & Nikesh Arora: Quantum Threat, Open vs Frontier AI, AI Cyber Warfare & SaaS Collapse",
+      "source": "https://www.youtube.com/watch?v=yzk44lz-RGI",
+      "trello": "https://trello.com/c/RiW8l2x5/267-arvind-krishna-nikesh-arora-quantum-threat-open-vs-frontier-ai-ai-cyber-warfare-saas-collapse",
+      "platform": "YouTube",
+      "channel": "All-In Podcast",
+      "duration": "40 min.",
+      "type": "WATCH",
+      "hook": "Why frontier models may win experiments while specialized open models win routine production workloads."
+    },
+    {
+      "title": "We Need to Talk About Zohran — Hasan Minhaj",
+      "source": "https://www.youtube.com/watch?v=hdlKEJQWFho",
+      "trello": "https://trello.com/c/lp8nkmEP/268-we-need-to-talk-about-zohran-hasan-minhaj",
+      "platform": "YouTube",
+      "channel": "Hasan Minhaj",
+      "duration": "25 min 36 sec.",
+      "type": "WATCH",
+      "hook": "How the language of affordability repackages a long-running argument about economic inequality."
+    },
+    {
+      "title": "הנדסת תודעה עם ליאור סושרד | מי באמת קובע למי תצביעו?",
+      "source": "https://www.youtube.com/watch?v=jiIieHyNrU0",
+      "trello": "https://trello.com/c/Psi4GIRf/270-%D7%94%D7%A0%D7%93%D7%A1%D7%AA-%D7%AA%D7%95%D7%93%D7%A2%D7%94-%D7%A2%D7%9D-%D7%9C%D7%99%D7%90%D7%95%D7%A8-%D7%A1%D7%95%D7%A9%D7%A8%D7%93-%D7%9E%D7%99-%D7%91%D7%90%D7%9E%D7%AA-%D7%A7%D7%95%D7%91%D7%A2-%D7%9C%D7%9E%D7%99-%D7%AA%D7%A6%D7%91%D7%99%D7%A2%D7%95",
+      "platform": "YouTube",
+      "channel": "כאן 11 - תאגיד השידור הישראלי",
+      "duration": "43 min 25 sec.",
+      "type": "WATCH",
+      "hook": "A look at how polls and campaign messaging may shape the choices voters experience as their own."
+    },
+    {
+      "title": "Ghost Particles Are Exposing Hidden Black Holes. They Just Won a Nobel Prize.",
+      "source": "https://www.youtube.com/watch?v=eb8x2tz_pgc",
+      "trello": "https://trello.com/c/NMvZWcTr/271-ghost-particles-are-exposing-hidden-black-holes-they-just-won-a-nobel-prize",
+      "platform": "YouTube",
+      "channel": "PBS Space Time",
+      "duration": "19 min 6 sec.",
+      "type": "WATCH",
+      "hook": "How Antarctic ice becomes a telescope for particles that pass through almost everything."
+    },
+    {
+      "title": "The Industry Is Catching Up: The Only Way to Generate AI Code That Works",
+      "source": "https://www.youtube.com/watch?v=EkH_uoybj8k",
+      "trello": "https://trello.com/c/kpTNPN5r/272-the-industry-is-catching-up-the-only-way-to-generate-ai-code-that-works",
+      "platform": "YouTube",
+      "channel": "Modern Software Engineering",
+      "duration": "21 min 11 sec.",
+      "type": "WATCH",
+      "hook": "Turn requirements into executable checks so the agent has a measurable target beyond 'tests pass'."
+    },
+    {
+      "title": "Claude Engineering Lead: \"Stop Using Claude Like It’s 2024\"",
+      "source": "https://www.youtube.com/watch?v=D-SVFneJ_Nk",
+      "trello": "https://trello.com/c/LBNa8LHA/273-claude-engineering-lead-stop-using-claude-like-its-2024",
+      "platform": "YouTube",
+      "channel": "Silicon Valley Girl",
+      "duration": "49 min 24 sec.",
+      "type": "WATCH",
+      "hook": "Give an agent the goal behind the task—and retain a way to catch convincing mistakes."
+    },
+    {
+      "title": "The Mind-Bending Understanding of Time | Prof. Jim Al-Khalil",
+      "source": "https://www.youtube.com/watch?v=-EcFkIVH9eE",
+      "trello": "https://trello.com/c/0zMiDWkQ/274-the-mind-bending-understanding-of-time-prof-jim-al-khalil",
+      "platform": "YouTube",
+      "channel": "The Peter McCormack Show",
+      "duration": "1 hr 13 min 15 sec.",
+      "type": "WATCH",
+      "hook": "From time dilation to quantum interpretations: where familiar intuition stops matching physics."
     },
     {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
