@@ -1,11 +1,6 @@
 {
-  "updated": "2026-10-25T23:22:05+02:00",
-  "unresolved": [
-    {
-      "label": "Everyone is fighting over this place. — הדרך הקלה",
-      "trello": "https://trello.com/c/ei44zWr4/269-everyone-is-fighting-over-this-place-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94"
-    }
-  ],
+  "updated": "2026-10-26T12:36:07+02:00",
+  "unresolved": [],
   "items": [
     {
       "title": "Open Sourcing HumanLayer",
@@ -638,6 +633,26 @@
       "duration": "~27 min.",
       "type": "WATCH",
       "hook": "What changes when an agent gets a standing area of responsibility instead of one task? Nate connects delegation and coordination to reliability—and to the practice junior staff still need."
+    },
+    {
+      "title": "פרק 363: ״כל מה שידענו על מה זה הייטק משתנה״",
+      "source": "https://www.kan.org.il/content/kan/podcasts/p-8127/1112614/",
+      "trello": "https://trello.com/c/MsjoO7zr/284-%D7%A4%D7%A8%D7%A7-363-%D7%B4%D7%9B%D7%9C-%D7%9E%D7%94-%D7%A9%D7%99%D7%93%D7%A2%D7%A0%D7%95-%D7%A2%D7%9C-%D7%9E%D7%94-%D7%96%D7%94-%D7%94%D7%99%D7%99%D7%98%D7%A7-%D7%9E%D7%A9%D7%AA%D7%A0%D7%94%D7%B4",
+      "platform": "Kan · חיות כיס",
+      "channel": "חיות כיס · שאול אמסטרדמסקי",
+      "duration": "39 min 41 sec",
+      "type": "WATCH",
+      "hook": "What stays valuable when AI makes software easier to build?"
+    },
+    {
+      "title": "Everyone is fighting over this place. — הדרך הקלה",
+      "source": "https://www.youtube.com/watch?v=farzwokZpz0",
+      "trello": "https://trello.com/c/ei44zWr4/269-everyone-is-fighting-over-this-place-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
+      "platform": "YouTube",
+      "channel": "הדרך הקלה",
+      "duration": "18 min 48 sec",
+      "type": "WATCH",
+      "hook": "How Libya's political divisions connect to Turkey's ambitions and Israel's route to Europe's power grid."
     },
     {
       "title": "We are now factory engineers, not product engineers — Zach Lloyd (Warp)",
@@ -1640,6 +1655,66 @@
       "duration": "1 hr 13 min 15 sec.",
       "type": "WATCH",
       "hook": "From time dilation to quantum interpretations: where familiar intuition stops matching physics."
+    },
+    {
+      "title": "AI Writes the Code. So What's Left for Engineers? — Laurie Voss, Arize AI",
+      "source": "https://www.youtube.com/watch?v=kspZP5BgkEU",
+      "trello": "https://trello.com/c/X9Y5ABIp/278-ai-writes-the-code-so-whats-left-for-engineers-laurie-voss-arize-ai",
+      "platform": "YouTube",
+      "channel": "AI Engineer",
+      "duration": "27 min 9 sec",
+      "type": "WATCH",
+      "hook": "When AI makes code cheap, which bottleneck becomes your team's real job?"
+    },
+    {
+      "title": "Matt Pocock: The Most Valuable Skill to Learn in the Age of AI",
+      "source": "https://www.youtube.com/watch?v=Z8lf5oWKfj0",
+      "trello": "https://trello.com/c/AJwUOjE6/279-matt-pocock-the-most-valuable-skill-to-learn-in-the-age-of-ai",
+      "platform": "YouTube",
+      "channel": "Nate Herk | AI Automation and Matt Pocock",
+      "duration": "44 min 50 sec",
+      "type": "WATCH",
+      "hook": "Improve the environment your agents work in before asking a smarter model to fix everything."
+    },
+    {
+      "title": "These 5 Cubes Will Save You 20+ Hours of Cooking — LifebyMikeG",
+      "source": "https://www.youtube.com/watch?v=vWw7CptWoiU",
+      "trello": "https://trello.com/c/vs54WKi4/280-these-5-cubes-will-save-you-20-hours-of-cooking-lifebymikeg",
+      "platform": "YouTube",
+      "channel": "LifebyMikeG",
+      "duration": "19 min 58 sec",
+      "type": "WATCH",
+      "hook": "Freeze the slow part of dinner once, then mix and match your way to quick meals."
+    },
+    {
+      "title": "What would happen if the world boycotted Israel? — הדרך הקלה",
+      "source": "https://www.youtube.com/watch?v=SaTcBaAdmpg",
+      "trello": "https://trello.com/c/n9HbGRDu/281-what-would-happen-if-the-world-boycotted-israel-%D7%94%D7%93%D7%A8%D7%9A-%D7%94%D7%A7%D7%9C%D7%94",
+      "platform": "YouTube",
+      "channel": "הדרך הקלה",
+      "duration": "15 min 30 sec",
+      "type": "WATCH",
+      "hook": "A boycott, an arms embargo and a banking cutoff would affect Israel in very different ways."
+    },
+    {
+      "title": "Harry Potter by Balenciaga 3 (2026) — demonflyingfox",
+      "source": "https://www.youtube.com/watch?v=5QKeYse5GF8",
+      "trello": "https://trello.com/c/veBdIZAi/282-harry-potter-by-balenciaga-3-2026-demonflyingfox",
+      "platform": "YouTube",
+      "channel": "demonflyingfox",
+      "duration": "13 min",
+      "type": "WATCH",
+      "hook": "Harry Potter's magical status contest becomes a luxury-fashion parody."
+    },
+    {
+      "title": "Clayface is... — The Nando Cut",
+      "source": "https://www.youtube.com/watch?v=FCnlcMrq8ZU",
+      "trello": "https://trello.com/c/NALpLSUi/283-clayface-is-the-nando-cut",
+      "platform": "YouTube",
+      "channel": "The Nando Cut",
+      "duration": "30 min 9 sec",
+      "type": "WATCH",
+      "hook": "Strong early horror moments, but does Clayface sustain them into a compelling film?"
     },
     {
       "title": "How to Prompt Claude 5: 7 Essential Rules from Anthropic",
