@@ -1,9 +1,9 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0b0d10"><title>Feed Me, Seymore</title>
 <style>:root{color-scheme:dark;--bg:#0b0d10;--card:#15191f;--muted:#9aa4b2;--line:#252b34;--accent:#b7f36b;--warn:#ffd166;--text:#f4f7fa}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.45 system-ui,-apple-system,Segoe UI,sans-serif}main{max-width:680px;margin:auto;padding:22px 16px 80px}header{padding:8px 2px 18px;position:sticky;top:0;background:linear-gradient(var(--bg) 80%,transparent);z-index:3}h1{font-size:28px;margin:0 0 5px}.quote{margin:8px 0 12px;color:#d3dae3;font-size:14px}.quote p{margin:0 0 4px}.quote footer{color:var(--muted);font-size:12px}.controls{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.shuffle{margin-top:10px;cursor:pointer}.filter{cursor:pointer}.filter:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.updated{color:var(--muted);font-size:12px;margin-top:3px}.alerts{display:none;margin:10px 0 18px;padding:14px;background:#211d12;border:1px solid #514521;border-radius:16px}.alerts.show{display:block}.alerts h3{margin:0 0 5px;color:var(--warn)}.alerts p{margin:0 0 10px;color:#ddd4b9;font-size:14px}.alertlinks{display:flex;gap:7px;overflow:auto}.alertlinks a{color:var(--text);border:1px solid #5d512c;border-radius:999px;padding:7px 10px;text-decoration:none;white-space:nowrap;font-size:13px}.filters{display:flex;gap:8px;overflow:auto;padding:14px 0 4px}.filter{border:1px solid var(--line);background:#11151a;color:var(--text);padding:8px 13px;border-radius:999px;white-space:nowrap}.filter.on{background:var(--text);color:var(--bg)}#feed{display:grid;gap:15px}.card{background:var(--card);border:1px solid var(--line);border-radius:19px;overflow:hidden}.thumb{width:100%;aspect-ratio:16/9;object-fit:cover;background:#20252c}.body{padding:16px}.published{color:var(--muted);font-size:13px;margin:0 0 10px}.date-note{color:var(--muted);font-size:12px;margin:8px 0 0}.meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;color:var(--muted);font-size:13px;margin-bottom:8px}.type{color:var(--accent);font-weight:700}h2{font-size:20px;line-height:1.2;margin:0 0 9px}.hook{color:#d3dae3;margin:0 0 14px}.actions{display:grid;grid-template-columns:1fr auto;gap:9px}.open,.trello{display:flex;justify-content:center;align-items:center;text-decoration:none;border-radius:12px;padding:11px 12px;font-weight:750}.open{background:var(--accent);color:#10150b}.trello{border:1px solid var(--line);color:var(--text)}.end{text-align:center;color:var(--muted);padding:35px 10px}</style></head>
-<body><main><header><h1>Feed Me, Seymore 🌱</h1><blockquote class="quote"><p>“The mind is not a vessel to be filled, but a fire to be kindled.”</p><footer>— Plutarch (paraphrased from <cite>On Listening to Lectures</cite>)</footer></blockquote><div class="updated" id="updated"></div><div class="filters" role="group" aria-label="Duration"><button class="filter on" data-f="all">Anything</button><button class="filter" data-f="5">≤5m</button><button class="filter" data-f="15">≤15m</button><button class="filter" data-f="30">≤30m</button><button class="filter" data-f="long">30m+</button></div><div class="controls"><div class="filters" role="group" aria-label="Content type"><button class="filter on" data-type="all" aria-pressed="true">All</button><button class="filter" data-type="WATCH" aria-pressed="false">Watch</button><button class="filter" data-type="READ" aria-pressed="false">Read</button><button class="filter" data-type="HEAR" aria-pressed="false">Hear</button></div><button id="shuffle" class="filter shuffle" type="button" title="Randomize this view; the saved order stays the same">⇄ Shuffle</button></div><div class="filters" role="group" aria-label="Publication date"><button class="filter on" data-date="all" aria-pressed="true">Any date</button><button class="filter" data-date="week" aria-pressed="false">Last week</button></div><p class="date-note" id="date-note" aria-live="polite"></p></header><aside class="alerts" id="alerts"><h3 id="alertTitle"></h3><p>These couldn't be curated reliably yet. Open the Trello card if you can add context, replace the link, or just decide it isn't worth keeping.</p><div class="alertlinks" id="alertLinks"></div></aside><section id="feed"></section><div class="end">🌿 End of the feed.<br>Nothing else is waiting behind it.</div></main>
+<body><main><header><h1>Feed Me, Seymore 🌱</h1><blockquote class="quote"><p>“The mind is not a vessel to be filled, but a fire to be kindled.”</p><footer>— Plutarch (paraphrased from <cite>On Listening to Lectures</cite>)</footer></blockquote><div class="updated" id="updated"></div><div class="filters" role="group" aria-label="Duration"><button class="filter on" data-f="all">Anything</button><button class="filter" data-f="5">≤5m</button><button class="filter" data-f="15">≤15m</button><button class="filter" data-f="30">≤30m</button><button class="filter" data-f="long">30m+</button></div><div class="controls"><div class="filters" role="group" aria-label="Content type"><button class="filter on" data-type="all" aria-pressed="true">All</button><button class="filter" data-type="WATCH" aria-pressed="false">Watch</button><button class="filter" data-type="READ" aria-pressed="false">Read</button><button class="filter" data-type="HEAR" aria-pressed="false">Hear</button></div><button id="shuffle" class="filter shuffle" type="button" title="Randomize this view; the saved order stays the same">⇄ Shuffle</button></div><div class="filters" role="group" aria-label="Publication or addition date"><button class="filter on" data-date="all" aria-pressed="true">Any date</button><button class="filter" data-date="week" aria-pressed="false">Last week</button></div><p class="date-note" id="date-note" aria-live="polite"></p></header><aside class="alerts" id="alerts"><h3 id="alertTitle"></h3><p>These couldn't be curated reliably yet. Open the Trello card if you can add context, replace the link, or just decide it isn't worth keeping.</p><div class="alertlinks" id="alertLinks"></div></aside><section id="feed"></section><div class="end">🌿 End of the feed.<br>Nothing else is waiting behind it.</div></main>
 <script>const ytId=u=>{let m=u.match(/(?:v=|youtu\.be\/|shorts\/)([\w-]{11})/);return m?.[1]};let items=[],viewItems=[],active='all',activeType='all',activeDate='all';
-// Original publication dates already saved on Trello, keyed by stable card ID.
+// Publication date, or date added to Trello already saved on Trello, keyed by stable card ID.
 // Backfill survives manual feed rebuilds; a feed item's published field takes precedence.
 const publicationDates={
   "zeKTrUMD": "2026-10-29",
@@ -118,6 +118,102 @@ const publicationDates={
   "pk9krQC6": "2026-10-31"
 };
 
+// Trello card creation dates from card activity, in Asia/Jerusalem.
+const additionDates={
+  "w9AGXd16": "2026-10-16",
+  "K0xJeX1i": "2026-10-16",
+  "cV6TNZ11": "2026-10-16",
+  "EAUPWlsL": "2026-10-16",
+  "MfRNlphM": "2026-10-16",
+  "ZxMUlbUq": "2026-10-16",
+  "rIhK0cuv": "2026-10-16",
+  "9ZyHCmR4": "2026-10-16",
+  "VeHzVHN7": "2026-10-16",
+  "ckOGdK4J": "2026-10-16",
+  "DL7nPOJs": "2026-10-13",
+  "x3vPFafg": "2026-10-11",
+  "zJIq0dvF": "2026-10-07",
+  "4rT8zoOw": "2026-10-03",
+  "SX6OboJc": "2026-10-01",
+  "bWESpb9Y": "2026-09-29",
+  "flnUen71": "2026-09-21",
+  "wCpma8PH": "2026-09-21",
+  "MquqLVqE": "2026-09-05",
+  "fFgLhg2p": "2026-09-05",
+  "ZtsJiELu": "2025-12-19",
+  "E4yvdRgO": "2026-10-16",
+  "qSIU6m7C": "2026-09-28",
+  "VL3CjQvr": "2026-09-05",
+  "0fDCCES2": "2026-09-05",
+  "kVpvmvOz": "2026-10-16",
+  "CVAvjPWn": "2026-09-05",
+  "roOKjK2y": "2026-09-05",
+  "lZoXtUcj": "2026-09-06",
+  "KljW9Ocf": "2026-09-06",
+  "ML5mvG25": "2026-10-04",
+  "1dorWqIV": "2026-10-04",
+  "ElNaFfUo": "2026-10-04",
+  "3mCC45Wp": "2026-09-06",
+  "7FpnqKYr": "2026-09-08",
+  "qFaisl6f": "2026-10-27",
+  "sgrPkKqz": "2026-10-18",
+  "RC0os2MJ": "2026-09-08",
+  "eNMnehlK": "2026-10-27",
+  "PXztvUNv": "2026-09-10",
+  "IEXl5loI": "2026-10-27",
+  "nPmqiKlD": "2026-09-25",
+  "2mGQhm9L": "2026-10-27",
+  "qTES0t7v": "2026-10-25",
+  "Yxs82szO": "2026-10-16",
+  "00l9PF82": "2026-09-19",
+  "N72RrZhk": "2026-10-27",
+  "VhUJWKgL": "2026-09-09",
+  "saZuOWm6": "2026-10-27",
+  "qdmORlJc": "2026-09-09",
+  "rK7ShKgZ": "2026-09-05",
+  "cH4VAt6P": "2026-09-17",
+  "6rWNeh2D": "2026-09-06",
+  "yqnkaNB8": "2026-09-18",
+  "SEhshxEf": "2026-09-22",
+  "QUQDEV1j": "2026-09-23",
+  "RWDMkoKd": "2026-09-24",
+  "iUjpodxa": "2026-09-25",
+  "gyAGADx5": "2026-09-26",
+  "fzQs85s1": "2026-09-29",
+  "fjraglOb": "2026-09-29",
+  "KsjNBXnu": "2026-10-05",
+  "DbY6VGPP": "2026-10-04",
+  "j0RvSlJp": "2026-10-04",
+  "Swd5a24s": "2026-10-14",
+  "XSBlN9zn": "2026-10-14",
+  "x6iGzr9Y": "2026-10-15",
+  "j6iIUv7z": "2026-10-15",
+  "qL0lMfUP": "2026-10-16",
+  "x630lyx5": "2026-10-16",
+  "aZuTL30H": "2026-10-18",
+  "dbs3SlBG": "2026-10-19",
+  "qVkYQTfC": "2026-10-21",
+  "8DMQSNhb": "2026-10-21",
+  "5wBOpg6j": "2026-10-21",
+  "gE4Qxu9B": "2026-10-22",
+  "fmZmZO0h": "2026-10-22",
+  "NMvZWcTr": "2026-10-24",
+  "ccLdEfKT": "2026-10-27",
+  "uvpPcIr5": "2026-10-27",
+  "QlDrWeOW": "2026-10-27",
+  "n3VCBluf": "2026-10-27",
+  "NUQytzLa": "2026-11-01",
+  "rJtEsGG2": "2026-11-01",
+  "Z028jWgh": "2026-11-01",
+  "brebk6Dq": "2026-11-01",
+  "ERbrwM27": "2026-11-01",
+  "oC1ZkzR6": "2026-11-01",
+  "62wXjd7c": "2026-11-01",
+  "8fRd2Aiq": "2026-11-01",
+  "29jc08Sf": "2026-11-01",
+  "Pg3sAA5h": "2026-09-08",
+  "GE6GhHJy": "2026-09-06"
+};
 function validDay(value){
   if(typeof value!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(value))return null;
   const date=new Date(value+'T00:00:00Z');
@@ -127,6 +223,11 @@ function publishedDay(x){
   const id=(x.trello||'').match(/trello\.com\/c\/([A-Za-z0-9]+)/)?.[1];
   return validDay(x.published)||validDay(publicationDates[id]);
 }
+function addedDay(x){
+  const id=(x.trello||'').match(/trello\.com\/c\/([A-Za-z0-9]+)/)?.[1];
+  return validDay(x.added)||validDay(additionDates[id]);
+}
+function itemDay(x){return publishedDay(x)||addedDay(x)}
 function israelDay(now=new Date()){
   const parts=new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Jerusalem',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(now);
   const part=type=>parts.find(p=>p.type===type).value;
@@ -140,15 +241,15 @@ function inLastWeek(day,now=new Date()){
   return day>=start.toISOString().slice(0,10)&&day<=today;
 }
 function publicationLabel(x){
-  const day=publishedDay(x);
-  if(!day)return 'Published: unknown';
+  const published=publishedDay(x),day=published||addedDay(x);
+  if(!day)return 'Date unknown';
   const label=new Intl.DateTimeFormat('en-GB',{timeZone:'UTC',day:'numeric',month:'short',year:'numeric'}).format(new Date(day+'T00:00:00Z'));
-  return 'Published: <time datetime="'+day+'">'+label+'</time>';
+  return (published?'Published: ':'Added: ')+'<time datetime="'+day+'">'+label+'</time>';
 }
 
 function contentType(x){const type=(x.type||'READ').trim().toUpperCase();return ['LISTEN','HEAR','AUDIO','PODCAST'].includes(type)?'HEAR':type}
 function shuffle(){viewItems=[...viewItems];for(let i=viewItems.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[viewItems[i],viewItems[j]]=[viewItems[j],viewItems[i]]}render()}
-function mins(s=''){if(/<1/.test(s))return .5;let h=s.match(/(\d+)\s*hr/),m=s.match(/(\d+)\s*min/);return(h?+h[1]*60:0)+(m?+m[1]:0)||999}function render(){const now=new Date();const unknown=viewItems.filter(x=>!publishedDay(x)).length;document.querySelector('#date-note').textContent=activeDate==='week'?'Original publication date · today and the previous 6 days (Israel time).'+(unknown?' '+unknown+' items with unknown dates are excluded.':''):(unknown?'Original publication dates · '+unknown+' items have no saved date.':'Original publication dates');let a=viewItems.filter(x=>{if(activeDate==='week'&&!inLastWeek(publishedDay(x),now))return false;if(activeType!=='all'&&contentType(x)!==activeType)return false;let m=mins(x.duration);return active==='all'||active==='5'&&m<=5||active==='15'&&m<=15||active==='30'&&m<=30||active==='long'&&m>30});document.querySelector('#feed').innerHTML=a.map(x=>{let id=ytId(x.source),thumb=x.thumbnail||(id?`https://i.ytimg.com/vi/${id}/hqdefault.jpg`:'');return `<article class="card">${thumb?`<img class="thumb" loading="lazy" src="${thumb}" alt="">`:''}<div class="body"><div class="meta"><span class="type">${x.type||'READ'}</span><span>•</span><span>${x.duration||'Unknown length'}</span><span>•</span><span>${x.channel||x.platform||'Web'}</span></div><p class="published">${publicationLabel(x)}</p><h2>${x.title}</h2><p class="hook">${x.hook||x.summary||''}</p><div class="actions"><a class="open" href="${x.source}" target="_blank">Open ${x.type==='READ'?'article':'content'}</a><a class="trello" href="${x.trello}" target="_blank">Trello ↗</a></div></div></article>`}).join('')||'<div class="end">No items match these filters.</div>'}function alerts(a=[]){if(!a.length)return;let el=document.querySelector('#alerts');el.classList.add('show');document.querySelector('#alertTitle').textContent=`⚠️ ${a.length} unresolved inbox item${a.length===1?'':'s'}`;document.querySelector('#alertLinks').innerHTML=a.map((x,i)=>`<a href="${x.trello}" target="_blank">${x.label||`Item ${i+1}`} ↗</a>`).join('')}function showUpdated(ts){if(!ts)return;let d=new Date(ts);document.querySelector('#updated').textContent=`Last updated: ${d.toLocaleString([], {dateStyle:'medium',timeStyle:'short'})}`}function bindFilters(selector,key,onSelect){document.querySelectorAll(selector).forEach(b=>{b.setAttribute('aria-pressed',b.classList.contains('on')?'true':'false');b.onclick=()=>{document.querySelectorAll(selector).forEach(button=>{const selected=button===b;button.classList.toggle('on',selected);button.setAttribute('aria-pressed',String(selected))});onSelect(b.dataset[key]);render()}})}
+function mins(s=''){if(/<1/.test(s))return .5;let h=s.match(/(\d+)\s*hr/),m=s.match(/(\d+)\s*min/);return(h?+h[1]*60:0)+(m?+m[1]:0)||999}function render(){const now=new Date();const unknown=viewItems.filter(x=>!itemDay(x)).length;document.querySelector('#date-note').textContent=activeDate==='week'?'Published, or added to Trello if unavailable · today and the previous 6 days (Israel time).'+(unknown?' '+unknown+' items with unknown dates are excluded.':''):(unknown?'Publication date, or date added to Trello · '+unknown+' items have no saved date.':'Publication date, or date added to Trello');let a=viewItems.filter(x=>{if(activeDate==='week'&&!inLastWeek(itemDay(x),now))return false;if(activeType!=='all'&&contentType(x)!==activeType)return false;let m=mins(x.duration);return active==='all'||active==='5'&&m<=5||active==='15'&&m<=15||active==='30'&&m<=30||active==='long'&&m>30});document.querySelector('#feed').innerHTML=a.map(x=>{let id=ytId(x.source),thumb=x.thumbnail||(id?`https://i.ytimg.com/vi/${id}/hqdefault.jpg`:'');return `<article class="card">${thumb?`<img class="thumb" loading="lazy" src="${thumb}" alt="">`:''}<div class="body"><div class="meta"><span class="type">${x.type||'READ'}</span><span>•</span><span>${x.duration||'Unknown length'}</span><span>•</span><span>${x.channel||x.platform||'Web'}</span></div><p class="published">${publicationLabel(x)}</p><h2>${x.title}</h2><p class="hook">${x.hook||x.summary||''}</p><div class="actions"><a class="open" href="${x.source}" target="_blank">Open ${x.type==='READ'?'article':'content'}</a><a class="trello" href="${x.trello}" target="_blank">Trello ↗</a></div></div></article>`}).join('')||'<div class="end">No items match these filters.</div>'}function alerts(a=[]){if(!a.length)return;let el=document.querySelector('#alerts');el.classList.add('show');document.querySelector('#alertTitle').textContent=`⚠️ ${a.length} unresolved inbox item${a.length===1?'':'s'}`;document.querySelector('#alertLinks').innerHTML=a.map((x,i)=>`<a href="${x.trello}" target="_blank">${x.label||`Item ${i+1}`} ↗</a>`).join('')}function showUpdated(ts){if(!ts)return;let d=new Date(ts);document.querySelector('#updated').textContent=`Last updated: ${d.toLocaleString([], {dateStyle:'medium',timeStyle:'short'})}`}function bindFilters(selector,key,onSelect){document.querySelectorAll(selector).forEach(b=>{b.setAttribute('aria-pressed',b.classList.contains('on')?'true':'false');b.onclick=()=>{document.querySelectorAll(selector).forEach(button=>{const selected=button===b;button.classList.toggle('on',selected);button.setAttribute('aria-pressed',String(selected))});onSelect(b.dataset[key]);render()}})}
 bindFilters('[data-f]','f',value=>active=value);
 bindFilters('[data-type]','type',value=>activeType=value);
 bindFilters('[data-date]','date',value=>activeDate=value);
