@@ -1,12 +1,158 @@
 <!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#0b0d10"><title>Feed Me, Seymore</title>
-<style>:root{color-scheme:dark;--bg:#0b0d10;--card:#15191f;--muted:#9aa4b2;--line:#252b34;--accent:#b7f36b;--warn:#ffd166;--text:#f4f7fa}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.45 system-ui,-apple-system,Segoe UI,sans-serif}main{max-width:680px;margin:auto;padding:22px 16px 80px}header{padding:8px 2px 18px;position:sticky;top:0;background:linear-gradient(var(--bg) 80%,transparent);z-index:3}h1{font-size:28px;margin:0 0 5px}.quote{margin:8px 0 12px;color:#d3dae3;font-size:14px}.quote p{margin:0 0 4px}.quote footer{color:var(--muted);font-size:12px}.controls{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.shuffle{margin-top:10px;cursor:pointer}.filter{cursor:pointer}.filter:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.updated{color:var(--muted);font-size:12px;margin-top:3px}.alerts{display:none;margin:10px 0 18px;padding:14px;background:#211d12;border:1px solid #514521;border-radius:16px}.alerts.show{display:block}.alerts h3{margin:0 0 5px;color:var(--warn)}.alerts p{margin:0 0 10px;color:#ddd4b9;font-size:14px}.alertlinks{display:flex;gap:7px;overflow:auto}.alertlinks a{color:var(--text);border:1px solid #5d512c;border-radius:999px;padding:7px 10px;text-decoration:none;white-space:nowrap;font-size:13px}.filters{display:flex;gap:8px;overflow:auto;padding:14px 0 4px}.filter{border:1px solid var(--line);background:#11151a;color:var(--text);padding:8px 13px;border-radius:999px;white-space:nowrap}.filter.on{background:var(--text);color:var(--bg)}#feed{display:grid;gap:15px}.card{background:var(--card);border:1px solid var(--line);border-radius:19px;overflow:hidden}.thumb{width:100%;aspect-ratio:16/9;object-fit:cover;background:#20252c}.body{padding:16px}.meta{display:flex;gap:8px;align-items:center;color:var(--muted);font-size:13px;margin-bottom:8px}.type{color:var(--accent);font-weight:700}h2{font-size:20px;line-height:1.2;margin:0 0 9px}.hook{color:#d3dae3;margin:0 0 14px}.actions{display:grid;grid-template-columns:1fr auto;gap:9px}.open,.trello{display:flex;justify-content:center;align-items:center;text-decoration:none;border-radius:12px;padding:11px 12px;font-weight:750}.open{background:var(--accent);color:#10150b}.trello{border:1px solid var(--line);color:var(--text)}.end{text-align:center;color:var(--muted);padding:35px 10px}</style></head>
-<body><main><header><h1>Feed Me, Seymore 🌱</h1><blockquote class="quote"><p>“The mind is not a vessel to be filled, but a fire to be kindled.”</p><footer>— Plutarch (paraphrased from <cite>On Listening to Lectures</cite>)</footer></blockquote><div class="updated" id="updated"></div><div class="filters" role="group" aria-label="Duration"><button class="filter on" data-f="all">Anything</button><button class="filter" data-f="5">≤5m</button><button class="filter" data-f="15">≤15m</button><button class="filter" data-f="30">≤30m</button><button class="filter" data-f="long">30m+</button></div><div class="controls"><div class="filters" role="group" aria-label="Content type"><button class="filter on" data-type="all" aria-pressed="true">All</button><button class="filter" data-type="WATCH" aria-pressed="false">Watch</button><button class="filter" data-type="READ" aria-pressed="false">Read</button><button class="filter" data-type="HEAR" aria-pressed="false">Hear</button></div><button id="shuffle" class="filter shuffle" type="button" title="Randomize this view; the saved order stays the same">⇄ Shuffle</button></div></header><aside class="alerts" id="alerts"><h3 id="alertTitle"></h3><p>These couldn't be curated reliably yet. Open the Trello card if you can add context, replace the link, or just decide it isn't worth keeping.</p><div class="alertlinks" id="alertLinks"></div></aside><section id="feed"></section><div class="end">🌿 End of the feed.<br>Nothing else is waiting behind it.</div></main>
-<script>const ytId=u=>{let m=u.match(/(?:v=|youtu\.be\/|shorts\/)([\w-]{11})/);return m?.[1]};let items=[],viewItems=[],active='all',activeType='all';
+<style>:root{color-scheme:dark;--bg:#0b0d10;--card:#15191f;--muted:#9aa4b2;--line:#252b34;--accent:#b7f36b;--warn:#ffd166;--text:#f4f7fa}*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.45 system-ui,-apple-system,Segoe UI,sans-serif}main{max-width:680px;margin:auto;padding:22px 16px 80px}header{padding:8px 2px 18px;position:sticky;top:0;background:linear-gradient(var(--bg) 80%,transparent);z-index:3}h1{font-size:28px;margin:0 0 5px}.quote{margin:8px 0 12px;color:#d3dae3;font-size:14px}.quote p{margin:0 0 4px}.quote footer{color:var(--muted);font-size:12px}.controls{display:flex;align-items:center;gap:8px;flex-wrap:wrap}.shuffle{margin-top:10px;cursor:pointer}.filter{cursor:pointer}.filter:focus-visible{outline:2px solid var(--accent);outline-offset:3px}.updated{color:var(--muted);font-size:12px;margin-top:3px}.alerts{display:none;margin:10px 0 18px;padding:14px;background:#211d12;border:1px solid #514521;border-radius:16px}.alerts.show{display:block}.alerts h3{margin:0 0 5px;color:var(--warn)}.alerts p{margin:0 0 10px;color:#ddd4b9;font-size:14px}.alertlinks{display:flex;gap:7px;overflow:auto}.alertlinks a{color:var(--text);border:1px solid #5d512c;border-radius:999px;padding:7px 10px;text-decoration:none;white-space:nowrap;font-size:13px}.filters{display:flex;gap:8px;overflow:auto;padding:14px 0 4px}.filter{border:1px solid var(--line);background:#11151a;color:var(--text);padding:8px 13px;border-radius:999px;white-space:nowrap}.filter.on{background:var(--text);color:var(--bg)}#feed{display:grid;gap:15px}.card{background:var(--card);border:1px solid var(--line);border-radius:19px;overflow:hidden}.thumb{width:100%;aspect-ratio:16/9;object-fit:cover;background:#20252c}.body{padding:16px}.published{color:var(--muted);font-size:13px;margin:0 0 10px}.date-note{color:var(--muted);font-size:12px;margin:8px 0 0}.meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center;color:var(--muted);font-size:13px;margin-bottom:8px}.type{color:var(--accent);font-weight:700}h2{font-size:20px;line-height:1.2;margin:0 0 9px}.hook{color:#d3dae3;margin:0 0 14px}.actions{display:grid;grid-template-columns:1fr auto;gap:9px}.open,.trello{display:flex;justify-content:center;align-items:center;text-decoration:none;border-radius:12px;padding:11px 12px;font-weight:750}.open{background:var(--accent);color:#10150b}.trello{border:1px solid var(--line);color:var(--text)}.end{text-align:center;color:var(--muted);padding:35px 10px}</style></head>
+<body><main><header><h1>Feed Me, Seymore 🌱</h1><blockquote class="quote"><p>“The mind is not a vessel to be filled, but a fire to be kindled.”</p><footer>— Plutarch (paraphrased from <cite>On Listening to Lectures</cite>)</footer></blockquote><div class="updated" id="updated"></div><div class="filters" role="group" aria-label="Duration"><button class="filter on" data-f="all">Anything</button><button class="filter" data-f="5">≤5m</button><button class="filter" data-f="15">≤15m</button><button class="filter" data-f="30">≤30m</button><button class="filter" data-f="long">30m+</button></div><div class="controls"><div class="filters" role="group" aria-label="Content type"><button class="filter on" data-type="all" aria-pressed="true">All</button><button class="filter" data-type="WATCH" aria-pressed="false">Watch</button><button class="filter" data-type="READ" aria-pressed="false">Read</button><button class="filter" data-type="HEAR" aria-pressed="false">Hear</button></div><button id="shuffle" class="filter shuffle" type="button" title="Randomize this view; the saved order stays the same">⇄ Shuffle</button></div><div class="filters" role="group" aria-label="Publication date"><button class="filter on" data-date="all" aria-pressed="true">Any date</button><button class="filter" data-date="week" aria-pressed="false">Last week</button></div><p class="date-note" id="date-note" aria-live="polite"></p></header><aside class="alerts" id="alerts"><h3 id="alertTitle"></h3><p>These couldn't be curated reliably yet. Open the Trello card if you can add context, replace the link, or just decide it isn't worth keeping.</p><div class="alertlinks" id="alertLinks"></div></aside><section id="feed"></section><div class="end">🌿 End of the feed.<br>Nothing else is waiting behind it.</div></main>
+<script>const ytId=u=>{let m=u.match(/(?:v=|youtu\.be\/|shorts\/)([\w-]{11})/);return m?.[1]};let items=[],viewItems=[],active='all',activeType='all',activeDate='all';
+// Original publication dates already saved on Trello, keyed by stable card ID.
+// Backfill survives manual feed rebuilds; a feed item's published field takes precedence.
+const publicationDates={
+  "zeKTrUMD": "2026-10-29",
+  "6ooPbVp1": "2026-10-23",
+  "PPGrr59f": "2026-07-15",
+  "6wxIoJ4u": "2026-09-25",
+  "RA5G9xTC": "2026-10-02",
+  "H4RAOna6": "2026-10-01",
+  "ynFNAkrm": "2022-02-22",
+  "4grzqUQx": "2026-09-23",
+  "o3eoIvMD": "2026-09-26",
+  "sVa2TAop": "2026-09-21",
+  "tBye1BXB": "2026-09-17",
+  "0wIO9k1O": "2026-09-18",
+  "ITMdesEA": "2026-09-10",
+  "FY4Cuixk": "2026-09-18",
+  "sPXTTbOU": "2026-09-04",
+  "RJgqcQ0I": "2026-09-18",
+  "PzpsXNJ6": "2026-09-15",
+  "0nkwyBRa": "2026-09-06",
+  "kRXkVsed": "2026-09-14",
+  "ERjujwAd": "2026-09-16",
+  "Q6jnh18h": "2026-10-13",
+  "Edjaaxh9": "2026-09-25",
+  "xJARTDWR": "2026-10-15",
+  "uyEG9lri": "2026-10-10",
+  "aRZzmg0J": "2026-10-15",
+  "rJqOaZWB": "2026-09-25",
+  "4jBN8g8m": "2026-10-15",
+  "M3FsFkXf": "2026-09-06",
+  "DPJmUH1y": "2026-10-26",
+  "sZNUHXRx": "2026-10-26",
+  "MsjoO7zr": "2026-10-26",
+  "ei44zWr4": "2026-10-22",
+  "SDewdWe1": "2026-06-18",
+  "fvm5Pp9J": "2026-10-16",
+  "V9cSDos5": "2026-10-23",
+  "jX0KvW9D": "2026-08-20",
+  "6KgSUMnc": "2026-10-21",
+  "aQPEUjHv": "2026-10-17",
+  "Lwg9Q4O3": "2026-10-29",
+  "nyo34sjc": "2026-06-15",
+  "KKfKcH3J": "2026-09-15",
+  "KDtayut0": "2026-09-15",
+  "wA0HcZ3l": "2026-09-15",
+  "MlFXbfKy": "2026-09-07",
+  "JnKVCLzP": "2026-09-21",
+  "DqO49J14": "2026-09-21",
+  "MnaSfOAs": "2026-09-21",
+  "pB57EpWH": "2026-09-24",
+  "WlHi9Jyx": "2026-09-17",
+  "ksHAwoQl": "2026-09-24",
+  "YwMzOfRg": "2026-09-23",
+  "s5vsSnXZ": "2026-06-03",
+  "X8qRUCrk": "2026-09-25",
+  "I2sf2WJv": "2026-09-24",
+  "IqkuKvfw": "2026-09-25",
+  "uFVPqbOP": "2026-07-20",
+  "h9CG9z4Q": "2026-09-25",
+  "wn2w9KtK": "2026-09-23",
+  "tsM4nAKj": "2026-09-24",
+  "TnrkIWpU": "2026-09-23",
+  "MrhEvIvQ": "2026-09-24",
+  "krgnYidC": "2026-09-24",
+  "G85VUK1Y": "2026-07-04",
+  "QJoNs6uE": "2026-09-11",
+  "EG87QCaw": "2024-10-05",
+  "blfmex7a": "2026-09-27",
+  "7t5saoqi": "2026-09-25",
+  "FXgjf9D5": "2026-01-14",
+  "A8pXCPcR": "2026-10-07",
+  "MbSahNld": "2026-10-15",
+  "f7kHY6oP": "2026-08-28",
+  "kZA5IRNU": "2026-10-18",
+  "ykAldvrC": "2026-10-18",
+  "YH81iiBK": "2026-10-18",
+  "g49nELbP": "2026-09-26",
+  "cwcZLj4Y": "2026-10-15",
+  "MyLLRvRH": "2026-10-18",
+  "uyPl2RD0": "2026-10-19",
+  "kIl690MF": "2026-10-20",
+  "bJ902PXX": "2026-09-30",
+  "qS9QvP39": "2026-10-20",
+  "JvAMSx9y": "2026-10-17",
+  "8IIiH5AU": "2026-10-19",
+  "A0n65g7p": "2026-10-20",
+  "PPAVLiDL": "2026-10-19",
+  "aGZxP772": "2026-10-18",
+  "hY4riYBR": "2026-10-08",
+  "PDiH7Uf7": "2026-10-13",
+  "ZsiPwx0s": "2026-10-18",
+  "O8NK3eMd": "2026-10-08",
+  "RiW8l2x5": "2026-10-21",
+  "lp8nkmEP": "2026-10-21",
+  "Psi4GIRf": "2026-10-20",
+  "kpTNPN5r": "2026-10-21",
+  "LBNa8LHA": "2026-10-20",
+  "0zMiDWkQ": "2026-09-11",
+  "X9Y5ABIp": "2026-10-24",
+  "AJwUOjE6": "2026-10-16",
+  "vs54WKi4": "2026-10-19",
+  "n9HbGRDu": "2026-10-25",
+  "veBdIZAi": "2026-10-22",
+  "NALpLSUi": "2026-10-22",
+  "nbymvQgq": "2026-10-13",
+  "zT5JFs0M": "2026-11-01",
+  "iHwU0lzy": "2026-10-30",
+  "PKiduuS5": "2026-10-30",
+  "ClwJrQSm": "2026-10-31",
+  "tjkNvHGV": "2026-11-02",
+  "hJyIDxmu": "2026-11-02",
+  "pk9krQC6": "2026-10-31"
+};
+
+function validDay(value){
+  if(typeof value!=='string'||!/^\d{4}-\d{2}-\d{2}$/.test(value))return null;
+  const date=new Date(value+'T00:00:00Z');
+  return Number.isFinite(date.getTime())&&date.toISOString().slice(0,10)===value?value:null;
+}
+function publishedDay(x){
+  const id=(x.trello||'').match(/trello\.com\/c\/([A-Za-z0-9]+)/)?.[1];
+  return validDay(x.published)||validDay(publicationDates[id]);
+}
+function israelDay(now=new Date()){
+  const parts=new Intl.DateTimeFormat('en-US',{timeZone:'Asia/Jerusalem',year:'numeric',month:'2-digit',day:'2-digit'}).formatToParts(now);
+  const part=type=>parts.find(p=>p.type===type).value;
+  return part('year')+'-'+part('month')+'-'+part('day');
+}
+function inLastWeek(day,now=new Date()){
+  if(!validDay(day))return false;
+  const today=israelDay(now);
+  const start=new Date(today+'T00:00:00Z');
+  start.setUTCDate(start.getUTCDate()-6);
+  return day>=start.toISOString().slice(0,10)&&day<=today;
+}
+function publicationLabel(x){
+  const day=publishedDay(x);
+  if(!day)return 'Published: unknown';
+  const label=new Intl.DateTimeFormat('en-GB',{timeZone:'UTC',day:'numeric',month:'short',year:'numeric'}).format(new Date(day+'T00:00:00Z'));
+  return 'Published: <time datetime="'+day+'">'+label+'</time>';
+}
+
 function contentType(x){const type=(x.type||'READ').trim().toUpperCase();return ['LISTEN','HEAR','AUDIO','PODCAST'].includes(type)?'HEAR':type}
 function shuffle(){viewItems=[...viewItems];for(let i=viewItems.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[viewItems[i],viewItems[j]]=[viewItems[j],viewItems[i]]}render()}
-function mins(s=''){if(/<1/.test(s))return .5;let h=s.match(/(\d+)\s*hr/),m=s.match(/(\d+)\s*min/);return(h?+h[1]*60:0)+(m?+m[1]:0)||999}function render(){let a=viewItems.filter(x=>{if(activeType!=='all'&&contentType(x)!==activeType)return false;let m=mins(x.duration);return active==='all'||active==='5'&&m<=5||active==='15'&&m<=15||active==='30'&&m<=30||active==='long'&&m>30});document.querySelector('#feed').innerHTML=a.map(x=>{let id=ytId(x.source),thumb=x.thumbnail||(id?`https://i.ytimg.com/vi/${id}/hqdefault.jpg`:'');return `<article class="card">${thumb?`<img class="thumb" loading="lazy" src="${thumb}" alt="">`:''}<div class="body"><div class="meta"><span class="type">${x.type||'READ'}</span><span>•</span><span>${x.duration||'Unknown length'}</span><span>•</span><span>${x.channel||x.platform||'Web'}</span></div><h2>${x.title}</h2><p class="hook">${x.hook||x.summary||''}</p><div class="actions"><a class="open" href="${x.source}" target="_blank">Open ${x.type==='READ'?'article':'content'}</a><a class="trello" href="${x.trello}" target="_blank">Trello ↗</a></div></div></article>`}).join('')||'<div class="end">No items match these filters.</div>'}function alerts(a=[]){if(!a.length)return;let el=document.querySelector('#alerts');el.classList.add('show');document.querySelector('#alertTitle').textContent=`⚠️ ${a.length} unresolved inbox item${a.length===1?'':'s'}`;document.querySelector('#alertLinks').innerHTML=a.map((x,i)=>`<a href="${x.trello}" target="_blank">${x.label||`Item ${i+1}`} ↗</a>`).join('')}function showUpdated(ts){if(!ts)return;let d=new Date(ts);document.querySelector('#updated').textContent=`Last updated: ${d.toLocaleString([], {dateStyle:'medium',timeStyle:'short'})}`}function bindFilters(selector,key,onSelect){document.querySelectorAll(selector).forEach(b=>{b.setAttribute('aria-pressed',b.classList.contains('on')?'true':'false');b.onclick=()=>{document.querySelectorAll(selector).forEach(button=>{const selected=button===b;button.classList.toggle('on',selected);button.setAttribute('aria-pressed',String(selected))});onSelect(b.dataset[key]);render()}})}
+function mins(s=''){if(/<1/.test(s))return .5;let h=s.match(/(\d+)\s*hr/),m=s.match(/(\d+)\s*min/);return(h?+h[1]*60:0)+(m?+m[1]:0)||999}function render(){const now=new Date();const unknown=viewItems.filter(x=>!publishedDay(x)).length;document.querySelector('#date-note').textContent=activeDate==='week'?'Original publication date · today and the previous 6 days (Israel time).'+(unknown?' '+unknown+' items with unknown dates are excluded.':''):(unknown?'Original publication dates · '+unknown+' items have no saved date.':'Original publication dates');let a=viewItems.filter(x=>{if(activeDate==='week'&&!inLastWeek(publishedDay(x),now))return false;if(activeType!=='all'&&contentType(x)!==activeType)return false;let m=mins(x.duration);return active==='all'||active==='5'&&m<=5||active==='15'&&m<=15||active==='30'&&m<=30||active==='long'&&m>30});document.querySelector('#feed').innerHTML=a.map(x=>{let id=ytId(x.source),thumb=x.thumbnail||(id?`https://i.ytimg.com/vi/${id}/hqdefault.jpg`:'');return `<article class="card">${thumb?`<img class="thumb" loading="lazy" src="${thumb}" alt="">`:''}<div class="body"><div class="meta"><span class="type">${x.type||'READ'}</span><span>•</span><span>${x.duration||'Unknown length'}</span><span>•</span><span>${x.channel||x.platform||'Web'}</span></div><p class="published">${publicationLabel(x)}</p><h2>${x.title}</h2><p class="hook">${x.hook||x.summary||''}</p><div class="actions"><a class="open" href="${x.source}" target="_blank">Open ${x.type==='READ'?'article':'content'}</a><a class="trello" href="${x.trello}" target="_blank">Trello ↗</a></div></div></article>`}).join('')||'<div class="end">No items match these filters.</div>'}function alerts(a=[]){if(!a.length)return;let el=document.querySelector('#alerts');el.classList.add('show');document.querySelector('#alertTitle').textContent=`⚠️ ${a.length} unresolved inbox item${a.length===1?'':'s'}`;document.querySelector('#alertLinks').innerHTML=a.map((x,i)=>`<a href="${x.trello}" target="_blank">${x.label||`Item ${i+1}`} ↗</a>`).join('')}function showUpdated(ts){if(!ts)return;let d=new Date(ts);document.querySelector('#updated').textContent=`Last updated: ${d.toLocaleString([], {dateStyle:'medium',timeStyle:'short'})}`}function bindFilters(selector,key,onSelect){document.querySelectorAll(selector).forEach(b=>{b.setAttribute('aria-pressed',b.classList.contains('on')?'true':'false');b.onclick=()=>{document.querySelectorAll(selector).forEach(button=>{const selected=button===b;button.classList.toggle('on',selected);button.setAttribute('aria-pressed',String(selected))});onSelect(b.dataset[key]);render()}})}
 bindFilters('[data-f]','f',value=>active=value);
 bindFilters('[data-type]','type',value=>activeType=value);
+bindFilters('[data-date]','date',value=>activeDate=value);
 document.querySelector('#shuffle').onclick=shuffle;
+// Recalculate the calendar window when returning to a tab left open overnight.
+document.addEventListener('visibilitychange',()=>{if(!document.hidden)render()});
 fetch(`./feed.json?v=${Date.now()}`,{cache:'no-store'}).then(r=>r.json()).then(d=>{items=d.items||[];viewItems=[...items];alerts(d.unresolved||[]);showUpdated(d.updated);render()}).catch(()=>document.querySelector('#feed').innerHTML='<div class="end">Feed data is being prepared.</div>');</script></body></html>
