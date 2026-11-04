@@ -1,0 +1,179 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0b0d10">
+<meta name="description" content="Justin Reock and Scott Carey on the evolution of developer productivity measurement: DORA, SPACE, DevEx, and the DX Core 4.">
+<title>Why DORA wasn’t enough, and what came next — Engineering Enablement</title>
+<style>
+:root{color-scheme:dark;--bg:#0b0d10;--panel:#151a20;--ink:#f1f5f2;--soft:#bdc9c5;--muted:#93a39e;--accent:#b7f36b;--line:#303a3c}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--bg);color:var(--ink);font:17px/1.72 system-ui,-apple-system,Segoe UI,sans-serif}
+a{color:var(--accent)}button,select{font:inherit}button{cursor:pointer}
+#progress{position:fixed;z-index:10;top:0;left:0;width:0;height:4px;background:var(--accent)}
+.wrap{max-width:1160px;margin:auto;padding:32px 22px;display:grid;grid-template-columns:235px minmax(0,740px);gap:48px}
+.side{position:sticky;top:34px;align-self:start;max-height:calc(100vh - 50px);overflow:auto}.brand{font-size:14px;font-weight:750;text-decoration:none}
+.side nav{display:grid;gap:5px;margin-top:32px}.side nav a{color:var(--soft);font-size:13px;line-height:1.35;text-decoration:none;padding:8px 10px;border-left:2px solid var(--line)}.side nav a:hover,.side nav a.active{color:var(--accent);border-color:var(--accent)}
+main{min-width:0}.eyebrow{text-transform:uppercase;letter-spacing:.15em;font-size:12px;color:var(--accent);font-weight:750}
+h1{font-size:clamp(36px,6vw,64px);letter-spacing:-.055em;line-height:1.05;margin:16px 0 14px}h2{font-size:clamp(25px,4vw,34px);letter-spacing:-.035em;line-height:1.2;margin:0 0 22px}h3{font-size:20px;line-height:1.3;margin:30px 0 14px}
+.dek{font-size:20px;line-height:1.45;color:#d7e2dc;margin:0 0 24px}.byline{color:var(--soft);font-size:14px;margin-bottom:22px}
+.toolbar{display:flex;flex-wrap:wrap;gap:9px;margin:0 0 32px}.toolbar button,.toolbar a{border:1px solid var(--line);border-radius:999px;padding:7px 13px;color:var(--ink);background:var(--panel);font-size:13px;text-decoration:none}.toolbar button:hover,.toolbar a:hover{border-color:var(--accent)}.toolbar button:focus-visible,.toolbar a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.callout,.comparison{border:1px solid var(--line);background:var(--panel);border-radius:18px;padding:22px;margin:28px 0 34px}.callout strong,.comparison strong{color:var(--accent)}.callout p:last-child{margin-bottom:0}.comparison h2{font-size:23px;margin:0 0 12px}.comparison .note{font-size:13px;color:var(--soft);margin:0 0 18px}
+table{border-collapse:collapse;width:100%;font-size:14px;line-height:1.45}th{text-align:left;color:var(--soft);font-size:12px;text-transform:uppercase;letter-spacing:.06em}th,td{padding:12px 9px;border-bottom:1px solid var(--line);vertical-align:top}tr:last-child td{border-bottom:0}th:first-child,td:first-child{padding-left:0}th:last-child,td:last-child{padding-right:0}
+section{scroll-margin-top:26px;margin-bottom:54px}p{margin:0 0 1.25em}.lead{font-size:19px;color:#e5ebe6}article h2{margin-top:0}.signed{font-style:italic;color:var(--soft)}
+footer{border-top:1px solid var(--line);padding:30px 0 65px;color:var(--soft);font-size:14px}.mobile-nav{display:none}
+@media(max-width:850px){.wrap{display:block;padding:24px 18px}.side{position:static;max-height:none}.side nav{display:none}.mobile-nav{display:block;margin:18px 0 24px}.mobile-nav label{display:block;font-size:13px;color:var(--soft);margin-bottom:7px}.mobile-nav select{width:100%;padding:12px;background:var(--panel);color:var(--ink);border:1px solid var(--line);border-radius:9px}h1{margin-top:10px}.comparison{overflow-x:auto}.comparison table{min-width:480px}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+@media print{body{background:#fff;color:#111}.side,.toolbar,#progress,.mobile-nav{display:none}.wrap{display:block;padding:0}.callout,.comparison{background:#fff;color:#111}a{color:#111}section{break-inside:avoid-page}}
+</style>
+</head>
+<body>
+<div id="progress" aria-hidden="true"></div>
+<div class="wrap">
+<aside class="side">
+<a class="brand" href="../">← Feed Me, Seymore</a>
+<nav aria-label="Article sections">
+<a href="#introduction">Introduction</a>
+<a href="#dora">DORA · Delivery</a>
+<a href="#space">SPACE · Five dimensions</a>
+<a href="#devex">DevEx · Developer experience</a>
+<a href="#core4">Core 4 · Unified metrics</a>
+<a href="#implementation">Implementing Core 4</a>
+<a href="#closing">Closing</a>
+</nav>
+</aside>
+<main>
+<header>
+<div class="eyebrow">Engineering Enablement · Part II · November 4, 2026</div>
+<h1>Why DORA wasn’t enough, and what came next</h1>
+<p class="dek">The evolution of developer measurement</p>
+<div class="byline">By <strong>Justin Reock</strong> and <strong>Scott Carey</strong> · <a href="https://newsletter.getdx.com/" target="_blank" rel="noopener noreferrer">Engineering Enablement newsletter ↗</a> · Approximately 11–13 min read</div>
+<div class="toolbar">
+<button type="button" id="listen">▶ Read aloud</button>
+<button type="button" id="pause" hidden>Pause</button>
+<button type="button" id="stop" hidden>Stop</button>
+<button type="button" id="print">Print / save PDF</button>
+<a href="#frameworks">Compare the frameworks</a>
+</div>
+</header>
+
+<div class="mobile-nav"><label for="section-picker">Jump to a section</label>
+<select id="section-picker">
+<option value="">Choose a section</option>
+<option value="introduction">Introduction</option>
+<option value="dora">DORA</option>
+<option value="space">SPACE</option>
+<option value="devex">DevEx</option>
+<option value="core4">Core 4</option>
+<option value="implementation">Implementing Core 4</option>
+<option value="closing">Closing</option>
+</select></div>
+
+<div class="callout">
+<strong>Reading guide</strong>
+<p>The article traces four successive ways to think about engineering productivity: delivery performance (DORA), multiple dimensions of work (SPACE), developer friction (DevEx), and a combination of experience, delivery, quality, and impact (Core 4).</p>
+<p>The comparison below is an editorial reading aid; the article that follows preserves the text supplied from the newsletter, with email subscription and sharing controls omitted. Core 4 is DX’s own framework, as described by its authors.</p>
+</div>
+
+<section class="comparison" id="frameworks">
+<h2>Four frameworks at a glance</h2>
+<p class="note">Editorial overview, not a substitute for the authors’ definitions.</p>
+<table>
+<thead><tr><th>Framework</th><th>What it captures</th><th>Blind spot highlighted in the article</th></tr></thead>
+<tbody>
+<tr><td><strong>DORA</strong></td><td>Delivery speed and reliability</td><td>Experience before deployment</td></tr>
+<tr><td><strong>SPACE</strong></td><td>Satisfaction, Performance, Activity, Collaboration, Efficiency</td><td>No default metric set</td></tr>
+<tr><td><strong>DevEx</strong></td><td>Feedback loops, cognitive load, flow state</td><td>Survey signals need system corroboration</td></tr>
+<tr><td><strong>Core 4</strong></td><td>Speed, Effectiveness, Quality, Impact</td><td>Must be balanced and used at aggregate level</td></tr>
+</tbody>
+</table>
+</section>
+
+<article id="article-text">
+<section id="introduction">
+<h2>Introduction</h2>
+<p>Welcome to the latest issue of Engineering Enablement, a weekly newsletter sharing research and perspectives on developer productivity.</p>
+<p>DX’s Q3 AI Impact Report is now available with the latest research on AI’s impact across engineering organizations. Read the full report.</p>
+<p><strong>Scott:</strong> Welcome back to Engineering Enablement. This is part two of a three-part series on building 10x organizations by our Field CTO, Justin Reock.</p>
+<p>Two months ago, DORA announced that its 2026 annual survey and report will be the last of its kind, as the team switches to more “qualitative and observational research”. Given that news, it feels like a pertinent time to revisit the history of the defining developer measurement framework, and where it fell short.</p>
+<p>Over to you, Justin.</p>
+<div class="lead"><p><strong>Justin:</strong> Part one made the case that the original 10x finding was about environments, not individuals. This week, I want to go through the four major measurement frameworks our industry has produced, in the order they appeared, because each one is a direct response to software industry progression and evolution.</p>
+<p>If you walk into a typical engineering organization today and ask how they measure productivity, you’ll usually get one of three answers. They’ll tell you they’re “doing DORA.” They’ll tell you they’re “starting to use SPACE.” Or they’ll tell you they don’t measure it. All three answers are signals of where they sit on the maturity curve.</p></div>
+</section>
+
+<section id="dora">
+<h2>DORA: Powerful for DevOps, focused on software delivery</h2>
+<p>DORA metrics came out of the DevOps Research and Assessment program led by Nicole Forsgren, Jez Humble, and Gene Kim. They’re now more than a decade old, and they remain the most widely deployed framework in the industry.</p>
+<p>DORA’s strength is that it’s prescriptive. It tells you exactly what to measure. Where it becomes limited is that it’s scoped almost entirely to the delivery pipeline. With the exception of some subcomponents of Lead Time for Changes, it tells you little about what happens before the merge to production, i.e., the developer experience, which is where most of a developer’s time actually goes.</p>
+<p>This is not a direct critique on DORA, but rather a perspective on the limitations and blind spots of DevOps. I’ve been writing code professionally since the late 90s and I’m intimately acquainted with what the world looked like before DevOps. The toil of manual deployments. The friction of delivering artifacts to QA teams via the SneakerNet. DevOps has profoundly improved the way we work as software professionals.</p>
+<p>Despite these clear advantages, a widely-accepted critique of DevOps, and by extension DORA metrics, is that they borrow too heavily from manufacturing. DevOps came out of the revolutionary Lean and Toyota Production System practices, and the factory metaphor is genuinely useful for many parts of software delivery. Work in progress, batch size, cycle time, flow efficiency, the idea that small batches moving through a stable pipeline produce better outcomes than large batches moving through an unstable one all map cleanly onto software, and DORA captures it well.</p>
+<p>The metaphor breaks down at the workstation. A factory worker on an assembly line is, by design, doing standardized, repeatable work where the value being created is external and physical. A software engineer is doing the opposite. The work is non-standardized by definition: the value being created is cognitive, and the software engineer is what management research refers to as an opinionated knowledge worker: someone whose output depends not just on their hands, but on their judgment, context, and attention.</p>
+<p>A factory metric like cycle time looks at the external value stream: code moves from idea to production through a pipeline, and we measure how fast it moves and how often it breaks. But there’s a second value stream running in parallel, invisible to any system metric, which I call the ’internal value stream.’ It’s what happens inside the developer’s head between the moment they pick up a task and the moment they ship it. Flow state, context switches, cognitive fatigue, all of that lives in the internal value stream, and none of it shows up on a DORA dashboard.</p>
+<p>The other limitation is that the metrics are easy to game. Deployment frequency goes up if you split your PRs in half. Lead time goes down if you stop blocking merges on tests. Change failure rate goes down if you stop deploying anything risky. Any single-metric system applied to humans will be gamed according to Goodhart’s Law, and DORA is no exception. If you’re running DORA in 2026, run it correctly: as a balanced set of signals where moving any one number at the expense of the others is treated as a regression, not a win.</p>
+</section>
+
+<section id="space">
+<h2>SPACE: Comprehensive, flexible, with no prescriptive metrics</h2>
+<p>SPACE arrived in 2021 from Forsgren, Margaret-Anne Storey, Brian Houck, Chandra Maddila, Thomas Zimmerman, and Jenna Butler. It was an explicit attempt to broaden the productivity measurement lens beyond delivery pipelines. The core insight of SPACE is that productivity is multidimensional and that any single dimension, measured in isolation, will mislead you.</p>
+<p>SPACE is the right answer to the question “what dimensions matter?” but it’s the wrong answer to the question “what should I measure on Monday morning?” It’s a powerful normalization framework for designing your own measurement program and scaffolding your culture, but it’s not a measurement program itself.</p>
+<p>The SPACE framework is arranged into five dimensions of Satisfaction, Performance, Activity, Collaboration, and Efficiency. It’s meant to help organizations categorize the metrics that matter to them into a balanced set of oppositional dimensions, creating the necessary tension between metrics that prevent gamification and promote a comprehensive understanding of productivity, and the continuous improvement thereof.</p>
+<p>This gets us much closer to understanding both the experiential and systems metrics necessary to model developer experience and its relationship to developer productivity. The internal value stream, however, is highly nuanced and so the DevEx framework arrived to help provide a more granular look at this essential part of the throughput pipeline of software organizations.</p>
+</section>
+
+<section id="devex">
+<h2>DevEx: Developer experience predicts developer productivity</h2>
+<p>The DevEx framework, published in 2023 by Forsgren, Storey, Michaela Greiler, and DX cofounder Abi Noda, was the first to put developer experience on equal footing with delivery metrics. It balances three dimensions: feedback loops, cognitive load, and flow state. These are exactly the variables DeMarco and Lister identified in 1984, now operationalized as something you can measure across a modern engineering organization with a combination of survey and system data.</p>
+<p>DevEx is the framework I most often see catalyze DevEx improvements, because it’s the first one that takes seriously what developers themselves say is slowing them down. Long build times, flaky tests, unclear ownership, broken local environments, the friction that doesn’t show up in a DORA dashboard but eats half the workweek.</p>
+<p>DevEx’s limitation is that it’s heavily self-reported, and self-reported data alone is not enough to create cycles of continuous improvement around developer experience. It’s powerful to have a signal that, for example, “build times are slow.” Coupling that signal with system metrics that show actual build times allows for material improvement of the root problem.</p>
+<p>This is the gap the Core 4 was built to close, while simultaneously distilling the best parts of DORA, SPACE, and DevEx into a single unified framework for improving developer experience and increasing productivity.</p>
+</section>
+
+<section id="core4">
+<h2>Core 4: The distillative framework with prescribed metrics</h2>
+<p>The DX Core 4 is not a replacement for DORA, SPACE, or DevEx. It’s a distillation. If you’re running Core 4, you’re running pieces of all three.</p>
+<p>Core 4 organizes measurement into four dimensions, each with one primary metric and a few supporting ones.</p>
+<p>The first is Speed. The primary metric is weighted PR Throughput, sometimes called PRs per engineer. This is the most controversial choice in the framework, and we (DX) have always been clear that it must never be applied at the individual level or tied to performance reviews. As an aggregate signal of flow through the system, balanced against the other three dimensions, it works.</p>
+<p>The second is Effectiveness, measured by the Developer Experience Index, or DXI. This is a single aggregated score from fourteen standardized survey items covering everything from code review quality, to focus time, to confidence in the deployment process. The DXI is where DevEx gets folded into Core 4, and provides an anchor for continuous improvement of various aspects of developer experience.</p>
+<p>The third is Quality, measured by change failure rate or defect ratio, which is borrowed directly from DORA and serves as the counterweight to Speed. If Speed goes up and Quality goes down, you don’t have a 10x organization, you have a fragile one.</p>
+<p>The fourth is Impact, measured by the percentage of engineering time spent on new capabilities versus keep-the-lights-on work. This is the metric that translates engineering investment into business outcomes. A team that’s shipping fast, has a happy developer base, and a low change failure rate, but spends 80% of its time on toil, is not a 10x organization.</p>
+</section>
+
+<section id="implementation">
+<h2>Implementing Core 4 at different maturity levels</h2>
+<p>Because the Core 4 blends the strengths of its predecessor frameworks, organizations can stand on the shoulders of giants and adopt a comprehensive measurement strategy at any existing maturity stage.</p>
+<p>If you’re not measuring anything today, you can start with the DXI and the minimum viable system signals necessary to calculate DORA metrics.</p>
+<p>If you’ve been running DORA for a year or more and your leadership is asking what else matters, layer DevEx on top through a survey instrument like the DXI.</p>
+<p>If you’re ready to brief a CFO or a board on engineering performance and want something defensible top-to-bottom, the Core 4 is the framework with the cleanest line from engineer friction all the way through to business impact.</p>
+<p>What you should not do is invent your own framework from scratch. We have forty-one years of cumulative research starting from the Coding War Games and ending at Core 4. None of it is hypothetical anymore. The frameworks exist. The benchmarks exist. The choice is which one to start with, not whether to start.</p>
+</section>
+
+<section id="closing">
+<h2>What comes next</h2>
+<p>Next week, in the third and final installment, I’ll close the series with the operational piece: what it actually looks like to run one of these frameworks across an engineering organization, the failure modes to watch for, and the role AI is playing in changing which of these metrics matters most.</p>
+<p>Until then.</p>
+<p class="signed">—Justin</p>
+</section>
+</article>
+<footer>Original writing by Justin Reock and Scott Carey, <em>Engineering Enablement</em>, November 4, 2026. Reader-friendly formatting and comparison aid added; newsletter promotional footer and email controls omitted. <a href="https://newsletter.getdx.com/" target="_blank" rel="noopener noreferrer">Visit the newsletter ↗</a></footer>
+</main>
+</div>
+<script>
+const $=s=>document.querySelector(s);
+const article=$('#article-text');
+const listen=$('#listen'),pause=$('#pause'),stop=$('#stop');
+let chunks=[],next=0,playing=false;
+function progress(){const d=document.documentElement;$('#progress').style.width=(100*scrollY/Math.max(1,d.scrollHeight-innerHeight))+'%'}
+addEventListener('scroll',progress,{passive:true});progress();
+function controls(){listen.hidden=playing;pause.hidden=!playing;stop.hidden=!playing;pause.textContent=speechSynthesis.paused?'Resume':'Pause'}
+function endSpeech(){if('speechSynthesis'in window)speechSynthesis.cancel();playing=false;controls()}
+function speakNext(){if(!playing||next>=chunks.length){endSpeech();return}const u=new SpeechSynthesisUtterance(chunks[next++]);u.lang='en-US';u.rate=1;u.onend=speakNext;u.onerror=endSpeech;speechSynthesis.speak(u)}
+listen.onclick=()=>{if(!('speechSynthesis'in window)){alert('Read aloud is not supported in this browser.');return}speechSynthesis.cancel();chunks=[...article.querySelectorAll('h2,p')].map(n=>n.textContent.trim()).filter(Boolean);next=0;playing=true;controls();speakNext()};
+pause.onclick=()=>{if(speechSynthesis.paused)speechSynthesis.resume();else speechSynthesis.pause();controls()};
+stop.onclick=endSpeech;addEventListener('pagehide',endSpeech);
+$('#print').onclick=()=>window.print();
+$('#section-picker').onchange=e=>{if(e.target.value)document.getElementById(e.target.value).scrollIntoView()};
+const targets=[...document.querySelectorAll('article section')];
+if('IntersectionObserver'in window){const observer=new IntersectionObserver(entries=>{entries.forEach(e=>{if(e.isIntersecting){document.querySelectorAll('.side nav a').forEach(a=>a.classList.toggle('active',a.getAttribute('href')==='#'+e.target.id))}})},{rootMargin:'-18% 0px -70% 0px'});targets.forEach(s=>observer.observe(s))}
+</script>
+</body>
+</html>
