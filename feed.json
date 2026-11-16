@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T16:59:17+02:00",
+  "updated": "2026-11-17T00:20:07+02:00",
   "unresolved": [
     {
       "label": "Claude and a 3D printer are an absurdly useful combination",
@@ -2718,6 +2718,18 @@
       "hook": "The documentary traces evidence of the historical Cascadia earthquake, including coastal trees whose final growth season dated to 1699.",
       "published": "2026-11-14",
       "added": "2026-11-15"
+    },
+    {
+      "title": "How Uber built an AI software factory — Zohar Einy (Port)",
+      "source": "https://newsletter.port.io/p/how-uber-built-a-software-factory",
+      "trello": "https://trello.com/c/w3Gzpdov/358-how-uber-built-an-ai-software-factory-zohar-einy-port",
+      "platform": "Port Autonomous Engineering newsletter / Substack",
+      "channel": "Zohar Einy",
+      "duration": "~12–16 min reading (estimate).",
+      "type": "READ",
+      "hook": "Uber's agentic coding scale depends less on individual coding agents than on six shared platform services that give agents context, governed tools, reproducible execution and a credible path to validated PRs.",
+      "published": "2026-08-24",
+      "added": "2026-11-17"
     },
     {
       "title": "David Friedberg: US economy, socialism and AI future",
